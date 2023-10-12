@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="System_Optimizer" key="{6EE5B3CB-B0CE-4ABF-90B8-54AEDDDD75EA}" path="System_Optimizer.py" />
+		<child name="Start_and_update_parts" key="{8F79A6FC-286B-4F72-B2FA-55789BB8B68B}" path="Start_and_update_parts.py" />
+	</children>
+</Root>

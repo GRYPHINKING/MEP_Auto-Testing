@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="_1_HangerAssemblySettings_ashpFile" key="{BE33AC6B-B40E-448A-A3F2-F335AB99FEE1}" path="_1_HangerAssemblySettings_ashpFile.tcKDTest" />
+		<child name="_3_PartProfileSettings_asppFile" key="{13DC7E7D-C200-464C-AC75-07453C316921}" path="_3_PartProfileSettings_asppFile.tcKDTest" />
+		<child name="_4_LayerStateSettings_lysFile" key="{A93F8B64-4CBF-4DEA-BC71-862FD6C2C323}" path="_4_LayerStateSettings_lysFile.tcKDTest" />
+		<child name="_2_PipeGroupSettings_aspgFile" key="{AAFEC40F-A1A7-47AC-851A-E3D406F3CF61}" path="_2_PipeGroupSettings_aspgFile.tcKDTest" />
+		<child name="_5_StartPageSettings" key="{57E4CEAE-46C7-4674-9CDF-DCEA4FCB941C}" path="_5_StartPageSettings.tcKDTest" />
+		<child name="_6_FABStandards_Settings" key="{008B6F56-DD42-40D2-825D-346C39728F77}" path="_6_FABStandards_Settings.tcKDTest" />
+		<child name="_7_Regional_International_Settings" key="{3B37D53D-7D3B-4D71-BAE0-DC8DEDE8C754}" path="_7_Regional_International_Settings.tcKDTest" />
+	</children>
+</Root>

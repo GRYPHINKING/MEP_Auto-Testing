@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{2D89293F-6B07-4679-9906-EFAE4B1A433C}" version="15.0">
+	<children>
+		<child name="CompleteJobInFAB" key="{2577CC6E-E4A1-40B4-93DE-7CDCF3EE2B01}" path="CompleteJobInFAB.tcLLP" />
+		<child name="SprinkExport" key="{D19B5D76-B81A-41A0-8445-34A69456CAF5}" path="SprinkExport.tcLLP" />
+		<child name="Print_HawtJumbilia" key="{5BA53580-24C1-43C9-9C6A-902E2373AC4A}" path="Print_HawtJumbilia.tcLLP" />
+		<child name="MoveMouse" key="{7F7ADD8E-24C9-48DD-B324-A8C71C0BC265}" path="MoveMouse.tcLLP" />
+	</children>
+</Root>

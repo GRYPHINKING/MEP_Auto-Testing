@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{8162A14A-F575-49EA-9879-BCA66F18B6EC}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="AutoSPRINKx64" Key="{5EBA0A15-2E0E-4554-96AD-98B75AA988F0}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="AutoSPRINKx64" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndAfx" Key="{0355CCD7-BD0E-4D75-8919-82E68CA69EE5}">
+								<Image FileName="144741431" Left="-8" Top="-8" Right="1928" Bottom="1040" />
+								<TypeInfo Item0="{45578A65-7D35-4F28-8BB4-63514343AC8C}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Afx:0000000000400000:8*" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="dlgAutoSPRINK2023" Key="{45E35828-3724-4EAD-A28A-59F1DAC3DA6C}">
+								<Image FileName="1387264408" Left="0" Top="0" Right="300" Bottom="159" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="AutoSPRINK 2023" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnNo" Key="{7D253CB2-D6E3-4764-AADB-AE21BFF0A47C}">
+										<Image FileName="1387264408" Left="118" Top="119" Right="193" Bottom="142" />
+										<TypeInfo Item0="{1CFDC3D9-8FF1-4990-8237-3969A86A4529}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;No" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="AutoSPRINKx64" Owner="{5EBA0A15-2E0E-4554-96AD-98B75AA988F0}">
+			<Child Name="wndAfx" Owner="{0355CCD7-BD0E-4D75-8919-82E68CA69EE5}" />
+			<Child Name="dlgAutoSPRINK2023" Owner="{45E35828-3724-4EAD-A28A-59F1DAC3DA6C}">
+				<Child Name="btnNo" Owner="{7D253CB2-D6E3-4764-AADB-AE21BFF0A47C}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

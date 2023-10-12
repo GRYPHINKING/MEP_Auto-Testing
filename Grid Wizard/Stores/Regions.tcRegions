@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="dlgProperties_Symbol" key="{F358DF59-06BC-468A-8AB4-B369FFA57D22}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgProperties_Symbol" ID="{F358DF59-06BC-468A-8AB4-B369FFA57D22}" FileName="Regions\dlgProperties_Symbol.png" Update="False" />
+		</child>
+		<child name="SelectPane_Check_CreateDetail" key="{A3968830-4B32-4ECD-A74D-A97ACAF6D473}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SelectPane_Check_CreateDetail" ID="{A3968830-4B32-4ECD-A74D-A97ACAF6D473}" FileName="Regions\SelectPane_Check_CreateDetail.png" Update="False" />
+		</child>
+		<child name="SelectPane_Check_CreateDetail_Mask" key="{BAC4F2FC-FE05-4114-94F1-4CC8A70F915C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SelectPane_Check_CreateDetail_Mask" ID="{BAC4F2FC-FE05-4114-94F1-4CC8A70F915C}" FileName="Regions\SelectPane_Check_CreateDetail_Mask.png" Update="False" />
+		</child>
+		<child name="SymbolsPane_Check_CreateSymbol" key="{838447C6-EF38-45B0-A7A0-87913E70EF0C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SymbolsPane_Check_CreateSymbol" ID="{838447C6-EF38-45B0-A7A0-87913E70EF0C}" FileName="Regions\SymbolsPane_Check_CreateSymbol.png" Update="False" />
+		</child>
+		<child name="DrawingPane_Check_CreateGroup" key="{E42420CE-8355-4950-868F-6067FBC69266}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_Check_CreateGroup" ID="{E42420CE-8355-4950-868F-6067FBC69266}" FileName="Regions\DrawingPane_Check_CreateGroup.png" Update="False" />
+		</child>
+		<child name="DrawingPane_Check_CreateGroup2" key="{B6D7D3BF-AE82-4108-829B-40F23892401B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_Check_CreateGroup2" ID="{B6D7D3BF-AE82-4108-829B-40F23892401B}" FileName="Regions\DrawingPane_Check_CreateGroup2.png" Update="False" />
+		</child>
+		<child name="DrawingPane_Check_CreateGroup2_Mask" key="{B488FB7A-DEDB-4A31-B487-11C2775998A6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_Check_CreateGroup2_Mask" ID="{B488FB7A-DEDB-4A31-B487-11C2775998A6}" FileName="Regions\DrawingPane_Check_CreateGroup2_Mask.png" Update="False" />
+		</child>
+		<child name="dlgProperties" key="{F3F9A45F-C942-4B1B-9E2E-F447BB74A6E0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgProperties" ID="{F3F9A45F-C942-4B1B-9E2E-F447BB74A6E0}" FileName="Regions\dlgProperties.png" Update="False" />
+		</child>
+		<child name="dlgProperties_Mask_CreateGroup" key="{30AC300F-5312-476C-A8D6-9897002BAC77}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgProperties_Mask_CreateGroup" ID="{30AC300F-5312-476C-A8D6-9897002BAC77}" FileName="Regions\dlgProperties_Mask_CreateGroup.png" Update="False" />
+		</child>
+		<child name="AlertsPane_Check_InterferenceChecking" key="{EAF19A75-D134-4E01-85D3-970FF0D634DA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AlertsPane_Check_InterferenceChecking" ID="{EAF19A75-D134-4E01-85D3-970FF0D634DA}" FileName="Regions\AlertsPane_Check_InterferenceChecking.png" Update="False" />
+		</child>
+		<child name="Elevation_Check_PlaceToolsElements" key="{BAB9EEF1-70A1-4432-B14D-B00E43FB41DE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Elevation_Check_PlaceToolsElements" ID="{BAB9EEF1-70A1-4432-B14D-B00E43FB41DE}" FileName="Regions\Elevation_Check_PlaceToolsElements.png" Update="False" />
+		</child>
+		<child name="Elevation_Check_PlaceToolsElements_Mask" key="{59B0A6D6-841A-4B3F-B657-E4FBE4B8CB52}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Elevation_Check_PlaceToolsElements_Mask" ID="{59B0A6D6-841A-4B3F-B657-E4FBE4B8CB52}" FileName="Regions\Elevation_Check_PlaceToolsElements_Mask.png" Update="False" />
+		</child>
+		<child name="PartsProfile_Check_DLNewPart" key="{28CC419F-FD4D-44EE-AF18-14A59E254566}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PartsProfile_Check_DLNewPart" ID="{28CC419F-FD4D-44EE-AF18-14A59E254566}" FileName="Regions\PartsProfile_Check_DLNewPart.png" Update="False" />
+		</child>
+		<child name="LayersPane_Check_ToolElements" key="{70D1C20E-3E01-4857-9868-07380DCACB9E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LayersPane_Check_ToolElements" ID="{70D1C20E-3E01-4857-9868-07380DCACB9E}" FileName="Regions\LayersPane_Check_ToolElements.png" Update="False" />
+		</child>
+		<child name="DrawingPane_MDIClient" key="{5EBEF8E2-2BF7-479E-965E-6853D0205ABF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_MDIClient" ID="{5EBEF8E2-2BF7-479E-965E-6853D0205ABF}" FileName="Regions\DrawingPane_MDIClient.png" Update="False" />
+		</child>
+		<child name="DrawingPane_Unisolate_Check_MDIClient" key="{7210FD9D-D24C-4D91-9F3E-AB47A114E437}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_Unisolate_Check_MDIClient" ID="{7210FD9D-D24C-4D91-9F3E-AB47A114E437}" FileName="Regions\DrawingPane_Unisolate_Check_MDIClient.png" Update="False" />
+		</child>
+		<child name="DrawingPane_HideLayers_Check_MDIClient" key="{EBB95C6E-18BD-42F0-BDB9-53DF22104B45}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_HideLayers_Check_MDIClient" ID="{EBB95C6E-18BD-42F0-BDB9-53DF22104B45}" FileName="Regions\DrawingPane_HideLayers_Check_MDIClient.png" Update="False" />
+		</child>
+		<child name="UpdateParts_dlgAutoSPRINK2023_Check_Start" key="{AE43F170-7600-402D-B8AE-D538FC1E0554}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="UpdateParts_dlgAutoSPRINK2023_Check_Start" ID="{AE43F170-7600-402D-B8AE-D538FC1E0554}" FileName="Regions\UpdateParts_dlgAutoSPRINK2023_Check_Start.png" Update="False" />
+		</child>
+		<child name="UpdateParts_dlgAutoSPRINK2023_Check_Start_Mask" key="{9594DE2F-955A-433A-BC9D-0845F54A6018}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="UpdateParts_dlgAutoSPRINK2023_Check_Start_Mask" ID="{9594DE2F-955A-433A-BC9D-0845F54A6018}" FileName="Regions\UpdateParts_dlgAutoSPRINK2023_Check_Start_Mask.png" Update="False" />
+		</child>
+		<child name="dlgTransferLicense_Check_License" key="{A78A9FDD-F2F1-4E82-8AD2-770615EC93D7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgTransferLicense_Check_License" ID="{A78A9FDD-F2F1-4E82-8AD2-770615EC93D7}" FileName="Regions\dlgTransferLicense_Check_License.png" Update="False" />
+		</child>
+		<child name="dlgTransferLicense_Check_License_Mask" key="{C1745934-0A7F-480C-8155-61083C08B445}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgTransferLicense_Check_License_Mask" ID="{C1745934-0A7F-480C-8155-61083C08B445}" FileName="Regions\dlgTransferLicense_Check_License_Mask.png" Update="False" />
+		</child>
+		<child name="wndAfx_AppHeaderText" key="{CB2B8ACD-21E8-41DF-99CB-F2AA255E0642}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndAfx_AppHeaderText" ID="{CB2B8ACD-21E8-41DF-99CB-F2AA255E0642}" FileName="Regions\wndAfx_AppHeaderText.png" Update="False" />
+		</child>
+		<child name="wndAfx_AppHeaderText_Mask" key="{17CB302A-5E07-4F1B-9D07-9A0EE95C9147}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndAfx_AppHeaderText_Mask" ID="{17CB302A-5E07-4F1B-9D07-9A0EE95C9147}" FileName="Regions\wndAfx_AppHeaderText_Mask.png" Update="False" />
+		</child>
+		<child name="dlgLicenseInstallationStatus_Check_License" key="{527D2462-748A-4C39-9803-2E7A950A3DC0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgLicenseInstallationStatus_Check_License" ID="{527D2462-748A-4C39-9803-2E7A950A3DC0}" FileName="Regions\dlgLicenseInstallationStatus_Check_License.png" Update="False" />
+		</child>
+		<child name="dlgLicenseInstallationStatus_Check_License_Mask" key="{DE79ED0F-7E87-4BA6-BE4E-FF4FDCD3EBA0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgLicenseInstallationStatus_Check_License_Mask" ID="{DE79ED0F-7E87-4BA6-BE4E-FF4FDCD3EBA0}" FileName="Regions\dlgLicenseInstallationStatus_Check_License_Mask.png" Update="False" />
+		</child>
+		<child name="wndAfx_Check_AppHeaderText2_Licensed" key="{7453DDEA-FFEE-48A0-923B-528CC6393633}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndAfx_Check_AppHeaderText2_Licensed" ID="{7453DDEA-FFEE-48A0-923B-528CC6393633}" FileName="Regions\wndAfx_Check_AppHeaderText2_Licensed.png" Update="False" />
+		</child>
+		<child name="wndAfx_Check_AppHeaderText2_Licensed_Mask" key="{692E5149-20DA-4D5F-84EB-A40C089D3B0E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndAfx_Check_AppHeaderText2_Licensed_Mask" ID="{692E5149-20DA-4D5F-84EB-A40C089D3B0E}" FileName="Regions\wndAfx_Check_AppHeaderText2_Licensed_Mask.png" Update="False" />
+		</child>
+		<child name="LayersPane_Check_LoadSettings" key="{475D2CDF-E95B-49AA-B80D-C84A37535AAA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LayersPane_Check_LoadSettings" ID="{475D2CDF-E95B-49AA-B80D-C84A37535AAA}" FileName="Regions\LayersPane_Check_LoadSettings.png" Update="False" />
+		</child>
+		<child name="SymbolsPane_Check_LoadSettings" key="{CECEA30B-222C-4F83-BD7D-989D77BE8233}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SymbolsPane_Check_LoadSettings" ID="{CECEA30B-222C-4F83-BD7D-989D77BE8233}" FileName="Regions\SymbolsPane_Check_LoadSettings.png" Update="False" />
+		</child>
+		<child name="AlertsPane_Check_LoadSettings" key="{43F07D7D-352D-4C21-92B7-F0EE2C3E6902}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AlertsPane_Check_LoadSettings" ID="{43F07D7D-352D-4C21-92B7-F0EE2C3E6902}" FileName="Regions\AlertsPane_Check_LoadSettings.png" Update="False" />
+		</child>
+		<child name="SelectPane_Check_LoadSettings" key="{E75FAA20-FA18-4A80-AB0A-5C8D89BDF831}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SelectPane_Check_LoadSettings" ID="{E75FAA20-FA18-4A80-AB0A-5C8D89BDF831}" FileName="Regions\SelectPane_Check_LoadSettings.png" Update="False" />
+		</child>
+		<child name="PartsPickerPane_Check_LoadSettings" key="{B94DCA70-F58D-40E6-A3CE-0E4E0C6FE88B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PartsPickerPane_Check_LoadSettings" ID="{B94DCA70-F58D-40E6-A3CE-0E4E0C6FE88B}" FileName="Regions\PartsPickerPane_Check_LoadSettings.png" Update="False" />
+		</child>
+		<child name="AllPanes_Check_LoadSettings" key="{C2A36F5A-F8FA-459C-9DB3-C8DC5B933F49}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AllPanes_Check_LoadSettings" ID="{C2A36F5A-F8FA-459C-9DB3-C8DC5B933F49}" FileName="Regions\AllPanes_Check_LoadSettings.png" Update="False" />
+		</child>
+		<child name="AlertsPane_Check_InterferenceChecking_Mask" key="{BD0B7501-E947-448A-8532-EA088C63F44D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AlertsPane_Check_InterferenceChecking_Mask" ID="{BD0B7501-E947-448A-8532-EA088C63F44D}" FileName="Regions\AlertsPane_Check_InterferenceChecking_Mask.png" Update="False" />
+		</child>
+		<child name="AllPanes_Check_LoadSettings_Mask" key="{B9316E58-7501-4659-BEE7-6C12A8DF7266}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AllPanes_Check_LoadSettings_Mask" ID="{B9316E58-7501-4659-BEE7-6C12A8DF7266}" FileName="Regions\AllPanes_Check_LoadSettings_Mask.png" Update="False" />
+		</child>
+		<child name="DrawingPane_MDIClient_Mask" key="{6D655E7C-43C5-45C5-933D-36A160E8E738}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_MDIClient_Mask" ID="{6D655E7C-43C5-45C5-933D-36A160E8E738}" FileName="Regions\DrawingPane_MDIClient_Mask.png" Update="False" />
+		</child>
+		<child name="DrawingPane_Unisolate_Check_MDIClient_Mask" key="{576BDAA2-C00D-471A-884C-4FC40AD8043F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_Unisolate_Check_MDIClient_Mask" ID="{576BDAA2-C00D-471A-884C-4FC40AD8043F}" FileName="Regions\DrawingPane_Unisolate_Check_MDIClient_Mask.png" Update="False" />
+		</child>
+		<child name="DrawingPane_HideLayers_Check_MDIClient_Mask" key="{CC385219-BD65-49EE-9A07-9AF8C4D9E061}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_HideLayers_Check_MDIClient_Mask" ID="{CC385219-BD65-49EE-9A07-9AF8C4D9E061}" FileName="Regions\DrawingPane_HideLayers_Check_MDIClient_Mask.png" Update="False" />
+		</child>
+		<child name="Pane2_Check" key="{06973795-1C3F-4499-97E1-DB663C15E157}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Pane2_Check" ID="{06973795-1C3F-4499-97E1-DB663C15E157}" FileName="Regions\Pane2_Check.png" Update="False" />
+		</child>
+		<child name="Pane2_Check_Mask" key="{101AFC39-3D98-43F0-95A9-F1A2FB190FF3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Pane2_Check_Mask" ID="{101AFC39-3D98-43F0-95A9-F1A2FB190FF3}" FileName="Regions\Pane2_Check_Mask.png" Update="False" />
+		</child>
+		<child name="SelectPane_Check_CreateDetail_Mask1" key="{340305E7-5B27-45D7-94E3-39B0B122E5C1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SelectPane_Check_CreateDetail_Mask1" ID="{340305E7-5B27-45D7-94E3-39B0B122E5C1}" FileName="Regions\SelectPane_Check_CreateDetail_Mask1.png" Update="False" />
+		</child>
+		<child name="SymbolsPane_Check_CreateSymbol_Mask" key="{6AEBAA42-6716-45C8-9D41-290358CC6952}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SymbolsPane_Check_CreateSymbol_Mask" ID="{6AEBAA42-6716-45C8-9D41-290358CC6952}" FileName="Regions\SymbolsPane_Check_CreateSymbol_Mask.png" Update="False" />
+		</child>
+		<child name="AlertsPane_Check_InterferenceChecking_Mask1" key="{63779DE7-1726-4755-8A66-73B51DE6CEE1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AlertsPane_Check_InterferenceChecking_Mask1" ID="{63779DE7-1726-4755-8A66-73B51DE6CEE1}" FileName="Regions\AlertsPane_Check_InterferenceChecking_Mask1.png" Update="False" />
+		</child>
+		<child name="SelectPane_Check_CreateDetail_Mask2" key="{E32A7AD9-B3F2-4EB5-8B74-533B93BD5167}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SelectPane_Check_CreateDetail_Mask2" ID="{E32A7AD9-B3F2-4EB5-8B74-533B93BD5167}" FileName="Regions\SelectPane_Check_CreateDetail_Mask2.png" Update="False" />
+		</child>
+		<child name="SymbolsPane_Check_CreateSymbol_Mask1" key="{CCD5C101-31F7-420E-94E5-C2F6A0055138}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SymbolsPane_Check_CreateSymbol_Mask1" ID="{CCD5C101-31F7-420E-94E5-C2F6A0055138}" FileName="Regions\SymbolsPane_Check_CreateSymbol_Mask1.png" Update="False" />
+		</child>
+		<child name="AlertsPane_Check_InterferenceChecking_Mask2" key="{D20834CB-8B71-4D07-86FE-31EFF73CAC19}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AlertsPane_Check_InterferenceChecking_Mask2" ID="{D20834CB-8B71-4D07-86FE-31EFF73CAC19}" FileName="Regions\AlertsPane_Check_InterferenceChecking_Mask2.png" Update="False" />
+		</child>
+		<child name="CreateDetail_Check" key="{962950F4-88E5-4B6B-A11D-D6DB0E0E2B36}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CreateDetail_Check" ID="{962950F4-88E5-4B6B-A11D-D6DB0E0E2B36}" FileName="Regions\CreateDetail_Check.png" Update="False" />
+		</child>
+		<child name="CreateDetail_Check_Mask" key="{B4ECCBB4-3E8F-4A2F-8BF7-E5A4F7767E16}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CreateDetail_Check_Mask" ID="{B4ECCBB4-3E8F-4A2F-8BF7-E5A4F7767E16}" FileName="Regions\CreateDetail_Check_Mask.png" Update="False" />
+		</child>
+		<child name="AlertsPane_Check_InterferenceChecking_Mask3" key="{72E62B5D-41C9-4B31-B711-93791F7CBE08}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AlertsPane_Check_InterferenceChecking_Mask3" ID="{72E62B5D-41C9-4B31-B711-93791F7CBE08}" FileName="Regions\AlertsPane_Check_InterferenceChecking_Mask3.png" Update="False" />
+		</child>
+		<child name="dlgTransferLicense_Check_License_Mask1" key="{7A09FA94-1323-489E-9936-9C18FBC08D4B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgTransferLicense_Check_License_Mask1" ID="{7A09FA94-1323-489E-9936-9C18FBC08D4B}" FileName="Regions\dlgTransferLicense_Check_License_Mask1.png" Update="False" />
+		</child>
+		<child name="LayersPane_Check_ToolElements_Mask" key="{BCE8D82A-DA84-429C-876A-5491F924A079}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LayersPane_Check_ToolElements_Mask" ID="{BCE8D82A-DA84-429C-876A-5491F924A079}" FileName="Regions\LayersPane_Check_ToolElements_Mask.png" Update="False" />
+		</child>
+		<child name="SelectPane_Check_CreateDetail_Mask3" key="{E51161F6-047C-41C3-8940-3236A139E400}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SelectPane_Check_CreateDetail_Mask3" ID="{E51161F6-047C-41C3-8940-3236A139E400}" FileName="Regions\SelectPane_Check_CreateDetail_Mask3.png" Update="False" />
+		</child>
+		<child name="SymbolsPane_Check_CreateSymbol_Mask2" key="{552D8580-175A-46E9-AF3F-497DB8DD5D27}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SymbolsPane_Check_CreateSymbol_Mask2" ID="{552D8580-175A-46E9-AF3F-497DB8DD5D27}" FileName="Regions\SymbolsPane_Check_CreateSymbol_Mask2.png" Update="False" />
+		</child>
+		<child name="LayersPane_Check_ToolElements_Mask1" key="{9BF0C390-1E9F-4C75-9FAD-5AA4403586A6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LayersPane_Check_ToolElements_Mask1" ID="{9BF0C390-1E9F-4C75-9FAD-5AA4403586A6}" FileName="Regions\LayersPane_Check_ToolElements_Mask1.png" Update="False" />
+		</child>
+		<child name="DrawingPane_HideLayers_Check_MDIClient_Mask1" key="{2C7A302F-27FC-4958-BE53-9321E548FB31}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_HideLayers_Check_MDIClient_Mask1" ID="{2C7A302F-27FC-4958-BE53-9321E548FB31}" FileName="Regions\DrawingPane_HideLayers_Check_MDIClient_Mask1.png" Update="False" />
+		</child>
+		<child name="DrawingPane_Unisolate_Check_MDIClient_Mask1" key="{6457B2C6-F858-4E6C-A984-F951A9593F56}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_Unisolate_Check_MDIClient_Mask1" ID="{6457B2C6-F858-4E6C-A984-F951A9593F56}" FileName="Regions\DrawingPane_Unisolate_Check_MDIClient_Mask1.png" Update="False" />
+		</child>
+		<child name="DrawingPane_MDIClient_Mask1" key="{3A34C52E-926C-481A-AED1-5418422D33FC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DrawingPane_MDIClient_Mask1" ID="{3A34C52E-926C-481A-AED1-5418422D33FC}" FileName="Regions\DrawingPane_MDIClient_Mask1.png" Update="False" />
+		</child>
+		<child name="LoadCasFile_Check" key="{C41F81D7-CBE5-477A-AEDB-2EA1B9062CED}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LoadCasFile_Check" ID="{C41F81D7-CBE5-477A-AEDB-2EA1B9062CED}" FileName="Regions\LoadCasFile_Check.png" Update="False" />
+		</child>
+		<child name="LoadCasFile_Check_Mask" key="{8C3202D8-77BD-4D44-A35A-1B33BC8AD0C2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LoadCasFile_Check_Mask" ID="{8C3202D8-77BD-4D44-A35A-1B33BC8AD0C2}" FileName="Regions\LoadCasFile_Check_Mask.png" Update="False" />
+		</child>
+		<child name="LayerPaneWidth_Check" key="{CD076F2B-A4D9-427F-A196-5074869F7252}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LayerPaneWidth_Check" ID="{CD076F2B-A4D9-427F-A196-5074869F7252}" FileName="Regions\LayerPaneWidth_Check.png" Update="False" />
+		</child>
+		<child name="LayerPaneWidth_Check_Mask" key="{3DD51CE1-3696-4DAC-9955-B51EC13D3EEC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LayerPaneWidth_Check_Mask" ID="{3DD51CE1-3696-4DAC-9955-B51EC13D3EEC}" FileName="Regions\LayerPaneWidth_Check_Mask.png" Update="False" />
+		</child>
+	</children>
+</Root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="_0_Start_App_Update_Parts" key="{809E8236-7B42-49A4-A94A-34F720377DF7}" path="_0_Start_App_Update_Parts.tcKDTest" />
+		<child name="_2_Create_Detail" key="{BFAFDE50-7FFE-4D15-B27A-977B9F16865C}" path="_2_Create_Detail.tcKDTest" />
+		<child name="_3_Create_Symbol" key="{FF46EF53-4AEE-4485-84BF-F7236828AE41}" path="_3_Create_Symbol.tcKDTest" />
+		<child name="_4_Create_Group" key="{010EBACF-C468-42AA-A1ED-2295CE882D23}" path="_4_Create_Group.tcKDTest" />
+		<child name="_5_Interference_Checking" key="{69F3FC13-9C3C-4E07-92DA-67F9A0D00009}" path="_5_Interference_Checking.tcKDTest" />
+		<child name="_6_Place_Tools_Elements" key="{9D53D44C-64F1-4A1F-B455-CE6F7523EEB0}" path="_6_Place_Tools_Elements.tcKDTest" />
+		<child name="_7_DL_New_Part" key="{59EDC32A-4CCD-428D-81B7-D5C4FAE1E63A}" path="_7_DL_New_Part.tcKDTest" />
+		<child name="_8_Layers_Isolate_Hide" key="{B9D42307-2368-4A8B-B053-4BE39BBFB835}" path="_8_Layers_Isolate_Hide.tcKDTest" />
+		<child name="_1_Load_Settings_Toolbar" key="{68C53360-8BA0-4B42-B7FC-3E537E58F312}" path="_1_Load_Settings_Toolbar.tcKDTest" />
+		<child name="_9_License_Deactivate_Activate" key="{CC79D221-E095-4FCE-A9DA-97CF5CBC2A04}" path="_9_License_Deactivate_Activate.tcKDTest" />
+	</children>
+</Root>

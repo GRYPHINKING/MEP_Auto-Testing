@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="HideLayer_Check" key="{F9816D1A-F7E1-4B8E-89A9-CB50CB7E1D4D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="HideLayer_Check" ID="{F9816D1A-F7E1-4B8E-89A9-CB50CB7E1D4D}" FileName="Regions\HideLayer_Check.png" Update="False" />
+		</child>
+		<child name="CreateLayers_Check" key="{20503676-F9FB-41C0-8333-04C9140889C2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CreateLayers_Check" ID="{20503676-F9FB-41C0-8333-04C9140889C2}" FileName="Regions\CreateLayers_Check.png" Update="False" />
+		</child>
+		<child name="CreateLayers_Check_Mask" key="{92945072-E691-4E15-AE32-7AEB76ABA891}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CreateLayers_Check_Mask" ID="{92945072-E691-4E15-AE32-7AEB76ABA891}" FileName="Regions\CreateLayers_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DeleteLayers_Check" key="{E91C1038-ED91-4691-B224-B61CEEA7D94F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteLayers_Check" ID="{E91C1038-ED91-4691-B224-B61CEEA7D94F}" FileName="Regions\DeleteLayers_Check.png" Update="False" />
+		</child>
+		<child name="LoadLayerSettings_Check" key="{4ACC4AAE-9A0A-425B-9413-2474760DA17B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LoadLayerSettings_Check" ID="{4ACC4AAE-9A0A-425B-9413-2474760DA17B}" FileName="Regions\LoadLayerSettings_Check.png" Update="False" />
+		</child>
+		<child name="LayerSettings_Check" key="{ADB858D1-4C49-4FEA-8B40-B9F4EDE631EC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LayerSettings_Check" ID="{ADB858D1-4C49-4FEA-8B40-B9F4EDE631EC}" FileName="Regions\LayerSettings_Check.png" Update="False" />
+		</child>
+		<child name="AddTemplate_Check" key="{8A98B05B-7AF7-43E2-8558-EF75C2353C0C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AddTemplate_Check" ID="{8A98B05B-7AF7-43E2-8558-EF75C2353C0C}" FileName="Regions\AddTemplate_Check.png" Update="False" />
+		</child>
+		<child name="BrowseTemplate_Check" key="{8A6966C8-59F3-4706-A952-762FB969EB09}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="BrowseTemplate_Check" ID="{8A6966C8-59F3-4706-A952-762FB969EB09}" FileName="Regions\BrowseTemplate_Check.png" Update="False" />
+		</child>
+		<child name="TemplateOpen_Check" key="{DE3C994D-C7B8-4240-A295-7DB891DAFE0B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="TemplateOpen_Check" ID="{DE3C994D-C7B8-4240-A295-7DB891DAFE0B}" FileName="Regions\TemplateOpen_Check.png" Update="False" />
+		</child>
+		<child name="AddSettingsFile_Check" key="{FBDA03DA-DE0C-4310-8175-D0283F9AC3D2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AddSettingsFile_Check" ID="{FBDA03DA-DE0C-4310-8175-D0283F9AC3D2}" FileName="Regions\AddSettingsFile_Check.png" Update="False" />
+		</child>
+		<child name="DeleteLayer_Check" key="{DBEBEC1B-80A3-461A-AA7A-6DB870B634F9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteLayer_Check" ID="{DBEBEC1B-80A3-461A-AA7A-6DB870B634F9}" FileName="Regions\DeleteLayer_Check.png" Update="False" />
+		</child>
+		<child name="DeleteLayer_Check_Mask" key="{0EF7F7B8-52C6-40A4-8B0C-773E8D909192}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteLayer_Check_Mask" ID="{0EF7F7B8-52C6-40A4-8B0C-773E8D909192}" FileName="Regions\DeleteLayer_Check_Mask.png" Update="False" />
+		</child>
+		<child name="LoadLayerSettings_Check_Mask" key="{E4FF35E0-2173-4F55-B139-28A2080E47E9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LoadLayerSettings_Check_Mask" ID="{E4FF35E0-2173-4F55-B139-28A2080E47E9}" FileName="Regions\LoadLayerSettings_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DeleteLayers_Check_Mask" key="{1544A64A-5811-4777-925E-0700A5D725DD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteLayers_Check_Mask" ID="{1544A64A-5811-4777-925E-0700A5D725DD}" FileName="Regions\DeleteLayers_Check_Mask.png" Update="False" />
+		</child>
+		<child name="HangerProfile_DuplicateName" key="{C24F3E03-0BF3-4514-A726-0208CC52A517}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="HangerProfile_DuplicateName" ID="{C24F3E03-0BF3-4514-A726-0208CC52A517}" FileName="Regions\HangerProfile_DuplicateName.png" Update="False" />
+		</child>
+		<child name="HangerProfile_DuplicateName_Mask" key="{C454A545-6010-4F28-9F48-2986A7F90935}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="HangerProfile_DuplicateName_Mask" ID="{C454A545-6010-4F28-9F48-2986A7F90935}" FileName="Regions\HangerProfile_DuplicateName_Mask.png" Update="False" />
+		</child>
+		<child name="Export_HangerAssSettings" key="{EDF0FBA8-8C44-4043-B6FF-4E2AB8B2226B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Export_HangerAssSettings" ID="{EDF0FBA8-8C44-4043-B6FF-4E2AB8B2226B}" FileName="Regions\Export_HangerAssSettings.png" Update="False" />
+		</child>
+		<child name="Export_HangerAssSettings_Mask" key="{2B8AC7A2-4115-4A3D-A3CD-E37FD73A037A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Export_HangerAssSettings_Mask" ID="{2B8AC7A2-4115-4A3D-A3CD-E37FD73A037A}" FileName="Regions\Export_HangerAssSettings_Mask.png" Update="False" />
+		</child>
+		<child name="Import_HangerAssSettings_Check" key="{760FEE26-5318-4D58-82DB-609BCFB847D2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Import_HangerAssSettings_Check" ID="{760FEE26-5318-4D58-82DB-609BCFB847D2}" FileName="Regions\Import_HangerAssSettings_Check.png" Update="False" />
+		</child>
+		<child name="Import_HangerAssSettings_Check_Mask" key="{911130B7-EF59-4229-86C5-F80F7574B3E9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Import_HangerAssSettings_Check_Mask" ID="{911130B7-EF59-4229-86C5-F80F7574B3E9}" FileName="Regions\Import_HangerAssSettings_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ResetDefault_HangerAssSettings_Check" key="{CDEEB85D-03E9-4201-89DC-DF6E79097B61}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ResetDefault_HangerAssSettings_Check" ID="{CDEEB85D-03E9-4201-89DC-DF6E79097B61}" FileName="Regions\ResetDefault_HangerAssSettings_Check.png" Update="False" />
+		</child>
+		<child name="ResetDefault_HangerAssSettings_Check_Mask" key="{E2B7A2DB-7601-4E8D-9AAB-74CEFDF58873}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ResetDefault_HangerAssSettings_Check_Mask" ID="{E2B7A2DB-7601-4E8D-9AAB-74CEFDF58873}" FileName="Regions\ResetDefault_HangerAssSettings_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Save_PipeGroup_Check" key="{CC50535A-2D32-49DB-A80F-107A8E4E6983}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Save_PipeGroup_Check" ID="{CC50535A-2D32-49DB-A80F-107A8E4E6983}" FileName="Regions\Save_PipeGroup_Check.png" Update="False" />
+		</child>
+		<child name="Save_PipeGroup_Check_Mask" key="{CFD43684-CE1E-435E-94B6-A5DA1F1E9474}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Save_PipeGroup_Check_Mask" ID="{CFD43684-CE1E-435E-94B6-A5DA1F1E9474}" FileName="Regions\Save_PipeGroup_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Load_PipeGroup_Check" key="{66446B18-D917-4D1F-97C6-0510C0575C09}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Load_PipeGroup_Check" ID="{66446B18-D917-4D1F-97C6-0510C0575C09}" FileName="Regions\Load_PipeGroup_Check.png" Update="False" />
+		</child>
+		<child name="Load_PipeGroup_Check_Mask" key="{258B76AD-5C55-4B54-BAF5-65F63BD4E7C8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Load_PipeGroup_Check_Mask" ID="{258B76AD-5C55-4B54-BAF5-65F63BD4E7C8}" FileName="Regions\Load_PipeGroup_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DeleteAll_PipeGroups_Check" key="{79F4F457-10D6-4A6C-AD1E-F6C0B431EBCD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteAll_PipeGroups_Check" ID="{79F4F457-10D6-4A6C-AD1E-F6C0B431EBCD}" FileName="Regions\DeleteAll_PipeGroups_Check.png" Update="False" />
+		</child>
+		<child name="DeleteAll_PipeGroups_Check_Mask" key="{3AC6D225-E9E4-47EC-B530-63F9539DE57F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteAll_PipeGroups_Check_Mask" ID="{3AC6D225-E9E4-47EC-B530-63F9539DE57F}" FileName="Regions\DeleteAll_PipeGroups_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ResetDefault_PipeGroups_Check" key="{6449BAE6-DF98-4D00-AF65-E2B67F237444}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ResetDefault_PipeGroups_Check" ID="{6449BAE6-DF98-4D00-AF65-E2B67F237444}" FileName="Regions\ResetDefault_PipeGroups_Check.png" Update="False" />
+		</child>
+		<child name="ResetDefault_PipeGroups_Check_Mask" key="{11A9D2A8-B0B1-4892-9374-660EF60548A4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ResetDefault_PipeGroups_Check_Mask" ID="{11A9D2A8-B0B1-4892-9374-660EF60548A4}" FileName="Regions\ResetDefault_PipeGroups_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Duplicate_PartPrifileName_Check" key="{B2EB2F2F-8B82-4859-BC3C-A3F1E6FDB891}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Duplicate_PartPrifileName_Check" ID="{B2EB2F2F-8B82-4859-BC3C-A3F1E6FDB891}" FileName="Regions\Duplicate_PartPrifileName_Check.png" Update="False" />
+		</child>
+		<child name="Duplicate_PartPrifileName_Check_Mask" key="{B0CF24B4-C9E2-484A-99A5-8F49EFE9623C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Duplicate_PartPrifileName_Check_Mask" ID="{B0CF24B4-C9E2-484A-99A5-8F49EFE9623C}" FileName="Regions\Duplicate_PartPrifileName_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Delete_PartsProfile_Check" key="{1EEB6E83-8C94-4E8F-B046-FFECC2CD7F72}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Delete_PartsProfile_Check" ID="{1EEB6E83-8C94-4E8F-B046-FFECC2CD7F72}" FileName="Regions\Delete_PartsProfile_Check.png" Update="False" />
+		</child>
+		<child name="Delete_PartsProfile_Check_Mask" key="{35D2FD7A-920B-43D4-9FD9-2F62AF0E235F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Delete_PartsProfile_Check_Mask" ID="{35D2FD7A-920B-43D4-9FD9-2F62AF0E235F}" FileName="Regions\Delete_PartsProfile_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Export_AllPartProfileSettings_Check" key="{CE7DA89B-6BE3-4161-9C41-8D06A29234F6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Export_AllPartProfileSettings_Check" ID="{CE7DA89B-6BE3-4161-9C41-8D06A29234F6}" FileName="Regions\Export_AllPartProfileSettings_Check.png" Update="False" />
+		</child>
+		<child name="Export_AllPartProfileSettings_Check_Mask" key="{6F87F8FB-1F25-439B-B7F8-43EC0B67EEEF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Export_AllPartProfileSettings_Check_Mask" ID="{6F87F8FB-1F25-439B-B7F8-43EC0B67EEEF}" FileName="Regions\Export_AllPartProfileSettings_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Exports_SinglePartProfileSettings_Check" key="{7415F664-94ED-43F4-B4CB-5CBB1475BD75}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Exports_SinglePartProfileSettings_Check" ID="{7415F664-94ED-43F4-B4CB-5CBB1475BD75}" FileName="Regions\Exports_SinglePartProfileSettings_Check.png" Update="False" />
+		</child>
+		<child name="Exports_SinglePartProfileSettings_Check_Mask" key="{3F8D3F29-F105-4785-BE10-EE6409102EA9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Exports_SinglePartProfileSettings_Check_Mask" ID="{3F8D3F29-F105-4785-BE10-EE6409102EA9}" FileName="Regions\Exports_SinglePartProfileSettings_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Merge_PartsProfileSettings_Check" key="{84BDBCF6-2DD3-4FC3-98F9-7C0652BDC63A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Merge_PartsProfileSettings_Check" ID="{84BDBCF6-2DD3-4FC3-98F9-7C0652BDC63A}" FileName="Regions\Merge_PartsProfileSettings_Check.png" Update="False" />
+		</child>
+		<child name="Merge_PartsProfileSettings_Check_Mask" key="{E55DDCDE-04FE-4544-8B7C-5C0E60586D9D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Merge_PartsProfileSettings_Check_Mask" ID="{E55DDCDE-04FE-4544-8B7C-5C0E60586D9D}" FileName="Regions\Merge_PartsProfileSettings_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Import_PartsProfileSettings_Check" key="{4A7EEBBA-E43A-41C7-9B45-6210DC312D92}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Import_PartsProfileSettings_Check" ID="{4A7EEBBA-E43A-41C7-9B45-6210DC312D92}" FileName="Regions\Import_PartsProfileSettings_Check.png" Update="False" />
+		</child>
+		<child name="Import_PartsProfileSettings_Check_Mask" key="{33FAEA88-BBB4-4F08-8BFE-FA5087F18CD1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Import_PartsProfileSettings_Check_Mask" ID="{33FAEA88-BBB4-4F08-8BFE-FA5087F18CD1}" FileName="Regions\Import_PartsProfileSettings_Check_Mask.png" Update="False" />
+		</child>
+		<child name="TemplateOpen_Check_Mask" key="{ACD5C6C3-7B07-44F5-992A-8AFAF3B89FDE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="TemplateOpen_Check_Mask" ID="{ACD5C6C3-7B07-44F5-992A-8AFAF3B89FDE}" FileName="Regions\TemplateOpen_Check_Mask.png" Update="False" />
+		</child>
+		<child name="AddStartPage_Settings_Check" key="{B73740BA-C16B-43CD-8159-9023F39159DE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AddStartPage_Settings_Check" ID="{B73740BA-C16B-43CD-8159-9023F39159DE}" FileName="Regions\AddStartPage_Settings_Check.png" Update="False" />
+		</child>
+		<child name="AddStartPage_Settings_Check_Mask" key="{56F8DF5A-CED0-426B-AE03-C6FF57EE8FA8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AddStartPage_Settings_Check_Mask" ID="{56F8DF5A-CED0-426B-AE03-C6FF57EE8FA8}" FileName="Regions\AddStartPage_Settings_Check_Mask.png" Update="False" />
+		</child>
+		<child name="AddTemplate_Check_Mask" key="{6886A841-80E6-4248-83B2-DCCB37ADB329}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AddTemplate_Check_Mask" ID="{6886A841-80E6-4248-83B2-DCCB37ADB329}" FileName="Regions\AddTemplate_Check_Mask.png" Update="False" />
+		</child>
+		<child name="BrowseTemplate_Check_Mask" key="{463D15E5-33D2-4DA3-8B1F-918601C61B6B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="BrowseTemplate_Check_Mask" ID="{463D15E5-33D2-4DA3-8B1F-918601C61B6B}" FileName="Regions\BrowseTemplate_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StartPageCASFile_Check" key="{45BBAD60-0166-4610-A94F-5710073DF621}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StartPageCASFile_Check" ID="{45BBAD60-0166-4610-A94F-5710073DF621}" FileName="Regions\StartPageCASFile_Check.png" Update="False" />
+		</child>
+		<child name="StartPageCASFile_Check_Mask" key="{3567D749-971E-4CFB-9DAE-B8A8301498F1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StartPageCASFile_Check_Mask" ID="{3567D749-971E-4CFB-9DAE-B8A8301498F1}" FileName="Regions\StartPageCASFile_Check_Mask.png" Update="False" />
+		</child>
+		<child name="FavFolder_Check" key="{56C86E8F-8795-491B-8199-7EE1B6D5BBBF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="FavFolder_Check" ID="{56C86E8F-8795-491B-8199-7EE1B6D5BBBF}" FileName="Regions\FavFolder_Check.png" Update="False" />
+		</child>
+		<child name="FavFolder_Check_Mask" key="{BA1D543F-1C45-4AAC-A841-A22336A71C4C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="FavFolder_Check_Mask" ID="{BA1D543F-1C45-4AAC-A841-A22336A71C4C}" FileName="Regions\FavFolder_Check_Mask.png" Update="False" />
+		</child>
+		<child name="FavFolderOpen_Check" key="{49B67623-2764-4D1B-B220-9BBF09AA863E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="FavFolderOpen_Check" ID="{49B67623-2764-4D1B-B220-9BBF09AA863E}" FileName="Regions\FavFolderOpen_Check.png" Update="False" />
+		</child>
+		<child name="FavFolderOpen_Check_Mask" key="{3F4E91D3-670A-4E38-ADD9-5224EF2271F7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="FavFolderOpen_Check_Mask" ID="{3F4E91D3-670A-4E38-ADD9-5224EF2271F7}" FileName="Regions\FavFolderOpen_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DeleteStartPageAdditions_Check" key="{7C990D2D-3C9B-48D1-BA68-3445ED90A5BC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteStartPageAdditions_Check" ID="{7C990D2D-3C9B-48D1-BA68-3445ED90A5BC}" FileName="Regions\DeleteStartPageAdditions_Check.png" Update="False" />
+		</child>
+		<child name="DeleteStartPageAdditions_Check_Mask" key="{C1C87FC0-FB96-4D95-A2AB-580C348DD983}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteStartPageAdditions_Check_Mask" ID="{C1C87FC0-FB96-4D95-A2AB-580C348DD983}" FileName="Regions\DeleteStartPageAdditions_Check_Mask.png" Update="False" />
+		</child>
+		<child name="OpenLastDrawing_StartPage_Check" key="{B4BE9448-0F3C-4874-9F80-7EBB13A6696F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="OpenLastDrawing_StartPage_Check" ID="{B4BE9448-0F3C-4874-9F80-7EBB13A6696F}" FileName="Regions\OpenLastDrawing_StartPage_Check.png" Update="False" />
+		</child>
+		<child name="OpenLastDrawing_StartPage_Check_Mask" key="{FF4DEA12-4195-4220-AA17-EF02DB4083A2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="OpenLastDrawing_StartPage_Check_Mask" ID="{FF4DEA12-4195-4220-AA17-EF02DB4083A2}" FileName="Regions\OpenLastDrawing_StartPage_Check_Mask.png" Update="False" />
+		</child>
+	</children>
+</Root>

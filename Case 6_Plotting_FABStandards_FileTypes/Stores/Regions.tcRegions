@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="Assistant_Callout_Check" key="{0789E5BF-68A1-4C5E-83B1-85FE29AC94BB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Assistant_Callout_Check" ID="{0789E5BF-68A1-4C5E-83B1-85FE29AC94BB}" FileName="Regions\Assistant_Callout_Check.png" Update="False" />
+		</child>
+		<child name="Assistant_Callout_Check_Mask" key="{AACE96AA-3F9F-49BE-A89D-E30827FFBA07}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Assistant_Callout_Check_Mask" ID="{AACE96AA-3F9F-49BE-A89D-E30827FFBA07}" FileName="Regions\Assistant_Callout_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Assistant_Callout2_Check" key="{5C3C8E0F-AE7D-4074-8878-B4423A71485F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Assistant_Callout2_Check" ID="{5C3C8E0F-AE7D-4074-8878-B4423A71485F}" FileName="Regions\Assistant_Callout2_Check.png" Update="False" />
+		</child>
+		<child name="Assistant_Callout2_Check_Mask" key="{61ABC669-1ED8-4330-894B-3FB632D65500}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Assistant_Callout2_Check_Mask" ID="{61ABC669-1ED8-4330-894B-3FB632D65500}" FileName="Regions\Assistant_Callout2_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Assistant_Callout3_Check" key="{85D1CB9F-31AB-40AD-9486-3F7985AF62FF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Assistant_Callout3_Check" ID="{85D1CB9F-31AB-40AD-9486-3F7985AF62FF}" FileName="Regions\Assistant_Callout3_Check.png" Update="False" />
+		</child>
+		<child name="Assistant_Callout3_Check_Mask" key="{247BCC0B-0368-4026-8DAB-41FB2A154252}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Assistant_Callout3_Check_Mask" ID="{247BCC0B-0368-4026-8DAB-41FB2A154252}" FileName="Regions\Assistant_Callout3_Check_Mask.png" Update="False" />
+		</child>
+		<child name="CalloutInView_Check" key="{D125CDEF-56D4-492B-9FE4-C99E79489A13}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CalloutInView_Check" ID="{D125CDEF-56D4-492B-9FE4-C99E79489A13}" FileName="Regions\CalloutInView_Check.png" Update="False" />
+		</child>
+		<child name="CalloutInView_Check_Mask" key="{C16DE58F-0F06-4A99-8F84-EB77837452BA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CalloutInView_Check_Mask" ID="{C16DE58F-0F06-4A99-8F84-EB77837452BA}" FileName="Regions\CalloutInView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ExportToPDF_Plot_Check" key="{C0195F44-30AD-4267-A2FD-6EE449E4934B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ExportToPDF_Plot_Check" ID="{C0195F44-30AD-4267-A2FD-6EE449E4934B}" FileName="Regions\ExportToPDF_Plot_Check.png" Update="False" />
+		</child>
+		<child name="ExportToPDF_Plot_Check_Mask" key="{9634FC96-538F-4EAF-BD8D-888E7D9C30FB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ExportToPDF_Plot_Check_Mask" ID="{9634FC96-538F-4EAF-BD8D-888E7D9C30FB}" FileName="Regions\ExportToPDF_Plot_Check_Mask.png" Update="False" />
+		</child>
+		<child name="PlotPrintingPDF_Check" key="{2C1771AF-5FE5-422A-9F9B-7C7C970F7925}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PlotPrintingPDF_Check" ID="{2C1771AF-5FE5-422A-9F9B-7C7C970F7925}" FileName="Regions\PlotPrintingPDF_Check.png" Update="False" />
+		</child>
+		<child name="PlotPrint_SheetPDF_Check" key="{4879E360-667D-4C30-9B20-2E48918F58E3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PlotPrint_SheetPDF_Check" ID="{4879E360-667D-4C30-9B20-2E48918F58E3}" FileName="Regions\PlotPrint_SheetPDF_Check.png" Update="False" />
+		</child>
+		<child name="Plot_PrintWindow_Check" key="{20AE79DF-6B00-4B83-A604-D5D08FD0F17A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Plot_PrintWindow_Check" ID="{20AE79DF-6B00-4B83-A604-D5D08FD0F17A}" FileName="Regions\Plot_PrintWindow_Check.png" Update="False" />
+		</child>
+		<child name="Plot_PrintWindow_Check_Mask" key="{97C06D66-3A6A-4D56-A8EE-14F8C8095242}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Plot_PrintWindow_Check_Mask" ID="{97C06D66-3A6A-4D56-A8EE-14F8C8095242}" FileName="Regions\Plot_PrintWindow_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Callout_LinkedView_Check" key="{9A0A85D3-FA5B-46E9-A640-87E9C534DE4B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Callout_LinkedView_Check" ID="{9A0A85D3-FA5B-46E9-A640-87E9C534DE4B}" FileName="Regions\Callout_LinkedView_Check.png" Update="False" />
+		</child>
+		<child name="PlotPDF_Check" key="{3DEB1C9D-608C-4931-87C6-8AB7FFE70964}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PlotPDF_Check" ID="{3DEB1C9D-608C-4931-87C6-8AB7FFE70964}" FileName="Regions\PlotPDF_Check.png" Update="False" />
+		</child>
+		<child name="Plot_PrintWindow_Check_Mask1" key="{6902CDB2-E3F3-4C62-8E72-AFB9521D4827}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Plot_PrintWindow_Check_Mask1" ID="{6902CDB2-E3F3-4C62-8E72-AFB9521D4827}" FileName="Regions\Plot_PrintWindow_Check_Mask1.png" Update="False" />
+		</child>
+		<child name="CalloutLinkedToView_Check" key="{FAA46960-1231-4EFC-A763-601D65CC33CB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CalloutLinkedToView_Check" ID="{FAA46960-1231-4EFC-A763-601D65CC33CB}" FileName="Regions\CalloutLinkedToView_Check.png" Update="False" />
+		</child>
+		<child name="CalloutLinkedToView_Check_Mask" key="{855D7878-736C-4D8B-8CCA-42F8E82E0939}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CalloutLinkedToView_Check_Mask" ID="{855D7878-736C-4D8B-8CCA-42F8E82E0939}" FileName="Regions\CalloutLinkedToView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="PlotPDF_Print_Check" key="{DF33C8E8-E12B-4AFA-BABA-777BAEFBF6B2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PlotPDF_Print_Check" ID="{DF33C8E8-E12B-4AFA-BABA-777BAEFBF6B2}" FileName="Regions\PlotPDF_Print_Check.png" Update="False" />
+		</child>
+		<child name="PlotPDF_Print_Check_Mask" key="{F9E96A5E-8220-4DDE-885D-8DDCDF26F23D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PlotPDF_Print_Check_Mask" ID="{F9E96A5E-8220-4DDE-885D-8DDCDF26F23D}" FileName="Regions\PlotPDF_Print_Check_Mask.png" Update="False" />
+		</child>
+		<child name="PlotPrint_SheetPDF_Check_Mask" key="{D1E0AB2F-851F-45A2-B421-D72FCFDB1E03}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PlotPrint_SheetPDF_Check_Mask" ID="{D1E0AB2F-851F-45A2-B421-D72FCFDB1E03}" FileName="Regions\PlotPrint_SheetPDF_Check_Mask.png" Update="False" />
+		</child>
+	</children>
+</Root>

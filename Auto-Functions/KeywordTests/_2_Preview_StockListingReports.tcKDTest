@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{4A7B3217-629C-4302-9186-331F83C532C4}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.AutoSPRINKx64" Data="61717A6970000000010000003604000078014D536B535347188E33FD017E6807A47EE8271248484A6464305772122233A54CB965DA99963840B8745A2EB90001C4A95443C2A5CA188D1DCCA0858089D21A4A89044E20076B913A8E9F2CFC95FA3EDDB30AD39D7976F79CDDE779F7DD7D5E5BDDF90F14BC9D67BD8AE1F47B9C527CC266ACBD5F7FF7F1AE2F2828F8B8B3B373617070F0CDD0D0D0111B390281C0D1FFE1F7078EFC7EFF91CFE793F18FC7E379C0B867DD6EF79CC56279ABD56A49A3D150696929542A15944A25AAAAAA60B7DB313E3E0EA68D0B170C90D7CF149E81BCBFB5B5F5566F6FEFF6B97315A4D37D4A656565A4516BD81E35EAEBEBB1B9B989643209499290C964F83C914840AFD7A3A8A8088CBBCB205A2D1632198D545959C934B4C4F2413C1E87288A383838402E9743369BC5D6D616E6E7E7110E87613018D1D7D72705834171E3E112FDFE5398166FCEC26830502C76F784F77A2787FCE22F90128BD8DBF803EBEBEBC8E7258C8C8C703ED310274683B4F7A31FD2D415DC9E89E0FEDD18569713F8FBCF67C84F8790D27C88A4BE183BECDFDADA1AA2D128FC3E3FFAFBFB25995F5D5D4D899B5394EFBE885C9B1DE2B7CDC87A1AF1B4BD096B820AAB3A05560D2A6CA792EC1E9EF23C969612F07A7D9C6F3299C8D5DC44BB7722F8EB723BD697177123740D8F16E2C87634205DA540DA590E319D462A99C2CCCC2CE43B92E33388168B95648D899121DA0F7D0F297A1D5FB634D3ECB509DAFADA840D41814C8B0999274FB0B2F290E392FB12CF5FE6CBE7379BCD24D86C948A4ED38B60037E8D4EE3DEEC1472DFE891AD5320F79D0BE9C78F110A4DA2BBBB07CC2B27F1054120ABD5CA35BE72B5D0B37B11BC8C7461FFB715ECB5ABB1E352E0F9D55EDC676FDAD1E1815AAD4671B1F284EF7038C8C6621F6BFC100CD0AB9817AF265BF0BCFB34F6DCA7F0E2C665B81ABEE0714B4A4A98474B387F606040743A9DC47CCA359897F9B87C3B42AFE71AF1F28A12FB031F613F7615B50EBBEC511E5FF628E34A5EAF77BBB6B6966A6A6AB8867C17B2C6E7759FD19D99EBB41A0B532E3E0971F96754B31CB55A1DAF138DA64C8EBFDBD6D636D7D8D8F4AFD379916A1C4C43B0D3B186D964E6EF220836B6E6A08A8A0A2A2F2F67B5A223A3D1F896D5DE2DB97E7B7A7A16C6C6C6DE301C8E8E8E72307F1E1E8379FC50C6F0F030875CEB5D5D5D0F0A0B0BCFFE0794E03827" />
+					<Bitmap Name="Aliases.AutoSPRINKx64.dlg" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023" Data="61717A697000000001000000360400007801C591CD4B024118C69FA03FA03FA163C7E8E0A14BD42528A2637436BC4404753028A420F42044501991111925E42582923A4474F250418720A8285A5357F37B77DD8F59B7D955635D45EAE40CCF30C3F0FCE699F71D1AB375C21836BAF6507555D5816EBAA3A37A5F3954560DED9FE1C006A6466CFF9239B5EE57B81C94620672210D39978294652165E290D2319412EF109867706F8FE05E1E8C77AC7E22145A32C4148352EC15FCC753737F89430323FF4DB324698E8491A3C6D0FF6A7D5F1579902A83F0799A250B45FF4B1386D57F75E4832A8B50250144E70845B46258FD37213FCA44FE1B83D6D5EA8F9C1DA2AC92168CFADE58FD771741689AD6C030D7C4DC5FAB3F79E2852E36E801BBBF88F8F62C626B767CB927C0B846C13807F139DFFFAB88BDB7AEFEBA57BB0D40BDF6835CFAA09CAF433EF5420AAD420CBA200416C0EFCD81DF994671CB817B475F83BF962179EC067BB08CC4AE13F1CD994A0ECF24A22BE3882E0DD32C03460E73FFDBB9FF01EBA33263" />
+					<Bitmap Name="Aliases.AutoSPRINKx64.dlgListAreaProperties" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.AutoSPRINKx64.dlgListAreaProperties.page32770" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.AutoSPRINKx64.dlgListingManager" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.AutoSPRINKx64.dlgListingManager.page32770" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.AutoSPRINKx64.dlgPipelinesMakeOns" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.AutoSPRINKx64.dlgStockListingReports" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.AutoSPRINKx64.wndAfx" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.AutoSPRINKx64.wndAfx.Afx2" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.AutoSPRINKx64.wndAfx.Afx2.Input" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.MEPCRViewer" Data="61717A697000000001000000360400007801BD914D4B024118C7FF411FA08FD0B12F90272F76F05641511B24D10B09BDB89A118250414865A5951525451DB6172B3CB410BA84A0D145B0D8100C2AC94B084694E0C1DBB633B6B65AE921688667E6199EF93DFFE799696AD6D4820E8DBC36C856F76935A8973D797CC60B87C22AA1F2E45F24102353ED57A6BEEECF19BAB1D4C550767D73151B6DEDC57CEA1C46A3116A53B4165A5B70D66F8445ABA52CD9955839CFF33C0441A0F12DA603D37A3DC2EC302EFA7A703E68C0BDC58CAB81012C9A86606AD494D441B4D5FCE3DC2CC2133690DDD9C9C0C51D8077CE53FE4C3E1353DE85D4A1E62391088DC56536B5ECC2984E078F780B6FF812D72CFB8D2DE749DEE48A1BCFFB8778F7F97032C2C2C63058E8EDC5E5A889F2D5EA7F088570E759C35B3088D7631F92CE5924266D940F5BAD0859C7ABD64FEA783A3AC1C3DE2EC49929DC4CD921982D9453F75E5E3FE93F1A8DD27BC99D6DC44F7DD427BCA24BDEEBB7FF537851148B5AE974BAE84B52E1BDD5BCDD6E87C3E180DBED86D7EB05C771F0FBFD08040220F962B11812890452A91432990C72B95C893EE149BC129FCD66299FCFE77FE4FFA2AFEEE53FFD0F0C13FF0C" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgListingManager.page32770.btn4" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnOK" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgPipelinesMakeOns.btn" />
+				</Data>
+			</Operation>
+			<Operation Type="{CAAA7522-FB54-4521-BF2F-29D327FC9341}">
+				<Data Description="Executes the low-level procedure." Action="Execute">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Window" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Low_Level_Print_StockListingReports.MoveMouse" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="20000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="dlgAutoSPRINKAssistantFAB_StocklistingReports_Check">
+					<CommonData WaitTimeout="30000" />
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.AutoSPRINKx64.dlg.Static" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="20" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="dlgAutoSPRINK2023_GenerateStocklisting_Error_Check">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="dlgAutoSPRINK2023_GenerateStocklisting_Error_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnOK" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg.btnX" />
+				</Data>
+			</Operation>
+			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
+				<Data>
+					<CommonData WaitTimeout="2000" />
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023" />
+				</Data>
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnOK" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags the &apos;%n&apos; object." Action="Drag">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ClientX" DefVarType="3" VarType="3" ValueType="1" ValueValue="49" />
+						<Parameter Name="ClientY" DefVarType="3" VarType="3" ValueType="1" ValueValue="11" />
+						<Parameter Name="toX" DefVarType="3" VarType="3" ValueType="1" ValueValue="-79" />
+						<Parameter Name="toY" DefVarType="3" VarType="3" ValueType="1" ValueValue="7" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.editJobNumber" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="999" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.editJobNumber" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags the &apos;%n&apos; object." Action="Drag">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ClientX" DefVarType="3" VarType="3" ValueType="1" ValueValue="84" />
+						<Parameter Name="ClientY" DefVarType="3" VarType="3" ValueType="1" ValueValue="5" />
+						<Parameter Name="toX" DefVarType="3" VarType="3" ValueType="1" ValueValue="-88" />
+						<Parameter Name="toY" DefVarType="3" VarType="3" ValueType="1" ValueValue="5" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.editJobName" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Job" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.editJobName" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="![ReleaseLast]" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.editJobName" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{91E40FC5-34AB-4B37-B86A-789030413699}" Parameter="Job_Name" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.editJobName" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnProperties" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="dlgListAreaProperties_Color_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.AutoSPRINKx64.dlgListAreaProperties" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="dlgListAreaProperties_Color_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="152" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="32" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgListAreaProperties.page32770.Edit" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="TEST" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgListAreaProperties.page32770.Edit" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgListAreaProperties.btnOK" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="dlgStockListingReports_NoReportData_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.dlgStockListingReports, 15, 52, 702, 170, False)" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="426" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="dlgStockListingReports_NoReportData_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnGenerateReportData" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="27500" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="dlgStockListingReports_GenerateReportData_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.dlgStockListingReports, 10, 52, 706, 167, False)" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="643" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="dlgStockListingReports_GenerateReportData_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnDeselectAll" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnSelectAll" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnPreviewReports" />
+				</Data>
+			</Operation>
+			<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
+				<Data Description="Runs a test from the project." TestName="MoveMouse" FullName="Low_Level_Print_StockListingReports - MoveMouse" Path="Low_Level_Print_StockListingReports|MoveMouse" />
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="120000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="OtherPipe_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Other_Pipe" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="OtherPipe_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Other_Pipe" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="WeldedLabelsCutOrder_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Welded_Labels_Cut_Order_" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="952" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="WeldedLabelsCutOrder_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Welded_Labels_Cut_Order_" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="ThreadedLabels_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Threaded_Labels" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="5200" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="ThreadedLabels_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Threaded_Labels" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="CutPipe_Welded_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Cut_Pipe_Welded" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="600" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="CutPipe_Welded_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Cut_Pipe_Welded" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="CutPipe_Threaded_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Cut_Pipe_Threaded" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="CutPipe_Threaded_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Cut_Pipe_Threaded" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="OtherPipelines_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Other_Pipelines" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="OtherPipelines_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Other_Pipelines" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="WeldedPipelines_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Welded_Pipelines" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2500" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="WeldedPipelines_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Welded_Pipelines" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="ThreadedPipelines_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Threaded_Pipelines" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2654" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="ThreadedPipelines_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Threaded_Pipelines" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="Pipelines_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Pipelines" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2500" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="Pipelines_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Pipelines" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="ThreadedBranchlineReport_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Threaded_Branchline_Report" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="ThreadedBranchlineReport_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Threaded_Branchline_Report" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="ThreadedFabrication_BySize_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Threaded_Fabrication_By_Size" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="ThreadedFabrication_BySize_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Threaded_Fabrication_By_Size" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="ThreadedFabricationReport_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Threaded_Fabrication_Report" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="ThreadedFabricationReport_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Threaded_Fabrication_Report" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="WeldedBranchlinesFab_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Welded_Branchlines" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="1945" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="WeldedBranchlinesFab_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Welded_Branchlines" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="WeldedMainsFab_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Welded_Mains" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="1948" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="WeldedMainsFab_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Welded_Mains" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="NonGraphical_WeldedBranchlines_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Non_Graphical_Welded_Branchlines" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2500" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="NonGraphical_WeldedBranchlines_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Non_Graphical_Welded_Branchlines" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="NonGraphical_WeldedMains_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Non_Graphical_Welded_Mains" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2500" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="NonGraphical_WeldedMains_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Non_Graphical_Welded_Mains" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="LooseMaterial_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Loose_Material" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2500" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="LooseMaterial_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Loose_Material" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="SprinklerSummary_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Sprinkler_Summary" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="600" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="SprinklerSummary_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Sprinkler_Summary" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="DetailList_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Detail_List" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="600" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="DetailList_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Detail_List" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="HangerDetail_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Hanger_Detail" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="1941" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="HangerDetail_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Hanger_Detail" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="HangerMaterial_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Hanger_Material" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2500" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="HangerMaterial_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Hanger_Material" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="MaterialSummaryWelded_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Material_Summary_Welded" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2181" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="MaterialSummaryWelded_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Material_Summary_Welded" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="MaterialSummaryThreaded_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Material_Summary_Threaded" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="2165" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="MaterialSummaryThreaded_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Material_Summary_Threaded" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="MaterialSummary_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Material_Summary" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="1300" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="MaterialSummary_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Material_Summary" />
+				</Data>
+			</Operation>
+			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="CoverSheet_Stocklisting_Check">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.MEPCRViewer.Cover_Sheet" />
+						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="1000" />
+						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="CoverSheet_Stocklisting_Check_Mask" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.MEPCRViewer.Cover_Sheet" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="4" Key="{091C6C13-4EDF-46FB-A813-D1987CBBA11E}">
+		<Items>
+			<Variable Name="JobName_Product_Year_BuildNumber" Type="String" Local="False">
+				<DefValue StrValue="AutoSPRINK 2023 v18.1.29" />
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{81169A81-CD76-462B-AE66-11EB3048F476}">
+		<Parameter0 Name="Job_Name" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="AutoSPRINK 2023 v18.1.29" Description="" />
+	</Parameters>
+</Root>

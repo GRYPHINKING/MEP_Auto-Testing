@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{2D89293F-6B07-4679-9906-EFAE4B1A433C}" version="15.0">
+	<children>
+		<child name="Proceedure_InterferenceCheck_AlertsPane" key="{929BC4EC-10A3-40CE-BFE7-E51414D4ED22}" path="Proceedure_InterferenceCheck_AlertsPane.tcLLP" />
+		<child name="Load_Cas" key="{0451B365-F54F-42D5-9A02-5752FC87DA6A}" path="Load_Cas.tcLLP" />
+		<child name="DLPart" key="{D85B7F26-2CF3-426F-929E-E5C4724531AF}" path="DLPart.tcLLP" />
+	</children>
+</Root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="_3_Print_StockListingReports" key="{05659005-A84A-406F-8F0A-DFFC3386F7EA}" path="_3_Print_StockListingReports.tcKDTest" />
+		<child name="_41_Export_ToFAB_FABCloud" key="{8DB237BF-AEA6-44BE-9D16-596F109D2F5F}" path="_41_Export_ToFAB_FABCloud.tcKDTest" />
+		<child name="_2_Preview_StockListingReports" key="{E1FBAD3E-CCB1-49ED-AF43-CA397D98248C}" path="_2_Preview_StockListingReports.tcKDTest" />
+		<child name="_4_Export_StockListingReports" key="{1135AC08-D0AA-48B8-9552-FABBCE5CE3B2}" path="_4_Export_StockListingReports.tcKDTest" />
+	</children>
+</Root>

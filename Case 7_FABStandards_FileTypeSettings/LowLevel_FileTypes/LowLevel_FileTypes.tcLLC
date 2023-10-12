@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{2D89293F-6B07-4679-9906-EFAE4B1A433C}" version="15.0">
+	<children>
+		<child name="Select_HexColor" key="{25AA9997-CE6F-4CDF-8AC7-DE8647DC05C1}" path="Select_HexColor.tcLLP" />
+		<child name="ScrollDown_StartPage" key="{0A9F06EA-DE55-42BC-A84E-9C786E4729D0}" path="ScrollDown_StartPage.tcLLP" />
+	</children>
+</Root>

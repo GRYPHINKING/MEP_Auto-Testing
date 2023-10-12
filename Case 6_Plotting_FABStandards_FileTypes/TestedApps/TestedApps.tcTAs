@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{C47363FD-86B8-4D39-B5CF-B6EC7A44828A}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{0C901C77-0A41-421B-B46B-C23469605BB4}">
+			<config nodeName="msedge" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\VEDIA-VIA-BAT-N_03 Sheet 7.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" userName="" password="" domain="" />
+					<param name="Profile" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\VEDIA-VIA-BAT-N_03 Sheet 7.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\VEDIA-VIA-BAT-N_03 Sheet 7.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" />
+					<param name="Simple" fileName="msedge.exe" filePath="C:\Program Files (x86)\Microsoft\Edge\Application\" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\VEDIA-VIA-BAT-N_03 Sheet 7.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{14A32886-0373-4F35-B48C-2995DC05DA77}">
+			<config nodeName="msedge1" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\VEDIA-VIA-BAT-N_03.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" userName="" password="" domain="" />
+					<param name="Profile" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\VEDIA-VIA-BAT-N_03.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\VEDIA-VIA-BAT-N_03.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" />
+					<param name="Simple" fileName="msedge.exe" filePath="C:\Program Files (x86)\Microsoft\Edge\Application\" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\VEDIA-VIA-BAT-N_03.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{E7C84EBD-5189-4FFA-A55A-821EB61C07DF}">
+			<config nodeName="msedge2" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\AutoSPRINK® 2023 Platinum Print Window.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" userName="" password="" domain="" />
+					<param name="Profile" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\AutoSPRINK® 2023 Platinum Print Window.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\AutoSPRINK® 2023 Platinum Print Window.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" />
+					<param name="Simple" fileName="msedge.exe" filePath="C:\Program Files (x86)\Microsoft\Edge\Application\" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\AutoSPRINK® 2023 Platinum Print Window.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{10E1B688-CD78-41B2-97E9-8C201DB6425D}">
+			<config nodeName="msedge3" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\AutoSPRINK 2023 Platinum Print Window.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" userName="" password="" domain="" />
+					<param name="Profile" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\AutoSPRINK 2023 Platinum Print Window.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\AutoSPRINK 2023 Platinum Print Window.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" />
+					<param name="Simple" fileName="msedge.exe" filePath="C:\Program Files (x86)\Microsoft\Edge\Application\" parameters="--single-argument C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\AutoSPRINK 2023 Platinum Print Window.pdf" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

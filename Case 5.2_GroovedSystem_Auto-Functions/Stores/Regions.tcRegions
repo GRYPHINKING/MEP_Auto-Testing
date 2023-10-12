@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="CleanUpIntersection_Check" key="{7583F340-6B3F-4BA0-849F-5F3F6269E58B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CleanUpIntersection_Check" ID="{7583F340-6B3F-4BA0-849F-5F3F6269E58B}" FileName="Regions\CleanUpIntersection_Check.png" Update="False" />
+		</child>
+		<child name="LayersPane_AutoFunctions_Check" key="{85926129-EA55-479C-997D-0F1341BF22EE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LayersPane_AutoFunctions_Check" ID="{85926129-EA55-479C-997D-0F1341BF22EE}" FileName="Regions\LayersPane_AutoFunctions_Check.png" Update="False" />
+		</child>
+		<child name="LayersPane_AutoFunctions_Check_Mask" key="{140A3D07-6B3F-46EC-9954-424E6231154E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LayersPane_AutoFunctions_Check_Mask" ID="{140A3D07-6B3F-46EC-9954-424E6231154E}" FileName="Regions\LayersPane_AutoFunctions_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_AutoFunctions_Check" key="{4D593776-DFC3-43BA-A564-EDF17C64C7F3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_AutoFunctions_Check" ID="{4D593776-DFC3-43BA-A564-EDF17C64C7F3}" FileName="Regions\Afx_AutoFunctions_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_AutoSize_Check" key="{F8A11179-D598-4581-ACE7-07954F25118C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_AutoSize_Check" ID="{F8A11179-D598-4581-ACE7-07954F25118C}" FileName="Regions\dlgAutoSPRINK2023_AutoSize_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_AutoSize_Check_Mask" key="{6B7FC1C9-9532-4E08-94A1-C916C42B1784}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_AutoSize_Check_Mask" ID="{6B7FC1C9-9532-4E08-94A1-C916C42B1784}" FileName="Regions\dlgAutoSPRINK2023_AutoSize_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgProperties_CapHarminization_Check" key="{E20F9FC1-1F0C-440E-9C2F-9EF43EBA9627}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgProperties_CapHarminization_Check" ID="{E20F9FC1-1F0C-440E-9C2F-9EF43EBA9627}" FileName="Regions\dlgProperties_CapHarminization_Check.png" Update="False" />
+		</child>
+		<child name="dlgProperties_CapHarminization_Check_Mask" key="{607A033A-BCF2-4358-B880-85DA018919B8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgProperties_CapHarminization_Check_Mask" ID="{607A033A-BCF2-4358-B880-85DA018919B8}" FileName="Regions\dlgProperties_CapHarminization_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_RemoteArea_Check" key="{88E62A97-4BBC-4094-B827-C30A4DE7E2ED}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_RemoteArea_Check" ID="{88E62A97-4BBC-4094-B827-C30A4DE7E2ED}" FileName="Regions\Afx_RemoteArea_Check.png" Update="False" />
+		</child>
+		<child name="Afx_RemoteArea_Check_Mask" key="{E4CD2D2F-EAC2-4A31-937F-B87E2AB8E712}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_RemoteArea_Check_Mask" ID="{E4CD2D2F-EAC2-4A31-937F-B87E2AB8E712}" FileName="Regions\Afx_RemoteArea_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgSystemOptimizer_Check" key="{2F9BB4CB-C6C6-41C4-8911-1F840ABD8873}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgSystemOptimizer_Check" ID="{2F9BB4CB-C6C6-41C4-8911-1F840ABD8873}" FileName="Regions\dlgSystemOptimizer_Check.png" Update="False" />
+		</child>
+		<child name="dlgSystemOptimizer_Check_Mask" key="{7330BC9F-1207-498F-A4D9-6825FAE80C18}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgSystemOptimizer_Check_Mask" ID="{7330BC9F-1207-498F-A4D9-6825FAE80C18}" FileName="Regions\dlgSystemOptimizer_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_RemoteAreaTable_Check" key="{43B53C47-3706-4B40-BD60-5ADF52F9CB59}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_RemoteAreaTable_Check" ID="{43B53C47-3706-4B40-BD60-5ADF52F9CB59}" FileName="Regions\Afx_RemoteAreaTable_Check.png" Update="False" />
+		</child>
+		<child name="Afx_AutoPeak_Check" key="{61E1C67A-D477-4836-85F8-A36FED983548}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_AutoPeak_Check" ID="{61E1C67A-D477-4836-85F8-A36FED983548}" FileName="Regions\Afx_AutoPeak_Check.png" Update="False" />
+		</child>
+		<child name="Afx_AutoPeak_Check_Mask" key="{FD42C897-FC61-47FD-B9E8-22D878FC5E4C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_AutoPeak_Check_Mask" ID="{FD42C897-FC61-47FD-B9E8-22D878FC5E4C}" FileName="Regions\Afx_AutoPeak_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINKAssistant_AutoFunctions_Check" key="{EE5FAEFF-4CF0-4410-B20F-12F6CAB0F5ED}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINKAssistant_AutoFunctions_Check" ID="{EE5FAEFF-4CF0-4410-B20F-12F6CAB0F5ED}" FileName="Regions\dlgAutoSPRINKAssistant_AutoFunctions_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINKAssistant_AutoFunctions_Check_Mask" key="{F402E973-AA5D-409A-A0BE-F20B80D522DA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINKAssistant_AutoFunctions_Check_Mask" ID="{F402E973-AA5D-409A-A0BE-F20B80D522DA}" FileName="Regions\dlgAutoSPRINKAssistant_AutoFunctions_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_RemoteAreaTable2_Check" key="{78E7984A-A89F-40FA-A9E7-D8ADCBE63EA1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_RemoteAreaTable2_Check" ID="{78E7984A-A89F-40FA-A9E7-D8ADCBE63EA1}" FileName="Regions\Afx_RemoteAreaTable2_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINKAssistant_AnalysisReport_Check" key="{B32379F3-E8D5-4F88-AAC1-655BD07EEDFB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINKAssistant_AnalysisReport_Check" ID="{B32379F3-E8D5-4F88-AAC1-655BD07EEDFB}" FileName="Regions\dlgAutoSPRINKAssistant_AnalysisReport_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINKAssistant_AnalysisReport_Check_Mask" key="{EFC5756B-9EB8-4AA3-A41B-7EFA4A607549}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINKAssistant_AnalysisReport_Check_Mask" ID="{EFC5756B-9EB8-4AA3-A41B-7EFA4A607549}" FileName="Regions\dlgAutoSPRINKAssistant_AnalysisReport_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlg_HydroAnalysis_Check" key="{BC78E10E-8468-4DBF-8AC2-8B5DA92C10CC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlg_HydroAnalysis_Check" ID="{BC78E10E-8468-4DBF-8AC2-8B5DA92C10CC}" FileName="Regions\dlg_HydroAnalysis_Check.png" Update="False" />
+		</child>
+		<child name="dlg_HydroAnalysis_Check_Mask" key="{6683DD56-7503-4CA0-B656-4F04F7065400}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlg_HydroAnalysis_Check_Mask" ID="{6683DD56-7503-4CA0-B656-4F04F7065400}" FileName="Regions\dlg_HydroAnalysis_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_DrawRABoudary_Flow_Check" key="{42007761-5D95-44B9-BF8C-1508D6B04B8D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_DrawRABoudary_Flow_Check" ID="{42007761-5D95-44B9-BF8C-1508D6B04B8D}" FileName="Regions\dlgAutoSPRINK2023_DrawRABoudary_Flow_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_DrawRABoudary_Flow_Check_Mask" key="{0F883FFF-3FCA-4B36-B095-236EED02A0E7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_DrawRABoudary_Flow_Check_Mask" ID="{0F883FFF-3FCA-4B36-B095-236EED02A0E7}" FileName="Regions\dlgAutoSPRINK2023_DrawRABoudary_Flow_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgProperties_NodTagDialog_Check" key="{6D0D2444-7F09-43B8-936C-719E290725DE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgProperties_NodTagDialog_Check" ID="{6D0D2444-7F09-43B8-936C-719E290725DE}" FileName="Regions\dlgProperties_NodTagDialog_Check.png" Update="False" />
+		</child>
+		<child name="dlgProperties_NodTagDialog_Check_Mask" key="{0EC48AF0-B552-4436-8FE5-FE095941CED6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgProperties_NodTagDialog_Check_Mask" ID="{0EC48AF0-B552-4436-8FE5-FE095941CED6}" FileName="Regions\dlgProperties_NodTagDialog_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_ShowLeaks_Check" key="{9B4BDA67-F303-4860-B94D-C4400572C425}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ShowLeaks_Check" ID="{9B4BDA67-F303-4860-B94D-C4400572C425}" FileName="Regions\Afx_ShowLeaks_Check.png" Update="False" />
+		</child>
+		<child name="AfxFrameOrView140u_RiserTag_Check" key="{5BE82892-0335-4F79-B4B0-F20B79800B6A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AfxFrameOrView140u_RiserTag_Check" ID="{5BE82892-0335-4F79-B4B0-F20B79800B6A}" FileName="Regions\AfxFrameOrView140u_RiserTag_Check.png" Update="False" />
+		</child>
+		<child name="Afx_RenumberNodeTags_Check" key="{EA0A13E7-C3B6-4BA7-9C71-A3F7D4B451F0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_RenumberNodeTags_Check" ID="{EA0A13E7-C3B6-4BA7-9C71-A3F7D4B451F0}" FileName="Regions\Afx_RenumberNodeTags_Check.png" Update="False" />
+		</child>
+		<child name="Afx_RenumberNodeTags_Check_Mask" key="{E9B6B8AD-F766-4A82-9097-BAB3FC96FFD2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_RenumberNodeTags_Check_Mask" ID="{E9B6B8AD-F766-4A82-9097-BAB3FC96FFD2}" FileName="Regions\Afx_RenumberNodeTags_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_UpdateNodeTags_Check" key="{77245C07-6F25-4F29-AD07-724960767280}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_UpdateNodeTags_Check" ID="{77245C07-6F25-4F29-AD07-724960767280}" FileName="Regions\Afx_UpdateNodeTags_Check.png" Update="False" />
+		</child>
+		<child name="Afx_UpdateNodeTags_Check_Mask" key="{75FBC971-566D-40E5-82B0-83A138B5550B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_UpdateNodeTags_Check_Mask" ID="{75FBC971-566D-40E5-82B0-83A138B5550B}" FileName="Regions\Afx_UpdateNodeTags_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_Check" key="{5C8BE4F1-7226-4906-8A5C-324733DD3A76}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_Check" ID="{5C8BE4F1-7226-4906-8A5C-324733DD3A76}" FileName="Regions\Afx_ColorPipesBy_Check.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_Check_Mask" key="{C2CFA859-3855-40DE-B608-DD587AE247A0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_Check_Mask" ID="{C2CFA859-3855-40DE-B608-DD587AE247A0}" FileName="Regions\Afx_ColorPipesBy_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_OverMaxVelocity_Check" key="{5517405A-E77F-466A-A626-B7FB6C70DAC4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_OverMaxVelocity_Check" ID="{5517405A-E77F-466A-A626-B7FB6C70DAC4}" FileName="Regions\Afx_ColorPipesBy_OverMaxVelocity_Check.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_OverMaxVelocity_Check_Mask" key="{23D459DE-DD1C-4343-8104-D1DF9908308F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_OverMaxVelocity_Check_Mask" ID="{23D459DE-DD1C-4343-8104-D1DF9908308F}" FileName="Regions\Afx_ColorPipesBy_OverMaxVelocity_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_Flow_Check" key="{CB014775-F66E-4726-9D83-0C35193FFEAD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_Flow_Check" ID="{CB014775-F66E-4726-9D83-0C35193FFEAD}" FileName="Regions\Afx_ColorPipesBy_Flow_Check.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_Flow_Check_Mask" key="{E7ED4D03-AC5A-4141-925A-12C3E6DC8B0B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_Flow_Check_Mask" ID="{E7ED4D03-AC5A-4141-925A-12C3E6DC8B0B}" FileName="Regions\Afx_ColorPipesBy_Flow_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_Pressure_Check" key="{67511296-BE24-4C26-8372-F40D4CDC0CD3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_Pressure_Check" ID="{67511296-BE24-4C26-8372-F40D4CDC0CD3}" FileName="Regions\Afx_ColorPipesBy_Pressure_Check.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_Pressure_Check_Mask" key="{BB82F0CE-A218-4358-8504-97277044019F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_Pressure_Check_Mask" ID="{BB82F0CE-A218-4358-8504-97277044019F}" FileName="Regions\Afx_ColorPipesBy_Pressure_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx__ColorPipesBy_PressureLostPerUnitLength_Check" key="{E89669BB-0ECE-42F1-A19B-FCAA48BDEFB9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx__ColorPipesBy_PressureLostPerUnitLength_Check" ID="{E89669BB-0ECE-42F1-A19B-FCAA48BDEFB9}" FileName="Regions\Afx__ColorPipesBy_PressureLostPerUnitLength_Check.png" Update="False" />
+		</child>
+		<child name="Afx__ColorPipesBy_PressureLostPerUnitLength_Check_Mask" key="{62508548-C2C3-4B38-8706-8859A77483F7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx__ColorPipesBy_PressureLostPerUnitLength_Check_Mask" ID="{62508548-C2C3-4B38-8706-8859A77483F7}" FileName="Regions\Afx__ColorPipesBy_PressureLostPerUnitLength_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_HydraulicDistanceFromSupply_Check" key="{44B4F9E7-0EE4-4298-BD3A-A091C64B4AA9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_HydraulicDistanceFromSupply_Check" ID="{44B4F9E7-0EE4-4298-BD3A-A091C64B4AA9}" FileName="Regions\Afx_ColorPipesBy_HydraulicDistanceFromSupply_Check.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_HydraulicDistanceFromSupply_Check_Mask" key="{F827C846-D0FD-40BE-AD0A-263477865094}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_HydraulicDistanceFromSupply_Check_Mask" ID="{F827C846-D0FD-40BE-AD0A-263477865094}" FileName="Regions\Afx_ColorPipesBy_HydraulicDistanceFromSupply_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_LinearDistanceFromSupply_Check" key="{256AC5BE-5EC5-4C8B-96AD-062E890B3D61}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_LinearDistanceFromSupply_Check" ID="{256AC5BE-5EC5-4C8B-96AD-062E890B3D61}" FileName="Regions\Afx_ColorPipesBy_LinearDistanceFromSupply_Check.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_LinearDistanceFromSupply_Check_Mask" key="{E0590BC4-755E-4677-825D-8388F0BFDB75}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_LinearDistanceFromSupply_Check_Mask" ID="{E0590BC4-755E-4677-825D-8388F0BFDB75}" FileName="Regions\Afx_ColorPipesBy_LinearDistanceFromSupply_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_AbilityToFlowFromSupply_Check" key="{A8A1BE7A-47BB-42AA-A24C-9F451DD1C4FF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_AbilityToFlowFromSupply_Check" ID="{A8A1BE7A-47BB-42AA-A24C-9F451DD1C4FF}" FileName="Regions\Afx_ColorPipesBy_AbilityToFlowFromSupply_Check.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_AbilityToFlowFromSupply_Check_Mask" key="{B920EA44-9A7F-46B8-B7A8-DB19B3F41D63}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_AbilityToFlowFromSupply_Check_Mask" ID="{B920EA44-9A7F-46B8-B7A8-DB19B3F41D63}" FileName="Regions\Afx_ColorPipesBy_AbilityToFlowFromSupply_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_Diameter_Check" key="{8EFC4608-8A56-4F42-98D4-2EB22E669F76}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_Diameter_Check" ID="{8EFC4608-8A56-4F42-98D4-2EB22E669F76}" FileName="Regions\Afx_ColorPipesBy_Diameter_Check.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_Diameter_Check_Mask" key="{6D67DC25-D370-481B-9B97-7037906C8208}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_Diameter_Check_Mask" ID="{6D67DC25-D370-481B-9B97-7037906C8208}" FileName="Regions\Afx_ColorPipesBy_Diameter_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_DefaultElement_Check" key="{E664C724-27DF-4528-B1E6-69A6105B1686}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_DefaultElement_Check" ID="{E664C724-27DF-4528-B1E6-69A6105B1686}" FileName="Regions\Afx_ColorPipesBy_DefaultElement_Check.png" Update="False" />
+		</child>
+		<child name="Afx_ColorPipesBy_DefaultElement_Check_Mask" key="{1679D405-0D97-4650-9B2C-66ED0A630643}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_ColorPipesBy_DefaultElement_Check_Mask" ID="{1679D405-0D97-4650-9B2C-66ED0A630643}" FileName="Regions\Afx_ColorPipesBy_DefaultElement_Check_Mask.png" Update="False" />
+		</child>
+		<child name="AfxCleanUpNodeTags_Check" key="{40A7803A-A472-4397-90D4-4DD7ABD9DE5F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AfxCleanUpNodeTags_Check" ID="{40A7803A-A472-4397-90D4-4DD7ABD9DE5F}" FileName="Regions\AfxCleanUpNodeTags_Check.png" Update="False" />
+		</child>
+		<child name="AfxCleanUpNodeTags_Check_Mask" key="{C76D35B3-D077-4983-925E-95B8E7782005}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AfxCleanUpNodeTags_Check_Mask" ID="{C76D35B3-D077-4983-925E-95B8E7782005}" FileName="Regions\AfxCleanUpNodeTags_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_SelectAll_Sprinklers_Check" key="{E8B27DD1-4F9C-4D47-9EFE-A076A1FF030F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_SelectAll_Sprinklers_Check" ID="{E8B27DD1-4F9C-4D47-9EFE-A076A1FF030F}" FileName="Regions\Afx_SelectAll_Sprinklers_Check.png" Update="False" />
+		</child>
+		<child name="Afx_SelectAll_Sprinklers_Check_Mask" key="{047D90C3-518B-4E98-AD0E-6DC91C96A85B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_SelectAll_Sprinklers_Check_Mask" ID="{047D90C3-518B-4E98-AD0E-6DC91C96A85B}" FileName="Regions\Afx_SelectAll_Sprinklers_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Grooved_AutoSizingErrors_Check" key="{B9F78FB8-B2D1-47B4-BB10-EFB328820ABD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Grooved_AutoSizingErrors_Check" ID="{B9F78FB8-B2D1-47B4-BB10-EFB328820ABD}" FileName="Regions\Grooved_AutoSizingErrors_Check.png" Update="False" />
+		</child>
+		<child name="Grooved_AutoSizingErrors_Check_Mask" key="{E1B0B79F-89C9-43B3-A385-A3281F2BBC67}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Grooved_AutoSizingErrors_Check_Mask" ID="{E1B0B79F-89C9-43B3-A385-A3281F2BBC67}" FileName="Regions\Grooved_AutoSizingErrors_Check_Mask.png" Update="False" />
+		</child>
+		<child name="GroovedHangerFail_Check" key="{284C2548-9E38-486E-822F-C2AA746B09AE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="GroovedHangerFail_Check" ID="{284C2548-9E38-486E-822F-C2AA746B09AE}" FileName="Regions\GroovedHangerFail_Check.png" Update="False" />
+		</child>
+		<child name="GroovedHangerFail_Check_Mask" key="{0E83751F-DBDA-40E3-A900-CE1CF241FD52}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="GroovedHangerFail_Check_Mask" ID="{0E83751F-DBDA-40E3-A900-CE1CF241FD52}" FileName="Regions\GroovedHangerFail_Check_Mask.png" Update="False" />
+		</child>
+		<child name="AutoFunctions_Grooved_Check" key="{ED847950-D5A2-4C00-86AF-EFF70ED8079E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AutoFunctions_Grooved_Check" ID="{ED847950-D5A2-4C00-86AF-EFF70ED8079E}" FileName="Regions\AutoFunctions_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="AutoFunctions_Grooved_Check_Mask" key="{04DD765D-1EF5-4FF7-ADD3-C1CA73D3AABE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AutoFunctions_Grooved_Check_Mask" ID="{04DD765D-1EF5-4FF7-ADD3-C1CA73D3AABE}" FileName="Regions\AutoFunctions_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="RA_Grooved_Check" key="{540A8165-C2A0-45BA-AEDC-F68405662D3C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RA_Grooved_Check" ID="{540A8165-C2A0-45BA-AEDC-F68405662D3C}" FileName="Regions\RA_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="RA_Grooved_Check_Mask" key="{1ED1EE7D-81BF-4192-B15F-2002DC7CAA49}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RA_Grooved_Check_Mask" ID="{1ED1EE7D-81BF-4192-B15F-2002DC7CAA49}" FileName="Regions\RA_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="SystemOptimizer_Grooved_Check" key="{97418E04-BD83-437D-91A8-D91BE49A7F00}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SystemOptimizer_Grooved_Check" ID="{97418E04-BD83-437D-91A8-D91BE49A7F00}" FileName="Regions\SystemOptimizer_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="SystemOptimizer_Grooved_Check_Mask" key="{46285B76-90CE-476F-B074-3B232BE7C525}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SystemOptimizer_Grooved_Check_Mask" ID="{46285B76-90CE-476F-B074-3B232BE7C525}" FileName="Regions\SystemOptimizer_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="RATable_Grooved_Check" key="{3026F4DC-6862-46AE-9EBC-A7DE808D6EFD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RATable_Grooved_Check" ID="{3026F4DC-6862-46AE-9EBC-A7DE808D6EFD}" FileName="Regions\RATable_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="RATable_Grooved_Check_Mask" key="{B78CBAF1-208B-4735-A301-3E613BCA5979}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RATable_Grooved_Check_Mask" ID="{B78CBAF1-208B-4735-A301-3E613BCA5979}" FileName="Regions\RATable_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="AutoPeak_Grooved_Check" key="{BCC3FBE8-28D2-41B7-8688-239B50069DF6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AutoPeak_Grooved_Check" ID="{BCC3FBE8-28D2-41B7-8688-239B50069DF6}" FileName="Regions\AutoPeak_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="AutoPeak_Grooved_Check_Mask" key="{C798CBAB-7537-45EA-AA5D-7769400F909D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AutoPeak_Grooved_Check_Mask" ID="{C798CBAB-7537-45EA-AA5D-7769400F909D}" FileName="Regions\AutoPeak_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="HydroAnalysis_Grooved_Check" key="{A4C4681B-139B-4AE6-B989-BC609CA6FE00}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="HydroAnalysis_Grooved_Check" ID="{A4C4681B-139B-4AE6-B989-BC609CA6FE00}" FileName="Regions\HydroAnalysis_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="HydroAnalysis_Grooved_Check_Mask" key="{2B5C7392-38EF-4EF3-A0AA-8E736400E770}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="HydroAnalysis_Grooved_Check_Mask" ID="{2B5C7392-38EF-4EF3-A0AA-8E736400E770}" FileName="Regions\HydroAnalysis_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ShowLeaks_Grooved_Check" key="{C585E84B-C5E1-44D6-8727-F77B219B7FF8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ShowLeaks_Grooved_Check" ID="{C585E84B-C5E1-44D6-8727-F77B219B7FF8}" FileName="Regions\ShowLeaks_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="ShowLeaks_Grooved_Check_Mask" key="{F9A543FD-3AA2-46F2-8051-EE9D20CCC94A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ShowLeaks_Grooved_Check_Mask" ID="{F9A543FD-3AA2-46F2-8051-EE9D20CCC94A}" FileName="Regions\ShowLeaks_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="RiserTag_Grooved_Check" key="{89AF1F04-D61F-47B5-8D84-472AC5AD3469}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RiserTag_Grooved_Check" ID="{89AF1F04-D61F-47B5-8D84-472AC5AD3469}" FileName="Regions\RiserTag_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="RiserTag_Grooved_Check_Mask" key="{637E4157-80FD-434D-8DBA-2B4869CE3CA0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RiserTag_Grooved_Check_Mask" ID="{637E4157-80FD-434D-8DBA-2B4869CE3CA0}" FileName="Regions\RiserTag_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="RenumberNodeTags_Grooved_Check" key="{D1C71065-9843-46EE-8449-8E502721DB52}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RenumberNodeTags_Grooved_Check" ID="{D1C71065-9843-46EE-8449-8E502721DB52}" FileName="Regions\RenumberNodeTags_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="RenumberNodeTags_Grooved_Check_Mask" key="{252F3286-C95E-4BA0-AA8A-172E1DE31393}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="RenumberNodeTags_Grooved_Check_Mask" ID="{252F3286-C95E-4BA0-AA8A-172E1DE31393}" FileName="Regions\RenumberNodeTags_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ColorPipes1_Grooved_Check" key="{6ED2E52A-143D-4096-93E6-1722E25BD75B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ColorPipes1_Grooved_Check" ID="{6ED2E52A-143D-4096-93E6-1722E25BD75B}" FileName="Regions\ColorPipes1_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="ColorPipes1_Grooved_Check_Mask" key="{09C5E96A-C121-4C27-B1E5-F7C0379AB6C3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ColorPipes1_Grooved_Check_Mask" ID="{09C5E96A-C121-4C27-B1E5-F7C0379AB6C3}" FileName="Regions\ColorPipes1_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="OverMaxVelocity_Grooved_Check" key="{0EAEA901-FB70-45AD-BCBC-7BB040C4C3A1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="OverMaxVelocity_Grooved_Check" ID="{0EAEA901-FB70-45AD-BCBC-7BB040C4C3A1}" FileName="Regions\OverMaxVelocity_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="OverMaxVelocity_Grooved_Check_Mask" key="{764895ED-C422-4E4B-963A-C8850CA32BBD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="OverMaxVelocity_Grooved_Check_Mask" ID="{764895ED-C422-4E4B-963A-C8850CA32BBD}" FileName="Regions\OverMaxVelocity_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Flow_Grooved_Check" key="{77EC1B71-BF77-4870-A0B6-B56C6731C009}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Flow_Grooved_Check" ID="{77EC1B71-BF77-4870-A0B6-B56C6731C009}" FileName="Regions\Flow_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="Flow_Grooved_Check_Mask" key="{E080647A-07C5-459B-978B-0AB25B839CC2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Flow_Grooved_Check_Mask" ID="{E080647A-07C5-459B-978B-0AB25B839CC2}" FileName="Regions\Flow_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Pressure_Grooved_Check" key="{E4165AD2-1576-40CC-80B2-FD95FA723413}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Pressure_Grooved_Check" ID="{E4165AD2-1576-40CC-80B2-FD95FA723413}" FileName="Regions\Pressure_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="Pressure_Grooved_Check_Mask" key="{03BA5C39-8A76-4CFB-8E7D-E803F8A687B0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Pressure_Grooved_Check_Mask" ID="{03BA5C39-8A76-4CFB-8E7D-E803F8A687B0}" FileName="Regions\Pressure_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="PressureLostByUnitLength_Grooved_Check" key="{576B4BDB-9A1B-4A23-BB08-813FF9ED2441}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PressureLostByUnitLength_Grooved_Check" ID="{576B4BDB-9A1B-4A23-BB08-813FF9ED2441}" FileName="Regions\PressureLostByUnitLength_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="PressureLostByUnitLength_Grooved_Check_Mask" key="{7527096C-2D28-43AC-BD65-C187A9F7052F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PressureLostByUnitLength_Grooved_Check_Mask" ID="{7527096C-2D28-43AC-BD65-C187A9F7052F}" FileName="Regions\PressureLostByUnitLength_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="HydroDistFromSuppy_Grooved_Check" key="{7121BF31-F8A2-42A6-BFB6-7837092155B8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="HydroDistFromSuppy_Grooved_Check" ID="{7121BF31-F8A2-42A6-BFB6-7837092155B8}" FileName="Regions\HydroDistFromSuppy_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="HydroDistFromSuppy_Grooved_Check_Mask" key="{0430191C-8807-4AA8-929B-0F0EA678E5CB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="HydroDistFromSuppy_Grooved_Check_Mask" ID="{0430191C-8807-4AA8-929B-0F0EA678E5CB}" FileName="Regions\HydroDistFromSuppy_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="LinearDistFromSupply_Grooved_Check" key="{76C104EC-532F-45DA-8ABB-18E8B76DDEC8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LinearDistFromSupply_Grooved_Check" ID="{76C104EC-532F-45DA-8ABB-18E8B76DDEC8}" FileName="Regions\LinearDistFromSupply_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="LinearDistFromSupply_Grooved_Check_Mask" key="{56E201B1-E3D8-4F37-9735-1A5F915A4467}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LinearDistFromSupply_Grooved_Check_Mask" ID="{56E201B1-E3D8-4F37-9735-1A5F915A4467}" FileName="Regions\LinearDistFromSupply_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="AbilityToFlowFromSupply_Grooved_Check" key="{3A2F1F22-3B7F-480A-8575-D2F5918E7F28}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AbilityToFlowFromSupply_Grooved_Check" ID="{3A2F1F22-3B7F-480A-8575-D2F5918E7F28}" FileName="Regions\AbilityToFlowFromSupply_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="AbilityToFlowFromSupply_Grooved_Check_Mask" key="{3FD2F747-EBE5-4D25-BF5C-633F48342D6F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AbilityToFlowFromSupply_Grooved_Check_Mask" ID="{3FD2F747-EBE5-4D25-BF5C-633F48342D6F}" FileName="Regions\AbilityToFlowFromSupply_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Diameter_Grooved_Check" key="{27B4E407-1C9E-48FB-93ED-B145EB565A40}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Diameter_Grooved_Check" ID="{27B4E407-1C9E-48FB-93ED-B145EB565A40}" FileName="Regions\Diameter_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="Diameter_Grooved_Check_Mask" key="{BBB2F941-6F92-41A1-988D-74C301020B16}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Diameter_Grooved_Check_Mask" ID="{BBB2F941-6F92-41A1-988D-74C301020B16}" FileName="Regions\Diameter_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DefaultElement_Grooved_Check" key="{DE7BEF97-FFF2-4F5E-867D-C923CFDC72BF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DefaultElement_Grooved_Check" ID="{DE7BEF97-FFF2-4F5E-867D-C923CFDC72BF}" FileName="Regions\DefaultElement_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="DefaultElement_Grooved_Check_Mask" key="{4731A0AD-99DA-4A6C-8D63-A20DB48CCA03}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DefaultElement_Grooved_Check_Mask" ID="{4731A0AD-99DA-4A6C-8D63-A20DB48CCA03}" FileName="Regions\DefaultElement_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="CleanUpNodeTags_Grooved_Check" key="{0C1CFCA1-9BB6-4EF1-A7CB-C4947B17D38F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CleanUpNodeTags_Grooved_Check" ID="{0C1CFCA1-9BB6-4EF1-A7CB-C4947B17D38F}" FileName="Regions\CleanUpNodeTags_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="CleanUpNodeTags_Grooved_Check_Mask" key="{5600108E-2061-4CAC-B16A-D5C9B6373E98}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CleanUpNodeTags_Grooved_Check_Mask" ID="{5600108E-2061-4CAC-B16A-D5C9B6373E98}" FileName="Regions\CleanUpNodeTags_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="SelectAllSprinklers_Grooved_Check" key="{8D8E9D8F-9AD5-4DA2-97D8-56FB1DBA5F01}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SelectAllSprinklers_Grooved_Check" ID="{8D8E9D8F-9AD5-4DA2-97D8-56FB1DBA5F01}" FileName="Regions\SelectAllSprinklers_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="SelectAllSprinklers_Grooved_Check_Mask" key="{65A517F4-3492-44E6-8636-2C0E0F26F96B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SelectAllSprinklers_Grooved_Check_Mask" ID="{65A517F4-3492-44E6-8636-2C0E0F26F96B}" FileName="Regions\SelectAllSprinklers_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="MaintainConnections_Grooved_Check" key="{67E9F8BB-45E2-41B3-87F8-342FD7D01A52}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="MaintainConnections_Grooved_Check" ID="{67E9F8BB-45E2-41B3-87F8-342FD7D01A52}" FileName="Regions\MaintainConnections_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="MaintainConnections_Grooved_Check_Mask" key="{852B98A0-E638-47CC-861C-77FF77F4A763}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="MaintainConnections_Grooved_Check_Mask" ID="{852B98A0-E638-47CC-861C-77FF77F4A763}" FileName="Regions\MaintainConnections_Grooved_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NodeTag_Grooved_Check" key="{FD5BF26A-788B-4308-B96D-F0EB2527F231}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NodeTag_Grooved_Check" ID="{FD5BF26A-788B-4308-B96D-F0EB2527F231}" FileName="Regions\NodeTag_Grooved_Check.png" Update="False" />
+		</child>
+		<child name="NodeTag_Grooved_Check_Mask" key="{F634BAA0-EF23-42F1-971D-918BDB134D6F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NodeTag_Grooved_Check_Mask" ID="{F634BAA0-EF23-42F1-971D-918BDB134D6F}" FileName="Regions\NodeTag_Grooved_Check_Mask.png" Update="False" />
+		</child>
+	</children>
+</Root>

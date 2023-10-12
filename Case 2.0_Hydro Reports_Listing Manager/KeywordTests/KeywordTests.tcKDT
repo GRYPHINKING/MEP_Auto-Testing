@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="_1_Enter_ProjectInformation" key="{68F55639-1F6A-46C2-9B6F-FF25ACCE7E6C}" path="_1_Enter_ProjectInformation.tcKDTest" />
+		<child name="_0_Open_CompletedGridWizard" key="{73452443-E16D-47E4-914C-8865F09DCEDD}" path="_0_Open_CompletedGridWizard.tcKDTest" />
+	</children>
+</Root>

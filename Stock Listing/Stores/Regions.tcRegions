@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="P2S1_Check" key="{4C8E7B72-3B2C-4D8A-832E-EEEF7E0F9E20}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S1_Check" ID="{4C8E7B72-3B2C-4D8A-832E-EEEF7E0F9E20}" FileName="Regions\P2S1_Check.png" Update="False" />
+		</child>
+		<child name="P2S2_Check" key="{6C25D7B3-A781-48C8-A5E9-2A3A8A4FE784}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S2_Check" ID="{6C25D7B3-A781-48C8-A5E9-2A3A8A4FE784}" FileName="Regions\P2S2_Check.png" Update="False" />
+		</child>
+		<child name="P2S3_Check" key="{70CA07B9-77B4-4673-AD1A-325B2632FB58}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S3_Check" ID="{70CA07B9-77B4-4673-AD1A-325B2632FB58}" FileName="Regions\P2S3_Check.png" Update="False" />
+		</child>
+		<child name="P2S4_Check" key="{5D26A78E-B9B7-4CF4-A87A-184743EDD3F8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S4_Check" ID="{5D26A78E-B9B7-4CF4-A87A-184743EDD3F8}" FileName="Regions\P2S4_Check.png" Update="False" />
+		</child>
+		<child name="P2S5_Check" key="{DA7EF762-CBA4-49E2-B9BE-DCC31CB5BABF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S5_Check" ID="{DA7EF762-CBA4-49E2-B9BE-DCC31CB5BABF}" FileName="Regions\P2S5_Check.png" Update="False" />
+		</child>
+		<child name="P2S1_Check_Mask" key="{A19F16EA-1B1C-4EB1-85C2-51D10A2A2D84}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S1_Check_Mask" ID="{A19F16EA-1B1C-4EB1-85C2-51D10A2A2D84}" FileName="Regions\P2S1_Check_Mask.png" Update="False" />
+		</child>
+		<child name="P2S2_Check_Mask" key="{3EB244EC-589A-46CB-94BE-E5F16E4AD780}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S2_Check_Mask" ID="{3EB244EC-589A-46CB-94BE-E5F16E4AD780}" FileName="Regions\P2S2_Check_Mask.png" Update="False" />
+		</child>
+		<child name="P2S3_Check_Mask" key="{A5C8573C-ACE1-4A31-B211-0BEF558AFD30}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S3_Check_Mask" ID="{A5C8573C-ACE1-4A31-B211-0BEF558AFD30}" FileName="Regions\P2S3_Check_Mask.png" Update="False" />
+		</child>
+		<child name="P2S4_Check_Mask" key="{59AA2F6F-9E96-4914-930B-057A4FF548F5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S4_Check_Mask" ID="{59AA2F6F-9E96-4914-930B-057A4FF548F5}" FileName="Regions\P2S4_Check_Mask.png" Update="False" />
+		</child>
+		<child name="P2S5_Check_Mask" key="{86EA8882-A003-4FB9-B03B-19F5FDD44D5C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S5_Check_Mask" ID="{86EA8882-A003-4FB9-B03B-19F5FDD44D5C}" FileName="Regions\P2S5_Check_Mask.png" Update="False" />
+		</child>
+	</children>
+</Root>

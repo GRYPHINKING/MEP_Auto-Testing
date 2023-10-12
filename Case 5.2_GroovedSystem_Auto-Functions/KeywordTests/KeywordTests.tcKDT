@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="_1_GroovedSystem_AutoFunctions" key="{81DAA87D-032E-49DF-8172-C4227E942A9D}" path="_1_GroovedSystem_AutoFunctions.tcKDTest" />
+		<child name="_2_GroovedSystem_RemoteArea_Tags" key="{6B024E4A-1E02-45E8-8D05-1F6D3630B1DF}" path="_2_GroovedSystem_RemoteArea_Tags.tcKDTest" />
+		<child name="_3_GroovedSystem_ColorBy_SelectAllSprinks" key="{18B5DBF8-17A5-41F2-82B3-0657210E239E}" path="_3_GroovedSystem_ColorBy_SelectAllSprinks.tcKDTest" />
+	</children>
+</Root>

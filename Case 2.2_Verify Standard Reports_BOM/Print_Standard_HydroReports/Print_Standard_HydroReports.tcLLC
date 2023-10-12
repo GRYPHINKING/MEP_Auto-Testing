@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{2D89293F-6B07-4679-9906-EFAE4B1A433C}" version="15.0">
+	<children>
+		<child name="SPRINKLikesIt_HOT_hot_Hawt" key="{4F4E9000-06CE-42C6-A25F-4C92D3E041C6}" path="SPRINKLikesIt_HOT_hot_Hawt.tcLLP" />
+		<child name="MoveMouse_StopHighlights" key="{59857E47-D74E-4A6E-B2CE-18BA8735C63E}" path="MoveMouse_StopHighlights.tcLLP" />
+	</children>
+</Root>

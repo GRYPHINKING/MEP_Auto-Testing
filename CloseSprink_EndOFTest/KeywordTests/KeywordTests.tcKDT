@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="_1_CloseAllDrawings_CloseApp" key="{F7B19EB2-2F7F-4FA5-BDDC-1575D02B6D54}" path="_1_CloseAllDrawings_CloseApp.tcKDTest" />
+	</children>
+</Root>

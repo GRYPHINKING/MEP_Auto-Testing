@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="PageControl_HydraulicOverview_Check_Reports" key="{1AB548DA-2357-4D9A-9BD9-B2D5C6D49FF0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_HydraulicOverview_Check_Reports" ID="{1AB548DA-2357-4D9A-9BD9-B2D5C6D49FF0}" FileName="Regions\PageControl_HydraulicOverview_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_HydraulicSummary_Check_Reports" key="{55FF167F-99EA-4E4D-B0AA-A2F4E1072CF0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_HydraulicSummary_Check_Reports" ID="{55FF167F-99EA-4E4D-B0AA-A2F4E1072CF0}" FileName="Regions\PageControl_HydraulicSummary_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_HydraulicGraph_Check_Reports" key="{D33EB7E2-7CF4-4BC6-BC1E-A817ACA9614B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_HydraulicGraph_Check_Reports" ID="{D33EB7E2-7CF4-4BC6-BC1E-A817ACA9614B}" FileName="Regions\PageControl_HydraulicGraph_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_SummaryOfOutflowingDevices_Check_Reports" key="{94D1B583-1011-4853-92B2-2E7B81A7321F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_SummaryOfOutflowingDevices_Check_Reports" ID="{94D1B583-1011-4853-92B2-2E7B81A7321F}" FileName="Regions\PageControl_SummaryOfOutflowingDevices_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_NodeAnalysis_Check_Reports" key="{69CF752A-D730-40C9-8CA7-7F4E1756537A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NodeAnalysis_Check_Reports" ID="{69CF752A-D730-40C9-8CA7-7F4E1756537A}" FileName="Regions\PageControl_NodeAnalysis_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_HydraulicAnalysis_Check_Reports" key="{5D6B22FA-AFD6-4336-984C-8E57AD8154F5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_HydraulicAnalysis_Check_Reports" ID="{5D6B22FA-AFD6-4336-984C-8E57AD8154F5}" FileName="Regions\PageControl_HydraulicAnalysis_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_HydraulicAnalysis_Check_Reports_Mask" key="{FEE65176-712E-4842-9233-4E76444E459F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_HydraulicAnalysis_Check_Reports_Mask" ID="{FEE65176-712E-4842-9233-4E76444E459F}" FileName="Regions\PageControl_HydraulicAnalysis_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_CheckPointGaugeData_Check_Reports" key="{BAF1695C-CD7A-4CFC-878D-191CF6823501}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_CheckPointGaugeData_Check_Reports" ID="{BAF1695C-CD7A-4CFC-878D-191CF6823501}" FileName="Regions\PageControl_CheckPointGaugeData_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_RiserTag_Check_Reports" key="{E08A3714-EA57-43DC-8725-F542F7D306CC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_RiserTag_Check_Reports" ID="{E08A3714-EA57-43DC-8725-F542F7D306CC}" FileName="Regions\PageControl_RiserTag_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_FlowDiagramTopView_Check_Reports" key="{E028F6A1-F3BA-491C-B790-A35F24FEE517}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_FlowDiagramTopView_Check_Reports" ID="{E028F6A1-F3BA-491C-B790-A35F24FEE517}" FileName="Regions\PageControl_FlowDiagramTopView_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_FlowDiagramIsometricView_Check_Reports" key="{53148D70-AAFC-496B-B340-4D994BF427C1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_FlowDiagramIsometricView_Check_Reports" ID="{53148D70-AAFC-496B-B340-4D994BF427C1}" FileName="Regions\PageControl_FlowDiagramIsometricView_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_FlowDiagramCurrentView_Check_Reports" key="{E0019CDC-A09E-4526-80C6-F9B1EAAF7D9A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_FlowDiagramCurrentView_Check_Reports" ID="{E0019CDC-A09E-4526-80C6-F9B1EAAF7D9A}" FileName="Regions\PageControl_FlowDiagramCurrentView_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_HydraulicCalculatorMessages_Check_Reports" key="{6A0E56F9-5FB2-44BE-970C-E4EE69387433}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_HydraulicCalculatorMessages_Check_Reports" ID="{6A0E56F9-5FB2-44BE-970C-E4EE69387433}" FileName="Regions\PageControl_HydraulicCalculatorMessages_Check_Reports.png" Update="False" />
+		</child>
+		<child name="DocumentControl_NFPA_HydraulicClaculations_Check_Reports" key="{4F36819D-CDF8-4AE2-8858-F981E95E108F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DocumentControl_NFPA_HydraulicClaculations_Check_Reports" ID="{4F36819D-CDF8-4AE2-8858-F981E95E108F}" FileName="Regions\DocumentControl_NFPA_HydraulicClaculations_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_HydraulicGraph_Check_Reports" key="{17403AA0-82BC-4C53-932A-96CEA3E3E8C3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_HydraulicGraph_Check_Reports" ID="{17403AA0-82BC-4C53-932A-96CEA3E3E8C3}" FileName="Regions\PageControl_NFPA_HydraulicGraph_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_SummaryOfOutflowingDevices_Check_Reports" key="{A97CCC46-EBFE-41A4-B0BB-4609308D5AE5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_SummaryOfOutflowingDevices_Check_Reports" ID="{A97CCC46-EBFE-41A4-B0BB-4609308D5AE5}" FileName="Regions\PageControl_NFPA_SummaryOfOutflowingDevices_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_NodeAnalysis_Check_Reports" key="{457134C1-CBFD-4ABD-A115-BF51247CC75C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_NodeAnalysis_Check_Reports" ID="{457134C1-CBFD-4ABD-A115-BF51247CC75C}" FileName="Regions\PageControl_NFPA_NodeAnalysis_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_HydraulicAnalysis_Check_Reports" key="{1D3D0595-4206-40B5-A6B9-038BB71037CA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_HydraulicAnalysis_Check_Reports" ID="{1D3D0595-4206-40B5-A6B9-038BB71037CA}" FileName="Regions\PageControl_NFPA_HydraulicAnalysis_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_FlowDiagramTopView_Check_Reports" key="{6CDC3DB5-9937-4F45-A48E-E3ED6DF3885A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_FlowDiagramTopView_Check_Reports" ID="{6CDC3DB5-9937-4F45-A48E-E3ED6DF3885A}" FileName="Regions\PageControl_NFPA_FlowDiagramTopView_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_FlowDiagramIsometricView_Check_Reports" key="{E86A1413-0B13-4256-9AE1-8D51F4A788B5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_FlowDiagramIsometricView_Check_Reports" ID="{E86A1413-0B13-4256-9AE1-8D51F4A788B5}" FileName="Regions\PageControl_NFPA_FlowDiagramIsometricView_Check_Reports.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_FlowDiagramCurrentView_Check_Reports" key="{1E22CFA1-D827-4502-8084-E7A2620BF09B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_FlowDiagramCurrentView_Check_Reports" ID="{1E22CFA1-D827-4502-8084-E7A2620BF09B}" FileName="Regions\PageControl_NFPA_FlowDiagramCurrentView_Check_Reports.png" Update="False" />
+		</child>
+		<child name="SimpleHydraulicOverview_Check_Reports" key="{FE369140-0E36-4501-AD70-2B8DD9CC194B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SimpleHydraulicOverview_Check_Reports" ID="{FE369140-0E36-4501-AD70-2B8DD9CC194B}" FileName="Regions\SimpleHydraulicOverview_Check_Reports.png" Update="False" />
+		</child>
+		<child name="SimpleHydraulicOverview_Check_Reports_Mask" key="{03F4BBE9-98F3-4DC9-9944-CBF874F71A3D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SimpleHydraulicOverview_Check_Reports_Mask" ID="{03F4BBE9-98F3-4DC9-9944-CBF874F71A3D}" FileName="Regions\SimpleHydraulicOverview_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_JobNumber_Check_Reports" key="{8BD9C7D0-DA6F-47F3-BE4E-FFE2793DFAA2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_JobNumber_Check_Reports" ID="{8BD9C7D0-DA6F-47F3-BE4E-FFE2793DFAA2}" FileName="Regions\dlgAutoSPRINK2023_JobNumber_Check_Reports.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_DeleteJob_Check_Reports" key="{450A5A2A-8088-4BB6-B228-1EBBBE800756}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_DeleteJob_Check_Reports" ID="{450A5A2A-8088-4BB6-B228-1EBBBE800756}" FileName="Regions\dlgAutoSPRINK2023_DeleteJob_Check_Reports.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_DeleteDesigner_Check_Reports" key="{21D2FFB2-66B7-4678-9410-6EDF3D9CB7C3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_DeleteDesigner_Check_Reports" ID="{21D2FFB2-66B7-4678-9410-6EDF3D9CB7C3}" FileName="Regions\dlgAutoSPRINK2023_DeleteDesigner_Check_Reports.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_DeleteContractor_Check_Reports" key="{968CB4FE-261A-48E9-9365-50C5C0C0F546}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_DeleteContractor_Check_Reports" ID="{968CB4FE-261A-48E9-9365-50C5C0C0F546}" FileName="Regions\dlgAutoSPRINK2023_DeleteContractor_Check_Reports.png" Update="False" />
+		</child>
+		<child name="Simple_HydraulicOverview_Check_Reports" key="{AA9F7BD9-7D01-4A5C-A6F6-6FAB1062ADF0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_HydraulicOverview_Check_Reports" ID="{AA9F7BD9-7D01-4A5C-A6F6-6FAB1062ADF0}" FileName="Regions\Simple_HydraulicOverview_Check_Reports.png" Update="False" />
+		</child>
+		<child name="Simple_HydraulicOverview_Check_Reports_Mask" key="{F8639661-BF16-475E-AF40-ECABEFA7F5F4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_HydraulicOverview_Check_Reports_Mask" ID="{F8639661-BF16-475E-AF40-ECABEFA7F5F4}" FileName="Regions\Simple_HydraulicOverview_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="Simple_HydraulicSummary_Check_Reports" key="{EB83F45C-85C5-4BD7-8528-64789D6E16D3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_HydraulicSummary_Check_Reports" ID="{EB83F45C-85C5-4BD7-8528-64789D6E16D3}" FileName="Regions\Simple_HydraulicSummary_Check_Reports.png" Update="False" />
+		</child>
+		<child name="Simple_HydraulicSummary_Check_Reports_Mask" key="{2B047FC5-B1C9-4BCE-98C4-155EDE079EBB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_HydraulicSummary_Check_Reports_Mask" ID="{2B047FC5-B1C9-4BCE-98C4-155EDE079EBB}" FileName="Regions\Simple_HydraulicSummary_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="Simple_HydraulicGraphs_Check_Reports" key="{5B25E325-47AE-4E42-BABE-3B587CB53AA9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_HydraulicGraphs_Check_Reports" ID="{5B25E325-47AE-4E42-BABE-3B587CB53AA9}" FileName="Regions\Simple_HydraulicGraphs_Check_Reports.png" Update="False" />
+		</child>
+		<child name="Simple_SummaryOfOutflowingDevices_Check_Reports" key="{8E17A912-1257-4CA7-B791-76793F2C9A16}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_SummaryOfOutflowingDevices_Check_Reports" ID="{8E17A912-1257-4CA7-B791-76793F2C9A16}" FileName="Regions\Simple_SummaryOfOutflowingDevices_Check_Reports.png" Update="False" />
+		</child>
+		<child name="Simple_NodeAnalysis_Check_Reports" key="{D8E6DB2D-1275-4AA3-9105-177BB193B49E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_NodeAnalysis_Check_Reports" ID="{D8E6DB2D-1275-4AA3-9105-177BB193B49E}" FileName="Regions\Simple_NodeAnalysis_Check_Reports.png" Update="False" />
+		</child>
+		<child name="Simple_FlowDiagramTopView_Check_Reports" key="{F78C442C-298B-4C0E-8426-729A4D03D2CB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_FlowDiagramTopView_Check_Reports" ID="{F78C442C-298B-4C0E-8426-729A4D03D2CB}" FileName="Regions\Simple_FlowDiagramTopView_Check_Reports.png" Update="False" />
+		</child>
+		<child name="Simple_HydraulicGraphs_Check_Reports_Mask" key="{06ADFF29-8B61-466B-90C0-093CF70E26E6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_HydraulicGraphs_Check_Reports_Mask" ID="{06ADFF29-8B61-466B-90C0-093CF70E26E6}" FileName="Regions\Simple_HydraulicGraphs_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="Simple_SummaryOfOutflowingDevices_Check_Reports_Mask" key="{D4706023-CCD8-469D-B7DB-73C764C65AFB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_SummaryOfOutflowingDevices_Check_Reports_Mask" ID="{D4706023-CCD8-469D-B7DB-73C764C65AFB}" FileName="Regions\Simple_SummaryOfOutflowingDevices_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="Simple_NodeAnalysis_Check_Reports_Mask" key="{7C3C96F3-49A0-45E4-9C6E-43AF4C6D5BD2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_NodeAnalysis_Check_Reports_Mask" ID="{7C3C96F3-49A0-45E4-9C6E-43AF4C6D5BD2}" FileName="Regions\Simple_NodeAnalysis_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_CheckPointGaugeData_Check_Reports_Mask" key="{5AEF5E1D-142B-4020-897D-B7222ACB90E9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_CheckPointGaugeData_Check_Reports_Mask" ID="{5AEF5E1D-142B-4020-897D-B7222ACB90E9}" FileName="Regions\PageControl_CheckPointGaugeData_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_RiserTag_Check_Reports_Mask" key="{927872AD-C909-4CCF-A40F-A5ED6C060633}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_RiserTag_Check_Reports_Mask" ID="{927872AD-C909-4CCF-A40F-A5ED6C060633}" FileName="Regions\PageControl_RiserTag_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="Simple_FlowDiagramTopView_Check_Reports_Mask" key="{9D9ABAFD-6697-4D2D-9F65-691B05323D19}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_FlowDiagramTopView_Check_Reports_Mask" ID="{9D9ABAFD-6697-4D2D-9F65-691B05323D19}" FileName="Regions\Simple_FlowDiagramTopView_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_FlowDiagramIsometricView_Check_Reports_Mask" key="{AF4DABF8-E07E-4AD5-A666-43BE5788C814}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_FlowDiagramIsometricView_Check_Reports_Mask" ID="{AF4DABF8-E07E-4AD5-A666-43BE5788C814}" FileName="Regions\PageControl_FlowDiagramIsometricView_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_FlowDiagramCurrentView_Check_Reports_Mask" key="{B245A734-B7E6-4411-8BD5-30879AC86025}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_FlowDiagramCurrentView_Check_Reports_Mask" ID="{B245A734-B7E6-4411-8BD5-30879AC86025}" FileName="Regions\PageControl_FlowDiagramCurrentView_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_HydraulicCalculatorMessages_Check_Reports_Mask" key="{10605A15-0F9A-4430-9E0F-178357A727B5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_HydraulicCalculatorMessages_Check_Reports_Mask" ID="{10605A15-0F9A-4430-9E0F-178357A727B5}" FileName="Regions\PageControl_HydraulicCalculatorMessages_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="DocumentControl_NFPA_HydraulicClaculations_Check_Reports_Mask" key="{9AE1F726-B185-40AA-97D5-3052271CF9B3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DocumentControl_NFPA_HydraulicClaculations_Check_Reports_Mask" ID="{9AE1F726-B185-40AA-97D5-3052271CF9B3}" FileName="Regions\DocumentControl_NFPA_HydraulicClaculations_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_HydraulicGraph_Check_Reports_Mask" key="{80041BF6-470D-4213-85A9-F6AA86825B81}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_HydraulicGraph_Check_Reports_Mask" ID="{80041BF6-470D-4213-85A9-F6AA86825B81}" FileName="Regions\PageControl_NFPA_HydraulicGraph_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_SummaryOfOutflowingDevices_Check_Reports_Mask" key="{4BA19221-533D-4C18-9448-C3F13EB76632}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_SummaryOfOutflowingDevices_Check_Reports_Mask" ID="{4BA19221-533D-4C18-9448-C3F13EB76632}" FileName="Regions\PageControl_NFPA_SummaryOfOutflowingDevices_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_NodeAnalysis_Check_Reports_Mask" key="{351FF72C-E831-4F7A-A5FD-9F99E6DE9215}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_NodeAnalysis_Check_Reports_Mask" ID="{351FF72C-E831-4F7A-A5FD-9F99E6DE9215}" FileName="Regions\PageControl_NFPA_NodeAnalysis_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_HydraulicAnalysis_Check_Reports_Mask" key="{83C72B32-7C9F-4819-89A0-5BAE08A9BE5E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_HydraulicAnalysis_Check_Reports_Mask" ID="{83C72B32-7C9F-4819-89A0-5BAE08A9BE5E}" FileName="Regions\PageControl_NFPA_HydraulicAnalysis_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_FlowDiagramTopView_Check_Reports_Mask" key="{E3F72EE8-CC50-4F72-87CE-4F98842F374A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_FlowDiagramTopView_Check_Reports_Mask" ID="{E3F72EE8-CC50-4F72-87CE-4F98842F374A}" FileName="Regions\PageControl_NFPA_FlowDiagramTopView_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_FlowDiagramIsometricView_Check_Reports_Mask" key="{BE85B5EC-C57A-417E-8A9B-F9396D6AFB5A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_FlowDiagramIsometricView_Check_Reports_Mask" ID="{BE85B5EC-C57A-417E-8A9B-F9396D6AFB5A}" FileName="Regions\PageControl_NFPA_FlowDiagramIsometricView_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="PageControl_NFPA_FlowDiagramCurrentView_Check_Reports_Mask" key="{248E7036-946F-4906-A665-1E61DD500755}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PageControl_NFPA_FlowDiagramCurrentView_Check_Reports_Mask" ID="{248E7036-946F-4906-A665-1E61DD500755}" FileName="Regions\PageControl_NFPA_FlowDiagramCurrentView_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="Simple_FlowDiagram_CurrentView_Check_Reports" key="{15997A31-BFA8-4EA9-AAF4-493D74FBFC20}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_FlowDiagram_CurrentView_Check_Reports" ID="{15997A31-BFA8-4EA9-AAF4-493D74FBFC20}" FileName="Regions\Simple_FlowDiagram_CurrentView_Check_Reports.png" Update="False" />
+		</child>
+		<child name="Simple_FlowDiagram_CurrentView_Check_Reports_Mask" key="{A655A976-A3C4-4B13-B44F-AB02A8FD5C1F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Simple_FlowDiagram_CurrentView_Check_Reports_Mask" ID="{A655A976-A3C4-4B13-B44F-AB02A8FD5C1F}" FileName="Regions\Simple_FlowDiagram_CurrentView_Check_Reports_Mask.png" Update="False" />
+		</child>
+		<child name="Chrome_RenderWidgetHostHWND_1a_HydroOverview_Check_Reports" key="{420C6207-08C2-4E10-9831-CE6026083D83}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Chrome_RenderWidgetHostHWND_1a_HydroOverview_Check_Reports" ID="{420C6207-08C2-4E10-9831-CE6026083D83}" FileName="Regions\Chrome_RenderWidgetHostHWND_1a_HydroOverview_Check_Reports.png" Update="False" />
+		</child>
+		<child name="Chrome_RenderWidgetHostHWND_NFPA_HydroOverview_Check_Reports" key="{87E74626-9846-4444-ADBF-01399ED2F4D4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Chrome_RenderWidgetHostHWND_NFPA_HydroOverview_Check_Reports" ID="{87E74626-9846-4444-ADBF-01399ED2F4D4}" FileName="Regions\Chrome_RenderWidgetHostHWND_NFPA_HydroOverview_Check_Reports.png" Update="False" />
+		</child>
+		<child name="Chrome_RenderWidgetHostHWND_9bNFPA_FlowDiagramCurrentView_Check_Reports" key="{AF75746D-D5A3-4DF2-AEC0-E4571B7FDBEE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Chrome_RenderWidgetHostHWND_9bNFPA_FlowDiagramCurrentView_Check_Reports" ID="{AF75746D-D5A3-4DF2-AEC0-E4571B7FDBEE}" FileName="Regions\Chrome_RenderWidgetHostHWND_9bNFPA_FlowDiagramCurrentView_Check_Reports.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Print_HydroOverview" key="{88E76330-F161-43AA-A56C-F805DAFE36F1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Print_HydroOverview" ID="{88E76330-F161-43AA-A56C-F805DAFE36F1}" FileName="Regions\wndChrome_WidgetWin_1_STD_Print_HydroOverview.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Print_HydroOverview_Mask" key="{78A5B485-96E0-4CC6-AC92-7364C40B9D02}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Print_HydroOverview_Mask" ID="{78A5B485-96E0-4CC6-AC92-7364C40B9D02}" FileName="Regions\wndChrome_WidgetWin_1_STD_Print_HydroOverview_Mask.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Export_HydroOverview" key="{3AEF8423-9351-4BD6-A9BA-239D1AE3B3FF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Export_HydroOverview" ID="{3AEF8423-9351-4BD6-A9BA-239D1AE3B3FF}" FileName="Regions\wndChrome_WidgetWin_1_STD_Export_HydroOverview.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Export_HydroOverview_Mask" key="{8FD457B2-98D7-44DA-9EC1-B7B4615EFA6E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Export_HydroOverview_Mask" ID="{8FD457B2-98D7-44DA-9EC1-B7B4615EFA6E}" FileName="Regions\wndChrome_WidgetWin_1_STD_Export_HydroOverview_Mask.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Print_HydroSummary" key="{070995A7-4725-466A-B17F-84F0C3973EB5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Print_HydroSummary" ID="{070995A7-4725-466A-B17F-84F0C3973EB5}" FileName="Regions\wndChrome_WidgetWin_1_STD_Print_HydroSummary.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Print_HydroSummary_Mask" key="{AA323CB2-13D8-4278-87A9-B7BB4646B6F1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Print_HydroSummary_Mask" ID="{AA323CB2-13D8-4278-87A9-B7BB4646B6F1}" FileName="Regions\wndChrome_WidgetWin_1_STD_Print_HydroSummary_Mask.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Export_HydroSummary" key="{E67D4A8F-2B42-425E-92C2-927931923ACF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Export_HydroSummary" ID="{E67D4A8F-2B42-425E-92C2-927931923ACF}" FileName="Regions\wndChrome_WidgetWin_1_STD_Export_HydroSummary.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Print__Mask" key="{7CF30AAD-155B-4E38-9CF8-5022DC6846DD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Print__Mask" ID="{7CF30AAD-155B-4E38-9CF8-5022DC6846DD}" FileName="Regions\wndChrome_WidgetWin_1_STD_Print__Mask.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Print_HydroGraph" key="{7877A52D-1A83-4434-83DC-F3A43E186275}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Print_HydroGraph" ID="{7877A52D-1A83-4434-83DC-F3A43E186275}" FileName="Regions\wndChrome_WidgetWin_1_STD_Print_HydroGraph.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Print_HydroGraph_Mask" key="{9AB28DFD-DB81-4A35-B1B2-BD06F3816D58}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Print_HydroGraph_Mask" ID="{9AB28DFD-DB81-4A35-B1B2-BD06F3816D58}" FileName="Regions\wndChrome_WidgetWin_1_STD_Print_HydroGraph_Mask.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Export_HydroGraph" key="{351CDB6F-2477-4DE5-A934-5E05B23390B2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Export_HydroGraph" ID="{351CDB6F-2477-4DE5-A934-5E05B23390B2}" FileName="Regions\wndChrome_WidgetWin_1_STD_Export_HydroGraph.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Print_SummaryOfOutflowingDevices" key="{E8D7B275-EB2D-4CC0-83F2-AA3F8F049623}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Print_SummaryOfOutflowingDevices" ID="{E8D7B275-EB2D-4CC0-83F2-AA3F8F049623}" FileName="Regions\wndChrome_WidgetWin_1_STD_Print_SummaryOfOutflowingDevices.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Print_SummaryOfOutflowingDevices_Mask" key="{BB6459DE-24C0-4ABA-AF5C-C1B12D245A98}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Print_SummaryOfOutflowingDevices_Mask" ID="{BB6459DE-24C0-4ABA-AF5C-C1B12D245A98}" FileName="Regions\wndChrome_WidgetWin_1_STD_Print_SummaryOfOutflowingDevices_Mask.png" Update="False" />
+		</child>
+		<child name="wndChrome_WidgetWin_1_STD_Export_HydroGraph_Mask" key="{F9EF3F1D-BF8A-4C4E-807F-0FE437AC2575}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="wndChrome_WidgetWin_1_STD_Export_HydroGraph_Mask" ID="{F9EF3F1D-BF8A-4C4E-807F-0FE437AC2575}" FileName="Regions\wndChrome_WidgetWin_1_STD_Export_HydroGraph_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_FlowDiagramCurrentView_Check" key="{2A847E6B-D8B1-42A0-B78B-CE902E894133}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_FlowDiagramCurrentView_Check" ID="{2A847E6B-D8B1-42A0-B78B-CE902E894133}" FileName="Regions\NFPA_Export_FlowDiagramCurrentView_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_FlowDiagramCurrentView_Check_Mask" key="{860B89CD-1615-4B64-981D-C5708EFD7DF3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_FlowDiagramCurrentView_Check_Mask" ID="{860B89CD-1615-4B64-981D-C5708EFD7DF3}" FileName="Regions\NFPA_Export_FlowDiagramCurrentView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_FlowDiagramCurrentView_Check" key="{BF82B6D7-D6F9-4367-BF53-E87EA5DA02F7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_FlowDiagramCurrentView_Check" ID="{BF82B6D7-D6F9-4367-BF53-E87EA5DA02F7}" FileName="Regions\NFPA_Print_FlowDiagramCurrentView_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_FlowDiagramCurrentView_Check_Mask" key="{710AE2A3-1473-423C-BD93-EF8697D8F624}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_FlowDiagramCurrentView_Check_Mask" ID="{710AE2A3-1473-423C-BD93-EF8697D8F624}" FileName="Regions\NFPA_Print_FlowDiagramCurrentView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_FlowDiagramIsoView_Check" key="{A6D947FB-0E32-4A7C-B369-68505A574ADB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_FlowDiagramIsoView_Check" ID="{A6D947FB-0E32-4A7C-B369-68505A574ADB}" FileName="Regions\NFPA_Export_FlowDiagramIsoView_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_FlowDiagramIsoView_Check_Mask" key="{2BE2EF21-7971-40FA-BFDA-B82146E16E31}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_FlowDiagramIsoView_Check_Mask" ID="{2BE2EF21-7971-40FA-BFDA-B82146E16E31}" FileName="Regions\NFPA_Export_FlowDiagramIsoView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_FlowDiagramIsoView_Check" key="{C98FEC26-019D-4DCF-B080-2EB71187BCEE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_FlowDiagramIsoView_Check" ID="{C98FEC26-019D-4DCF-B080-2EB71187BCEE}" FileName="Regions\NFPA_Print_FlowDiagramIsoView_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_FlowDiagramIsoView_Check_Mask" key="{B6DEB5B2-5B7F-4265-B971-E0C81FEDAC2C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_FlowDiagramIsoView_Check_Mask" ID="{B6DEB5B2-5B7F-4265-B971-E0C81FEDAC2C}" FileName="Regions\NFPA_Print_FlowDiagramIsoView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_FlowDiagramTopView_Check" key="{CDA95978-2825-42DE-AAAB-E4452C3B0863}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_FlowDiagramTopView_Check" ID="{CDA95978-2825-42DE-AAAB-E4452C3B0863}" FileName="Regions\NFPA_Export_FlowDiagramTopView_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_FlowDiagramTopView_Check_Mask" key="{35BDC74A-7B4F-46DB-88D4-D2B04C36996B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_FlowDiagramTopView_Check_Mask" ID="{35BDC74A-7B4F-46DB-88D4-D2B04C36996B}" FileName="Regions\NFPA_Export_FlowDiagramTopView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_FlowDiagramTopView_Check" key="{B8D402A5-81A8-45A7-808D-2CDB13279C55}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_FlowDiagramTopView_Check" ID="{B8D402A5-81A8-45A7-808D-2CDB13279C55}" FileName="Regions\NFPA_Print_FlowDiagramTopView_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_FlowDiagramTopView_Check_Mask" key="{21D8385E-A1E4-43AF-A0EE-A345E4C61D0A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_FlowDiagramTopView_Check_Mask" ID="{21D8385E-A1E4-43AF-A0EE-A345E4C61D0A}" FileName="Regions\NFPA_Print_FlowDiagramTopView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_HydroAnalysis_Check" key="{AFBD837A-C2C2-4A02-B3D2-AFB8098D2402}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_HydroAnalysis_Check" ID="{AFBD837A-C2C2-4A02-B3D2-AFB8098D2402}" FileName="Regions\NFPA_Export_HydroAnalysis_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_HydroAnalysis_Check_Mask" key="{D5ED5B9A-1364-40AE-823D-D139C6E6A670}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_HydroAnalysis_Check_Mask" ID="{D5ED5B9A-1364-40AE-823D-D139C6E6A670}" FileName="Regions\NFPA_Export_HydroAnalysis_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_HydroAnaylsis_Check" key="{65882A0F-2CCD-4305-B9AC-833A06771049}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_HydroAnaylsis_Check" ID="{65882A0F-2CCD-4305-B9AC-833A06771049}" FileName="Regions\NFPA_Print_HydroAnaylsis_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_HydroAnaylsis_Check_Mask" key="{36B445AC-140D-4BD6-A298-AC0B67CA260D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_HydroAnaylsis_Check_Mask" ID="{36B445AC-140D-4BD6-A298-AC0B67CA260D}" FileName="Regions\NFPA_Print_HydroAnaylsis_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_NodeAnalysis_Check" key="{9A61612C-1B94-4C3D-83BC-4FA39E2F230C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_NodeAnalysis_Check" ID="{9A61612C-1B94-4C3D-83BC-4FA39E2F230C}" FileName="Regions\NFPA_Export_NodeAnalysis_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_NodeAnalysis_Check_Mask" key="{F3521A06-73B4-4B50-9EDD-04BCF0E6BF4E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_NodeAnalysis_Check_Mask" ID="{F3521A06-73B4-4B50-9EDD-04BCF0E6BF4E}" FileName="Regions\NFPA_Export_NodeAnalysis_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_NodeAnalysis_Check" key="{25D2D45F-D463-43CF-9D1F-1C9352A73C0E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_NodeAnalysis_Check" ID="{25D2D45F-D463-43CF-9D1F-1C9352A73C0E}" FileName="Regions\NFPA_Print_NodeAnalysis_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_NodeAnalysis_Check_Mask" key="{BBC94B49-406E-4E9E-B833-A47FAE74C540}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_NodeAnalysis_Check_Mask" ID="{BBC94B49-406E-4E9E-B833-A47FAE74C540}" FileName="Regions\NFPA_Print_NodeAnalysis_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_SummaryOfOutflowingDevices_Check" key="{4FF91698-3328-4250-9997-1D63B5B74C82}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_SummaryOfOutflowingDevices_Check" ID="{4FF91698-3328-4250-9997-1D63B5B74C82}" FileName="Regions\NFPA_Export_SummaryOfOutflowingDevices_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_SummaryOfOutflowingDevices_Check_Mask" key="{C7A0230C-BA10-41E1-9D80-1B8669A0DEF3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_SummaryOfOutflowingDevices_Check_Mask" ID="{C7A0230C-BA10-41E1-9D80-1B8669A0DEF3}" FileName="Regions\NFPA_Export_SummaryOfOutflowingDevices_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_SummaryOfOutflowingDevices_Check" key="{59A4FC21-F591-4D94-B99D-C4474E34D724}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_SummaryOfOutflowingDevices_Check" ID="{59A4FC21-F591-4D94-B99D-C4474E34D724}" FileName="Regions\NFPA_Print_SummaryOfOutflowingDevices_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_SummaryOfOutflowingDevices_Check_Mask" key="{4A9B119F-25C1-48FD-8407-FDFE71A470C3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_SummaryOfOutflowingDevices_Check_Mask" ID="{4A9B119F-25C1-48FD-8407-FDFE71A470C3}" FileName="Regions\NFPA_Print_SummaryOfOutflowingDevices_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_HydroGraph_Check" key="{13988DD9-7008-4E3F-91F1-D7BE9C4EBF52}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_HydroGraph_Check" ID="{13988DD9-7008-4E3F-91F1-D7BE9C4EBF52}" FileName="Regions\NFPA_Export_HydroGraph_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_HydroGraph_Check_Mask" key="{17E7D165-3865-4192-8813-C7B6A2FB7811}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_HydroGraph_Check_Mask" ID="{17E7D165-3865-4192-8813-C7B6A2FB7811}" FileName="Regions\NFPA_Export_HydroGraph_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_HydroGraph_Check" key="{706ECD6E-C318-4A76-B7D5-F614C6DB2D18}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_HydroGraph_Check" ID="{706ECD6E-C318-4A76-B7D5-F614C6DB2D18}" FileName="Regions\NFPA_Print_HydroGraph_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_HydroGraph_Check_Mask" key="{D08AA08B-D0D5-4E99-AFC5-7162962127A2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_HydroGraph_Check_Mask" ID="{D08AA08B-D0D5-4E99-AFC5-7162962127A2}" FileName="Regions\NFPA_Print_HydroGraph_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_HydroCalculations_Check" key="{5EFF3612-FE7E-4B4A-8B68-3911B02F20D0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_HydroCalculations_Check" ID="{5EFF3612-FE7E-4B4A-8B68-3911B02F20D0}" FileName="Regions\NFPA_Export_HydroCalculations_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Export_HydroCalculations_Check_Mask" key="{DA43B9F6-F51E-466D-AFAB-616A1992FEEB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Export_HydroCalculations_Check_Mask" ID="{DA43B9F6-F51E-466D-AFAB-616A1992FEEB}" FileName="Regions\NFPA_Export_HydroCalculations_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_HydroCalculations_Check" key="{75B24540-CBF5-4A55-BE50-3751066B2C31}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_HydroCalculations_Check" ID="{75B24540-CBF5-4A55-BE50-3751066B2C31}" FileName="Regions\NFPA_Print_HydroCalculations_Check.png" Update="False" />
+		</child>
+		<child name="NFPA_Print_HydroCalculations_Check_Mask" key="{16A10AAB-EF80-4FE3-89C8-56037A28C8D0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NFPA_Print_HydroCalculations_Check_Mask" ID="{16A10AAB-EF80-4FE3-89C8-56037A28C8D0}" FileName="Regions\NFPA_Print_HydroCalculations_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Export_HydroCalcMessages_Check" key="{44576D99-4173-4230-95F4-9F1EB4098138}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_HydroCalcMessages_Check" ID="{44576D99-4173-4230-95F4-9F1EB4098138}" FileName="Regions\Standard_Export_HydroCalcMessages_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_HydroCalcMessages_Check_Mask" key="{88A18B5A-6745-4B92-8E1A-3ACBB7BCFEF2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_HydroCalcMessages_Check_Mask" ID="{88A18B5A-6745-4B92-8E1A-3ACBB7BCFEF2}" FileName="Regions\Standard_Export_HydroCalcMessages_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_HydroCalcMessages_Check" key="{EB6BF9E2-5945-4567-9E7E-FF096EE416EB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_HydroCalcMessages_Check" ID="{EB6BF9E2-5945-4567-9E7E-FF096EE416EB}" FileName="Regions\Standard_Print_HydroCalcMessages_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Print_HydroCalcMessages_Check_Mask" key="{F1FAA912-6C7B-488E-AEF3-47D1CDF329FB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_HydroCalcMessages_Check_Mask" ID="{F1FAA912-6C7B-488E-AEF3-47D1CDF329FB}" FileName="Regions\Standard_Print_HydroCalcMessages_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Export_FlowDiagramCurrentView_Check" key="{E9E08418-F56B-447F-9B90-D7B27E78F373}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_FlowDiagramCurrentView_Check" ID="{E9E08418-F56B-447F-9B90-D7B27E78F373}" FileName="Regions\Standard_Export_FlowDiagramCurrentView_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_FlowDiagramCurrentView_Check_Mask" key="{5C95E1D7-7794-4F87-9B1E-739EF96D4628}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_FlowDiagramCurrentView_Check_Mask" ID="{5C95E1D7-7794-4F87-9B1E-739EF96D4628}" FileName="Regions\Standard_Export_FlowDiagramCurrentView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_FlowDiagramCurrentView_Check" key="{CDFE30D5-346C-4AB3-96FB-7198C43F7102}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_FlowDiagramCurrentView_Check" ID="{CDFE30D5-346C-4AB3-96FB-7198C43F7102}" FileName="Regions\Standard_Print_FlowDiagramCurrentView_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Print_FlowDiagramCurrentView_Check_Mask" key="{E045FCB5-4877-4B5A-ACAA-FB47BD0A430D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_FlowDiagramCurrentView_Check_Mask" ID="{E045FCB5-4877-4B5A-ACAA-FB47BD0A430D}" FileName="Regions\Standard_Print_FlowDiagramCurrentView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Export_FlowDiagramIsoView_Check" key="{5C1B290F-D958-46DE-A17A-B035DD9F5DA8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_FlowDiagramIsoView_Check" ID="{5C1B290F-D958-46DE-A17A-B035DD9F5DA8}" FileName="Regions\Standard_Export_FlowDiagramIsoView_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_FlowDiagramIsoView_Check_Mask" key="{923F2A89-D5B4-4EFE-B80F-C7193F1A46CF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_FlowDiagramIsoView_Check_Mask" ID="{923F2A89-D5B4-4EFE-B80F-C7193F1A46CF}" FileName="Regions\Standard_Export_FlowDiagramIsoView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_FlowDiagramIsoView_Check" key="{A50E7963-E23C-4D2A-8099-6496492B090B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_FlowDiagramIsoView_Check" ID="{A50E7963-E23C-4D2A-8099-6496492B090B}" FileName="Regions\Standard_Print_FlowDiagramIsoView_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Print_FlowDiagramIsoView_Check_Mask" key="{999074DD-310B-4BF1-B709-B5F215EC9257}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_FlowDiagramIsoView_Check_Mask" ID="{999074DD-310B-4BF1-B709-B5F215EC9257}" FileName="Regions\Standard_Print_FlowDiagramIsoView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Export_FlowDiagramTopView_Check" key="{0383DDED-A1AC-43FA-AB2F-772038A9A2FE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_FlowDiagramTopView_Check" ID="{0383DDED-A1AC-43FA-AB2F-772038A9A2FE}" FileName="Regions\Standard_Export_FlowDiagramTopView_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_FlowDiagramTopView_Check_Mask" key="{2098EA9E-8E75-43F4-BDCB-C25FD125DFFD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_FlowDiagramTopView_Check_Mask" ID="{2098EA9E-8E75-43F4-BDCB-C25FD125DFFD}" FileName="Regions\Standard_Export_FlowDiagramTopView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_FlowDiagramTopView_Check" key="{9D328636-573C-41C5-83C8-CE9C8AA07532}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_FlowDiagramTopView_Check" ID="{9D328636-573C-41C5-83C8-CE9C8AA07532}" FileName="Regions\Standard_Print_FlowDiagramTopView_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_RiserTag_Check" key="{694E5524-5DB0-4C01-A7B7-FB3009CCACEC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_RiserTag_Check" ID="{694E5524-5DB0-4C01-A7B7-FB3009CCACEC}" FileName="Regions\Standard_Export_RiserTag_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_RiserTag_Check_Mask" key="{FE28303C-E20E-48DD-AB68-0BBCE5B234A6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_RiserTag_Check_Mask" ID="{FE28303C-E20E-48DD-AB68-0BBCE5B234A6}" FileName="Regions\Standard_Export_RiserTag_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_RiserTag_Check" key="{74F045BF-B6E4-433F-A570-5BDC1C33619E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_RiserTag_Check" ID="{74F045BF-B6E4-433F-A570-5BDC1C33619E}" FileName="Regions\Standard_Print_RiserTag_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Print_RiserTag_Check_Mask" key="{47F38C41-B4DD-46AD-BB44-2E3E61AAABA5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_RiserTag_Check_Mask" ID="{47F38C41-B4DD-46AD-BB44-2E3E61AAABA5}" FileName="Regions\Standard_Print_RiserTag_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Export_CheckPointGaugeData_Check" key="{89FE2853-1AFD-4E2E-B95C-70C5E732E2B7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_CheckPointGaugeData_Check" ID="{89FE2853-1AFD-4E2E-B95C-70C5E732E2B7}" FileName="Regions\Standard_Export_CheckPointGaugeData_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_CheckPointGaugeData_Check_Mask" key="{35294F80-69C5-4418-AB31-D0CB83DE0B23}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_CheckPointGaugeData_Check_Mask" ID="{35294F80-69C5-4418-AB31-D0CB83DE0B23}" FileName="Regions\Standard_Export_CheckPointGaugeData_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_CheckPointGaugeData_Check" key="{7005BF8D-6CDE-4B6A-A54F-2CE5C8D433FB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_CheckPointGaugeData_Check" ID="{7005BF8D-6CDE-4B6A-A54F-2CE5C8D433FB}" FileName="Regions\Standard_Print_CheckPointGaugeData_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Print_CheckPointGaugeData_Check_Mask" key="{C19644C8-966C-4457-BF62-1167C2D0E0A3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_CheckPointGaugeData_Check_Mask" ID="{C19644C8-966C-4457-BF62-1167C2D0E0A3}" FileName="Regions\Standard_Print_CheckPointGaugeData_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Export_HydroAnalysis_Check" key="{22D2DCEB-2D1E-4626-A685-9C7483494E09}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_HydroAnalysis_Check" ID="{22D2DCEB-2D1E-4626-A685-9C7483494E09}" FileName="Regions\Standard_Export_HydroAnalysis_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_HydroAnalysis_Check_Mask" key="{74C8264A-0819-4028-8F77-F332588E654E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_HydroAnalysis_Check_Mask" ID="{74C8264A-0819-4028-8F77-F332588E654E}" FileName="Regions\Standard_Export_HydroAnalysis_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_HydroAnalysis_Check" key="{C5E564F6-960A-4FF4-8DFD-BBDEBCF51B2F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_HydroAnalysis_Check" ID="{C5E564F6-960A-4FF4-8DFD-BBDEBCF51B2F}" FileName="Regions\Standard_Print_HydroAnalysis_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Print_HydroAnalysis_Check_Mask" key="{FDB69E7F-6DD7-4CD0-AA37-15031C6BE3E5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_HydroAnalysis_Check_Mask" ID="{FDB69E7F-6DD7-4CD0-AA37-15031C6BE3E5}" FileName="Regions\Standard_Print_HydroAnalysis_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Export_NodeAnalysis_Check" key="{6F464A4F-1AF5-47C0-8DC5-8726A6E8506C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_NodeAnalysis_Check" ID="{6F464A4F-1AF5-47C0-8DC5-8726A6E8506C}" FileName="Regions\Standard_Export_NodeAnalysis_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_NodeAnalysis_Check_Mask" key="{D1DCB3ED-8E2C-4133-B40F-2079AEA4E3A7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_NodeAnalysis_Check_Mask" ID="{D1DCB3ED-8E2C-4133-B40F-2079AEA4E3A7}" FileName="Regions\Standard_Export_NodeAnalysis_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_NodeAnalysis_Check" key="{159C6936-5295-46FB-BF31-041B1589BEAC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_NodeAnalysis_Check" ID="{159C6936-5295-46FB-BF31-041B1589BEAC}" FileName="Regions\Standard_Print_NodeAnalysis_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Print_NodeAnalysis_Check_Mask" key="{3D24D59E-9A2F-44FB-BEA2-566D452A46F5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_NodeAnalysis_Check_Mask" ID="{3D24D59E-9A2F-44FB-BEA2-566D452A46F5}" FileName="Regions\Standard_Print_NodeAnalysis_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Export_SummaryOfOutflowingDevices_Check" key="{54BF9237-C844-482B-AF13-7DA1AACC2214}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_SummaryOfOutflowingDevices_Check" ID="{54BF9237-C844-482B-AF13-7DA1AACC2214}" FileName="Regions\Standard_Export_SummaryOfOutflowingDevices_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_SummaryOfOutflowingDevices_Check_Mask" key="{277AC08B-E16D-48B7-B122-8EEC25452C9A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_SummaryOfOutflowingDevices_Check_Mask" ID="{277AC08B-E16D-48B7-B122-8EEC25452C9A}" FileName="Regions\Standard_Export_SummaryOfOutflowingDevices_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_SummaryOfOutflowingDevices_Check" key="{C1FD2002-C0AD-4B96-B3EF-48074F1B88E7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_SummaryOfOutflowingDevices_Check" ID="{C1FD2002-C0AD-4B96-B3EF-48074F1B88E7}" FileName="Regions\Standard_Print_SummaryOfOutflowingDevices_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Print_SummaryOfOutflowingDevices_Check_Mask" key="{CAE8284B-9E0C-4BD6-BEF4-7E3FB06B617F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_SummaryOfOutflowingDevices_Check_Mask" ID="{CAE8284B-9E0C-4BD6-BEF4-7E3FB06B617F}" FileName="Regions\Standard_Print_SummaryOfOutflowingDevices_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Export_HydroGraph_Check" key="{F2DDB669-2518-4A65-A316-13F39DA574EA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_HydroGraph_Check" ID="{F2DDB669-2518-4A65-A316-13F39DA574EA}" FileName="Regions\Standard_Export_HydroGraph_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_HydroGraph_Check_Mask" key="{8BA10EFA-6933-4AEF-9B68-4CB4E399C166}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_HydroGraph_Check_Mask" ID="{8BA10EFA-6933-4AEF-9B68-4CB4E399C166}" FileName="Regions\Standard_Export_HydroGraph_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_HydroGraph_Check" key="{F3F7968D-3F1F-44E5-872C-170730A0F427}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_HydroGraph_Check" ID="{F3F7968D-3F1F-44E5-872C-170730A0F427}" FileName="Regions\Standard_Print_HydroGraph_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Print_HydroGraph_Check_Mask" key="{C3CBBBD9-C6FE-496B-ACCA-DD4027D9DDCD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_HydroGraph_Check_Mask" ID="{C3CBBBD9-C6FE-496B-ACCA-DD4027D9DDCD}" FileName="Regions\Standard_Print_HydroGraph_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Export_HydroSummary_Check" key="{37965E96-C169-4B2C-8AF1-4DE5BD596997}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_HydroSummary_Check" ID="{37965E96-C169-4B2C-8AF1-4DE5BD596997}" FileName="Regions\Standard_Export_HydroSummary_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_HydroSummary_Check_Mask" key="{36EA5BDB-D849-4C5E-B21F-05E148B89BC0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_HydroSummary_Check_Mask" ID="{36EA5BDB-D849-4C5E-B21F-05E148B89BC0}" FileName="Regions\Standard_Export_HydroSummary_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_HydroSummary_Check" key="{1A44206D-1DC4-4BEB-81E4-F711CC082EFC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_HydroSummary_Check" ID="{1A44206D-1DC4-4BEB-81E4-F711CC082EFC}" FileName="Regions\Standard_Print_HydroSummary_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Print_HydroSummary_Check_Mask" key="{6EDEAF10-FB7E-43F2-B009-F0BAD4FF6AD7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_HydroSummary_Check_Mask" ID="{6EDEAF10-FB7E-43F2-B009-F0BAD4FF6AD7}" FileName="Regions\Standard_Print_HydroSummary_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Export_HydroOverview_Check" key="{CDE9D9A2-436C-4E1B-8295-BB57653164DE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_HydroOverview_Check" ID="{CDE9D9A2-436C-4E1B-8295-BB57653164DE}" FileName="Regions\Standard_Export_HydroOverview_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Export_HydroOverview_Check_Mask" key="{C133A4C2-A7D3-4EE8-BF67-C7647D485263}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Export_HydroOverview_Check_Mask" ID="{C133A4C2-A7D3-4EE8-BF67-C7647D485263}" FileName="Regions\Standard_Export_HydroOverview_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_HydroOverview_Check" key="{3FBB68FC-CF39-4D7C-8AB1-C2A7279BA886}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_HydroOverview_Check" ID="{3FBB68FC-CF39-4D7C-8AB1-C2A7279BA886}" FileName="Regions\Standard_Print_HydroOverview_Check.png" Update="False" />
+		</child>
+		<child name="Standard_Print_HydroOverview_Check_Mask" key="{EDD157D6-D3C3-4F28-AE11-329B4417E70B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_HydroOverview_Check_Mask" ID="{EDD157D6-D3C3-4F28-AE11-329B4417E70B}" FileName="Regions\Standard_Print_HydroOverview_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Standard_Print_FlowDiagramTopView_Check_Mask" key="{A956F11C-06BA-42B5-9ECA-65EAD0185ABC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Standard_Print_FlowDiagramTopView_Check_Mask" ID="{A956F11C-06BA-42B5-9ECA-65EAD0185ABC}" FileName="Regions\Standard_Print_FlowDiagramTopView_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgListingManager_Add_Copy_NewListAreas" key="{35D6B7A3-5E49-4B3B-9707-1001390330DB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgListingManager_Add_Copy_NewListAreas" ID="{35D6B7A3-5E49-4B3B-9707-1001390330DB}" FileName="Regions\dlgListingManager_Add_Copy_NewListAreas.png" Update="False" />
+		</child>
+		<child name="dlgListingManager_Add_Copy_NewListAreas_Mask" key="{EB56EE94-F79E-4BC9-B4D0-894A91E84411}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgListingManager_Add_Copy_NewListAreas_Mask" ID="{EB56EE94-F79E-4BC9-B4D0-894A91E84411}" FileName="Regions\dlgListingManager_Add_Copy_NewListAreas_Mask.png" Update="False" />
+		</child>
+		<child name="AfxListManager_DeselectElements_Check" key="{F2979105-0467-469E-9272-068B62CDDD73}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AfxListManager_DeselectElements_Check" ID="{F2979105-0467-469E-9272-068B62CDDD73}" FileName="Regions\AfxListManager_DeselectElements_Check.png" Update="False" />
+		</child>
+		<child name="AfxListManager_DeselectElements_Check_Mask" key="{E8D4278E-223F-41AA-A8E6-39B88DB2961F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AfxListManager_DeselectElements_Check_Mask" ID="{E8D4278E-223F-41AA-A8E6-39B88DB2961F}" FileName="Regions\AfxListManager_DeselectElements_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_SelectListAreaDrawingElements_Check" key="{FED5D33C-16AE-4E8E-8D73-60EBD73F9B80}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_SelectListAreaDrawingElements_Check" ID="{FED5D33C-16AE-4E8E-8D73-60EBD73F9B80}" FileName="Regions\Afx_SelectListAreaDrawingElements_Check.png" Update="False" />
+		</child>
+		<child name="Afx_SelectListAreaDrawingElements_Check_Mask" key="{F4E449FA-9D51-4E26-960F-081AB404CCA2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_SelectListAreaDrawingElements_Check_Mask" ID="{F4E449FA-9D51-4E26-960F-081AB404CCA2}" FileName="Regions\Afx_SelectListAreaDrawingElements_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_SelectListAreaPipelenes_Check" key="{49C43E0E-37F5-4CDC-9A5C-90839EF93E7C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_SelectListAreaPipelenes_Check" ID="{49C43E0E-37F5-4CDC-9A5C-90839EF93E7C}" FileName="Regions\Afx_SelectListAreaPipelenes_Check.png" Update="False" />
+		</child>
+		<child name="Afx_SelectListAreaPipelenes_Check_Mask" key="{296E7B45-5F75-49AF-92BC-09BE94517CA4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_SelectListAreaPipelenes_Check_Mask" ID="{296E7B45-5F75-49AF-92BC-09BE94517CA4}" FileName="Regions\Afx_SelectListAreaPipelenes_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINKAssistantFAB_StocklistingReports_Check" key="{75AA6CE4-7B6E-4E6A-A88A-751D0209475A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINKAssistantFAB_StocklistingReports_Check" ID="{75AA6CE4-7B6E-4E6A-A88A-751D0209475A}" FileName="Regions\dlgAutoSPRINKAssistantFAB_StocklistingReports_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINKAssistantFAB_StocklistingReports_Check_Mask" key="{05D9AF3F-CCBF-4009-A614-823AC5CF4A8C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINKAssistantFAB_StocklistingReports_Check_Mask" ID="{05D9AF3F-CCBF-4009-A614-823AC5CF4A8C}" FileName="Regions\dlgAutoSPRINKAssistantFAB_StocklistingReports_Check_Mask.png" Update="False" />
+		</child>
+		<child name="OtherPipe_Stocklisting_Check" key="{3CE3E584-38D2-459A-9802-7332C08165E0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="OtherPipe_Stocklisting_Check" ID="{3CE3E584-38D2-459A-9802-7332C08165E0}" FileName="Regions\OtherPipe_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="OtherPipe_Stocklisting_Check_Mask" key="{8D0FF07D-61F9-44A5-8CD1-CC7EC98B0F49}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="OtherPipe_Stocklisting_Check_Mask" ID="{8D0FF07D-61F9-44A5-8CD1-CC7EC98B0F49}" FileName="Regions\OtherPipe_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ThreadedLabels_Stocklisting_Check" key="{E181613F-2EE7-4974-87E6-0A194CD23174}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ThreadedLabels_Stocklisting_Check" ID="{E181613F-2EE7-4974-87E6-0A194CD23174}" FileName="Regions\ThreadedLabels_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="ThreadedLabels_Stocklisting_Check_Mask" key="{D507A84F-9232-4CDF-91C4-10FC678A8DDC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ThreadedLabels_Stocklisting_Check_Mask" ID="{D507A84F-9232-4CDF-91C4-10FC678A8DDC}" FileName="Regions\ThreadedLabels_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="OtherPipelines_Stocklisting_Check" key="{8337AC1E-B40D-4057-A092-7B18EAFEFDEB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="OtherPipelines_Stocklisting_Check" ID="{8337AC1E-B40D-4057-A092-7B18EAFEFDEB}" FileName="Regions\OtherPipelines_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="OtherPipelines_Stocklisting_Check_Mask" key="{23FC0FDB-82CE-4B95-A54A-A0AF79F24DA3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="OtherPipelines_Stocklisting_Check_Mask" ID="{23FC0FDB-82CE-4B95-A54A-A0AF79F24DA3}" FileName="Regions\OtherPipelines_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="WeldedPipelines_Stocklisting_Check" key="{22C2F0EB-3B5F-4507-B2DE-91DA0430E016}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="WeldedPipelines_Stocklisting_Check" ID="{22C2F0EB-3B5F-4507-B2DE-91DA0430E016}" FileName="Regions\WeldedPipelines_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="WeldedPipelines_Stocklisting_Check_Mask" key="{D808AAD4-0FA3-4A04-A183-17FCF7C23746}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="WeldedPipelines_Stocklisting_Check_Mask" ID="{D808AAD4-0FA3-4A04-A183-17FCF7C23746}" FileName="Regions\WeldedPipelines_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ThreadedPipelines_Stocklisting_Check" key="{DB693EAF-5BE0-453E-A91E-3BA56FE15605}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ThreadedPipelines_Stocklisting_Check" ID="{DB693EAF-5BE0-453E-A91E-3BA56FE15605}" FileName="Regions\ThreadedPipelines_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="ThreadedPipelines_Stocklisting_Check_Mask" key="{B615156B-35D7-4FFB-B801-804BF5B1BCD2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ThreadedPipelines_Stocklisting_Check_Mask" ID="{B615156B-35D7-4FFB-B801-804BF5B1BCD2}" FileName="Regions\ThreadedPipelines_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Pipelines_Stocklisting_Check" key="{7AF3524A-E5AF-4981-83D5-5DFCE8E92F80}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Pipelines_Stocklisting_Check" ID="{7AF3524A-E5AF-4981-83D5-5DFCE8E92F80}" FileName="Regions\Pipelines_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="Pipelines_Stocklisting_Check_Mask" key="{F55A6AF7-3ECB-4BC2-9572-5123F176986F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Pipelines_Stocklisting_Check_Mask" ID="{F55A6AF7-3ECB-4BC2-9572-5123F176986F}" FileName="Regions\Pipelines_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="LooseMaterial_Stocklisting_Check" key="{C7808445-F98E-4FE0-ADA1-1AB2ADE9976B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LooseMaterial_Stocklisting_Check" ID="{C7808445-F98E-4FE0-ADA1-1AB2ADE9976B}" FileName="Regions\LooseMaterial_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="LooseMaterial_Stocklisting_Check_Mask" key="{FF7477AB-7E14-4154-91A9-E272445454AC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LooseMaterial_Stocklisting_Check_Mask" ID="{FF7477AB-7E14-4154-91A9-E272445454AC}" FileName="Regions\LooseMaterial_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="SprinklerSummary_Stocklisting_Check" key="{BA14F57F-A6E4-4A46-983B-6BBB1E1EBE4C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SprinklerSummary_Stocklisting_Check" ID="{BA14F57F-A6E4-4A46-983B-6BBB1E1EBE4C}" FileName="Regions\SprinklerSummary_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="SprinklerSummary_Stocklisting_Check_Mask" key="{8FB1D62A-7093-40C7-8973-914CFC1E509E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SprinklerSummary_Stocklisting_Check_Mask" ID="{8FB1D62A-7093-40C7-8973-914CFC1E509E}" FileName="Regions\SprinklerSummary_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DetailList_Stocklisting_Check" key="{52678082-52EE-4BD2-9020-1979C7CAD8D7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DetailList_Stocklisting_Check" ID="{52678082-52EE-4BD2-9020-1979C7CAD8D7}" FileName="Regions\DetailList_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="DetailList_Stocklisting_Check_Mask" key="{A8ECDE92-0CF2-457C-84BF-D0E469D896D3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DetailList_Stocklisting_Check_Mask" ID="{A8ECDE92-0CF2-457C-84BF-D0E469D896D3}" FileName="Regions\DetailList_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="HangerDetail_Stocklisting_Check" key="{6BB2AE9C-80E2-4284-9218-13A66B9716CC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="HangerDetail_Stocklisting_Check" ID="{6BB2AE9C-80E2-4284-9218-13A66B9716CC}" FileName="Regions\HangerDetail_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="HangerDetail_Stocklisting_Check_Mask" key="{FCC954D8-CF86-4C86-A614-E8FAAFB7DF07}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="HangerDetail_Stocklisting_Check_Mask" ID="{FCC954D8-CF86-4C86-A614-E8FAAFB7DF07}" FileName="Regions\HangerDetail_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="HangerMaterial_Stocklisting_Check" key="{97871FF3-5B6A-4655-AF3C-B51CE4BF5044}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="HangerMaterial_Stocklisting_Check" ID="{97871FF3-5B6A-4655-AF3C-B51CE4BF5044}" FileName="Regions\HangerMaterial_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="HangerMaterial_Stocklisting_Check_Mask" key="{34D686F4-EB48-4828-95E8-B9671FAD6BFE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="HangerMaterial_Stocklisting_Check_Mask" ID="{34D686F4-EB48-4828-95E8-B9671FAD6BFE}" FileName="Regions\HangerMaterial_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="MaterialSummary_Stocklisting_Check" key="{BA32B743-D9E4-4DFF-B2FA-2FF7FB732D86}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="MaterialSummary_Stocklisting_Check" ID="{BA32B743-D9E4-4DFF-B2FA-2FF7FB732D86}" FileName="Regions\MaterialSummary_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="MaterialSummary_Stocklisting_Check_Mask" key="{BF9F30B2-8546-4BAD-BAEB-03D31AA5B6E3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="MaterialSummary_Stocklisting_Check_Mask" ID="{BF9F30B2-8546-4BAD-BAEB-03D31AA5B6E3}" FileName="Regions\MaterialSummary_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="CoverSheet_Stocklisting_Check" key="{0500102D-2B2A-45C0-B583-2EA1CD848CA7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CoverSheet_Stocklisting_Check" ID="{0500102D-2B2A-45C0-B583-2EA1CD848CA7}" FileName="Regions\CoverSheet_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="CoverSheet_Stocklisting_Check_Mask" key="{63CA5F26-E8F7-4FF4-ADB7-854CDB9E18D3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CoverSheet_Stocklisting_Check_Mask" ID="{63CA5F26-E8F7-4FF4-ADB7-854CDB9E18D3}" FileName="Regions\CoverSheet_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgStockListingReports_NoReportData_Check" key="{FEF82755-5CE9-4312-A3D8-80168BE925B6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgStockListingReports_NoReportData_Check" ID="{FEF82755-5CE9-4312-A3D8-80168BE925B6}" FileName="Regions\dlgStockListingReports_NoReportData_Check.png" Update="False" />
+		</child>
+		<child name="dlgStockListingReports_NoReportData_Check_Mask" key="{9E50B73A-3AB7-47B9-9FD5-F8F3E7A353D4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgStockListingReports_NoReportData_Check_Mask" ID="{9E50B73A-3AB7-47B9-9FD5-F8F3E7A353D4}" FileName="Regions\dlgStockListingReports_NoReportData_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgStockListingReports_GenerateReportData_Check" key="{61A83530-21DF-451D-AB28-E6975976D774}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgStockListingReports_GenerateReportData_Check" ID="{61A83530-21DF-451D-AB28-E6975976D774}" FileName="Regions\dlgStockListingReports_GenerateReportData_Check.png" Update="False" />
+		</child>
+		<child name="dlgStockListingReports_GenerateReportData_Check_Mask" key="{C07C038B-8F0A-4CCC-9391-FC45A44EFB99}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgStockListingReports_GenerateReportData_Check_Mask" ID="{C07C038B-8F0A-4CCC-9391-FC45A44EFB99}" FileName="Regions\dlgStockListingReports_GenerateReportData_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_SelectPipesWithoutPipelines_Check" key="{8C1C1899-1C6A-4458-B537-0999A475E623}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_SelectPipesWithoutPipelines_Check" ID="{8C1C1899-1C6A-4458-B537-0999A475E623}" FileName="Regions\Afx_SelectPipesWithoutPipelines_Check.png" Update="False" />
+		</child>
+		<child name="Afx_SelectPipesWithoutPipelines_Check_Mask" key="{C460825C-EF5E-4023-86F3-4337745F8257}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_SelectPipesWithoutPipelines_Check_Mask" ID="{C460825C-EF5E-4023-86F3-4337745F8257}" FileName="Regions\Afx_SelectPipesWithoutPipelines_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_GenerateStocklisting_Error_Check" key="{8DA0743D-105B-4A40-ABCC-C6E341F4CC23}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_GenerateStocklisting_Error_Check" ID="{8DA0743D-105B-4A40-ABCC-C6E341F4CC23}" FileName="Regions\dlgAutoSPRINK2023_GenerateStocklisting_Error_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_GenerateStocklisting_Error_Check_Mask" key="{DBC7EF13-A14D-4BA3-AAAC-0EC357B75628}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_GenerateStocklisting_Error_Check_Mask" ID="{DBC7EF13-A14D-4BA3-AAAC-0EC357B75628}" FileName="Regions\dlgAutoSPRINK2023_GenerateStocklisting_Error_Check_Mask.png" Update="False" />
+		</child>
+		<child name="WeldedLabelsCutOrder_Check" key="{D5E1BEF1-79E7-4FA3-9FBE-6BD91F229753}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="WeldedLabelsCutOrder_Check" ID="{D5E1BEF1-79E7-4FA3-9FBE-6BD91F229753}" FileName="Regions\WeldedLabelsCutOrder_Check.png" Update="False" />
+		</child>
+		<child name="WeldedLabelsCutOrder_Check_Mask" key="{0762D33D-CBCB-4E05-AF7B-271C6C52F5C1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="WeldedLabelsCutOrder_Check_Mask" ID="{0762D33D-CBCB-4E05-AF7B-271C6C52F5C1}" FileName="Regions\WeldedLabelsCutOrder_Check_Mask.png" Update="False" />
+		</child>
+		<child name="CutPipe_Welded_Check" key="{BFC73A07-CC50-40B1-8BFC-5EAF1A62A233}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CutPipe_Welded_Check" ID="{BFC73A07-CC50-40B1-8BFC-5EAF1A62A233}" FileName="Regions\CutPipe_Welded_Check.png" Update="False" />
+		</child>
+		<child name="CutPipe_Welded_Check_Mask" key="{7EAA3820-D612-4DBD-8415-37D9C07A95A1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CutPipe_Welded_Check_Mask" ID="{7EAA3820-D612-4DBD-8415-37D9C07A95A1}" FileName="Regions\CutPipe_Welded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="CutPipe_Threaded_Check" key="{A06BF952-0533-4743-9DC1-588F8C0CE456}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CutPipe_Threaded_Check" ID="{A06BF952-0533-4743-9DC1-588F8C0CE456}" FileName="Regions\CutPipe_Threaded_Check.png" Update="False" />
+		</child>
+		<child name="CutPipe_Threaded_Check_Mask" key="{3EC25F0A-CBE0-4A3A-B626-F40CD0C7F8BF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CutPipe_Threaded_Check_Mask" ID="{3EC25F0A-CBE0-4A3A-B626-F40CD0C7F8BF}" FileName="Regions\CutPipe_Threaded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ThreadedBranchlineReport_Check" key="{DA9FF9FF-3D3E-496A-9F22-6C2D12F23F7C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ThreadedBranchlineReport_Check" ID="{DA9FF9FF-3D3E-496A-9F22-6C2D12F23F7C}" FileName="Regions\ThreadedBranchlineReport_Check.png" Update="False" />
+		</child>
+		<child name="ThreadedBranchlineReport_Check_Mask" key="{64241DB1-D1FC-4C1D-8DBA-96E86904FEA3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ThreadedBranchlineReport_Check_Mask" ID="{64241DB1-D1FC-4C1D-8DBA-96E86904FEA3}" FileName="Regions\ThreadedBranchlineReport_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ThreadedFabrication_BySize_Check" key="{283CDD90-0A7E-4656-88C3-695BA33B38D4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ThreadedFabrication_BySize_Check" ID="{283CDD90-0A7E-4656-88C3-695BA33B38D4}" FileName="Regions\ThreadedFabrication_BySize_Check.png" Update="False" />
+		</child>
+		<child name="ThreadedFabrication_BySize_Check_Mask" key="{921E8CFB-C2AE-4286-ACAA-3476862A1424}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ThreadedFabrication_BySize_Check_Mask" ID="{921E8CFB-C2AE-4286-ACAA-3476862A1424}" FileName="Regions\ThreadedFabrication_BySize_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ThreadedFabricationReport_Check" key="{4C49B50F-27DC-4817-A97C-D233E6D4EF90}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ThreadedFabricationReport_Check" ID="{4C49B50F-27DC-4817-A97C-D233E6D4EF90}" FileName="Regions\ThreadedFabricationReport_Check.png" Update="False" />
+		</child>
+		<child name="ThreadedFabricationReport_Check_Mask" key="{8C2C49FC-063F-4DAA-8C69-AC68A65F4398}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ThreadedFabricationReport_Check_Mask" ID="{8C2C49FC-063F-4DAA-8C69-AC68A65F4398}" FileName="Regions\ThreadedFabricationReport_Check_Mask.png" Update="False" />
+		</child>
+		<child name="WeldedBranchlinesFab_Check" key="{E6494726-37BA-45AA-8969-73FED2C5482F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="WeldedBranchlinesFab_Check" ID="{E6494726-37BA-45AA-8969-73FED2C5482F}" FileName="Regions\WeldedBranchlinesFab_Check.png" Update="False" />
+		</child>
+		<child name="WeldedBranchlinesFab_Check_Mask" key="{9EA5869C-AF51-4C05-818A-18F56C158CA4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="WeldedBranchlinesFab_Check_Mask" ID="{9EA5869C-AF51-4C05-818A-18F56C158CA4}" FileName="Regions\WeldedBranchlinesFab_Check_Mask.png" Update="False" />
+		</child>
+		<child name="WeldedMainsFab_Check" key="{6773F41C-FED1-41FC-AC40-BB7ADAA564CC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="WeldedMainsFab_Check" ID="{6773F41C-FED1-41FC-AC40-BB7ADAA564CC}" FileName="Regions\WeldedMainsFab_Check.png" Update="False" />
+		</child>
+		<child name="WeldedMainsFab_Check_Mask" key="{01DFB037-72F0-45CC-AC4B-3BC618EC74C7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="WeldedMainsFab_Check_Mask" ID="{01DFB037-72F0-45CC-AC4B-3BC618EC74C7}" FileName="Regions\WeldedMainsFab_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NonGraphical_WeldedBranchlines_Check" key="{65A3CDAC-6732-40FF-906B-28EB7A97E6CA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NonGraphical_WeldedBranchlines_Check" ID="{65A3CDAC-6732-40FF-906B-28EB7A97E6CA}" FileName="Regions\NonGraphical_WeldedBranchlines_Check.png" Update="False" />
+		</child>
+		<child name="NonGraphical_WeldedBranchlines_Check_Mask" key="{F0C0AD98-7746-40E1-A3B3-68875B4C41F9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NonGraphical_WeldedBranchlines_Check_Mask" ID="{F0C0AD98-7746-40E1-A3B3-68875B4C41F9}" FileName="Regions\NonGraphical_WeldedBranchlines_Check_Mask.png" Update="False" />
+		</child>
+		<child name="NonGraphical_WeldedMains_Check" key="{E2DB0E4D-F4D7-4855-A79C-1A9589FE144F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NonGraphical_WeldedMains_Check" ID="{E2DB0E4D-F4D7-4855-A79C-1A9589FE144F}" FileName="Regions\NonGraphical_WeldedMains_Check.png" Update="False" />
+		</child>
+		<child name="NonGraphical_WeldedMains_Check_Mask" key="{765C5073-C478-48BD-AB50-44B4F7F43B66}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="NonGraphical_WeldedMains_Check_Mask" ID="{765C5073-C478-48BD-AB50-44B4F7F43B66}" FileName="Regions\NonGraphical_WeldedMains_Check_Mask.png" Update="False" />
+		</child>
+		<child name="MaterialSummaryWelded_Stocklisting_Check" key="{AFA9977C-8F68-4B64-9012-2D7B42D14239}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="MaterialSummaryWelded_Stocklisting_Check" ID="{AFA9977C-8F68-4B64-9012-2D7B42D14239}" FileName="Regions\MaterialSummaryWelded_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="MaterialSummaryWelded_Stocklisting_Check_Mask" key="{0694571E-0413-4E58-834E-9E9BD5215737}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="MaterialSummaryWelded_Stocklisting_Check_Mask" ID="{0694571E-0413-4E58-834E-9E9BD5215737}" FileName="Regions\MaterialSummaryWelded_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="MaterialSummaryThreaded_Stocklisting_Check" key="{DD120A9C-DC8A-4BD9-92E5-46271E579200}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="MaterialSummaryThreaded_Stocklisting_Check" ID="{DD120A9C-DC8A-4BD9-92E5-46271E579200}" FileName="Regions\MaterialSummaryThreaded_Stocklisting_Check.png" Update="False" />
+		</child>
+		<child name="MaterialSummaryThreaded_Stocklisting_Check_Mask" key="{35271DA5-8878-4631-BBB4-B193B6BAF1E8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="MaterialSummaryThreaded_Stocklisting_Check_Mask" ID="{35271DA5-8878-4631-BBB4-B193B6BAF1E8}" FileName="Regions\MaterialSummaryThreaded_Stocklisting_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_BOM_1_Check" key="{8CDA9AFB-6443-4EE2-8144-EF0F5B15D2C2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_BOM_1_Check" ID="{8CDA9AFB-6443-4EE2-8144-EF0F5B15D2C2}" FileName="Regions\Afx_BOM_1_Check.png" Update="False" />
+		</child>
+		<child name="Afx_BOM_1_Check_Mask" key="{3C1B744E-BE9B-4683-B84B-F8DBDD9F7633}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_BOM_1_Check_Mask" ID="{3C1B744E-BE9B-4683-B84B-F8DBDD9F7633}" FileName="Regions\Afx_BOM_1_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_BOM_2_Check" key="{8FFC0190-5E8D-4601-946C-CD63E89D7E38}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_BOM_2_Check" ID="{8FFC0190-5E8D-4601-946C-CD63E89D7E38}" FileName="Regions\Afx_BOM_2_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_LongPipe_Check" key="{7143385D-FD12-41EA-9743-74A144CB886D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_LongPipe_Check" ID="{7143385D-FD12-41EA-9743-74A144CB886D}" FileName="Regions\dlgAutoSPRINK2023_LongPipe_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_LongPipe_Check_Mask" key="{F9B206D0-C4C1-4C32-BDE9-77D03B9CE7CA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_LongPipe_Check_Mask" ID="{F9B206D0-C4C1-4C32-BDE9-77D03B9CE7CA}" FileName="Regions\dlgAutoSPRINK2023_LongPipe_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINKFAB2023_InvalidMakeOn_Check" key="{591DA7C1-BF53-4FB6-977A-B9FC8E8C6662}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINKFAB2023_InvalidMakeOn_Check" ID="{591DA7C1-BF53-4FB6-977A-B9FC8E8C6662}" FileName="Regions\dlgAutoSPRINKFAB2023_InvalidMakeOn_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINKFAB2023_InvalidMakeOn_Check_Mask" key="{53262A75-8C64-41CD-8202-F91F5B33A5DD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINKFAB2023_InvalidMakeOn_Check_Mask" ID="{53262A75-8C64-41CD-8202-F91F5B33A5DD}" FileName="Regions\dlgAutoSPRINKFAB2023_InvalidMakeOn_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ListView_MaterialPane_Check" key="{BE2CF1E0-B1E0-4340-9B16-18FB78826E42}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ListView_MaterialPane_Check" ID="{BE2CF1E0-B1E0-4340-9B16-18FB78826E42}" FileName="Regions\ListView_MaterialPane_Check.png" Update="False" />
+		</child>
+		<child name="ListView_MaterialPane_Check_Mask" key="{E166417B-75E4-4035-9E4E-C975C98DB392}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ListView_MaterialPane_Check_Mask" ID="{E166417B-75E4-4035-9E4E-C975C98DB392}" FileName="Regions\ListView_MaterialPane_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ListView_MaterialPane2_LocalFile_Check" key="{51BF0863-49E1-435F-B10B-FB3A4F329E7C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ListView_MaterialPane2_LocalFile_Check" ID="{51BF0863-49E1-435F-B10B-FB3A4F329E7C}" FileName="Regions\ListView_MaterialPane2_LocalFile_Check.png" Update="False" />
+		</child>
+		<child name="ListView_MaterialPane2_LocalFile_Check_Mask" key="{9844F349-A350-45B7-8DD6-CA0F4FAD8017}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ListView_MaterialPane2_LocalFile_Check_Mask" ID="{9844F349-A350-45B7-8DD6-CA0F4FAD8017}" FileName="Regions\ListView_MaterialPane2_LocalFile_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_BOM1_Check" key="{F800A6B4-0CE7-4027-848E-FB3E84C0B19E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_BOM1_Check" ID="{F800A6B4-0CE7-4027-848E-FB3E84C0B19E}" FileName="Regions\Afx_BOM1_Check.png" Update="False" />
+		</child>
+		<child name="Afx_BOM2_Check" key="{0D20E1BE-9618-4753-8087-98A2B92718B0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_BOM2_Check" ID="{0D20E1BE-9618-4753-8087-98A2B92718B0}" FileName="Regions\Afx_BOM2_Check.png" Update="False" />
+		</child>
+		<child name="Afx_BOM_Check" key="{85C3C32E-5A00-4009-8B47-66EDE9050567}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_BOM_Check" ID="{85C3C32E-5A00-4009-8B47-66EDE9050567}" FileName="Regions\Afx_BOM_Check.png" Update="False" />
+		</child>
+		<child name="AfxFrameOrView140u_PipelineAndMakeOn_Check" key="{4398F55B-F1BF-4D67-8864-28E3B8890D2C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AfxFrameOrView140u_PipelineAndMakeOn_Check" ID="{4398F55B-F1BF-4D67-8864-28E3B8890D2C}" FileName="Regions\AfxFrameOrView140u_PipelineAndMakeOn_Check.png" Update="False" />
+		</child>
+		<child name="AfxFrameOrView140u_PipelineAndMakeOn_Check_Mask" key="{111839F5-DC1F-4FB8-9219-C5B7A6ABFFC8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AfxFrameOrView140u_PipelineAndMakeOn_Check_Mask" ID="{111839F5-DC1F-4FB8-9219-C5B7A6ABFFC8}" FileName="Regions\AfxFrameOrView140u_PipelineAndMakeOn_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_BOMat_Check" key="{B2F8A1CD-1901-410C-B6E2-C99BE1B626D8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_BOMat_Check" ID="{B2F8A1CD-1901-410C-B6E2-C99BE1B626D8}" FileName="Regions\Afx_BOMat_Check.png" Update="False" />
+		</child>
+		<child name="Afx_PipeLineandMakeOn_Check" key="{8883B932-7C21-401F-9F6D-2B6934CDB63E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_PipeLineandMakeOn_Check" ID="{8883B932-7C21-401F-9F6D-2B6934CDB63E}" FileName="Regions\Afx_PipeLineandMakeOn_Check.png" Update="False" />
+		</child>
+		<child name="Afx_PipeLineandMakeOn_Check_Mask" key="{CEBB183D-DD2E-483F-A938-607830F7577D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_PipeLineandMakeOn_Check_Mask" ID="{CEBB183D-DD2E-483F-A938-607830F7577D}" FileName="Regions\Afx_PipeLineandMakeOn_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_CoverSheet_Check" key="{E956992D-890A-4E57-9C1B-8E7990163164}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_CoverSheet_Check" ID="{E956992D-890A-4E57-9C1B-8E7990163164}" FileName="Regions\StockListingReport_Print_CoverSheet_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_CoverSheet_Check_Mask" key="{C8412D55-480E-4A9B-864C-ACA0E01BACD6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_CoverSheet_Check_Mask" ID="{C8412D55-480E-4A9B-864C-ACA0E01BACD6}" FileName="Regions\StockListingReport_Print_CoverSheet_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_CoverSheet_Check" key="{EA9A5502-150D-48DF-9E7A-7486A0CB798D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_CoverSheet_Check" ID="{EA9A5502-150D-48DF-9E7A-7486A0CB798D}" FileName="Regions\StockListingReport_Export_CoverSheet_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_CoverSheet_Check_Mask" key="{1EB6F139-0D1D-4105-8BF0-E6306F4FC7D5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_CoverSheet_Check_Mask" ID="{1EB6F139-0D1D-4105-8BF0-E6306F4FC7D5}" FileName="Regions\StockListingReport_Export_CoverSheet_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_MaterialSummary_Check" key="{AF6F4E6B-AE37-47C5-AD4F-23E095F1FB41}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_MaterialSummary_Check" ID="{AF6F4E6B-AE37-47C5-AD4F-23E095F1FB41}" FileName="Regions\StockListingReport_Print_MaterialSummary_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_MaterialSummary_Check_Mask" key="{E47E08EE-08D7-4C0B-BE26-1114872762DF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_MaterialSummary_Check_Mask" ID="{E47E08EE-08D7-4C0B-BE26-1114872762DF}" FileName="Regions\StockListingReport_Print_MaterialSummary_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_MaterialSummary_Check" key="{5BFD6639-43C7-4960-95C1-C0F9CF2C855E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_MaterialSummary_Check" ID="{5BFD6639-43C7-4960-95C1-C0F9CF2C855E}" FileName="Regions\StockListingReport_Export_MaterialSummary_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_MaterialSummary_Check_Mask" key="{E3AA72FB-FECE-49F2-833F-07974585F6A9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_MaterialSummary_Check_Mask" ID="{E3AA72FB-FECE-49F2-833F-07974585F6A9}" FileName="Regions\StockListingReport_Export_MaterialSummary_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_MaterialSummary_Threaded_Check" key="{980C9998-2850-4DEB-B224-184952C5EA9E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_MaterialSummary_Threaded_Check" ID="{980C9998-2850-4DEB-B224-184952C5EA9E}" FileName="Regions\StockListingReport_Print_MaterialSummary_Threaded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_MaterialSummary_Threaded_Check_Mask" key="{A82CDC7D-A308-4E83-ADD2-CE7AE5776DFF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_MaterialSummary_Threaded_Check_Mask" ID="{A82CDC7D-A308-4E83-ADD2-CE7AE5776DFF}" FileName="Regions\StockListingReport_Print_MaterialSummary_Threaded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_MaterialSummary_Threaded_Check" key="{BF9886EC-D963-4B8E-9042-68BC9D806CD4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_MaterialSummary_Threaded_Check" ID="{BF9886EC-D963-4B8E-9042-68BC9D806CD4}" FileName="Regions\StockListingReport_Export_MaterialSummary_Threaded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_MaterialSummary_Threaded_Check_Mask" key="{C05CB5BF-356E-474A-A667-DC47CF2AB9C9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_MaterialSummary_Threaded_Check_Mask" ID="{C05CB5BF-356E-474A-A667-DC47CF2AB9C9}" FileName="Regions\StockListingReport_Export_MaterialSummary_Threaded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_MaterialSummary_Welded_Check" key="{82432831-EF99-4C56-8221-5459EDA2A51B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_MaterialSummary_Welded_Check" ID="{82432831-EF99-4C56-8221-5459EDA2A51B}" FileName="Regions\StockListingReport_Print_MaterialSummary_Welded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_MaterialSummary_Welded_Check_Mask" key="{1AE8EBA7-0E32-4D65-8B99-817E04044BF4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_MaterialSummary_Welded_Check_Mask" ID="{1AE8EBA7-0E32-4D65-8B99-817E04044BF4}" FileName="Regions\StockListingReport_Print_MaterialSummary_Welded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_MaterialSummary_Welded_Check" key="{61EB41A6-B09E-4402-8D3B-698755B948CB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_MaterialSummary_Welded_Check" ID="{61EB41A6-B09E-4402-8D3B-698755B948CB}" FileName="Regions\StockListingReport_Export_MaterialSummary_Welded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_MaterialSummary_Welded_Check_Mask" key="{13FB4EDD-D233-410C-A2E8-79E239E2F5BD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_MaterialSummary_Welded_Check_Mask" ID="{13FB4EDD-D233-410C-A2E8-79E239E2F5BD}" FileName="Regions\StockListingReport_Export_MaterialSummary_Welded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_HangerMaterial_Check" key="{20F53D1D-C90D-4B1C-A49A-5917DBAF50B0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_HangerMaterial_Check" ID="{20F53D1D-C90D-4B1C-A49A-5917DBAF50B0}" FileName="Regions\StockListingReport_Print_HangerMaterial_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_HangerMaterial_Check_Mask" key="{CA0944E7-8578-432B-A911-B5AC4A2A8975}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_HangerMaterial_Check_Mask" ID="{CA0944E7-8578-432B-A911-B5AC4A2A8975}" FileName="Regions\StockListingReport_Print_HangerMaterial_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_HangerMaterial_Check" key="{1D6327FF-2239-4211-AD74-C582A93C4971}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_HangerMaterial_Check" ID="{1D6327FF-2239-4211-AD74-C582A93C4971}" FileName="Regions\StockListingReport_Export_HangerMaterial_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_HangerMaterial_Check_Mask" key="{97D7E314-0DCC-402F-8DD4-A6CA061D9913}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_HangerMaterial_Check_Mask" ID="{97D7E314-0DCC-402F-8DD4-A6CA061D9913}" FileName="Regions\StockListingReport_Export_HangerMaterial_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_HangerDetail_Check" key="{ADD4DBFB-1BDE-4129-9457-6CB282FC31C9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_HangerDetail_Check" ID="{ADD4DBFB-1BDE-4129-9457-6CB282FC31C9}" FileName="Regions\StockListingReport_Print_HangerDetail_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_HangerDetail_Check_Mask" key="{51012F05-6CAC-4144-97E5-B16797609FE3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_HangerDetail_Check_Mask" ID="{51012F05-6CAC-4144-97E5-B16797609FE3}" FileName="Regions\StockListingReport_Print_HangerDetail_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_HangerDetail_Check" key="{C0DED564-7F66-4399-864B-CE00E02113CC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_HangerDetail_Check" ID="{C0DED564-7F66-4399-864B-CE00E02113CC}" FileName="Regions\StockListingReport_Export_HangerDetail_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_HangerDetail_Check_Mask" key="{40589B99-BAFC-4B12-A544-87A8C056BDE2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_HangerDetail_Check_Mask" ID="{40589B99-BAFC-4B12-A544-87A8C056BDE2}" FileName="Regions\StockListingReport_Export_HangerDetail_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_DetailList_Check" key="{88FD72A5-9F7A-493C-A5CB-0BCBB5BC8EE0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_DetailList_Check" ID="{88FD72A5-9F7A-493C-A5CB-0BCBB5BC8EE0}" FileName="Regions\StockListingReport_Print_DetailList_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_DetailList_Check_Mask" key="{1FB065F3-B470-4A49-9A9B-2CB74817F095}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_DetailList_Check_Mask" ID="{1FB065F3-B470-4A49-9A9B-2CB74817F095}" FileName="Regions\StockListingReport_Print_DetailList_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_DetailList_Check" key="{F908AC25-19D6-40AC-9250-2944E05AC09B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_DetailList_Check" ID="{F908AC25-19D6-40AC-9250-2944E05AC09B}" FileName="Regions\StockListingReport_Export_DetailList_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_DetailList_Check_Mask" key="{FCA8AF20-8FDD-4593-8370-6A59913C82C5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_DetailList_Check_Mask" ID="{FCA8AF20-8FDD-4593-8370-6A59913C82C5}" FileName="Regions\StockListingReport_Export_DetailList_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_SprinklerSummary_Check" key="{D15CAF91-D707-427B-AA22-A342EAFDC300}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_SprinklerSummary_Check" ID="{D15CAF91-D707-427B-AA22-A342EAFDC300}" FileName="Regions\StockListingReport_Print_SprinklerSummary_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_SprinklerSummary_Check_Mask" key="{9CEFBC84-D991-4A65-B939-C17768D31252}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_SprinklerSummary_Check_Mask" ID="{9CEFBC84-D991-4A65-B939-C17768D31252}" FileName="Regions\StockListingReport_Print_SprinklerSummary_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_SprinklerSummary_Check" key="{254E3A37-04D9-470D-A06B-0CCACE27243C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_SprinklerSummary_Check" ID="{254E3A37-04D9-470D-A06B-0CCACE27243C}" FileName="Regions\StockListingReport_Export_SprinklerSummary_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_SprinklerSummary_Check_Mask" key="{09565CF3-BBFB-4B3B-81AE-9391D4BA0835}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_SprinklerSummary_Check_Mask" ID="{09565CF3-BBFB-4B3B-81AE-9391D4BA0835}" FileName="Regions\StockListingReport_Export_SprinklerSummary_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_LooseMaterial_Check" key="{C256CD4A-A2C0-4201-AB52-F803A3B03C6E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_LooseMaterial_Check" ID="{C256CD4A-A2C0-4201-AB52-F803A3B03C6E}" FileName="Regions\StockListingReport_Print_LooseMaterial_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_LooseMaterials_Check" key="{DC1E6241-DC82-4A4E-B9DE-EA162AA4914A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_LooseMaterials_Check" ID="{DC1E6241-DC82-4A4E-B9DE-EA162AA4914A}" FileName="Regions\StockListingReport_Export_LooseMaterials_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_LooseMaterials_Check_Mask" key="{774DB33B-6F68-4C25-99D5-A2DD4BDCE4FF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_LooseMaterials_Check_Mask" ID="{774DB33B-6F68-4C25-99D5-A2DD4BDCE4FF}" FileName="Regions\StockListingReport_Export_LooseMaterials_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_NonGraphical_WeldedMains_Check" key="{7A6050E1-3DDA-4704-B065-1895AC347158}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_NonGraphical_WeldedMains_Check" ID="{7A6050E1-3DDA-4704-B065-1895AC347158}" FileName="Regions\StockListingReport_Print_NonGraphical_WeldedMains_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_NonGraphical_WeldedMains_Check_Mask" key="{2C0EE1EE-FDEC-4F08-9C6F-BF7B89E20125}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_NonGraphical_WeldedMains_Check_Mask" ID="{2C0EE1EE-FDEC-4F08-9C6F-BF7B89E20125}" FileName="Regions\StockListingReport_Print_NonGraphical_WeldedMains_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_NonGraphical_WeldedMains_Check" key="{81FFC682-E6BC-4057-A895-E31AF8520A05}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_NonGraphical_WeldedMains_Check" ID="{81FFC682-E6BC-4057-A895-E31AF8520A05}" FileName="Regions\StockListingReport_Export_NonGraphical_WeldedMains_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_NonGraphical_WeldedMains_Check_Mask" key="{398C2D22-0EF1-4B97-B1EA-C781B8292449}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_NonGraphical_WeldedMains_Check_Mask" ID="{398C2D22-0EF1-4B97-B1EA-C781B8292449}" FileName="Regions\StockListingReport_Export_NonGraphical_WeldedMains_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_NonGraphical_WeldedBranchLines_Check" key="{30783CE8-C524-4EDC-90A8-8FF2F7DDF3EA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_NonGraphical_WeldedBranchLines_Check" ID="{30783CE8-C524-4EDC-90A8-8FF2F7DDF3EA}" FileName="Regions\StockListingReport_Print_NonGraphical_WeldedBranchLines_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_NonGraphical_WeldedBranchLines_Check_Mask" key="{CF789F6D-6324-4ABE-984B-7A9E36EEB246}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_NonGraphical_WeldedBranchLines_Check_Mask" ID="{CF789F6D-6324-4ABE-984B-7A9E36EEB246}" FileName="Regions\StockListingReport_Print_NonGraphical_WeldedBranchLines_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_NonGraphical_WeldedBranchLines_Check" key="{B6E43735-3A58-4945-9797-E70AB7DD5460}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_NonGraphical_WeldedBranchLines_Check" ID="{B6E43735-3A58-4945-9797-E70AB7DD5460}" FileName="Regions\StockListingReport_Export_NonGraphical_WeldedBranchLines_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_NonGraphical_WeldedBranchLines_Check_Mask" key="{570D3A60-4C5C-41DE-84D0-A9ED8A492234}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_NonGraphical_WeldedBranchLines_Check_Mask" ID="{570D3A60-4C5C-41DE-84D0-A9ED8A492234}" FileName="Regions\StockListingReport_Export_NonGraphical_WeldedBranchLines_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_WeldedMainsFAB_Check" key="{47C0BCFA-D1A5-433D-8819-88ECF453CA37}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_WeldedMainsFAB_Check" ID="{47C0BCFA-D1A5-433D-8819-88ECF453CA37}" FileName="Regions\StockListingReport_Print_WeldedMainsFAB_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_WeldedMainsFAB_Check_Mask" key="{D49B6F4D-14D4-4FDC-8AA6-BF0FCCB5D32F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_WeldedMainsFAB_Check_Mask" ID="{D49B6F4D-14D4-4FDC-8AA6-BF0FCCB5D32F}" FileName="Regions\StockListingReport_Print_WeldedMainsFAB_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_WeldedMainsFAB_Check" key="{CA340D74-E416-4671-9203-FB5935DBF7BA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_WeldedMainsFAB_Check" ID="{CA340D74-E416-4671-9203-FB5935DBF7BA}" FileName="Regions\StockListingReport_Export_WeldedMainsFAB_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_WeldedMainsFAB_Check_Mask" key="{F6D57118-1B54-440B-A102-0A6C228115DE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_WeldedMainsFAB_Check_Mask" ID="{F6D57118-1B54-440B-A102-0A6C228115DE}" FileName="Regions\StockListingReport_Export_WeldedMainsFAB_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_WeldedBranchLinesFAB_Check" key="{D7DB56E2-B30F-479D-8121-2E748EF58FF2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_WeldedBranchLinesFAB_Check" ID="{D7DB56E2-B30F-479D-8121-2E748EF58FF2}" FileName="Regions\StockListingReport_Print_WeldedBranchLinesFAB_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_WeldedBranchLinesFAB_Check_Mask" key="{DE259492-6765-4CD7-A273-AE445DB90190}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_WeldedBranchLinesFAB_Check_Mask" ID="{DE259492-6765-4CD7-A273-AE445DB90190}" FileName="Regions\StockListingReport_Print_WeldedBranchLinesFAB_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_WeldedBranchLinesFAB_Check" key="{2B133415-C33F-499E-BA80-7686E038825F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_WeldedBranchLinesFAB_Check" ID="{2B133415-C33F-499E-BA80-7686E038825F}" FileName="Regions\StockListingReport_Export_WeldedBranchLinesFAB_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_WeldedBranchLinesFAB_Check_Mask" key="{E69BA75E-4DDD-43A2-85AC-64376416DC75}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_WeldedBranchLinesFAB_Check_Mask" ID="{E69BA75E-4DDD-43A2-85AC-64376416DC75}" FileName="Regions\StockListingReport_Export_WeldedBranchLinesFAB_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_ThreadedsFAB_Check" key="{0D75456A-A5EC-4EE1-967C-2DEFEF909DA9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_ThreadedsFAB_Check" ID="{0D75456A-A5EC-4EE1-967C-2DEFEF909DA9}" FileName="Regions\StockListingReport_Print_ThreadedsFAB_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_ThreadedsFAB_Check_Mask" key="{D00AC51A-81F3-4007-A886-390660ACCAFE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_ThreadedsFAB_Check_Mask" ID="{D00AC51A-81F3-4007-A886-390660ACCAFE}" FileName="Regions\StockListingReport_Print_ThreadedsFAB_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_ThreadedsFAB_Check" key="{E4D6B5B8-2056-4E69-9C99-345F2030CEA4}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_ThreadedsFAB_Check" ID="{E4D6B5B8-2056-4E69-9C99-345F2030CEA4}" FileName="Regions\StockListingReport_Export_ThreadedsFAB_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_ThreadedsFAB_Check_Mask" key="{7A59F839-343A-4EF7-8640-8A6CFCAD615B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_ThreadedsFAB_Check_Mask" ID="{7A59F839-343A-4EF7-8640-8A6CFCAD615B}" FileName="Regions\StockListingReport_Export_ThreadedsFAB_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_ThreadedFAB_BySize_Check" key="{108EFBE8-6B4B-4A23-92C9-F80C353097F2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_ThreadedFAB_BySize_Check" ID="{108EFBE8-6B4B-4A23-92C9-F80C353097F2}" FileName="Regions\StockListingReport_Print_ThreadedFAB_BySize_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_ThreadedFAB_BySize_Check_Mask" key="{E19B7950-9275-4CE0-9EE3-45AACC75023B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_ThreadedFAB_BySize_Check_Mask" ID="{E19B7950-9275-4CE0-9EE3-45AACC75023B}" FileName="Regions\StockListingReport_Print_ThreadedFAB_BySize_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_ThreadedsFAB_BySize_Check" key="{22E1367E-2AD0-4E89-AB88-F5EA53650C5C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_ThreadedsFAB_BySize_Check" ID="{22E1367E-2AD0-4E89-AB88-F5EA53650C5C}" FileName="Regions\StockListingReport_Export_ThreadedsFAB_BySize_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_ThreadedsFAB_BySize_Check_Mask" key="{D9694AE3-F6BE-4579-99FF-0D72DE3D4E08}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_ThreadedsFAB_BySize_Check_Mask" ID="{D9694AE3-F6BE-4579-99FF-0D72DE3D4E08}" FileName="Regions\StockListingReport_Export_ThreadedsFAB_BySize_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_Threaded_BL_Check" key="{75151E1F-0D76-4A62-8B61-5E7D353D9525}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_Threaded_BL_Check" ID="{75151E1F-0D76-4A62-8B61-5E7D353D9525}" FileName="Regions\StockListingReport_Print_Threaded_BL_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_Threaded_BL_Check" key="{A194DA67-AF83-4742-BA90-F52738FF2945}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_Threaded_BL_Check" ID="{A194DA67-AF83-4742-BA90-F52738FF2945}" FileName="Regions\StockListingReport_Export_Threaded_BL_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_Threaded_BL_Check_Mask" key="{E522B8FC-A6C7-42B8-9599-E532FE7A5983}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_Threaded_BL_Check_Mask" ID="{E522B8FC-A6C7-42B8-9599-E532FE7A5983}" FileName="Regions\StockListingReport_Export_Threaded_BL_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_PipeLines_Check" key="{0B5FE68E-38E5-466E-92DE-F2179DCE7CA1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_PipeLines_Check" ID="{0B5FE68E-38E5-466E-92DE-F2179DCE7CA1}" FileName="Regions\StockListingReport_Print_PipeLines_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_PipeLines_Check_Mask" key="{2F0F42C2-C6CA-4A05-BA81-E12D294DCF6C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_PipeLines_Check_Mask" ID="{2F0F42C2-C6CA-4A05-BA81-E12D294DCF6C}" FileName="Regions\StockListingReport_Print_PipeLines_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_PipeLines_Check" key="{4795FF46-84F9-4774-9E23-DE960BD0E045}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_PipeLines_Check" ID="{4795FF46-84F9-4774-9E23-DE960BD0E045}" FileName="Regions\StockListingReport_Export_PipeLines_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_PipeLines_Check_Mask" key="{4BCBEA0F-0C42-49EB-BC22-85528CEAFE10}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_PipeLines_Check_Mask" ID="{4BCBEA0F-0C42-49EB-BC22-85528CEAFE10}" FileName="Regions\StockListingReport_Export_PipeLines_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_PipeLines_Threaded_Check" key="{48DAA863-040F-47B8-BAF5-A259E5CE0226}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_PipeLines_Threaded_Check" ID="{48DAA863-040F-47B8-BAF5-A259E5CE0226}" FileName="Regions\StockListingReport_Print_PipeLines_Threaded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_PipeLines_Threaded_Check_Mask" key="{76B1A4F6-770A-461D-95F5-2B3A12BB335E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_PipeLines_Threaded_Check_Mask" ID="{76B1A4F6-770A-461D-95F5-2B3A12BB335E}" FileName="Regions\StockListingReport_Print_PipeLines_Threaded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_PipeLines_Threaded_Check" key="{7F9F9FA2-541B-490C-AD58-F3725F336330}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_PipeLines_Threaded_Check" ID="{7F9F9FA2-541B-490C-AD58-F3725F336330}" FileName="Regions\StockListingReport_Export_PipeLines_Threaded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_PipeLines_Threaded_Check_Mask" key="{43599D0E-11E1-4E2C-8EC7-B96E1E60F3BE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_PipeLines_Threaded_Check_Mask" ID="{43599D0E-11E1-4E2C-8EC7-B96E1E60F3BE}" FileName="Regions\StockListingReport_Export_PipeLines_Threaded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_PipeLines_Welded_Check" key="{152BC8C5-6B23-49D9-A3EF-B928B6F1A783}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_PipeLines_Welded_Check" ID="{152BC8C5-6B23-49D9-A3EF-B928B6F1A783}" FileName="Regions\StockListingReport_Print_PipeLines_Welded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_PipeLines_Welded_Check_Mask" key="{A8BE9EC5-8D51-49B5-93BE-0D07F44540FB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_PipeLines_Welded_Check_Mask" ID="{A8BE9EC5-8D51-49B5-93BE-0D07F44540FB}" FileName="Regions\StockListingReport_Print_PipeLines_Welded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_PipeLines_Welded_Check" key="{54EAF0A7-0C3B-4B8B-A3E3-7254B4336683}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_PipeLines_Welded_Check" ID="{54EAF0A7-0C3B-4B8B-A3E3-7254B4336683}" FileName="Regions\StockListingReport_Export_PipeLines_Welded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_PipeLines_Welded_Check_Mask" key="{1CAD9210-E8D5-4259-B7B1-4151E5088BBD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_PipeLines_Welded_Check_Mask" ID="{1CAD9210-E8D5-4259-B7B1-4151E5088BBD}" FileName="Regions\StockListingReport_Export_PipeLines_Welded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_OtherPipeLines_Check" key="{8B4DF90B-3644-488A-8B03-43D80B223954}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_OtherPipeLines_Check" ID="{8B4DF90B-3644-488A-8B03-43D80B223954}" FileName="Regions\StockListingReport_Print_OtherPipeLines_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_OtherPipeLines_Check_Mask" key="{1C259C82-E716-40D3-9663-E5305EA2B3C5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_OtherPipeLines_Check_Mask" ID="{1C259C82-E716-40D3-9663-E5305EA2B3C5}" FileName="Regions\StockListingReport_Print_OtherPipeLines_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_OtherPipeLines_Check" key="{3F0D382F-F337-494A-98B6-33BF405C7B66}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_OtherPipeLines_Check" ID="{3F0D382F-F337-494A-98B6-33BF405C7B66}" FileName="Regions\StockListingReport_Export_OtherPipeLines_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_OtherPipeLines_Check_Mask" key="{4F758731-2BDC-4E60-8413-CBC4664F16FD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_OtherPipeLines_Check_Mask" ID="{4F758731-2BDC-4E60-8413-CBC4664F16FD}" FileName="Regions\StockListingReport_Export_OtherPipeLines_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_CutPipe_Threaded_Check" key="{C38716D4-05A4-4E1C-AB78-5A5E9943D3A9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_CutPipe_Threaded_Check" ID="{C38716D4-05A4-4E1C-AB78-5A5E9943D3A9}" FileName="Regions\StockListingReport_Print_CutPipe_Threaded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_CutPipe_Threaded_Check_Mask" key="{7E44B67F-EDB4-4911-9E7E-E893F4F675D6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_CutPipe_Threaded_Check_Mask" ID="{7E44B67F-EDB4-4911-9E7E-E893F4F675D6}" FileName="Regions\StockListingReport_Print_CutPipe_Threaded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_CutPipe_Threaded_Check" key="{9B246E27-957D-4CE7-8719-D3E891F4EA9C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_CutPipe_Threaded_Check" ID="{9B246E27-957D-4CE7-8719-D3E891F4EA9C}" FileName="Regions\StockListingReport_Export_CutPipe_Threaded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_CutPipe_Threaded_Check_Mask" key="{A1465BEE-B987-479E-90B3-67C133A6AD69}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_CutPipe_Threaded_Check_Mask" ID="{A1465BEE-B987-479E-90B3-67C133A6AD69}" FileName="Regions\StockListingReport_Export_CutPipe_Threaded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_CutPipe_Welded_Check" key="{7094D47D-4BEF-4DCD-ACBD-3395A6262BD7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_CutPipe_Welded_Check" ID="{7094D47D-4BEF-4DCD-ACBD-3395A6262BD7}" FileName="Regions\StockListingReport_Print_CutPipe_Welded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_CutPipe_Welded_Check_Mask" key="{329C4594-ABEF-4B32-B7C8-EF74DA6FB68B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_CutPipe_Welded_Check_Mask" ID="{329C4594-ABEF-4B32-B7C8-EF74DA6FB68B}" FileName="Regions\StockListingReport_Print_CutPipe_Welded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_CutPipe_Welded_Check" key="{A0480204-4FE1-4264-AA53-E3F77CBB4383}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_CutPipe_Welded_Check" ID="{A0480204-4FE1-4264-AA53-E3F77CBB4383}" FileName="Regions\StockListingReport_Export_CutPipe_Welded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_CutPipe_Welded_Check_Mask" key="{9FD7FFAF-3FBE-4912-BA32-6177F60363B7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_CutPipe_Welded_Check_Mask" ID="{9FD7FFAF-3FBE-4912-BA32-6177F60363B7}" FileName="Regions\StockListingReport_Export_CutPipe_Welded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_Labels_Threaded_Check" key="{54F813CF-D28E-4E10-97A3-DBF77DAD7DD5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_Labels_Threaded_Check" ID="{54F813CF-D28E-4E10-97A3-DBF77DAD7DD5}" FileName="Regions\StockListingReport_Print_Labels_Threaded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_Labels_Threaded_Check_Mask" key="{34637D61-95D5-4226-AC28-424E81250389}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_Labels_Threaded_Check_Mask" ID="{34637D61-95D5-4226-AC28-424E81250389}" FileName="Regions\StockListingReport_Print_Labels_Threaded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_Labels_Threaded_Check" key="{8115C095-C4B6-4A9C-9C6A-13AC4B02E9E2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_Labels_Threaded_Check" ID="{8115C095-C4B6-4A9C-9C6A-13AC4B02E9E2}" FileName="Regions\StockListingReport_Export_Labels_Threaded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_Labels_Threaded_Check_Mask" key="{0DBEDAD8-5DA6-4BE3-B45C-CAB1E4DEDE9E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_Labels_Threaded_Check_Mask" ID="{0DBEDAD8-5DA6-4BE3-B45C-CAB1E4DEDE9E}" FileName="Regions\StockListingReport_Export_Labels_Threaded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_Labels_Welded_Check" key="{C03F1FA3-DA2D-4C74-B94C-003C81114BF3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_Labels_Welded_Check" ID="{C03F1FA3-DA2D-4C74-B94C-003C81114BF3}" FileName="Regions\StockListingReport_Print_Labels_Welded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_Labels_Welded_Check_Mask" key="{B7214C6D-C000-4E85-8471-F082B01320D7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_Labels_Welded_Check_Mask" ID="{B7214C6D-C000-4E85-8471-F082B01320D7}" FileName="Regions\StockListingReport_Print_Labels_Welded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_Labels_Welded_Check" key="{225890DF-981D-49F6-A382-5A977F55DFE5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_Labels_Welded_Check" ID="{225890DF-981D-49F6-A382-5A977F55DFE5}" FileName="Regions\StockListingReport_Export_Labels_Welded_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_Labels_Welded_Check_Mask" key="{F5C12FC2-ADAA-4159-9DCD-D31C0F95388C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_Labels_Welded_Check_Mask" ID="{F5C12FC2-ADAA-4159-9DCD-D31C0F95388C}" FileName="Regions\StockListingReport_Export_Labels_Welded_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_OtherPipe_Check" key="{667C347B-BBB2-472C-AF24-311B7107084F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_OtherPipe_Check" ID="{667C347B-BBB2-472C-AF24-311B7107084F}" FileName="Regions\StockListingReport_Print_OtherPipe_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_OtherPipe_Check_Mask" key="{DE2A69B4-CAAE-4F48-BE8F-6CE90F085510}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_OtherPipe_Check_Mask" ID="{DE2A69B4-CAAE-4F48-BE8F-6CE90F085510}" FileName="Regions\StockListingReport_Print_OtherPipe_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_OtherPipe_Check" key="{EB708805-E0E5-418E-9F22-D01D95181CDA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_OtherPipe_Check" ID="{EB708805-E0E5-418E-9F22-D01D95181CDA}" FileName="Regions\StockListingReport_Export_OtherPipe_Check.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Export_OtherPipe_Check_Mask" key="{B11C47FB-1685-460F-81FA-312486338756}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Export_OtherPipe_Check_Mask" ID="{B11C47FB-1685-460F-81FA-312486338756}" FileName="Regions\StockListingReport_Export_OtherPipe_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_LooseMaterial_Check_Mask" key="{4068966A-6900-418E-9881-28547CDCA74C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_LooseMaterial_Check_Mask" ID="{4068966A-6900-418E-9881-28547CDCA74C}" FileName="Regions\StockListingReport_Print_LooseMaterial_Check_Mask.png" Update="False" />
+		</child>
+		<child name="StockListingReport_Print_Threaded_BL_Check_Mask" key="{301846E6-1486-47FE-A16F-30F23BDBAD96}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="StockListingReport_Print_Threaded_BL_Check_Mask" ID="{301846E6-1486-47FE-A16F-30F23BDBAD96}" FileName="Regions\StockListingReport_Print_Threaded_BL_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_SelectPipesWithoutPipelines_Check_Mask1" key="{13EBABF7-4C3E-42D5-B5D4-5544745EF03A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_SelectPipesWithoutPipelines_Check_Mask1" ID="{13EBABF7-4C3E-42D5-B5D4-5544745EF03A}" FileName="Regions\Afx_SelectPipesWithoutPipelines_Check_Mask1.png" Update="False" />
+		</child>
+		<child name="SelectListAreaPipesThatDoNotHaveAPipeLine_Check" key="{EFC9E27F-ED5F-4BB3-9681-B12C7B906E1B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SelectListAreaPipesThatDoNotHaveAPipeLine_Check" ID="{EFC9E27F-ED5F-4BB3-9681-B12C7B906E1B}" FileName="Regions\SelectListAreaPipesThatDoNotHaveAPipeLine_Check.png" Update="False" />
+		</child>
+		<child name="SelectListAreaPipesThatDoNotHaveAPipeLine_Check_Mask" key="{9219D705-7DCF-42CA-9BB1-8F045DD3DD1F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SelectListAreaPipesThatDoNotHaveAPipeLine_Check_Mask" ID="{9219D705-7DCF-42CA-9BB1-8F045DD3DD1F}" FileName="Regions\SelectListAreaPipesThatDoNotHaveAPipeLine_Check_Mask.png" Update="False" />
+		</child>
+		<child name="JobAlreadyExists_Check" key="{70EB7E88-09F2-4F9F-914F-8712F909E7E9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="JobAlreadyExists_Check" ID="{70EB7E88-09F2-4F9F-914F-8712F909E7E9}" FileName="Regions\JobAlreadyExists_Check.png" Update="False" />
+		</child>
+		<child name="JobAlreadyExists_Check_Mask" key="{D81A967A-066D-4E06-91D7-613C72977614}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="JobAlreadyExists_Check_Mask" ID="{D81A967A-066D-4E06-91D7-613C72977614}" FileName="Regions\JobAlreadyExists_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DeleteJobWarning_Check" key="{B7034E3E-AD7E-4288-B54A-A70262625C03}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteJobWarning_Check" ID="{B7034E3E-AD7E-4288-B54A-A70262625C03}" FileName="Regions\DeleteJobWarning_Check.png" Update="False" />
+		</child>
+		<child name="DeleteJobWarning_Check_Mask" key="{59F440D3-28FD-4CFE-AD1A-4354710052F5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteJobWarning_Check_Mask" ID="{59F440D3-28FD-4CFE-AD1A-4354710052F5}" FileName="Regions\DeleteJobWarning_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DesignerAlreadyExists_Check" key="{A1740353-8D76-4209-BD5F-6F10D455D16B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DesignerAlreadyExists_Check" ID="{A1740353-8D76-4209-BD5F-6F10D455D16B}" FileName="Regions\DesignerAlreadyExists_Check.png" Update="False" />
+		</child>
+		<child name="DesignerAlreadyExists_Check_Mask" key="{EE8A9AA0-BF6D-4B1B-8E61-A02A842EC090}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DesignerAlreadyExists_Check_Mask" ID="{EE8A9AA0-BF6D-4B1B-8E61-A02A842EC090}" FileName="Regions\DesignerAlreadyExists_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DeleteDesignerWarning_Check" key="{C99DA1A7-9445-4A5F-99F2-2782CB472641}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteDesignerWarning_Check" ID="{C99DA1A7-9445-4A5F-99F2-2782CB472641}" FileName="Regions\DeleteDesignerWarning_Check.png" Update="False" />
+		</child>
+		<child name="DeleteDesignerWarning_Check_Mask" key="{61B1B9F9-5E45-4302-9CD1-EC286860D275}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteDesignerWarning_Check_Mask" ID="{61B1B9F9-5E45-4302-9CD1-EC286860D275}" FileName="Regions\DeleteDesignerWarning_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DeleteContractorWarning_Check" key="{960CFE22-307E-4B88-BE00-2779C34DB680}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteContractorWarning_Check" ID="{960CFE22-307E-4B88-BE00-2779C34DB680}" FileName="Regions\DeleteContractorWarning_Check.png" Update="False" />
+		</child>
+		<child name="DeleteContractorWarning_Check_Mask" key="{BE384E1D-0E9E-49A6-8DCF-7D03028D3706}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteContractorWarning_Check_Mask" ID="{BE384E1D-0E9E-49A6-8DCF-7D03028D3706}" FileName="Regions\DeleteContractorWarning_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgListAreaProperties_Color_Check" key="{9C4B3BD3-F9F9-4A98-A51E-F8A6667EB426}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgListAreaProperties_Color_Check" ID="{9C4B3BD3-F9F9-4A98-A51E-F8A6667EB426}" FileName="Regions\dlgListAreaProperties_Color_Check.png" Update="False" />
+		</child>
+		<child name="dlgListAreaProperties_Color_Check_Mask" key="{268EFACF-3907-44B8-BDD5-9AD13E2F8DC7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgListAreaProperties_Color_Check_Mask" ID="{268EFACF-3907-44B8-BDD5-9AD13E2F8DC7}" FileName="Regions\dlgListAreaProperties_Color_Check_Mask.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_NoErrorMessage_Check" key="{165E7628-1F4F-4C70-8956-DF401419DF4A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_NoErrorMessage_Check" ID="{165E7628-1F4F-4C70-8956-DF401419DF4A}" FileName="Regions\dlgAutoSPRINK2023_NoErrorMessage_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_NoErrorMessage_Check_Mask" key="{8150A4B4-75C9-4795-A8E5-153F20C7D791}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_NoErrorMessage_Check_Mask" ID="{8150A4B4-75C9-4795-A8E5-153F20C7D791}" FileName="Regions\dlgAutoSPRINK2023_NoErrorMessage_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_PipeLine_Check" key="{077B283C-1673-4C8E-B4FA-BC7E06FC9BD7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_PipeLine_Check" ID="{077B283C-1673-4C8E-B4FA-BC7E06FC9BD7}" FileName="Regions\Afx_PipeLine_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_DeleteCustomer_Check" key="{AF588351-01AD-410F-AA8A-B139C4B88DA2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_DeleteCustomer_Check" ID="{AF588351-01AD-410F-AA8A-B139C4B88DA2}" FileName="Regions\dlgAutoSPRINK2023_DeleteCustomer_Check.png" Update="False" />
+		</child>
+		<child name="dlgAutoSPRINK2023_DeleteCustomer_Check_Mask" key="{E2287763-18C2-4400-B620-44BE3206D4AF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgAutoSPRINK2023_DeleteCustomer_Check_Mask" ID="{E2287763-18C2-4400-B620-44BE3206D4AF}" FileName="Regions\dlgAutoSPRINK2023_DeleteCustomer_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DuplicateFABJob_Check" key="{15F7BA8F-3BE2-49C1-8E74-B25A746B50EB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DuplicateFABJob_Check" ID="{15F7BA8F-3BE2-49C1-8E74-B25A746B50EB}" FileName="Regions\DuplicateFABJob_Check.png" Update="False" />
+		</child>
+		<child name="DuplicateFABJob_Check_Mask" key="{A50669A1-C269-4514-B72F-7A6B5234ACE3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DuplicateFABJob_Check_Mask" ID="{A50669A1-C269-4514-B72F-7A6B5234ACE3}" FileName="Regions\DuplicateFABJob_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Static1_ExportToFAB_Check" key="{F1610D8B-5B9F-4E61-B4CF-99F5C18D3425}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Static1_ExportToFAB_Check" ID="{F1610D8B-5B9F-4E61-B4CF-99F5C18D3425}" FileName="Regions\Static1_ExportToFAB_Check.png" Update="False" />
+		</child>
+		<child name="Static1_ExportToFAB_Check_Mask" key="{0A9A0BA7-57F7-4396-8002-2C189AA7385A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Static1_ExportToFAB_Check_Mask" ID="{0A9A0BA7-57F7-4396-8002-2C189AA7385A}" FileName="Regions\Static1_ExportToFAB_Check_Mask.png" Update="False" />
+		</child>
+	</children>
+</Root>

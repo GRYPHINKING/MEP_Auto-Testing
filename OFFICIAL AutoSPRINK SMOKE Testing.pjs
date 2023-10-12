@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{247E56F7-9008-4B52-B49C-BCBBB93B417E}">
+	<children>
+		<child name="Case 4_ Elevation_Stretch Elements" key="{86686B76-CB9D-479D-8749-96F7FE627215}" path="AutoSPRINK SMOKE Testing\Case 4_ Elevation_Stretch Elements.mds" />
+		<child name="Case 3_ P2S" key="{7B691BA7-FD07-4A62-89C6-6909AE2CACEC}" path="Stock Listing\Case 3_ P2S.mds" />
+		<child name="Case 5.1_ThreadedSystem_Auto-Functions" key="{F7D04B9B-CC0C-4C6A-B0CE-DA87D1F83D1D}" path="5 Parts Picker\Case 5.1_ThreadedSystem_Auto-Functions.mds" />
+		<child name="Case 2.1_Verify StockListing Reports" key="{E0BFD50B-E100-4554-8D61-5D5CD02E5EA5}" path="Auto-Functions\Case 2.1_Verify StockListing Reports.mds" />
+		<child name="Case 1_Manual in-app Functionality" key="{24A0AE7E-86A3-4BD3-A041-B750923CDED2}" path="Grid Wizard\Case 1_Manual in-app Functionality.mds" />
+		<child name="Case 2.2_Verify Standard Reports_BOM" key="{2A6118DC-3B00-4AAA-895C-F863D74C8D20}" path="Case 2.2_Verify Standard Reports_BOM\Case 2.2_Verify Standard Reports_BOM.mds" />
+		<child name="Case 2.3_Verify NFPA Reports_Printed &amp; Exported Reports" key="{44C739A7-9F5D-4FAD-BA15-1F80DEB204AA}" path="Case 2.3_Verify NFPA Reports_Printed &amp; Exported Reports\Case 2.3_Verify NFPA Reports_Printed &amp; Exported Reports.mds" />
+		<child name="Case 2.0_Hydro Reports_Listing Manager" key="{27B459F6-CAD8-4E29-8273-038EB92FEE69}" path="Case 2.0_Hydro Reports_Listing Manager\Case 2.0_Hydro Reports_Listing Manager.mds" />
+		<child name="Case 6_Plotting" key="{DC81AF72-9804-4A79-9F33-A770DFD60F0F}" path="Case 6_Plotting_FABStandards_FileTypes\Case 6_Plotting.mds" />
+		<child name="Case 5.2_GroovedSystem_Auto-Functions" key="{FCEDFE4D-6734-418E-8CC8-322F1E51C523}" path="Case 5.2_GroovedSystem_Auto-Functions\Case 5.2_GroovedSystem_Auto-Functions.mds" />
+		<child name="Case 7_FABStandards_FileTypeSettings" key="{6961DC35-F96A-41E6-9530-45C124482C41}" path="Case 7_FABStandards_FileTypeSettings\Case 7_FABStandards_FileTypeSettings.mds" />
+		<child name="Case 8_RollbackBugs" key="{58E2665F-2449-438F-8ACA-0CA91ABE23D6}" path="Case 8_RollbackBugs\Case 8_RollbackBugs.mds" />
+		<child name="CloseSprink_EndOFTest" key="{BBD48C2D-3C45-4BE0-AE05-CF1821BF35A7}" path="CloseSprink_EndOFTest\CloseSprink_EndOFTest.mds" />
+	</children>
+	<testItems key="{631061BA-443E-469A-851F-EFEE354506B1}">
+		<children>
+			<testItem key="{24A0AE7E-86A3-4BD3-A041-B750923CDED2}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{27B459F6-CAD8-4E29-8273-038EB92FEE69}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{E0BFD50B-E100-4554-8D61-5D5CD02E5EA5}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{2A6118DC-3B00-4AAA-895C-F863D74C8D20}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{44C739A7-9F5D-4FAD-BA15-1F80DEB204AA}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{7B691BA7-FD07-4A62-89C6-6909AE2CACEC}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{86686B76-CB9D-479D-8749-96F7FE627215}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{F7D04B9B-CC0C-4C6A-B0CE-DA87D1F83D1D}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{FCEDFE4D-6734-418E-8CC8-322F1E51C523}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{DC81AF72-9804-4A79-9F33-A770DFD60F0F}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{6961DC35-F96A-41E6-9530-45C124482C41}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{58E2665F-2449-438F-8ACA-0CA91ABE23D6}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{BBD48C2D-3C45-4BE0-AE05-CF1821BF35A7}" enabled="False" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{7B70AF4E-9AF2-4928-BBB8-F532C5D97E68}" />
+	<analysis key="{1D701A55-69E3-44D4-A681-1770E3621908}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

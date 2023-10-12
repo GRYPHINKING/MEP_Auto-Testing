@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{59EDC32A-4CCD-428D-81B7-D5C4FAE1E63A}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45197.8886351042" objectName="Aliases.AutoSPRINKx64.wndAfx.UI.Item2" objectLeft="0" objectTop="92" objectRight="1871" objectBottom="138" clickPointX="1809" clickPointY="115" imageFileName="tcvi524736906138400.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45197.8886512847" objectName="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ComboBox" objectLeft="133" objectTop="474" objectRight="608" objectBottom="495" clickPointX="-1" clickPointY="-1" imageFileName="tcvi524747343138405.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45197.8886535995" objectName="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" objectLeft="0" objectTop="986" objectRight="557" objectBottom="1032" clickPointX="127" clickPointY="1009" imageFileName="tcvi198256343119720.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45197.8886557292" objectName="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" objectLeft="0" objectTop="986" objectRight="557" objectBottom="1032" clickPointX="127" clickPointY="1009" imageFileName="tcvi198257687119721.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45197.8887944676" objectName="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnClose" objectLeft="528" objectTop="836" objectRight="608" objectBottom="859" clickPointX="568" clickPointY="847" imageFileName="tcvi5248504681384013.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

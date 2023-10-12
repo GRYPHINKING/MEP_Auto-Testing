@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="_1_AutoOutlet" key="{A3EE3DE0-A8B9-44DE-B987-4050960C8B29}" path="_1_AutoOutlet.tcKDTest" />
+		<child name="_2_ManualOutlet" key="{FAB340F6-2B40-4C4F-93BC-53CC7BD28853}" path="_2_ManualOutlet.tcKDTest" />
+		<child name="_3_FontRecognition" key="{E923FB07-F1F6-401F-8EBF-FD283078E9AF}" path="_3_FontRecognition.tcKDTest" />
+	</children>
+</Root>

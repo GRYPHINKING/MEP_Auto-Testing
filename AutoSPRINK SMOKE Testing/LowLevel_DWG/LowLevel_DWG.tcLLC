@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{2D89293F-6B07-4679-9906-EFAE4B1A433C}" version="15.0">
+	<children>
+		<child name="Proceedure_Select_HexPopUpBox" key="{D8B1A899-746B-4CA5-A775-0FBDF9639546}" path="Proceedure_Select_HexPopUpBox.tcLLP" />
+		<child name="OpenSprinkDWG" key="{E0AC9538-E727-454A-A66B-6864E03EC5A1}" path="OpenSprinkDWG.tcLLP" />
+	</children>
+</Root>

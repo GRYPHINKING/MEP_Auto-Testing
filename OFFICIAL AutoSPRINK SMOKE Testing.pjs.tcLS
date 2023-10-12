@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="{24a0ae7e-86a3-4bd3-a041-b750923cded2}">
+				<Prp name="relpath" type="S" value="Grid Wizard\Case 1_Manual in-app Functionality.mds.tcLS"/>
+			</Node>
+			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
+				<Prp name="default project" type="S" value="{24A0AE7E-86A3-4BD3-A041-B750923CDED2}"/>
+			</Node>
+			<Node name="{27b459f6-cad8-4e29-8273-038eb92fee69}">
+				<Prp name="relpath" type="S" value="Case 2.0_Hydro Reports_Listing Manager\Case 2.0_Hydro Reports_Listing Manager.mds.tcLS"/>
+			</Node>
+			<Node name="{2a6118dc-3b00-4aaa-895c-f863d74c8d20}">
+				<Prp name="relpath" type="S" value="Case 2.2_Verify Standard Reports_BOM\Case 2.2_Verify Standard Reports_BOM.mds.tcLS"/>
+			</Node>
+			<Node name="{44c739a7-9f5d-4fad-ba15-1f80deb204aa}">
+				<Prp name="relpath" type="S" value="Case 2.3_Verify NFPA Reports_Printed &amp; Exported Reports\Case 2.3_Verify NFPA Reports_Printed &amp; Exported Reports.mds.tcLS"/>
+			</Node>
+			<Node name="{4599cd0d-71a9-48ea-b1da-288eb655659e}">
+				<Prp name="relpath" type="S" value="7 Plotting\Case 7_ Plotting.mds.tcLS"/>
+			</Node>
+			<Node name="{493bb038-c109-4869-9e12-0ec2cfc42394}">
+				<Prp name="relpath" type="S" value="Case 1_Manual Functions\Case 1.mds.tcLS"/>
+			</Node>
+			<Node name="{4b84a3b0-45df-42d1-862f-69a9e2775a1f}">
+				<Prp name="relpath" type="S" value="Case 2_Reports\Case 2_Reports.mds.tcLS"/>
+			</Node>
+			<Node name="{58e2665f-2449-438f-8aca-0ca91abe23d6}">
+				<Prp name="relpath" type="S" value="Case 8_RollbackBugs\Case 8_RollbackBugs.mds.tcLS"/>
+			</Node>
+			<Node name="{5f1a05f5-567a-4dff-9e26-db61d78be92b}">
+				<Prp name="relpath" type="S" value="DWG\Case 6_ DWG.mds.tcLS"/>
+			</Node>
+			<Node name="{6961dc35-f96a-41e6-9530-45c124482c41}">
+				<Prp name="relpath" type="S" value="Case 7_FABStandards_FileTypeSettings\Case 7_FABStandards_FileTypeSettings.mds.tcLS"/>
+			</Node>
+			<Node name="{6c964809-6f10-4c05-b471-bec26f647c9a}">
+				<Prp name="relpath" type="S" value="TEST\TEST.mds.tcLS"/>
+			</Node>
+			<Node name="{6e701178-4e15-40df-99da-8cefcb8304d5}">
+				<Prp name="relpath" type="S" value="Case 2.2_Verify Standard Hydraulic Reports\Case 2.2_Verify Standard Hydraulic Reports.mds.tcLS"/>
+			</Node>
+			<Node name="{70f9dee5-2146-47d3-bb4b-4517a88ea691}">
+				<Prp name="relpath" type="S" value="0_OpenSPRINK_EnviornmentSet-up\0_OpenSPRINK_EnviornmentSet-up.mds.tcLS"/>
+			</Node>
+			<Node name="{7b691ba7-fd07-4a62-89c6-6909ae2cacec}">
+				<Prp name="relpath" type="S" value="Stock Listing\Case 3_ P2S.mds.tcLS"/>
+			</Node>
+			<Node name="{86686b76-cb9d-479d-8749-96f7fe627215}">
+				<Prp name="relpath" type="S" value="AutoSPRINK SMOKE Testing\Case 4_ Elevation_Stretch Elements.mds.tcLS"/>
+			</Node>
+			<Node name="{a4443287-2197-452e-974d-ae7187fbb0fe}">
+				<Prp name="relpath" type="S" value="8 Tools Tab\Case 8_Tools Tab.mds.tcLS"/>
+			</Node>
+			<Node name="{b128df9b-dcbe-44b4-aa98-36e89f5c353d}">
+				<Prp name="relpath" type="S" value="Grid Wizard\Case 6_DWG.mds.tcLS"/>
+			</Node>
+			<Node name="{bbd48c2d-3c45-4be0-ae05-cf1821bf35a7}">
+				<Prp name="relpath" type="S" value="CloseSprink_EndOFTest\CloseSprink_EndOFTest.mds.tcLS"/>
+			</Node>
+			<Node name="{c773ce81-23d2-40ec-9574-3bb378fb5f4e}">
+				<Prp name="relpath" type="S" value="Case 2.3_Verify NFPA Hydraulic Reports\Case 2.3_Verify NFPA Hydraulic Reports and All Printed and Exported Reports.mds.tcLS"/>
+			</Node>
+			<Node name="{dc81af72-9804-4a79-9f33-a770dfd60f0f}">
+				<Prp name="relpath" type="S" value="Case 6_Plotting_FABStandards_FileTypes\Case 6_Plotting.mds.tcLS"/>
+			</Node>
+			<Node name="{e0bfd50b-e100-4554-8d61-5d5cd02e5ea5}">
+				<Prp name="relpath" type="S" value="Auto-Functions\Case 2.1_Verify StockListing Reports.mds.tcLS"/>
+			</Node>
+			<Node name="{f7d04b9b-cc0c-4c6a-b0ce-da87d1f83d1d}">
+				<Prp name="relpath" type="S" value="5 Parts Picker\Case 5.1_ThreadedSystem_Auto-Functions.mds.tcLS"/>
+			</Node>
+			<Node name="{fcedfe4d-6734-418e-8cc8-322f1e51c523}">
+				<Prp name="relpath" type="S" value="Case 5.2_GroovedSystem_Auto-Functions\Case 5.2_GroovedSystem_Auto-Functions.mds.tcLS"/>
+			</Node>
+			<Node name="logs">
+				<Prp name="key" type="S" value="{27787A05-37A8-46C1-98AC-BD08881DB982}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables"/>
+		</Node>
+		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
+	</Node>
+</Nodes>

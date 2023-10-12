@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{47C1CAAB-1A0C-4A72-933C-7390774F8E1D}">
+				<TypeInfo Item0="{BD1209FB-DEF0-4509-BABD-CFEE3E004C04}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="AutoSPRINKx64" Key="{8252B452-7D35-43A5-BA0E-0E8EA1C31448}">
+						<TypeInfo Item0="{1EFEF0A7-FA6B-4551-933A-BB63FE6239DA}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="AutoSPRINKx64" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndAfx" Key="{BDF9CC6C-A5CA-46F4-99D5-93BD74F85766}">
+								<Image FileName="790679299" Left="0" Top="0" Right="1936" Bottom="1048" />
+								<TypeInfo Item0="{9DED14AF-4FEC-479B-8FF1-89E200CDEFA0}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Afx:0000000000400000:8*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="MDIClient" Key="{285FF7F9-34A4-4C4F-AF23-9B0A82513202}">
+										<Image FileName="790679299" Left="334" Top="214" Right="1877" Bottom="972" />
+										<TypeInfo Item0="{5C2EAC11-9FF6-4228-9DBB-C88AC47CD950}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="MDIClient" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="wndAfx" Key="{02D06EDB-C606-490F-A59B-2FF3FE051281}">
+												<Image FileName="790679299" Left="328" Top="185" Right="1883" Bottom="978" />
+												<TypeInfo Item0="{2FBA6270-AFFB-4BCE-80C1-5D94C5C43971}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:0000000000400000:b*" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Outlet Issues.cad" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="AfxFrameOrView140u" Key="{B8693AAE-BAC4-4A49-97FA-E112B1130F7E}">
+														<Image FileName="790679299" Left="336" Top="216" Right="1875" Bottom="970" />
+														<TypeInfo Item0="{5C2EAC11-9FF6-4228-9DBB-C88AC47CD950}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="AfxFrameOrView140u" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Afx" Key="{58E3359E-7E5F-4A4D-8675-98D9F57DB491}">
+																<Image FileName="790679299" Left="337" Top="217" Right="1873" Bottom="970" />
+																<TypeInfo Item0="{5C2EAC11-9FF6-4228-9DBB-C88AC47CD950}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="Afx:TabWnd:400000*" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Afx" Key="{3A222952-E8C1-4A78-9FD4-6C29795EED4F}">
+																		<Image FileName="790679299" Left="338" Top="218" Right="1873" Bottom="950" />
+																		<TypeInfo Item0="{5C2EAC11-9FF6-4228-9DBB-C88AC47CD950}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="Afx:0000000000400000:2b*" />
+																			</Property>
+																			<Property Name="WndCaption">
+																				<Value Value="**Model" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="Afx" Key="{5E04AB31-EA6F-4AC6-B733-1C53538E6C3A}">
+										<Image FileName="-234787558" Left="0" Top="23" Right="1920" Bottom="184" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Afx:DockPane:400000*" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Item" Key="{99B36403-447D-481C-8004-E32CD8E61D96}">
+												<Image FileName="-234787558" Left="0" Top="46" Right="594" Bottom="92" />
+												<TypeInfo Item0="{DDC3FF48-D479-43C1-B1D1-955A3432D15E}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:ToolBar:400000*" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Item2" Key="{138787A8-F5A0-40BE-99FD-5DAB39435A77}">
+												<Image FileName="135840835" Left="594" Top="46" Right="1804" Bottom="92" />
+												<TypeInfo Item0="{DDC3FF48-D479-43C1-B1D1-955A3432D15E}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:ToolBar:400000*" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="1" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Item3" Key="{C4900198-8304-4184-9F34-528571780BDD}">
+												<Image FileName="-254168387" Left="0" Top="92" Right="1890" Bottom="138" />
+												<TypeInfo Item0="{DDC3FF48-D479-43C1-B1D1-955A3432D15E}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:ToolBar:400000*" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="Afx2" Key="{EE79DE08-945C-4D7F-81AF-E26F4DBBC490}">
+										<Image FileName="-1305828724" Left="0" Top="986" Right="1920" Bottom="1032" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Afx:DockPane:400000*" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="3" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="toolbarViewRotator" Key="{2A0FFD6E-4224-4DE1-91F9-1EAC447E3621}">
+												<Image FileName="-1305828724" Left="699" Top="986" Right="1883" Bottom="1032" />
+												<TypeInfo Item0="{DDC3FF48-D479-43C1-B1D1-955A3432D15E}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:ToolBar:400000*" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="View Rotator" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgOpen" Key="{785AD49A-5628-456E-8B75-F23EC207E41A}">
+								<Image FileName="272755687" Left="0" Top="0" Right="1173" Bottom="1032" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Open" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Teams" Key="{50AC0D30-781D-429F-8B02-D76FCF1D92B1}">
+						<TypeInfo Item0="{1EFEF0A7-FA6B-4551-933A-BB63FE6239DA}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Teams" />
+							</Property>
+							<Property Name="Index">
+								<Value Value="1" Type="0" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndChrome_WidgetWin_1" Key="{C38EF167-6142-44CB-8A0C-D80DF1C6498F}">
+								<Image FileName="-1901800685" Left="0" Top="0" Right="960" Bottom="1032" />
+								<TypeInfo Item0="{8693EE3F-E74F-487F-8114-CBC787CF132F}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Dacoda Hafemeister | Microsoft Teams Classic" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Chrome_RenderWidgetHostHWND" Key="{38771633-9D72-4F89-9D2B-653D061A5AD4}">
+										<Image FileName="-1901800685" Left="0" Top="0" Right="960" Bottom="1032" />
+										<TypeInfo Item0="{AF96D08E-A87C-4E2B-82A6-F6264872F73C}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Chrome_RenderWidgetHostHWND" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Chrome Legacy Window" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="SnagitEditor" Key="{7D110BF9-9DA2-421C-B3F1-B6E41DFE1B2B}">
+						<TypeInfo Item0="{1EFEF0A7-FA6B-4551-933A-BB63FE6239DA}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="SnagitEditor" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndSnagIt9Editor" Key="{7F26820B-0FBB-498F-A661-97B524DC4E01}">
+								<Image FileName="1897675363" Left="0" Top="0" Right="981" Bottom="687" />
+								<TypeInfo Item0="{9DED14AF-4FEC-479B-8FF1-89E200CDEFA0}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="SnagIt9Editor" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="MDIClient" Key="{1F739AA8-DDA0-4711-9864-1A17F4CAE010}">
+										<Image FileName="1897675363" Left="1" Top="81" Right="719" Bottom="538" />
+										<TypeInfo Item0="{5C2EAC11-9FF6-4228-9DBB-C88AC47CD950}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="MDIClient" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="wndAfx" Key="{C0C26A42-60B4-45D0-BF7E-489B5AC15E9D}">
+												<Image FileName="1897675363" Left="-1" Top="79" Right="721" Bottom="540" />
+												<TypeInfo Item0="{65D3892A-2214-4DC7-8250-77D7EEFA30CA}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:00007FF626AB0000:b*" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Oct 9, 2023 1:30:06 PM" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="AfxFrameOrView140u" Key="{56DDD498-10F8-4ED1-97A1-0D521BE8A270}">
+														<Image FileName="1897675363" Left="1" Top="81" Right="719" Bottom="538" />
+														<TypeInfo Item0="{5C2EAC11-9FF6-4228-9DBB-C88AC47CD950}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="AfxFrameOrView140u" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="SnagIt7PaintControl" Key="{97AAF8A4-7A3E-46F7-B7DC-5A0501663B84}">
+																<Image FileName="1897675363" Left="1" Top="81" Right="719" Bottom="538" />
+																<TypeInfo Item0="{5C2EAC11-9FF6-4228-9DBB-C88AC47CD950}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="SnagIt7PaintControl" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="wndAfx2" Key="{D8405DD2-4646-4FCB-B829-6301EEB5A7D9}">
+												<Image FileName="1323754977" Left="-1" Top="79" Right="721" Bottom="540" />
+												<TypeInfo Item0="{65D3892A-2214-4DC7-8250-77D7EEFA30CA}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:00007FF626AB0000:b*" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Oct 9, 2023 1:31:03 PM" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="AfxFrameOrView140u" Key="{8A436CE8-FC96-46B4-A80F-4B229C0B7306}">
+														<Image FileName="1323754977" Left="1" Top="81" Right="719" Bottom="538" />
+														<TypeInfo Item0="{5C2EAC11-9FF6-4228-9DBB-C88AC47CD950}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="AfxFrameOrView140u" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="SnagIt7PaintControl" Key="{713783B3-EF44-4B75-B379-5AA2C3107A11}">
+																<Image FileName="1323754977" Left="1" Top="81" Right="719" Bottom="538" />
+																<TypeInfo Item0="{5C2EAC11-9FF6-4228-9DBB-C88AC47CD950}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="SnagIt7PaintControl" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="wndAfx3" Key="{3F00A7D1-A6C2-4840-B969-C75461AE09AD}">
+												<Image FileName="-531069508" Left="-1" Top="79" Right="721" Bottom="540" />
+												<TypeInfo Item0="{65D3892A-2214-4DC7-8250-77D7EEFA30CA}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:00007FF626AB0000:b*" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Oct 9, 2023 1:37:24 PM" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="AfxFrameOrView140u" Key="{9BE33DAC-F152-409E-AD9E-E9D4064986EF}">
+														<Image FileName="-531069508" Left="1" Top="81" Right="719" Bottom="538" />
+														<TypeInfo Item0="{5C2EAC11-9FF6-4228-9DBB-C88AC47CD950}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="AfxFrameOrView140u" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="SnagIt7PaintControl" Key="{0BCFCBAC-30A3-4386-B8F9-61704EE1AAF1}">
+																<Image FileName="-531069508" Left="1" Top="81" Right="719" Bottom="538" />
+																<TypeInfo Item0="{5C2EAC11-9FF6-4228-9DBB-C88AC47CD950}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="SnagIt7PaintControl" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="AutoSPRINKx64" Owner="{8252B452-7D35-43A5-BA0E-0E8EA1C31448}">
+			<Child Name="wndAfx" Owner="{BDF9CC6C-A5CA-46F4-99D5-93BD74F85766}">
+				<Child Name="MDIClient" Owner="{285FF7F9-34A4-4C4F-AF23-9B0A82513202}">
+					<Child Name="wndAfx" Owner="{02D06EDB-C606-490F-A59B-2FF3FE051281}">
+						<Child Name="AfxFrameOrView140u" Owner="{B8693AAE-BAC4-4A49-97FA-E112B1130F7E}">
+							<Child Name="Afx" Owner="{58E3359E-7E5F-4A4D-8675-98D9F57DB491}">
+								<Child Name="Afx" Owner="{3A222952-E8C1-4A78-9FD4-6C29795EED4F}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="Afx" Owner="{5E04AB31-EA6F-4AC6-B733-1C53538E6C3A}">
+					<Child Name="Item" Owner="{99B36403-447D-481C-8004-E32CD8E61D96}" />
+					<Child Name="Item2" Owner="{138787A8-F5A0-40BE-99FD-5DAB39435A77}" />
+					<Child Name="Item3" Owner="{C4900198-8304-4184-9F34-528571780BDD}" />
+				</Child>
+				<Child Name="Afx2" Owner="{EE79DE08-945C-4D7F-81AF-E26F4DBBC490}">
+					<Child Name="toolbarViewRotator" Owner="{2A0FFD6E-4224-4DE1-91F9-1EAC447E3621}" />
+				</Child>
+			</Child>
+			<Child Name="dlgOpen" Owner="{785AD49A-5628-456E-8B75-F23EC207E41A}" />
+		</Child>
+		<Child Name="Teams" Owner="{50AC0D30-781D-429F-8B02-D76FCF1D92B1}">
+			<Child Name="wndChrome_WidgetWin_1" Owner="{C38EF167-6142-44CB-8A0C-D80DF1C6498F}">
+				<Child Name="Chrome_RenderWidgetHostHWND" Owner="{38771633-9D72-4F89-9D2B-653D061A5AD4}" />
+			</Child>
+		</Child>
+		<Child Name="SnagitEditor" Owner="{7D110BF9-9DA2-421C-B3F1-B6E41DFE1B2B}">
+			<Child Name="wndSnagIt9Editor" Owner="{7F26820B-0FBB-498F-A661-97B524DC4E01}">
+				<Child Name="MDIClient" Owner="{1F739AA8-DDA0-4711-9864-1A17F4CAE010}">
+					<Child Name="wndAfx" Owner="{C0C26A42-60B4-45D0-BF7E-489B5AC15E9D}">
+						<Child Name="AfxFrameOrView140u" Owner="{56DDD498-10F8-4ED1-97A1-0D521BE8A270}">
+							<Child Name="SnagIt7PaintControl" Owner="{97AAF8A4-7A3E-46F7-B7DC-5A0501663B84}" />
+						</Child>
+					</Child>
+					<Child Name="wndAfx2" Owner="{D8405DD2-4646-4FCB-B829-6301EEB5A7D9}">
+						<Child Name="AfxFrameOrView140u" Owner="{8A436CE8-FC96-46B4-A80F-4B229C0B7306}">
+							<Child Name="SnagIt7PaintControl" Owner="{713783B3-EF44-4B75-B379-5AA2C3107A11}" />
+						</Child>
+					</Child>
+					<Child Name="wndAfx3" Owner="{3F00A7D1-A6C2-4840-B969-C75461AE09AD}">
+						<Child Name="AfxFrameOrView140u" Owner="{9BE33DAC-F152-409E-AD9E-E9D4064986EF}">
+							<Child Name="SnagIt7PaintControl" Owner="{0BCFCBAC-30A3-4386-B8F9-61704EE1AAF1}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{C5566635-3C21-442B-BCB6-D724FCD67AFE}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{864DACE4-56AF-4981-8C90-CFAE199EF255}">
+			<config nodeName="AutoSPRINKx64" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting" />
+					<param name="Simple" fileName="AutoSPRINKx64.exe" filePath="C:\Program Files\M.E.P.CAD\AutoSPRINK 2023\" parameters="" workFolder="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

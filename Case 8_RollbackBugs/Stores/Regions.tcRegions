@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="AutoOutlet_CleanUpInt_Check" key="{D243B734-B40E-4B80-B4EB-2C7FE8372BFE}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AutoOutlet_CleanUpInt_Check" ID="{D243B734-B40E-4B80-B4EB-2C7FE8372BFE}" FileName="Regions\AutoOutlet_CleanUpInt_Check.png" Update="False" />
+		</child>
+		<child name="AutoOutlet_CleanUpInt_Check_Mask" key="{37F75C82-2B73-47E2-8945-0E0A3E3894A5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AutoOutlet_CleanUpInt_Check_Mask" ID="{37F75C82-2B73-47E2-8945-0E0A3E3894A5}" FileName="Regions\AutoOutlet_CleanUpInt_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Place_ManualOutlet_Check" key="{76D2AD8D-205C-4FB9-87F1-47D7571EF28D}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Place_ManualOutlet_Check" ID="{76D2AD8D-205C-4FB9-87F1-47D7571EF28D}" FileName="Regions\Place_ManualOutlet_Check.png" Update="False" />
+		</child>
+		<child name="Place_ManualOutlet_Check_Mask" key="{0DFEA922-D109-47BF-82E2-2DE5889C488C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Place_ManualOutlet_Check_Mask" ID="{0DFEA922-D109-47BF-82E2-2DE5889C488C}" FileName="Regions\Place_ManualOutlet_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Chrome_RenderWidgetHostHWND" key="{229A79DF-6202-45FB-99B1-D85B51304EA7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Chrome_RenderWidgetHostHWND" ID="{229A79DF-6202-45FB-99B1-D85B51304EA7}" FileName="Regions\Chrome_RenderWidgetHostHWND.png" Update="False" />
+		</child>
+		<child name="Chrome_RenderWidgetHostHWND_Mask" key="{73E8EB6D-6E18-4E58-B3F4-62C8A142B1FA}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Chrome_RenderWidgetHostHWND_Mask" ID="{73E8EB6D-6E18-4E58-B3F4-62C8A142B1FA}" FileName="Regions\Chrome_RenderWidgetHostHWND_Mask.png" Update="False" />
+		</child>
+		<child name="Chrome_RenderWidgetHostHWND_Mask1" key="{45503D07-DFE3-4DCB-9452-FBE0D7D96E58}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Chrome_RenderWidgetHostHWND_Mask1" ID="{45503D07-DFE3-4DCB-9452-FBE0D7D96E58}" FileName="Regions\Chrome_RenderWidgetHostHWND_Mask1.png" Update="False" />
+		</child>
+		<child name="SnagIt7PaintControl" key="{1E0C0409-D7D6-4A92-BDDD-56AF369DB33A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SnagIt7PaintControl" ID="{1E0C0409-D7D6-4A92-BDDD-56AF369DB33A}" FileName="Regions\SnagIt7PaintControl.png" Update="False" />
+		</child>
+		<child name="SnagIt7PaintControl_Mask" key="{801450B3-C4D9-4F92-9E73-24F2C8A29F72}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SnagIt7PaintControl_Mask" ID="{801450B3-C4D9-4F92-9E73-24F2C8A29F72}" FileName="Regions\SnagIt7PaintControl_Mask.png" Update="False" />
+		</child>
+		<child name="SnagIt7PaintControl1" key="{25C739D4-D26D-4190-AD00-15A59092252C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SnagIt7PaintControl1" ID="{25C739D4-D26D-4190-AD00-15A59092252C}" FileName="Regions\SnagIt7PaintControl1.png" Update="False" />
+		</child>
+		<child name="SnagIt7PaintControl1_Mask" key="{07146E04-8B61-4D9A-8793-322F325CF6E3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SnagIt7PaintControl1_Mask" ID="{07146E04-8B61-4D9A-8793-322F325CF6E3}" FileName="Regions\SnagIt7PaintControl1_Mask.png" Update="False" />
+		</child>
+		<child name="SnagIt7PaintControl2" key="{E20B7B20-2344-4B34-BF6D-6399C14D0305}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SnagIt7PaintControl2" ID="{E20B7B20-2344-4B34-BF6D-6399C14D0305}" FileName="Regions\SnagIt7PaintControl2.png" Update="False" />
+		</child>
+	</children>
+</Root>

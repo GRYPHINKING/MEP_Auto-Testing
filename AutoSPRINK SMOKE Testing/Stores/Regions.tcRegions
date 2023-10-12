@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="Elevation_Check" key="{6D2412F0-40E9-4B63-A4EA-69917B721B74}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Elevation_Check" ID="{6D2412F0-40E9-4B63-A4EA-69917B721B74}" FileName="Regions\Elevation_Check.png" Update="False" />
+		</child>
+		<child name="dlgImportAutoCADDrawing_DWGImport_Check" key="{66DEF0A8-57D2-4532-8C70-4A1692EBEE81}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgImportAutoCADDrawing_DWGImport_Check" ID="{66DEF0A8-57D2-4532-8C70-4A1692EBEE81}" FileName="Regions\dlgImportAutoCADDrawing_DWGImport_Check.png" Update="False" />
+		</child>
+		<child name="dlgImportAutoCADDrawing_DWGImport_Check_Mask" key="{AD5D3F19-183D-45FF-96A9-EC11164AF853}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgImportAutoCADDrawing_DWGImport_Check_Mask" ID="{AD5D3F19-183D-45FF-96A9-EC11164AF853}" FileName="Regions\dlgImportAutoCADDrawing_DWGImport_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DWGModel_DWGImport_Check" key="{E100B010-9A9B-4B9D-9F46-08782E7DE06E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DWGModel_DWGImport_Check" ID="{E100B010-9A9B-4B9D-9F46-08782E7DE06E}" FileName="Regions\DWGModel_DWGImport_Check.png" Update="False" />
+		</child>
+		<child name="Afx_DWGImport_Check" key="{8980FF14-89BE-4713-AFA0-9416BE5912E3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_DWGImport_Check" ID="{8980FF14-89BE-4713-AFA0-9416BE5912E3}" FileName="Regions\Afx_DWGImport_Check.png" Update="False" />
+		</child>
+		<child name="AutoCAD_DWGExport_Check" key="{BB623033-0788-4F4A-910E-6300A1B5A0D7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AutoCAD_DWGExport_Check" ID="{BB623033-0788-4F4A-910E-6300A1B5A0D7}" FileName="Regions\AutoCAD_DWGExport_Check.png" Update="False" />
+		</child>
+		<child name="AutoCAD_DWGExport_Check_Mask" key="{170D998E-05EB-434E-8C5F-E5B14E0CF21F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AutoCAD_DWGExport_Check_Mask" ID="{170D998E-05EB-434E-8C5F-E5B14E0CF21F}" FileName="Regions\AutoCAD_DWGExport_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DWGImport_Check" key="{EA7FB004-6565-462E-88B3-B7C63D51F4EF}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DWGImport_Check" ID="{EA7FB004-6565-462E-88B3-B7C63D51F4EF}" FileName="Regions\DWGImport_Check.png" Update="False" />
+		</child>
+		<child name="Afx_DWG_Check" key="{A181AB82-C51D-456E-9F7A-B61389605FE1}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_DWG_Check" ID="{A181AB82-C51D-456E-9F7A-B61389605FE1}" FileName="Regions\Afx_DWG_Check.png" Update="False" />
+		</child>
+		<child name="Afx_DWG_Check_Mask" key="{BBA10B28-88BF-4E58-A5DD-72A2E36B1A40}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_DWG_Check_Mask" ID="{BBA10B28-88BF-4E58-A5DD-72A2E36B1A40}" FileName="Regions\Afx_DWG_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS" key="{9E047732-9B70-4B41-A6B6-E9C9C90F2FE2}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS" ID="{9E047732-9B70-4B41-A6B6-E9C9C90F2FE2}" FileName="Regions\ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS.png" Update="False" />
+		</child>
+		<child name="ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS_Mask" key="{E1E666AF-F529-4BB9-B860-F563AEBCDE5A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS_Mask" ID="{E1E666AF-F529-4BB9-B860-F563AEBCDE5A}" FileName="Regions\ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_DWG_Check_Mask1" key="{1932A0C4-EC75-479C-93DE-4EAC9411EB01}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_DWG_Check_Mask1" ID="{1932A0C4-EC75-479C-93DE-4EAC9411EB01}" FileName="Regions\Afx_DWG_Check_Mask1.png" Update="False" />
+		</child>
+		<child name="Elevation_Check_Mask" key="{1405AD01-E4DB-4AFB-9235-BA04F6412D0E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Elevation_Check_Mask" ID="{1405AD01-E4DB-4AFB-9235-BA04F6412D0E}" FileName="Regions\Elevation_Check_Mask.png" Update="False" />
+		</child>
+		<child name="ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS1" key="{3E43D896-BDE2-4244-A2C1-639F3562F458}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS1" ID="{3E43D896-BDE2-4244-A2C1-639F3562F458}" FileName="Regions\ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS1.png" Update="False" />
+		</child>
+		<child name="ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS1_Mask" key="{0B03D4D6-5A81-4AA8-89E3-0C86E9C5E8A7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS1_Mask" ID="{0B03D4D6-5A81-4AA8-89E3-0C86E9C5E8A7}" FileName="Regions\ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS1_Mask.png" Update="False" />
+		</child>
+		<child name="ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS1_Mask1" key="{3A8160E2-9CE8-46A2-8836-15959C64D48B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS1_Mask1" ID="{3A8160E2-9CE8-46A2-8836-15959C64D48B}" FileName="Regions\ACADDM_CHILD_DXGI_FLIP_MODE_VIEW_CLASS1_Mask1.png" Update="False" />
+		</child>
+	</children>
+</Root>

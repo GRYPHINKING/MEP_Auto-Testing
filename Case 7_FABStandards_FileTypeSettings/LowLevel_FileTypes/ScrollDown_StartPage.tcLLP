@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{62402E6C-6E6D-4AA5-9AFF-5A20AD691C44}" version="15.0">
+	<LLP>
+		<LLEvent Type="MouseMove" X="805" Y="657" Delay="0" />
+		<LLEvent Type="MouseMove" X="802" Y="657" Delay="0" />
+		<LLEvent Type="MouseMove" X="802" Y="657" Delay="15" />
+		<LLEvent Type="MouseMove" X="801" Y="657" Delay="0" />
+		<LLEvent Type="MouseMove" X="801" Y="657" Delay="16" />
+		<LLEvent Type="MouseMove" X="801" Y="657" Delay="15" />
+		<LLEvent Type="MouseMove" X="801" Y="652" Delay="360" />
+		<LLEvent Type="MouseMove" X="799" Y="635" Delay="15" />
+		<LLEvent Type="MouseMove" X="795" Y="627" Delay="0" />
+		<LLEvent Type="MouseMove" X="792" Y="620" Delay="16" />
+		<LLEvent Type="MouseMove" X="791" Y="616" Delay="0" />
+		<LLEvent Type="MouseMove" X="791" Y="613" Delay="16" />
+		<LLEvent Type="MouseMove" X="791" Y="612" Delay="15" />
+		<LLEvent Type="MouseMove" X="791" Y="611" Delay="0" />
+		<LLEvent Type="MouseMove" X="791" Y="610" Delay="16" />
+		<LLEvent Type="MouseMove" X="791" Y="609" Delay="0" />
+		<LLEvent Type="MouseMove" X="791" Y="608" Delay="16" />
+		<LLEvent Type="MouseMove" X="791" Y="606" Delay="0" />
+		<LLEvent Type="MouseMove" X="791" Y="606" Delay="15" />
+		<LLEvent Type="MouseMove" X="791" Y="604" Delay="16" />
+		<LLEvent Type="MouseMove" X="790" Y="604" Delay="15" />
+		<LLEvent Type="MouseMove" X="790" Y="603" Delay="0" />
+		<LLEvent Type="MouseMove" X="789" Y="602" Delay="16" />
+		<LLEvent Type="MouseMove" X="788" Y="601" Delay="0" />
+		<LLEvent Type="MouseMove" X="787" Y="598" Delay="16" />
+		<LLEvent Type="MouseMove" X="786" Y="597" Delay="0" />
+		<LLEvent Type="MouseMove" X="785" Y="596" Delay="15" />
+		<LLEvent Type="MouseMove" X="785" Y="595" Delay="0" />
+		<LLEvent Type="MouseMove" X="785" Y="595" Delay="16" />
+		<LLEvent Type="MouseMove" X="785" Y="594" Delay="16" />
+		<LLEvent Type="MouseMove" X="785" Y="593" Delay="15" />
+		<LLEvent Type="MouseMove" X="785" Y="593" Delay="16" />
+		<LLEvent Type="MouseMove" X="784" Y="593" Delay="15" />
+		<LLEvent Type="MouseMove" X="784" Y="592" Delay="16" />
+		<LLEvent Type="MouseMove" X="784" Y="592" Delay="16" />
+		<LLEvent Type="MouseMove" X="783" Y="591" Delay="0" />
+		<LLEvent Type="MouseMove" X="783" Y="591" Delay="15" />
+		<LLEvent Type="MouseMove" X="782" Y="591" Delay="0" />
+		<LLEvent Type="MouseMove" X="781" Y="590" Delay="16" />
+		<LLEvent Type="MouseMove" X="780" Y="589" Delay="16" />
+		<LLEvent Type="MouseMove" X="778" Y="589" Delay="15" />
+		<LLEvent Type="MouseMove" X="777" Y="588" Delay="0" />
+		<LLEvent Type="MouseMove" X="776" Y="587" Delay="16" />
+		<LLEvent Type="MouseMove" X="773" Y="587" Delay="0" />
+		<LLEvent Type="MouseMove" X="770" Y="586" Delay="15" />
+		<LLEvent Type="MouseMove" X="768" Y="585" Delay="0" />
+		<LLEvent Type="MouseMove" X="766" Y="585" Delay="16" />
+		<LLEvent Type="MouseMove" X="765" Y="585" Delay="0" />
+		<LLEvent Type="MouseMove" X="765" Y="585" Delay="16" />
+		<LLEvent Type="MouseMove" X="764" Y="585" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="1094" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="31" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="31" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="31" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="0" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="15" />
+		<LLEvent Type="MouseWheel" Delta="-120" Delay="16" />
+	</LLP>
+</Root>
