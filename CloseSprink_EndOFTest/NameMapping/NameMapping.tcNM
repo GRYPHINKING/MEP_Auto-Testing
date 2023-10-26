@@ -21,7 +21,6 @@
 						<Children>
 							<Child Name="wndAfx" Key="{0355CCD7-BD0E-4D75-8919-82E68CA69EE5}">
 								<Image FileName="144741431" Left="-8" Top="-8" Right="1928" Bottom="1040" />
-								<TypeInfo Item0="{45578A65-7D35-4F28-8BB4-63514343AC8C}" />
 								<Properties>
 									<Property Name="WndClass">
 										<Value Value="Afx:0000000000400000:8*" />
@@ -41,13 +40,110 @@
 								<Children>
 									<Child Name="btnNo" Key="{7D253CB2-D6E3-4764-AADB-AE21BFF0A47C}">
 										<Image FileName="1387264408" Left="118" Top="119" Right="193" Bottom="142" />
-										<TypeInfo Item0="{1CFDC3D9-8FF1-4990-8237-3969A86A4529}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
 											</Property>
 											<Property Name="WndCaption">
 												<Value Value="&amp;No" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="SnagitEditor" Key="{AC622BFC-E332-44B9-81D4-83540351316C}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="SnagitEditor" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndSnagIt9Editor" Key="{1DD0131A-4718-4657-9F11-6AA37E956AEB}">
+								<Image FileName="-1029112328" Left="0" Top="0" Right="960" Bottom="1032" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="SnagIt9Editor" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="BCGPControlBarf20c000081000310" Key="{CEA75DA9-6201-4F1F-BC88-D7D59B1BAF0B}">
+										<Image FileName="2083293356" Left="1" Top="1" Right="959" Bottom="81" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="BCGPControlBar:f20c0000:8:10003:10" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="2" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="HwndSource_TopPanelControl" Key="{B2FC12DC-F772-4C12-B147-10C2E871650E}">
+												<Image FileName="2083293356" Left="1" Top="1" Right="959" Bottom="81" />
+												<Properties>
+													<Property Name="RootVisual.Name">
+														<Value Value="TopPanelControl" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TopPanelControl" Key="{E1A0072E-C1A1-459B-8541-475BA928A917}">
+														<Image FileName="2083293356" Left="1" Top="1" Right="960" Bottom="82" />
+														<Properties>
+															<Property Name="ClrFullClassName">
+																<Value Value="EditorDotNet.TopPanel.TopPanelControls" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Button0" Key="{51D50651-25CA-4B90-BABF-8DA651700016}" ExtendedFind="True">
+																<Image FileName="2083293356" Left="822" Top="1" Right="869" Bottom="30" />
+																<TypeInfo Item0="{47600B07-84B8-4D4A-BC5A-89F8C32BAC25}" />
+																<Properties>
+																	<Property Name="ClrFullClassName">
+																		<Value Value="System.Windows.Controls.Button" />
+																	</Property>
+																	<Property Name="WPFControlText">
+																		<Value Value="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="acad" Key="{019C8C23-357D-4CA2-B9C7-529EAE0E266C}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="acad" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndAfxMDIFrame140u" Key="{E30C3D6F-CC34-401F-B1AD-03F505B96EED}">
+								<Image FileName="778236613" Left="-8" Top="-8" Right="1928" Bottom="1040" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="AfxMDIFrame140u" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="AdImpApplicationFrame" Key="{8C8F0C02-C632-489C-A096-60A5D20FDB86}">
+										<Image FileName="778236613" Left="0" Top="-8" Right="1920" Bottom="45" />
+										<TypeInfo Item0="{BE9C7B83-CB0D-4A80-98E7-6B42700AA26C}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="AdImpApplicationFrame" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="AdImpApplicationFrame" />
 											</Property>
 										</Properties>
 									</Child>
@@ -64,6 +160,22 @@
 			<Child Name="wndAfx" Owner="{0355CCD7-BD0E-4D75-8919-82E68CA69EE5}" />
 			<Child Name="dlgAutoSPRINK2023" Owner="{45E35828-3724-4EAD-A28A-59F1DAC3DA6C}">
 				<Child Name="btnNo" Owner="{7D253CB2-D6E3-4764-AADB-AE21BFF0A47C}" />
+			</Child>
+		</Child>
+		<Child Name="SnagitEditor" Owner="{AC622BFC-E332-44B9-81D4-83540351316C}">
+			<Child Name="wndSnagIt9Editor" Owner="{1DD0131A-4718-4657-9F11-6AA37E956AEB}">
+				<Child Name="BCGPControlBarf20c000081000310" Owner="{CEA75DA9-6201-4F1F-BC88-D7D59B1BAF0B}">
+					<Child Name="HwndSource_TopPanelControl" Owner="{B2FC12DC-F772-4C12-B147-10C2E871650E}">
+						<Child Name="TopPanelControl" Owner="{E1A0072E-C1A1-459B-8541-475BA928A917}">
+							<Child Name="Button0" Owner="{51D50651-25CA-4B90-BABF-8DA651700016}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="acad" Owner="{019C8C23-357D-4CA2-B9C7-529EAE0E266C}">
+			<Child Name="wndAfxMDIFrame140u" Owner="{E30C3D6F-CC34-401F-B1AD-03F505B96EED}">
+				<Child Name="AdImpApplicationFrame" Owner="{8C8F0C02-C632-489C-A096-60A5D20FDB86}" />
 			</Child>
 		</Child>
 	</LogicalNodes>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="projects">
+			<Node name="project0">
+				<Node name="tests">
+					<Node name="test2">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="starttime" type="D" value="45225.6216598264"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="name" type="S" value="Step 2_ Create Detail"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+					</Node>
+					<Node name="test6">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="starttime" type="D" value="45225.6216598264"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="name" type="S" value="Step 6_ Place All Tool &gt; Elements"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+					</Node>
+					<Node name="test1">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="starttime" type="D" value="45225.6216598264"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="name" type="S" value="Step 1_ Load Test Enviornment &gt; toolbar.XML, settings.CAS"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+					</Node>
+					<Node name="test3">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="starttime" type="D" value="45225.6216598264"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="name" type="S" value="Step 3_ Create Symbol"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+					</Node>
+					<Node name="test10">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="starttime" type="D" value="45225.6216598264"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="name" type="S" value="Step 10_ Load Test Enviornment &gt; toolbar.XML, settings.CAS"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+					</Node>
+					<Node name="test0">
+						<Node name="warnings"/>
+						<Node name="errors">
+							<Node name="error1">
+								<Prp name="msg" type="S" value="The test execution was interrupted."/>
+							</Node>
+							<Node name="error2">
+								<Prp name="msg" type="S" value="The execution process was interrupted."/>
+							</Node>
+							<Node name="error0">
+								<Prp name="msg" type="S" value="The region checkpoint &quot;UpdateParts_dlgAutoSPRINK2023_Check_Start&quot; failed. See Details for additional information."/>
+							</Node>
+						</Node>
+						<Prp name="starttime" type="D" value="45225.621455706"/>
+						<Prp name="duration" type="I" value="17629"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewA4ADIAQQA1AEIANAAxADAALQBGAEUAQwAzAC0ANAA3AEMARAAtAEIAQwAyADMALQA3ADYAMwBEADkAQwAxAEMANQBBAEIAQgB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="status" type="I" value="2"/>
+						<Prp name="name" type="S" value="Step 0_ Delete DB, Start App, Update Parts"/>
+						<Prp name="durationwithoutchildren" type="I" value="17629"/>
+					</Node>
+					<Node name="test8">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="starttime" type="D" value="45225.6216598264"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="name" type="S" value="Step 8_ Layers &gt; Isolate, Unisolate, Hide"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+					</Node>
+					<Node name="test7">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="starttime" type="D" value="45225.6216598264"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="name" type="S" value="Step 7_ DL and Verify New Part"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+					</Node>
+					<Node name="test9">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="starttime" type="D" value="45225.6216598264"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="name" type="S" value="Step 9_ License &gt; Deactivate, Activate"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+					</Node>
+					<Node name="test5">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="starttime" type="D" value="45225.6216598264"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="name" type="S" value="Step 5_ Interference Checking"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+					</Node>
+					<Node name="test4">
+						<Node name="warnings"/>
+						<Node name="errors"/>
+						<Prp name="starttime" type="D" value="45225.6216598264"/>
+						<Prp name="duration" type="I" value="0"/>
+						<Prp name="status" type="I" value="3"/>
+						<Prp name="name" type="S" value="Step 4_ Create Group"/>
+						<Prp name="durationwithoutchildren" type="I" value="0"/>
+					</Node>
+				</Node>
+				<Prp name="failedtests" type="I" value="1"/>
+				<Prp name="starttime" type="D" value="45225.621455706"/>
+				<Prp name="incompletedtests" type="I" value="10"/>
+				<Prp name="duration" type="I" value="17629"/>
+				<Prp name="warningtests" type="I" value="0"/>
+				<Prp name="name" type="S" value="Case 1_Manual in-app Functionality"/>
+			</Node>
+		</Node>
+		<Prp name="starttime" type="D" value="45225.6214556597"/>
+		<Prp name="executionstatus" type="I" value="2"/>
+		<Prp name="warningtestwithretries" type="I" value="0"/>
+		<Prp name="incompletedtests" type="I" value="10"/>
+		<Prp name="tests" type="I" value="11"/>
+		<Prp name="failedtests" type="I" value="1"/>
+		<Prp name="name" type="S" value="OFFICIAL AutoSPRINK SMOKE Testing"/>
+		<Prp name="successtestwithretries" type="I" value="0"/>
+		<Prp name="host" type="S" value="CORVUS"/>
+		<Prp name="key" type="S" value="{4E7600DF-C489-4E87-AC69-A69CB7D926CC}"/>
+		<Prp name="user" type="S" value="B.Chambers"/>
+		<Prp name="warningtests" type="I" value="0"/>
+		<Prp name="stop" type="D" value="45225.6216610764"/>
+		<Prp name="testname" type="S" value="Case 1_Manual in-app Functionality"/>
+	</Node>
+</Nodes>

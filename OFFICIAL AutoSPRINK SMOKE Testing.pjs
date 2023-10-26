@@ -32,9 +32,17 @@
 			<testItem key="{BBD48C2D-3C45-4BE0-AE05-CF1821BF35A7}" enabled="False" timeout="0" stopOnError="False" description="" />
 		</children>
 	</testItems>
-	<variables key="{7B70AF4E-9AF2-4928-BBB8-F532C5D97E68}" />
+	<variables key="{7B70AF4E-9AF2-4928-BBB8-F532C5D97E68}">
+		<data Version="4">
+			<Items>
+				<Variable Name="SPRINK_YEAR" Type="String" Local="True">
+					<DefValue />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
 	<analysis key="{1D701A55-69E3-44D4-A681-1770E3621908}" />
-	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
 		<data />
 	</scc>
 </Root>

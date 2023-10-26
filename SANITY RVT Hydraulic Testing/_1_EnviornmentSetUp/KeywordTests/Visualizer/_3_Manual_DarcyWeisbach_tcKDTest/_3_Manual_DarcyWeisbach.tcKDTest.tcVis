@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{81C94DE4-12BD-40E0-9682-23DFCE7584A5}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45225.7584572917" objectName="Aliases.Revit.HwndSource_MainWindow.MainWindow.mMainTabPanels.RibbonItemControl" objectLeft="1008" objectTop="52" objectRight="1066" objectBottom="125" clickPointX="1030" clickPointY="68" imageFileName="visImage122.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45225.7584707176" objectName="Aliases.Revit.HwndSource_g1.g1.ButtonOk" objectLeft="18" objectTop="197" objectRight="146" objectBottom="218" clickPointX="82" clickPointY="207" imageFileName="visImage123.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45225.7585355324" objectName="Aliases.Revit.HwndSource_hu" objectLeft="0" objectTop="0" objectRight="800" objectBottom="550" clickPointX="-1" clickPointY="-1" imageFileName="visImage124.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="45225.7585408218" objectName="Aliases.Revit.HwndSource_MainWindow.MainWindow.LayoutDocumentPaneControl.LayoutDocumentTabItem" objectLeft="483" objectTop="175" objectRight="722" objectBottom="192" clickPointX="713" clickPointY="182" imageFileName="visImage125.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="10" kind="0" dateTime="45225.7585543056" objectName="Aliases.Revit.dlgSaveFile.Save_File.CtrlNotifySink.btnNo" objectLeft="198" objectTop="122" objectRight="270" objectBottom="145" clickPointX="234" clickPointY="133" imageFileName="visImage126.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

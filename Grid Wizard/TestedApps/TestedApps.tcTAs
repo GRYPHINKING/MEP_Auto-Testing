@@ -16,5 +16,17 @@
 			<testData />
 			<data />
 		</child>
+		<child key="{34B2873A-CA8E-4D35-8242-2C4CBA2AD1D1}">
+			<config nodeName="AutoSPRINKx641" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Program Files\M.E.P.CAD\AutoSPRINK 2024 ALPHA\" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Program Files\M.E.P.CAD\AutoSPRINK 2024 ALPHA\" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Program Files\M.E.P.CAD\AutoSPRINK 2024 ALPHA\" />
+					<param name="Simple" fileName="AutoSPRINKx64.exe" filePath="C:\Program Files\M.E.P.CAD\AutoSPRINK 2024 ALPHA\" parameters="" workFolder="C:\Program Files\M.E.P.CAD\AutoSPRINK 2024 ALPHA\" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
 	</children>
 </Root>

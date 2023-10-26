@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 28">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1229.png"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="629"/>
+					<Prp name="object name" type="S" value="Aliases.MEPCRViewer.Hydraulic_Graphs"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7029293056"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="928"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="28"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="28"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MEPCRViewer.Hydraulic_Graphs&#xA;(Sys.Process(&quot;MEPCRViewer&quot;, 2).WinFormsObject(&quot;Hydraulic Graphs&quot;))"/>
+			<Prp name="message" type="S" value="The 'Hydraulic Graphs' window was closed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.452930544"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 0">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1210.png"/>
+					<Prp name="click point y" type="I" value="120"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="132"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReports.btnHydraulicReportsOptions"/>
+					<Prp name="object top" type="I" value="109"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.702556412"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="225"/>
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="click point x" type="I" value="120"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReports.btnHydraulicReportsOptions&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Reports&quot;, 2).Window(&quot;Button&quot;, &quot;Hydraulic Reports Options...&quot;, 2))"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4525572222"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 25">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture219.png;Picture220.png;Picture221.png"/>
+			<Prp name="id" type="I" value="25"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="25"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{B414F943-E3B8-4007-B5DF-E10CFD3CD72C}&quot;&gt; Click here to show or modify data of the checkpoint &quot;PageControl_NFPA_SummaryOfOutflowingDevices_Check_Reports&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;PageControl_NFPA_SummaryOfOutflowingDevices_Check_Reports&quot; passed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4529162037"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 18">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1224.png"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="629"/>
+					<Prp name="object name" type="S" value="Aliases.MEPCRViewer.Flow_Diagram_Isometric_View_"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7028764236"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="928"/>
+					<Prp name="line #" type="I" value="18"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="18"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="18"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MEPCRViewer.Flow_Diagram_Isometric_View_&#xA;(Sys.Process(&quot;MEPCRViewer&quot;, 7).WinFormsObject(&quot;Flow Diagram (Isometric View)&quot;))"/>
+			<Prp name="message" type="S" value="The 'Flow Diagram (Isometric View)' window was closed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4528776505"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1216.png"/>
+					<Prp name="click point y" type="I" value="91"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="285"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReports.List1"/>
+					<Prp name="object top" type="I" value="49"/>
+					<Prp name="object left" type="I" value="239"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7025830903"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="448"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="click point x" type="I" value="250"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReports.List1&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Reports&quot;, 1).Window(&quot;SysListView32&quot;, &quot;List1&quot;, 1))"/>
+			<Prp name="message" type="S" value="The list view item 'Summary Of Outflowing Devices' was checked."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4525859954"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 20">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1225.png"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="629"/>
+					<Prp name="object name" type="S" value="Aliases.MEPCRViewer.Flow_Diagram_Top_View_"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7028872685"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="928"/>
+					<Prp name="line #" type="I" value="20"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="20"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="20"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MEPCRViewer.Flow_Diagram_Top_View_&#xA;(Sys.Process(&quot;MEPCRViewer&quot;, 6).WinFormsObject(&quot;Flow Diagram (Top View)&quot;))"/>
+			<Prp name="message" type="S" value="The 'Flow Diagram (Top View)' window was closed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4528884838"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 16">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1223.png"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="629"/>
+					<Prp name="object name" type="S" value="Aliases.MEPCRViewer.Flow_Diagram_Current_View_"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7028660648"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="928"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="16"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="16"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MEPCRViewer.Flow_Diagram_Current_View_&#xA;(Sys.Process(&quot;MEPCRViewer&quot;, 8).WinFormsObject(&quot;Flow Diagram (Current View)&quot;))"/>
+			<Prp name="message" type="S" value="The 'Flow Diagram (Current View)' window was closed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4528673495"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 27">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture222.png;Picture223.png;Picture224.png"/>
+			<Prp name="id" type="I" value="27"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="27"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{797FB8AB-839D-4B7C-B23D-4A1F35E1207C}&quot;&gt; Click here to show or modify data of the checkpoint &quot;PageControl_NFPA_HydraulicGraph_Check_Reports&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;PageControl_NFPA_HydraulicGraph_Check_Reports&quot; passed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4529278356"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 29">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture225.png;Picture226.png;Picture227.png"/>
+			<Prp name="id" type="I" value="29"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="29"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{9DCFFB09-3C02-4E8C-8FC6-62B970AF6EE7}&quot;&gt; Click here to show or modify data of the checkpoint &quot;DocumentControl_NFPA_HydraulicClaculations_Check_Reports&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;DocumentControl_NFPA_HydraulicClaculations_Check_Reports&quot; passed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4529371991"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1214.png"/>
+					<Prp name="click point y" type="I" value="60"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="285"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReports.List1"/>
+					<Prp name="object top" type="I" value="49"/>
+					<Prp name="object left" type="I" value="239"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7025721759"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="448"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="click point x" type="I" value="256"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReports.List1&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Reports&quot;, 1).Window(&quot;SysListView32&quot;, &quot;List1&quot;, 1))"/>
+			<Prp name="message" type="S" value="The list view item 'Hydraulic Calculations Summary' was checked."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4525751157"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 14">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="14"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="13"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="message" type="S" value="Execution of the low-level procedure MoveMouse completed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4526182523"/>
+			<Prp name="priority" type="I" value="500"/>
+		</Node>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1217.png"/>
+					<Prp name="click point y" type="I" value="106"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="285"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReports.List1"/>
+					<Prp name="object top" type="I" value="49"/>
+					<Prp name="object left" type="I" value="239"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7025884259"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="448"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="click point x" type="I" value="247"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReports.List1&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Reports&quot;, 1).Window(&quot;SysListView32&quot;, &quot;List1&quot;, 1))"/>
+			<Prp name="message" type="S" value="The list view item 'Node Analysis' was checked."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.452591412"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1213.png"/>
+					<Prp name="click point y" type="I" value="299"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="311"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReports.btnClearReportSelection"/>
+					<Prp name="object top" type="I" value="288"/>
+					<Prp name="object left" type="I" value="239"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.702568912"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="448"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="click point x" type="I" value="343"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReports.btnClearReportSelection&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Reports&quot;, 1).Window(&quot;Button&quot;, &quot;Clear Report Selection&quot;, 8))"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4525697801"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 15">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture204.png;Picture205.png;Picture206.png"/>
+			<Prp name="id" type="I" value="15"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="15"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{561D219E-83EC-4AA7-8A87-F979298EC4A9}&quot;&gt; Click here to show or modify data of the checkpoint &quot;PageControl_NFPA_FlowDiagramCurrentView_Check_Reports&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;PageControl_NFPA_FlowDiagramCurrentView_Check_Reports&quot; passed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4528645833"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 11">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1221.png"/>
+					<Prp name="click point y" type="I" value="181"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="285"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReports.List1"/>
+					<Prp name="object top" type="I" value="49"/>
+					<Prp name="object left" type="I" value="239"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7026098264"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="448"/>
+					<Prp name="line #" type="I" value="11"/>
+					<Prp name="click point x" type="I" value="249"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="11"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReports.List1&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Reports&quot;, 1).Window(&quot;SysListView32&quot;, &quot;List1&quot;, 1))"/>
+			<Prp name="message" type="S" value="The list view item 'Flow Diagram (Current View)' was checked."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4526127199"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{DA631758-EE0C-42C6-8248-4738E29A6E10}"/>
+		</Node>
+		<Node name="message 19">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture210.png;Picture211.png;Picture212.png"/>
+			<Prp name="id" type="I" value="19"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="19"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{E010B831-0C5B-49AB-B162-9EA9D553D009}&quot;&gt; Click here to show or modify data of the checkpoint &quot;PageControl_NFPA_FlowDiagramTopView_Check_Reports&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;PageControl_NFPA_FlowDiagramTopView_Check_Reports&quot; passed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4528858102"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 26">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1228.png"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="629"/>
+					<Prp name="object name" type="S" value="Aliases.MEPCRViewer.Summary_Of_Outflowing_Devices"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7029176736"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="928"/>
+					<Prp name="line #" type="I" value="26"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="26"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="26"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MEPCRViewer.Summary_Of_Outflowing_Devices&#xA;(Sys.Process(&quot;MEPCRViewer&quot;, 3).WinFormsObject(&quot;Summary Of Outflowing Devices&quot;))"/>
+			<Prp name="message" type="S" value="The 'Summary Of Outflowing Devices' window was closed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4529188542"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 13">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="13"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="13"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="message" type="S" value="Execution of the low-level procedure MoveMouse started."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4526180556"/>
+			<Prp name="priority" type="I" value="500"/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1218.png"/>
+					<Prp name="click point y" type="I" value="125"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="285"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReports.List1"/>
+					<Prp name="object top" type="I" value="49"/>
+					<Prp name="object left" type="I" value="239"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7025938542"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="448"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="click point x" type="I" value="253"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReports.List1&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Reports&quot;, 1).Window(&quot;SysListView32&quot;, &quot;List1&quot;, 1))"/>
+			<Prp name="message" type="S" value="The list view item 'Hydraulic Analysis' was checked."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4525966435"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 21">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture213.png;Picture214.png;Picture215.png"/>
+			<Prp name="id" type="I" value="21"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="21"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{16663A2B-B302-4A2C-9D17-66A818B0730E}&quot;&gt; Click here to show or modify data of the checkpoint &quot;PageControl_NFPA_HydraulicAnalysis_Check_Reports&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;PageControl_NFPA_HydraulicAnalysis_Check_Reports&quot; passed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4528959606"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 30">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1230.png"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="629"/>
+					<Prp name="object name" type="S" value="Aliases.MEPCRViewer.Hydraulic_Calculations_Summary"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7029386574"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="928"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="30"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="30"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MEPCRViewer.Hydraulic_Calculations_Summary&#xA;(Sys.Process(&quot;MEPCRViewer&quot;).WinFormsObject(&quot;Hydraulic Calculations Summary&quot;))"/>
+			<Prp name="message" type="S" value="The 'Hydraulic Calculations Summary' window was closed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4529398264"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1212.png"/>
+					<Prp name="click point y" type="I" value="413"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="425"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReportOptions.btnOK"/>
+					<Prp name="object top" type="I" value="402"/>
+					<Prp name="object left" type="I" value="157"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.702565787"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="295"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="click point x" type="I" value="226"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReportOptions.btnOK&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Report Options&quot;, 1).Window(&quot;Button&quot;, &quot;OK&quot;, 35))"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4525666435"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 9">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1219.png"/>
+					<Prp name="click point y" type="I" value="140"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="285"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReports.List1"/>
+					<Prp name="object top" type="I" value="49"/>
+					<Prp name="object left" type="I" value="239"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7025991667"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="448"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="click point x" type="I" value="244"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReports.List1&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Reports&quot;, 1).Window(&quot;SysListView32&quot;, &quot;List1&quot;, 1))"/>
+			<Prp name="message" type="S" value="The list view item 'Flow Diagram (Top View)' was checked."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4526020833"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 24">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1227.png"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="629"/>
+					<Prp name="object name" type="S" value="Aliases.MEPCRViewer.Node_Analysis"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7029076273"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="928"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="24"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="24"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MEPCRViewer.Node_Analysis&#xA;(Sys.Process(&quot;MEPCRViewer&quot;, 4).WinFormsObject(&quot;Node Analysis&quot;))"/>
+			<Prp name="message" type="S" value="The 'Node Analysis' window was closed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4529088194"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1215.png"/>
+					<Prp name="click point y" type="I" value="74"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="285"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReports.List1"/>
+					<Prp name="object top" type="I" value="49"/>
+					<Prp name="object left" type="I" value="239"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7025776736"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="448"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="click point x" type="I" value="244"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReports.List1&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Reports&quot;, 1).Window(&quot;SysListView32&quot;, &quot;List1&quot;, 1))"/>
+			<Prp name="message" type="S" value="The list view item 'Hydraulic Graphs' was checked."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4525805556"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 23">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture216.png;Picture217.png;Picture218.png"/>
+			<Prp name="id" type="I" value="23"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="23"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{1C7D140D-919F-463A-809E-E436002DD0A8}&quot;&gt; Click here to show or modify data of the checkpoint &quot;PageControl_NFPA_NodeAnalysis_Check_Reports&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;PageControl_NFPA_NodeAnalysis_Check_Reports&quot; passed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4529061227"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1211.png"/>
+					<Prp name="click point y" type="I" value="231"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="239"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReportOptions.radioNFPA"/>
+					<Prp name="object top" type="I" value="223"/>
+					<Prp name="object left" type="I" value="217"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7025621759"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="270"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="click point x" type="I" value="243"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="The control state has been changed to 'checked'.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReportOptions.radioNFPA&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Report Options&quot;, 1).Window(&quot;Button&quot;, &quot;NFPA&quot;, 13))"/>
+			<Prp name="message" type="S" value="The radio button was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4525630787"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 22">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1226.png"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="629"/>
+					<Prp name="object name" type="S" value="Aliases.MEPCRViewer.Hydraulic_Analysis"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7028974306"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="928"/>
+					<Prp name="line #" type="I" value="22"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="22"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="22"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.MEPCRViewer.Hydraulic_Analysis&#xA;(Sys.Process(&quot;MEPCRViewer&quot;, 5).WinFormsObject(&quot;Hydraulic Analysis&quot;))"/>
+			<Prp name="message" type="S" value="The 'Hydraulic Analysis' window was closed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4528985995"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 17">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture207.png;Picture208.png;Picture209.png"/>
+			<Prp name="id" type="I" value="17"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="17"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{6EFF60BB-EDAF-48A0-9193-B85CAFBF3F95}&quot;&gt; Click here to show or modify data of the checkpoint &quot;PageControl_NFPA_FlowDiagramIsometricView_Check_Reports&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;PageControl_NFPA_FlowDiagramIsometricView_Check_Reports&quot; passed."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4528749653"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 12">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1222.png"/>
+					<Prp name="click point y" type="I" value="157"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="169"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReports.btnPreviewReports"/>
+					<Prp name="object top" type="I" value="146"/>
+					<Prp name="object left" type="I" value="16"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7026150231"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="225"/>
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="click point x" type="I" value="120"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="12"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReports.btnPreviewReports&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Reports&quot;, 1).Window(&quot;Button&quot;, &quot;Preview Report(s)&quot;, 3))"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4526158681"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 10">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1220.png"/>
+					<Prp name="click point y" type="I" value="161"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object bottom" type="I" value="285"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHydraulicReports.List1"/>
+					<Prp name="object top" type="I" value="49"/>
+					<Prp name="object left" type="I" value="239"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7026045602"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object right" type="I" value="448"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="click point x" type="I" value="243"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="line no" type="I" value="10"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHydraulicReports.List1&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hydraulic Reports&quot;, 1).Window(&quot;SysListView32&quot;, &quot;List1&quot;, 1))"/>
+			<Prp name="message" type="S" value="The list view item 'Flow Diagram (Isometric View)' was checked."/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4526073264"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>

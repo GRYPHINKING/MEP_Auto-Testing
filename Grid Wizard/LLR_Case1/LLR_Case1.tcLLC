@@ -4,5 +4,6 @@
 		<child name="Proceedure_InterferenceCheck_AlertsPane" key="{929BC4EC-10A3-40CE-BFE7-E51414D4ED22}" path="Proceedure_InterferenceCheck_AlertsPane.tcLLP" />
 		<child name="Load_Cas" key="{0451B365-F54F-42D5-9A02-5752FC87DA6A}" path="Load_Cas.tcLLP" />
 		<child name="DLPart" key="{D85B7F26-2CF3-426F-929E-E5C4724531AF}" path="DLPart.tcLLP" />
+		<child name="HelpMenu_VersionNum" key="{C6E90CF2-FC59-4714-B613-9BC8EB2200B8}" path="HelpMenu_VersionNum.tcLLP" />
 	</children>
 </Root>

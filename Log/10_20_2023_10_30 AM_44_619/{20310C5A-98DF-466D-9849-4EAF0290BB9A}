@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 35">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="187"/>
+					<Prp name="object left" type="I" value="72"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="196"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124815046"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.ComboBox"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="140"/>
+					<Prp name="line #" type="I" value="36"/>
+					<Prp name="click point y" type="I" value="151"/>
+					<Prp name="object bottom" type="I" value="161"/>
+					<Prp name="image file name" type="S" value="visImage2141.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="36"/>
+			<Prp name="id" type="I" value="35"/>
+			<Prp name="remarks" type="S" value="A click at point (115, 11) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.ComboBox&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624848032"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 30">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1173"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124591782"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgImportHangerProfile"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="line #" type="I" value="31"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="image file name" type="S" value="visImage2137.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="31"/>
+			<Prp name="id" type="I" value="30"/>
+			<Prp name="remarks" type="S" value="The file 'C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Settings\FAB Standards - Hanger Assembly Settings.ashp' was opened as a 'AutoSPRINK Hanger Profiles (*.ashp)' file.&#xA;&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgImportHangerProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Import hanger profile...&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624672685"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The file 'FAB Standards - Hanger Assembly Settings.ashp' was selected in the Open dialog."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 24">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="133"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1160"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124156829"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportHangerProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="918"/>
+					<Prp name="line #" type="I" value="25"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="941"/>
+					<Prp name="image file name" type="S" value="visImage2132.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="25"/>
+			<Prp name="id" type="I" value="24"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgExportHangerProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Export hanger profile...&quot;, 1).Window(&quot;DUIViewWndClassName&quot;, &quot;&quot;, 1).UIAObject(&quot;Explorer_Pane&quot;).Window(&quot;FloatNotifySink&quot;, &quot;&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624172569"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The text 'FAB Standards - Hanger Assembly Settings' was entered in the combo box editor."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 36">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="238"/>
+					<Prp name="object left" type="I" value="202"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="275"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124857986"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnAddProfile"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="138"/>
+					<Prp name="line #" type="I" value="37"/>
+					<Prp name="click point y" type="I" value="149"/>
+					<Prp name="object bottom" type="I" value="161"/>
+					<Prp name="image file name" type="S" value="visImage2142.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="37"/>
+			<Prp name="id" type="I" value="36"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnAddProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Button&quot;, &quot;Add Profile&quot;, 9))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624870833"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 18">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="62"/>
+					<Prp name="object left" type="I" value="25"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="100"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123841898"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAddEdit.btnOK"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="77"/>
+					<Prp name="line #" type="I" value="19"/>
+					<Prp name="click point y" type="I" value="90"/>
+					<Prp name="object bottom" type="I" value="103"/>
+					<Prp name="image file name" type="S" value="visImage2127.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="19"/>
+			<Prp name="id" type="I" value="18"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAddEdit.btnOK&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Add/Edit&quot;, 1).Window(&quot;Button&quot;, &quot;OK&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623854745"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="127"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="210"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.712354456"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHangerAssemblies.editHangerCode"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="114"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="137"/>
+					<Prp name="image file name" type="S" value="visImage2117.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHangerAssemblies.editHangerCode&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623555324"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The text '123' was entered in the text editor."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 21">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="361"/>
+					<Prp name="object left" type="I" value="306"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="416"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123939815"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnExportProfile"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="172"/>
+					<Prp name="line #" type="I" value="22"/>
+					<Prp name="click point y" type="I" value="183"/>
+					<Prp name="object bottom" type="I" value="195"/>
+					<Prp name="image file name" type="S" value="visImage2129.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="22"/>
+			<Prp name="id" type="I" value="21"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnExportProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Button&quot;, &quot;Export Profile&quot;, 14))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623953472"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 13">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="227"/>
+					<Prp name="object left" type="I" value="25"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="456"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123704051"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAddHardware.List1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="522"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="click point y" type="I" value="550"/>
+					<Prp name="object bottom" type="I" value="641"/>
+					<Prp name="image file name" type="S" value="visImage2122.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="14"/>
+			<Prp name="id" type="I" value="13"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAddHardware.List1&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Add Hardware&quot;, 1).Window(&quot;SysListView32&quot;, &quot;List1&quot;, 3))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623722338"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The list view item (0, 'Hex Head Lag Screw, 1/2&quot; Diam, 3/4&quot; Head') was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 25">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="1004"/>
+					<Prp name="object left" type="I" value="960"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1048"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124181481"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportHangerProfile.btnSave"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="line #" type="I" value="26"/>
+					<Prp name="click point y" type="I" value="999"/>
+					<Prp name="object bottom" type="I" value="1012"/>
+					<Prp name="image file name" type="S" value="visImage2133.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="26"/>
+			<Prp name="id" type="I" value="25"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgExportHangerProfile.btnSave&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Export hanger profile...&quot;, 1).Window(&quot;Button&quot;, &quot;&amp;Save&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.462419456"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 31">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="72"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="196"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124711574"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.ComboBox"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="140"/>
+					<Prp name="line #" type="I" value="32"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="161"/>
+					<Prp name="image file name" type="S" value="visImage2138.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="32"/>
+			<Prp name="id" type="I" value="31"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.ComboBox&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.462473044"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The combo box item 'TEST' was selected."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 34">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="414"/>
+					<Prp name="object left" type="I" value="355"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="474"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124795486"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnResetDefaultProfile"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="138"/>
+					<Prp name="line #" type="I" value="35"/>
+					<Prp name="click point y" type="I" value="149"/>
+					<Prp name="object bottom" type="I" value="161"/>
+					<Prp name="image file name" type="S" value="visImage2140.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="35"/>
+			<Prp name="id" type="I" value="34"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnResetDefaultProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Button&quot;, &quot;Reset Default Profile&quot;, 10))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624807986"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 20">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="294"/>
+					<Prp name="object left" type="I" value="257"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="332"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123915972"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnOK"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="119"/>
+					<Prp name="line #" type="I" value="21"/>
+					<Prp name="click point y" type="I" value="130"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="image file name" type="S" value="visImage2128.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="21"/>
+			<Prp name="id" type="I" value="20"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnOK&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;AutoSPRINK 2023&quot;, 1).Window(&quot;Button&quot;, &quot;OK&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623927546"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="150"/>
+					<Prp name="object left" type="I" value="102"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="199"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123463773"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnAddHanger"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="460"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="click point y" type="I" value="471"/>
+					<Prp name="object bottom" type="I" value="483"/>
+					<Prp name="image file name" type="S" value="visImage2115.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnAddHanger&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Button&quot;, &quot;Add Hanger&quot;, 4))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623476968"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="26"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="191"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123437963"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAddEdit.Edit"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="44"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="64"/>
+					<Prp name="image file name" type="S" value="visImage2114.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="remarks" type="S" value="'[Enter]' was sent as a keyboard input to the following window or control.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAddEdit.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Add/Edit&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623452546"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="Keyboard input."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 29">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="243"/>
+					<Prp name="object left" type="I" value="189"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="298"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124432523"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnImportProfile"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="172"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="click point y" type="I" value="183"/>
+					<Prp name="object bottom" type="I" value="195"/>
+					<Prp name="image file name" type="S" value="visImage2136.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="30"/>
+			<Prp name="id" type="I" value="29"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnImportProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Button&quot;, &quot;Import Profile&quot;, 13))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.462444537"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 9">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="25"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="288"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123565741"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHangerAssemblies.ListBox"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="202"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="290"/>
+					<Prp name="image file name" type="S" value="visImage2118.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="10"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHangerAssemblies.ListBox&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;ListBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623579051"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The list box item 'Generic - Side Beam Bracket, Pln' was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 26">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="line no" type="I" value="27"/>
+			<Prp name="id" type="I" value="26"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{EDF0FBA8-8C44-4043-B6FF-4E2AB8B2226B}&quot;&gt; Click here to show or modify data of the checkpoint &quot;Export_HangerAssSettings&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.462431088"/>
+			<Prp name="picture" type="S" value="Picture720.png;Picture721.png;Picture722.png"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;Export_HangerAssSettings&quot; passed."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 22">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="144"/>
+					<Prp name="object left" type="I" value="10"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="340"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.712410544"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportHangerProfile.DUIViewWndClassName.Explorer_Pane.CtrlNotifySink.NamespaceTreeControl.tvNamespaceTreeControl"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="117"/>
+					<Prp name="line #" type="I" value="23"/>
+					<Prp name="click point y" type="I" value="677"/>
+					<Prp name="object bottom" type="I" value="907"/>
+					<Prp name="image file name" type="S" value="visImage2130.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="23"/>
+			<Prp name="id" type="I" value="22"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgExportHangerProfile.DUIViewWndClassName.Explorer_Pane.CtrlNotifySink.NamespaceTreeControl.tvNamespaceTreeControl&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Export hanger profile...&quot;, 1).Window(&quot;DUIViewWndClassName&quot;, &quot;&quot;, 1).UIAObject(&quot;Explorer_Pane&quot;).Window(&quot;CtrlNotifySink&quot;, &quot;&quot;, 1).Window(&quot;NamespaceTreeControl&quot;, &quot;Namespace Tree Control&quot;, 1).Window(&quot;SysTreeView32&quot;, &quot;Navigation Pane&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624123727"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The tree node 'Desktop|SPRINK Smoke Testing Settings' was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 27">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="290"/>
+					<Prp name="object left" type="I" value="256"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="324"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124334259"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgConfirmSaveAs.Confirm_Save_As.CtrlNotifySink.btnYes"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="100"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="click point y" type="I" value="111"/>
+					<Prp name="object bottom" type="I" value="123"/>
+					<Prp name="image file name" type="S" value="visImage2134.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="28"/>
+			<Prp name="id" type="I" value="27"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgConfirmSaveAs.Confirm_Save_As.CtrlNotifySink.btnYes&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Confirm Save As&quot;, 1).UIAObject(&quot;Confirm_Save_As&quot;).Window(&quot;CtrlNotifySink&quot;, &quot;&quot;, 7).Window(&quot;Button&quot;, &quot;&amp;Yes&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624345602"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 15">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="383"/>
+					<Prp name="object left" type="I" value="311"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="455"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123763079"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAddHardware.btnAddToList"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="649"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="click point y" type="I" value="660"/>
+					<Prp name="object bottom" type="I" value="672"/>
+					<Prp name="image file name" type="S" value="visImage2124.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="16"/>
+			<Prp name="id" type="I" value="15"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAddHardware.btnAddToList&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Add Hardware&quot;, 1).Window(&quot;Button&quot;, &quot;Add To List&quot;, 6))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623776273"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 19">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="line no" type="I" value="20"/>
+			<Prp name="id" type="I" value="19"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{C24F3E03-0BF3-4514-A726-0208CC52A517}&quot;&gt; Click here to show or modify data of the checkpoint &quot;HangerProfile_DuplicateName&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623913194"/>
+			<Prp name="picture" type="S" value="Picture717.png;Picture718.png;Picture719.png"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;HangerProfile_DuplicateName&quot; passed."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 23">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="310"/>
+					<Prp name="object left" type="I" value="136"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="1140"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124136111"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportHangerProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox.Edit"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="921"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="click point y" type="I" value="928"/>
+					<Prp name="object bottom" type="I" value="938"/>
+					<Prp name="image file name" type="S" value="visImage2131.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="24"/>
+			<Prp name="id" type="I" value="23"/>
+			<Prp name="remarks" type="S" value="A click at point (174, 7) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgExportHangerProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Export hanger profile...&quot;, 1).Window(&quot;DUIViewWndClassName&quot;, &quot;&quot;, 1).UIAObject(&quot;Explorer_Pane&quot;).Window(&quot;FloatNotifySink&quot;, &quot;&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624149421"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 28">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="523"/>
+					<Prp name="object left" type="I" value="477"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="569"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124405556"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnDeleteProfile"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="138"/>
+					<Prp name="line #" type="I" value="29"/>
+					<Prp name="click point y" type="I" value="149"/>
+					<Prp name="object bottom" type="I" value="161"/>
+					<Prp name="image file name" type="S" value="visImage2135.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="29"/>
+			<Prp name="id" type="I" value="28"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnDeleteProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 2).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Button&quot;, &quot;Delete Profile&quot;, 11))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624418982"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 16">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="345"/>
+					<Prp name="object left" type="I" value="308"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="383"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123787153"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAddHardware.btnOK"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="691"/>
+					<Prp name="line #" type="I" value="17"/>
+					<Prp name="click point y" type="I" value="702"/>
+					<Prp name="object bottom" type="I" value="714"/>
+					<Prp name="image file name" type="S" value="visImage2125.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="17"/>
+			<Prp name="id" type="I" value="16"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAddHardware.btnOK&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Add Hardware&quot;, 1).Window(&quot;Button&quot;, &quot;OK&quot;, 8))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623799074"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 14">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="207"/>
+					<Prp name="object left" type="I" value="25"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="456"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123735764"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAddHardware.List2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="184"/>
+					<Prp name="line #" type="I" value="15"/>
+					<Prp name="click point y" type="I" value="212"/>
+					<Prp name="object bottom" type="I" value="319"/>
+					<Prp name="image file name" type="S" value="visImage2123.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="15"/>
+			<Prp name="id" type="I" value="14"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAddHardware.List2&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Add Hardware&quot;, 1).Window(&quot;SysListView32&quot;, &quot;List2&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623753819"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The list view item ('123', 'Side Beam Bracket, Pln') was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 41">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="187"/>
+					<Prp name="object left" type="I" value="72"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="196"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.712505"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.ComboBox"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="140"/>
+					<Prp name="line #" type="I" value="42"/>
+					<Prp name="click point y" type="I" value="150"/>
+					<Prp name="object bottom" type="I" value="161"/>
+					<Prp name="image file name" type="S" value="visImage2147.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="42"/>
+			<Prp name="id" type="I" value="41"/>
+			<Prp name="remarks" type="S" value="A click at point (115, 10) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.ComboBox&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4625100694"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 10">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="326"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="469"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123590278"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHangerAssemblies.ListBox2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="367"/>
+					<Prp name="line #" type="I" value="11"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="554"/>
+					<Prp name="image file name" type="S" value="visImage2119.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="11"/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHangerAssemblies.ListBox2&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;ListBox&quot;, &quot;&quot;, 3))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623602894"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The list box item '1½' was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 17">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="315"/>
+					<Prp name="object left" type="I" value="278"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="352"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123810417"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnEditProfile"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="138"/>
+					<Prp name="line #" type="I" value="18"/>
+					<Prp name="click point y" type="I" value="149"/>
+					<Prp name="object bottom" type="I" value="161"/>
+					<Prp name="image file name" type="S" value="visImage2126.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="18"/>
+			<Prp name="id" type="I" value="17"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnEditProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Button&quot;, &quot;Edit Profile&quot;, 12))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.462382419"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="208"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="687"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123144097"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx.Item"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="46"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="69"/>
+					<Prp name="object bottom" type="I" value="92"/>
+					<Prp name="image file name" type="S" value="visImage2110.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="A click at point (199, 21) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.UI.Item&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - Drawing3 - [Drawing3]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 1).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;0&quot;, 16))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623159491"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="Toolbar button 'Fabrication Standards...' was clicked."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 0">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="32"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="687"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7122459954"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx.Item"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="46"/>
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="69"/>
+					<Prp name="object bottom" type="I" value="92"/>
+					<Prp name="image file name" type="S" value="visImage2109.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (23, 21) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.UI.Item&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - Drawing3 - [Drawing3]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 1).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;0&quot;, 16))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4622485648"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="Toolbar button 'New Drawing' was clicked."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="26"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="191"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.712341956"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAddEdit.Edit"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="44"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="64"/>
+					<Prp name="image file name" type="S" value="visImage2113.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAddEdit.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Add/Edit&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.462343044"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The text 'TEST' was entered in the text editor."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="238"/>
+					<Prp name="object left" type="I" value="202"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="275"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123389236"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnAddProfile"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="138"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="click point y" type="I" value="149"/>
+					<Prp name="object bottom" type="I" value="161"/>
+					<Prp name="image file name" type="S" value="visImage2112.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnAddProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Button&quot;, &quot;Add Profile&quot;, 9))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623401968"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 33">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="523"/>
+					<Prp name="object left" type="I" value="477"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="569"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124770718"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnDeleteProfile"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="138"/>
+					<Prp name="line #" type="I" value="34"/>
+					<Prp name="click point y" type="I" value="149"/>
+					<Prp name="object bottom" type="I" value="161"/>
+					<Prp name="image file name" type="S" value="visImage2139.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="34"/>
+			<Prp name="id" type="I" value="33"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnDeleteProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 2).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Button&quot;, &quot;Delete Profile&quot;, 11))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624782986"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 42">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="line no" type="I" value="43"/>
+			<Prp name="id" type="I" value="42"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{CDEEB85D-03E9-4201-89DC-DF6E79097B61}&quot;&gt; Click here to show or modify data of the checkpoint &quot;ResetDefault_HangerAssSettings_Check&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4625140046"/>
+			<Prp name="picture" type="S" value="Picture726.png;Picture727.png;Picture728.png"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;ResetDefault_HangerAssSettings_Check&quot; passed."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 32">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="line no" type="I" value="33"/>
+			<Prp name="id" type="I" value="32"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{760FEE26-5318-4D58-82DB-609BCFB847D2}&quot;&gt; Click here to show or modify data of the checkpoint &quot;Import_HangerAssSettings_Check&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624767245"/>
+			<Prp name="picture" type="S" value="Picture723.png;Picture724.png;Picture725.png"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;Import_HangerAssSettings_Check&quot; passed."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="498"/>
+					<Prp name="object left" type="I" value="14"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="582"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123359722"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.tbcFabricationStandards"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="38"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="click point y" type="I" value="49"/>
+					<Prp name="object bottom" type="I" value="831"/>
+					<Prp name="image file name" type="S" value="visImage2111.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.tbcFabricationStandards&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;SysTabControl32&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623374769"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The tab control page 'Hanger Assemblies' was selected with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 38">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="26"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="191"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.712496794"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAddEdit.Edit"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="44"/>
+					<Prp name="line #" type="I" value="39"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="64"/>
+					<Prp name="image file name" type="S" value="visImage2144.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="39"/>
+			<Prp name="id" type="I" value="38"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAddEdit.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Add/Edit&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624977894"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The text 'Default' was entered in the text editor."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 12">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="354"/>
+					<Prp name="object left" type="I" value="317"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="392"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123638079"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHangerAssemblies.btnOK"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="619"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="click point y" type="I" value="630"/>
+					<Prp name="object bottom" type="I" value="642"/>
+					<Prp name="image file name" type="S" value="visImage2121.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="13"/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHangerAssemblies.btnOK&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Button&quot;, &quot;OK&quot;, 12))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623650463"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="164"/>
+					<Prp name="object left" type="I" value="127"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="210"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123525231"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHangerAssemblies.editHangerCode"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="114"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="click point y" type="I" value="122"/>
+					<Prp name="object bottom" type="I" value="137"/>
+					<Prp name="image file name" type="S" value="visImage2116.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="A click at point (37, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHangerAssemblies.editHangerCode&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.462353831"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 37">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="238"/>
+					<Prp name="object left" type="I" value="202"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="275"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124880787"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnAddProfile"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="138"/>
+					<Prp name="line #" type="I" value="38"/>
+					<Prp name="click point y" type="I" value="149"/>
+					<Prp name="object bottom" type="I" value="161"/>
+					<Prp name="image file name" type="S" value="visImage2143.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="38"/>
+			<Prp name="id" type="I" value="37"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.btnAddProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;Button&quot;, &quot;Add Profile&quot;, 9))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.462495162"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="message 40">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="187"/>
+					<Prp name="object left" type="I" value="72"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="196"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7125006366"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.ComboBox"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="140"/>
+					<Prp name="line #" type="I" value="41"/>
+					<Prp name="click point y" type="I" value="150"/>
+					<Prp name="object bottom" type="I" value="161"/>
+					<Prp name="image file name" type="S" value="visImage2146.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="41"/>
+			<Prp name="id" type="I" value="40"/>
+			<Prp name="remarks" type="S" value="A click at point (115, 10) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgFabricationStandards.page32770.ComboBox&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Fabrication Standards&quot;, 1).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4625042593"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 39">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="26"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="191"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7124983681"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAddEdit.Edit"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="44"/>
+					<Prp name="line #" type="I" value="40"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="64"/>
+					<Prp name="image file name" type="S" value="visImage2145.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="40"/>
+			<Prp name="id" type="I" value="39"/>
+			<Prp name="remarks" type="S" value="'[Enter]' was sent as a keyboard input to the following window or control.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAddEdit.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Add/Edit&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4624998148"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="Keyboard input."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{BE33AC6B-B40E-448A-A3F2-F335AB99FEE1}"/>
+		</Node>
+		<Node name="message 11">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="22"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object right" type="I" value="285"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="45219.7123614236"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgHangerAssemblies.ListBox3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="460"/>
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="561"/>
+					<Prp name="image file name" type="S" value="visImage2120.png"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="line no" type="I" value="12"/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgHangerAssemblies.ListBox3&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Hanger Assemblies&quot;, 1).Window(&quot;ListBox&quot;, &quot;&quot;, 4))"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="45219.4623626273"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="message" type="S" value="The list box item 'Generic - Solid Split Ring Hanger, Galv' was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>

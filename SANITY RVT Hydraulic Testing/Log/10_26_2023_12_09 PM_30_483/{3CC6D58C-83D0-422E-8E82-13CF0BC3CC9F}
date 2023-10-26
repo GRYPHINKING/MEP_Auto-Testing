@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row1">
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="details" type="S" value="{E723AA33-BBB1-4A0A-864D-01CF5D6DCFD8}"/>
+				<Prp name="name" type="S" value="Verify Hazen Williams Calcs [KeywordTests - _2_Manual_HazenWilliams]"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45225.5072798958"/>
+				<Prp name="end time" type="D" value="45225.5080062732"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="row2">
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="details" type="S" value="{C2BBF0FB-215A-4BC2-A331-E86EE3D3E605}"/>
+				<Prp name="name" type="S" value="Verify Darcy Weisbach Calcs [KeywordTests - _3_Manual_DarcyWeisbach]"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45225.508006331"/>
+				<Prp name="end time" type="D" value="45225.5085556597"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="row4">
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="details" type="S" value="{07C32C2A-138D-4228-83DF-CA8215A354D2}"/>
+				<Prp name="name" type="S" value="Verify Simple Grid Calcs [KeywordTests - _5_Simple_Grid]"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45225.509253287"/>
+				<Prp name="end time" type="D" value="45225.509468206"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="row5">
+				<Prp name="index" type="I" value="5"/>
+				<Prp name="details" type="S" value="{714DD33A-573C-4669-9F01-C0215952D7E5}"/>
+				<Prp name="name" type="S" value="Verify Simple Dry Calcs [KeywordTests - _6_Simple_Dry]"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45225.509468287"/>
+				<Prp name="end time" type="D" value="45225.5096773148"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="row0">
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="details" type="S" value="{C5DD36A0-CEC3-44A4-9B1B-F10A88ED4520}"/>
+				<Prp name="name" type="S" value="Open Revit [KeywordTests - _0_OpenRevit]"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45225.506611088"/>
+				<Prp name="end time" type="D" value="45225.5072798264"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="row3">
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="details" type="S" value="{067CBC09-A147-4C37-9C3B-5ABA00A1A8C0}"/>
+				<Prp name="name" type="S" value="Verify Simple Tree Calcs [KeywordTests - _4_Simple_Tree]"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="start time" type="D" value="45225.5085557523"/>
+				<Prp name="end time" type="D" value="45225.5092531829"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

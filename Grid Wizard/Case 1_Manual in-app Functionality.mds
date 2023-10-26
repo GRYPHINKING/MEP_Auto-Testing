@@ -13,7 +13,10 @@
 	<testItems key="{E30F1EB4-3757-426D-AFA3-96B2F1FE2679}" version="14">
 		<children>
 			<testItem name="Step 0_ Delete DB, Start App, Update Parts" key="{C71091FC-8BAC-43AD-9D1E-468528296C00}" group="False" parallel="False" enabled="True" testMoniker="KDT\{809E8236-7B42-49A4-A94A-34F720377DF7}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
-				<testParameters />
+				<testParameters>
+					<param0 name="AS_2023Para" type="1" localVarName="SPRINK_YEAR" localVarLevel="0" value="" />
+					<param1 name="AS_2024Para" type="1" localVarName="SPRINK_YEAR" localVarLevel="0" value="" />
+				</testParameters>
 				<environments activeCloud="SWT" />
 				<children />
 			</testItem>
@@ -71,7 +74,7 @@
 	</testItems>
 	<variables key="{6A6F70AE-422F-40A3-9B68-AB603F3A7BE3}" />
 	<settings key="{94E1D81A-3E4D-4977-85B9-75FA898216CE}">
-		<settingsVersion value="15.55" />
+		<settingsVersion value="15.57" />
 		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />

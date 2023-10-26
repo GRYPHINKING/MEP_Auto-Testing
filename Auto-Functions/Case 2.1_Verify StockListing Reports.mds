@@ -37,7 +37,7 @@
 	</testItems>
 	<variables key="{CD690CA8-22D9-4A7D-BA25-157560D75561}" />
 	<settings key="{805A1FDF-FAD3-4D07-B140-6A837613BC94}">
-		<settingsVersion value="15.55" />
+		<settingsVersion value="15.56" />
 		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />
@@ -350,7 +350,7 @@
 			</data>
 		</setting>
 		<setting name="Playback_OverlappingWindow_IgnoreOverlappingWindow" type="1" value="False" />
-		<setting name="Playback_Runtime_AutoWaitTimeout" type="2" value="8000" />
+		<setting name="Playback_Runtime_AutoWaitTimeout" type="2" value="6000" />
 		<setting name="Playback_Runtime_DelayBetweenEvents" type="2" value="175" />
 		<setting name="Playback_Runtime_DisableMouse" type="1" value="False" />
 		<setting name="Playback_Runtime_MinimizeBeforePlayback" type="1" value="False" />

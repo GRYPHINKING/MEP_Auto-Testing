@@ -96,7 +96,17 @@
 				<Prp name="key" type="S" value="{27787A05-37A8-46C1-98AC-BD08881DB982}"/>
 				<Prp name="relpath" type="S" value="Log"/>
 			</Node>
-			<Node name="variables"/>
+			<Node name="variables">
+				<Node name="datav4">
+					<Node name="var0">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="3200300032003300"/>
+						</Node>
+						<Prp name="name" type="S" value="SPRINK_YEAR"/>
+					</Node>
+				</Node>
+				<Prp name="version" type="I" value="4"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
 	</Node>

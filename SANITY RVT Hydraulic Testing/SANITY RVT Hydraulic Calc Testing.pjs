@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{4C91BD9F-0D1E-4FAB-B4F5-3B2683ED4676}">
+	<children>
+		<child name="Case 1_HydroCalcs" key="{F5B475F3-3E8B-4B91-A56D-C39DBC772F30}" path="_1_EnviornmentSetUp\Case 1_HydroCalcs.mds" />
+	</children>
+	<testItems key="{70BB1D83-EE08-4650-87B7-741B20C2ABEA}">
+		<children>
+			<testItem key="{F5B475F3-3E8B-4B91-A56D-C39DBC772F30}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{4F9603ED-67B4-4508-8DA5-71BE86952B6B}">
+		<data Version="4">
+			<Items>
+				<Variable Name="RVTTestFile" Type="String" Local="True" Descr="Parameter Values used within variable">
+					<DefValue />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{7EDEE74F-B095-4BE3-8988-E2D812947549}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>

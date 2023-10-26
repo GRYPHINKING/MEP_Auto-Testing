@@ -1,0 +1,3185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 32">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="32"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2210_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136176389"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="32"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2210.png"/>
+					<Prp name="object top" type="I" value="181"/>
+					<Prp name="click point x" type="I" value="131"/>
+					<Prp name="object bottom" type="I" value="204"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="169"/>
+					<Prp name="object left" type="I" value="94"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="192"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportProfilesAs.btnOK"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7021064815"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="32"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi419465203106129.png"/>
+					<Prp name="object top" type="I" value="181"/>
+					<Prp name="click point x" type="I" value="126"/>
+					<Prp name="object bottom" type="I" value="204"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="169"/>
+					<Prp name="object left" type="I" value="94"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="189"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportProfilesAs.btnOK"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636188426"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="32"/>
+			<Prp name="line no" type="I" value="32"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgExportProfilesAs.btnOK&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Export Profiles As...&quot;, 1).Window(&quot;Button&quot;, &quot;OK&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2184_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134709606"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2184.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6926388889"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi41864667155448.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-848"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-473"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634720718"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Save Profile As...&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The text 'TEST' was entered in the text editor."/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 33">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="33"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2211_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136361921"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="33"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2211.png"/>
+					<Prp name="object top" type="I" value="918"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="941"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1160"/>
+					<Prp name="object left" type="I" value="133"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7023032407"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="33"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi4194802341061212.png"/>
+					<Prp name="object top" type="I" value="921"/>
+					<Prp name="click point x" type="I" value="-748"/>
+					<Prp name="object bottom" type="I" value="938"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1140"/>
+					<Prp name="object left" type="I" value="136"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636380556"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="33"/>
+			<Prp name="line no" type="I" value="33"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Export parts profile...&quot;, 1).Window(&quot;DUIViewWndClassName&quot;, &quot;&quot;, 1).UIAObject(&quot;Explorer_Pane&quot;).Window(&quot;FloatNotifySink&quot;, &quot;&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The text 'FAB Standards - Export Single Part Profile Settings' was entered in the combo box editor."/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{13DC7E7D-C200-464C-AC75-07453C316921}"/>
+		</Node>
+		<Node name="message 44">
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4637173958"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="44"/>
+			<Prp name="line no" type="I" value="44"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{84BDBCF6-2DD3-4FC3-98F9-7C0652BDC63A}&quot;&gt; Click here to show or modify data of the checkpoint &quot;Merge_PartsProfileSettings_Check&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture753.png;Picture754.png;Picture755.png"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;Merge_PartsProfileSettings_Check&quot; passed."/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2182_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134550926"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2182.png"/>
+					<Prp name="object top" type="I" value="92"/>
+					<Prp name="click point x" type="I" value="1828"/>
+					<Prp name="object bottom" type="I" value="138"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1890"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="115"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx.Item2"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6924189815"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi41862825055444.png"/>
+					<Prp name="object top" type="I" value="92"/>
+					<Prp name="click point x" type="I" value="1813"/>
+					<Prp name="object bottom" type="I" value="138"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1871"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="114"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx.Item2"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634570833"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="A click at point (1819, 21) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx2.Afx2.Item3&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - C:\\Users\\B.Chambers\\Desktop\\AutomationTesting\\SmokeTesting\\SPRINK Smoke Testing Files\\Match Elevation.cad - [Match Elevation.cad]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 1).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;5&quot;, 5))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="Toolbar button 'Parts Profile...' was clicked."/>
+		</Node>
+		<Node name="message 40">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="40"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2217_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136804861"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="40"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2217.png"/>
+					<Prp name="object top" type="I" value="109"/>
+					<Prp name="click point x" type="I" value="516"/>
+					<Prp name="object bottom" type="I" value="132"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object left" type="I" value="424"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="120"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnMergeProfiles"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7145023148"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="40"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi420536109106124.png"/>
+					<Prp name="object top" type="I" value="109"/>
+					<Prp name="click point x" type="I" value="555"/>
+					<Prp name="object bottom" type="I" value="132"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object left" type="I" value="424"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="121"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnMergeProfiles"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636817708"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="40"/>
+			<Prp name="line no" type="I" value="40"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnMergeProfiles&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Merge Profiles&quot;, 6))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 9">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2190_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134880208"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2190.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6927893519"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418659937554410.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-848"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-473"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634890741"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Save Profile As...&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The text 'TEST' was entered in the text editor."/>
+		</Node>
+		<Node name="message 28">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2206_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135905903"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2206.png"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1173"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgImportPartsProfile"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7105902778"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi420198546106122.png"/>
+					<Prp name="object top" type="I" value="151"/>
+					<Prp name="click point x" type="I" value="406"/>
+					<Prp name="object bottom" type="I" value="173"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="522"/>
+					<Prp name="object left" type="I" value="286"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="158"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgImportPartsProfile"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636058796"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="28"/>
+			<Prp name="line no" type="I" value="28"/>
+			<Prp name="remarks" type="S" value="The file 'C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Settings\FAB Standards - Export All Part Profile Settings.aspp' was opened as a 'AutoSPRINK Parts Profiles (*.aspp)' file.&#xA;&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgImportPartsProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Import parts profile...&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The file 'FAB Standards - Export All Part Profile Settings.aspp' was selected in the Open dialog."/>
+		</Node>
+		<Node name="message 11">
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.463496794"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="line no" type="I" value="11"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{B2EB2F2F-8B82-4859-BC3C-A3F1E6FDB891}&quot;&gt; Click here to show or modify data of the checkpoint &quot;Duplicate_PartPrifileName_Check&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture741.png;Picture742.png;Picture743.png"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;Duplicate_PartPrifileName_Check&quot; passed."/>
+		</Node>
+		<Node name="message 35">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="35"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2213_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136572106"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="35"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2213.png"/>
+					<Prp name="object top" type="I" value="54"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="75"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="133"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ComboBox"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7026736111"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="35"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi4195143591061266.png"/>
+					<Prp name="object top" type="I" value="54"/>
+					<Prp name="click point x" type="I" value="-1108"/>
+					<Prp name="object bottom" type="I" value="75"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="133"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-83"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ComboBox"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636590741"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="35"/>
+			<Prp name="line no" type="I" value="35"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ComboBox&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The combo box item 'TEST' was selected."/>
+		</Node>
+		<Node name="message 15">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="15"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2195_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135033565"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="15"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2195.png"/>
+					<Prp name="object top" type="I" value="80"/>
+					<Prp name="click point x" type="I" value="516"/>
+					<Prp name="object bottom" type="I" value="103"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object left" type="I" value="424"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="91"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnDeleteSelected"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6931365741"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="15"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418690031554416.png"/>
+					<Prp name="object top" type="I" value="80"/>
+					<Prp name="click point x" type="I" value="529"/>
+					<Prp name="object bottom" type="I" value="103"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object left" type="I" value="424"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="88"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnDeleteSelected"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635046065"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="15"/>
+			<Prp name="line no" type="I" value="15"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnDeleteSelected&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Delete Selected&quot;, 3))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 24">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2202_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135574306"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2202.png"/>
+					<Prp name="object top" type="I" value="100"/>
+					<Prp name="click point x" type="I" value="309"/>
+					<Prp name="object bottom" type="I" value="123"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="343"/>
+					<Prp name="object left" type="I" value="275"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="111"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgConfirmSaveAs.Confirm_Save_As.CtrlNotifySink.btnYes"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7046990741"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi419689640106120.png"/>
+					<Prp name="object top" type="I" value="100"/>
+					<Prp name="click point x" type="I" value="319"/>
+					<Prp name="object bottom" type="I" value="123"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="343"/>
+					<Prp name="object left" type="I" value="275"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="109"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgConfirmSaveAs.Confirm_Save_As.CtrlNotifySink.btnYes"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635586458"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="24"/>
+			<Prp name="line no" type="I" value="24"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgConfirmSaveAs.Confirm_Save_As.CtrlNotifySink.btnYes&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Confirm Save As&quot;, 1).UIAObject(&quot;Confirm_Save_As&quot;).Window(&quot;CtrlNotifySink&quot;, &quot;&quot;, 7).Window(&quot;Button&quot;, &quot;&amp;Yes&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 42">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="42"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2219_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7137073495"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="42"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2219.png"/>
+					<Prp name="object top" type="I" value="166"/>
+					<Prp name="click point x" type="I" value="511"/>
+					<Prp name="object bottom" type="I" value="388"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="222"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ListView2"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7145949074"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="42"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi4205440001061210.png"/>
+					<Prp name="object top" type="I" value="166"/>
+					<Prp name="click point x" type="I" value="500"/>
+					<Prp name="object bottom" type="I" value="388"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="223"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ListView2"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4637090857"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="42"/>
+			<Prp name="line no" type="I" value="42"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ListView2&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;SysListView32&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The list view item (2, 'Slip-On Plastic Cap, CPVC') was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 37">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="37"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2214_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136651389"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="37"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2214.png"/>
+					<Prp name="object top" type="I" value="100"/>
+					<Prp name="click point x" type="I" value="327"/>
+					<Prp name="object bottom" type="I" value="123"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="361"/>
+					<Prp name="object left" type="I" value="293"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="111"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgConfirmSaveAs.Confirm_Save_As.CtrlNotifySink.btnYes"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7054166667"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="37"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi419750859106120.png"/>
+					<Prp name="object top" type="I" value="100"/>
+					<Prp name="click point x" type="I" value="325"/>
+					<Prp name="object bottom" type="I" value="123"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="361"/>
+					<Prp name="object left" type="I" value="293"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="115"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgConfirmSaveAs.Confirm_Save_As.CtrlNotifySink.btnYes"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636663194"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="37"/>
+			<Prp name="line no" type="I" value="37"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgConfirmSaveAs.Confirm_Save_As.CtrlNotifySink.btnYes&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Confirm Save As&quot;, 1).UIAObject(&quot;Confirm_Save_As&quot;).Window(&quot;CtrlNotifySink&quot;, &quot;&quot;, 7).Window(&quot;Button&quot;, &quot;&amp;Yes&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 47">
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4637457292"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="47"/>
+			<Prp name="line no" type="I" value="47"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{4A7EEBBA-E43A-41C7-9B45-6210DC312D92}&quot;&gt; Click here to show or modify data of the checkpoint &quot;Import_PartsProfileSettings_Check&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture756.png;Picture757.png;Picture758.png"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;Import_PartsProfileSettings_Check&quot; passed."/>
+		</Node>
+		<Node name="message 29">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="29"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2207_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136097569"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="29"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2207.png"/>
+					<Prp name="object top" type="I" value="54"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="75"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="133"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ComboBox"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7020138889"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="29"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi419457437106126.png"/>
+					<Prp name="object top" type="I" value="54"/>
+					<Prp name="click point x" type="I" value="-1108"/>
+					<Prp name="object bottom" type="I" value="75"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="133"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-83"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ComboBox"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636118287"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="29"/>
+			<Prp name="line no" type="I" value="29"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ComboBox&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The combo box item 'TEST' was selected."/>
+		</Node>
+		<Node name="message 43">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="43"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2220_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7137098032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="43"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2220.png"/>
+					<Prp name="object top" type="I" value="836"/>
+					<Prp name="click point x" type="I" value="458"/>
+					<Prp name="object bottom" type="I" value="859"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="521"/>
+					<Prp name="object left" type="I" value="396"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="847"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnSaveChanges"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7149305556"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="43"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi4205731561061212.png"/>
+					<Prp name="object top" type="I" value="836"/>
+					<Prp name="click point x" type="I" value="457"/>
+					<Prp name="object bottom" type="I" value="859"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="521"/>
+					<Prp name="object left" type="I" value="396"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="848"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnSaveChanges"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4637111458"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="43"/>
+			<Prp name="line no" type="I" value="43"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnSaveChanges&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Save Changes&quot;, 16))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 41">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="41"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2218_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136968403"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="41"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2218.png"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1173"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgImportPartsProfile"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.714525463"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="41"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi420538625106128.png"/>
+					<Prp name="object top" type="I" value="182"/>
+					<Prp name="click point x" type="I" value="382"/>
+					<Prp name="object bottom" type="I" value="204"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="522"/>
+					<Prp name="object left" type="I" value="286"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="190"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgImportPartsProfile"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4637059954"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="41"/>
+			<Prp name="line no" type="I" value="41"/>
+			<Prp name="remarks" type="S" value="The file 'C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Settings\FAB Standards - Export Single Part Profile Settings.aspp' was opened as a 'AutoSPRINK Parts Profiles (*.aspp)' file.&#xA;&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgImportPartsProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Import parts profile...&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The file 'FAB Standards - Export Single Part Profile Settings.aspp' was selected in the Open dialog."/>
+		</Node>
+		<Node name="message 39">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="39"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2216_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136748495"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="39"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2216.png"/>
+					<Prp name="object top" type="I" value="119"/>
+					<Prp name="click point x" type="I" value="194"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="232"/>
+					<Prp name="object left" type="I" value="157"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="130"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnYes"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7144444444"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="39"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi420531109106122.png"/>
+					<Prp name="object top" type="I" value="119"/>
+					<Prp name="click point x" type="I" value="200"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="232"/>
+					<Prp name="object left" type="I" value="157"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="129"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnYes"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636761574"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="39"/>
+			<Prp name="line no" type="I" value="39"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnYes&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;AutoSPRINK 2023&quot;, 1).Window(&quot;Button&quot;, &quot;&amp;Yes&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 38">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="38"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2215_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136714236"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="38"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2215.png"/>
+					<Prp name="object top" type="I" value="80"/>
+					<Prp name="click point x" type="I" value="516"/>
+					<Prp name="object bottom" type="I" value="103"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object left" type="I" value="424"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="91"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnDeleteSelected"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7144097222"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="38"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi420528515106121.png"/>
+					<Prp name="object top" type="I" value="80"/>
+					<Prp name="click point x" type="I" value="500"/>
+					<Prp name="object bottom" type="I" value="103"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object left" type="I" value="424"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="88"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnDeleteSelected"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636726736"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="38"/>
+			<Prp name="line no" type="I" value="38"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnDeleteSelected&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Delete Selected&quot;, 3))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2189_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134852315"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2189.png"/>
+					<Prp name="object top" type="I" value="80"/>
+					<Prp name="click point x" type="I" value="317"/>
+					<Prp name="object bottom" type="I" value="103"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="409"/>
+					<Prp name="object left" type="I" value="226"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="91"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnSaveProfileAs"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6927662037"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi41865815655449.png"/>
+					<Prp name="object top" type="I" value="80"/>
+					<Prp name="click point x" type="I" value="379"/>
+					<Prp name="object bottom" type="I" value="103"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="409"/>
+					<Prp name="object left" type="I" value="226"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="91"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnSaveProfileAs"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634864468"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnSaveProfileAs&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Save Profile As...&quot;, 2))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 18">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="18"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2197_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135249421"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="18"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2197.png"/>
+					<Prp name="object top" type="I" value="54"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="75"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="133"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ComboBox"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6932523148"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="18"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418700343554424.png"/>
+					<Prp name="object top" type="I" value="54"/>
+					<Prp name="click point x" type="I" value="-1108"/>
+					<Prp name="object bottom" type="I" value="75"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="133"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-83"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ComboBox"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635281829"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="18"/>
+			<Prp name="line no" type="I" value="18"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ComboBox&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The combo box item 'TEST' was selected."/>
+		</Node>
+		<Node name="message 10">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2191_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.713489838"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2191.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6928125"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi4186599375544101.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-848"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-473"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634912963"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="line no" type="I" value="10"/>
+			<Prp name="remarks" type="S" value="'[Enter]' was sent as a keyboard input to the following window or control.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Save Profile As...&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="Keyboard input."/>
+		</Node>
+		<Node name="message 13">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2193_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134989236"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2193.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6929398148"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418673703554412.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-848"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-473"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634999421"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="13"/>
+			<Prp name="line no" type="I" value="13"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Save Profile As...&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The text 'TEST1' was entered in the text editor."/>
+		</Node>
+		<Node name="message 23">
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635563426"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="23"/>
+			<Prp name="line no" type="I" value="23"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{CE7DA89B-6BE3-4161-9C41-8D06A29234F6}&quot;&gt; Click here to show or modify data of the checkpoint &quot;Export_AllPartProfileSettings_Check&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture747.png;Picture748.png;Picture749.png"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;Export_AllPartProfileSettings_Check&quot; passed."/>
+		</Node>
+		<Node name="message 36">
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636640509"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="36"/>
+			<Prp name="line no" type="I" value="36"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{7415F664-94ED-43F4-B4CB-5CBB1475BD75}&quot;&gt; Click here to show or modify data of the checkpoint &quot;Exports_SinglePartProfileSettings_Check&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture750.png;Picture751.png;Picture752.png"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;Exports_SinglePartProfileSettings_Check&quot; passed."/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2187_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134792477"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2187.png"/>
+					<Prp name="object top" type="I" value="801"/>
+					<Prp name="click point x" type="I" value="171"/>
+					<Prp name="object bottom" type="I" value="824"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="315"/>
+					<Prp name="object left" type="I" value="28"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="812"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnAdd"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7135763889"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi420456593106123.png"/>
+					<Prp name="object top" type="I" value="801"/>
+					<Prp name="click point x" type="I" value="168"/>
+					<Prp name="object bottom" type="I" value="824"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="315"/>
+					<Prp name="object left" type="I" value="28"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="809"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnAdd"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634805671"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnAdd&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Add&quot;, 9))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 45">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="45"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2221_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.713717581"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="45"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2221.png"/>
+					<Prp name="object top" type="I" value="109"/>
+					<Prp name="click point x" type="I" value="120"/>
+					<Prp name="object bottom" type="I" value="132"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="211"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="120"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnImportProfiles"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45194.8126273148"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="45"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi25849645386560.png"/>
+					<Prp name="object top" type="I" value="109"/>
+					<Prp name="click point x" type="I" value="137"/>
+					<Prp name="object bottom" type="I" value="132"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="211"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="124"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnImportProfiles"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4637187732"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="45"/>
+			<Prp name="line no" type="I" value="45"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnImportProfiles&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Import Profiles&quot;, 4))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2183_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134680787"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2183.png"/>
+					<Prp name="object top" type="I" value="80"/>
+					<Prp name="click point x" type="I" value="120"/>
+					<Prp name="object bottom" type="I" value="103"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="211"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="91"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnNewProfile"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6926157407"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi41864492155447.png"/>
+					<Prp name="object top" type="I" value="80"/>
+					<Prp name="click point x" type="I" value="147"/>
+					<Prp name="object bottom" type="I" value="103"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="211"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="94"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnNewProfile"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634693982"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnNewProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;New Profile&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 26">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="26"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2204_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135679398"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="26"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2204.png"/>
+					<Prp name="object top" type="I" value="119"/>
+					<Prp name="click point x" type="I" value="194"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="232"/>
+					<Prp name="object left" type="I" value="157"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="130"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnYes"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6939467593"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="26"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418759875554473.png"/>
+					<Prp name="object top" type="I" value="119"/>
+					<Prp name="click point x" type="I" value="212"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="232"/>
+					<Prp name="object left" type="I" value="157"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="132"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnYes"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635692824"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="26"/>
+			<Prp name="line no" type="I" value="26"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnYes&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;AutoSPRINK 2023&quot;, 1).Window(&quot;Button&quot;, &quot;&amp;Yes&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2185_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134728241"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2185.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.692662037"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418646671554481.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-848"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-473"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634749537"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="remarks" type="S" value="'[Enter]' was sent as a keyboard input to the following window or control.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Save Profile As...&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="Keyboard input."/>
+		</Node>
+		<Node name="message 20">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="20"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2199_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135319444"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="20"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2199.png"/>
+					<Prp name="object top" type="I" value="181"/>
+					<Prp name="click point x" type="I" value="131"/>
+					<Prp name="object bottom" type="I" value="204"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="169"/>
+					<Prp name="object left" type="I" value="94"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="192"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportProfilesAs.btnOK"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6935185185"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="20"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418723437554430.png"/>
+					<Prp name="object top" type="I" value="181"/>
+					<Prp name="click point x" type="I" value="129"/>
+					<Prp name="object bottom" type="I" value="204"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="169"/>
+					<Prp name="object left" type="I" value="94"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="190"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportProfilesAs.btnOK"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635332176"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="20"/>
+			<Prp name="line no" type="I" value="20"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgExportProfilesAs.btnOK&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Export Profiles As...&quot;, 1).Window(&quot;Button&quot;, &quot;OK&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 25">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="25"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2203_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135647917"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="25"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2203.png"/>
+					<Prp name="object top" type="I" value="80"/>
+					<Prp name="click point x" type="I" value="516"/>
+					<Prp name="object bottom" type="I" value="103"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object left" type="I" value="424"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="91"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnDeleteSelected"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.693912037"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="25"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418756968554471.png"/>
+					<Prp name="object top" type="I" value="80"/>
+					<Prp name="click point x" type="I" value="525"/>
+					<Prp name="object bottom" type="I" value="103"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="609"/>
+					<Prp name="object left" type="I" value="424"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="95"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnDeleteSelected"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635660995"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="25"/>
+			<Prp name="line no" type="I" value="25"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnDeleteSelected&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Delete Selected&quot;, 3))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 17">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="17"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2196_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135161458"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="17"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2196.png"/>
+					<Prp name="object top" type="I" value="119"/>
+					<Prp name="click point x" type="I" value="200"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="238"/>
+					<Prp name="object left" type="I" value="163"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="130"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnYes"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6931712963"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="17"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418693031554418.png"/>
+					<Prp name="object top" type="I" value="119"/>
+					<Prp name="click point x" type="I" value="205"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="238"/>
+					<Prp name="object left" type="I" value="163"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="128"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnYes"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635172801"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="17"/>
+			<Prp name="line no" type="I" value="17"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnYes&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;AutoSPRINK 2023&quot;, 1).Window(&quot;Button&quot;, &quot;&amp;Yes&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 12">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2192_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134970833"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2192.png"/>
+					<Prp name="object top" type="I" value="119"/>
+					<Prp name="click point x" type="I" value="366"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="404"/>
+					<Prp name="object left" type="I" value="329"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="130"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnOK"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6929166667"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418671734554411.png"/>
+					<Prp name="object top" type="I" value="119"/>
+					<Prp name="click point x" type="I" value="351"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="404"/>
+					<Prp name="object left" type="I" value="329"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="130"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnOK"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634982292"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="line no" type="I" value="12"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnOK&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;AutoSPRINK 2023&quot;, 1).Window(&quot;Button&quot;, &quot;OK&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 34">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="34"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2212_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136389468"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="34"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2212.png"/>
+					<Prp name="object top" type="I" value="921"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="938"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1140"/>
+					<Prp name="object left" type="I" value="136"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox.Edit"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7025810185"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="34"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi4195038431061263.png"/>
+					<Prp name="object top" type="I" value="921"/>
+					<Prp name="click point x" type="I" value="-748"/>
+					<Prp name="object bottom" type="I" value="938"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1140"/>
+					<Prp name="object left" type="I" value="136"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox.Edit"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636413657"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="34"/>
+			<Prp name="line no" type="I" value="34"/>
+			<Prp name="remarks" type="S" value="'[Enter]' was sent as a keyboard input to the following window or control.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Export parts profile...&quot;, 1).Window(&quot;DUIViewWndClassName&quot;, &quot;&quot;, 1).UIAObject(&quot;Explorer_Pane&quot;).Window(&quot;FloatNotifySink&quot;, &quot;&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="Keyboard input."/>
+		</Node>
+		<Node name="message 14">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2194_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135007176"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2194.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6929513889"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi4186737035544121.png"/>
+					<Prp name="object top" type="I" value="60"/>
+					<Prp name="click point x" type="I" value="-848"/>
+					<Prp name="object bottom" type="I" value="83"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="381"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-473"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635024884"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="14"/>
+			<Prp name="line no" type="I" value="14"/>
+			<Prp name="remarks" type="S" value="'[Enter]' was sent as a keyboard input to the following window or control.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgSaveProfileAs.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Save Profile As...&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="Keyboard input."/>
+		</Node>
+		<Node name="message 22">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="22"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2201_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135503356"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="22"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2201.png"/>
+					<Prp name="object top" type="I" value="921"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="938"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1140"/>
+					<Prp name="object left" type="I" value="136"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox.Edit"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6938541667"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="22"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418749562554469.png"/>
+					<Prp name="object top" type="I" value="921"/>
+					<Prp name="click point x" type="I" value="-748"/>
+					<Prp name="object bottom" type="I" value="938"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1140"/>
+					<Prp name="object left" type="I" value="136"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox.Edit"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635528819"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="22"/>
+			<Prp name="line no" type="I" value="22"/>
+			<Prp name="remarks" type="S" value="'[Enter]' was sent as a keyboard input to the following window or control.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox.Edit&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Export parts profile...&quot;, 1).Window(&quot;DUIViewWndClassName&quot;, &quot;&quot;, 1).UIAObject(&quot;Explorer_Pane&quot;).Window(&quot;FloatNotifySink&quot;, &quot;&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="Keyboard input."/>
+		</Node>
+		<Node name="message 27">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2205_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135743519"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2205.png"/>
+					<Prp name="object top" type="I" value="109"/>
+					<Prp name="click point x" type="I" value="120"/>
+					<Prp name="object bottom" type="I" value="132"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="211"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="120"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnImportProfiles"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6939699074"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418762031554475.png"/>
+					<Prp name="object top" type="I" value="109"/>
+					<Prp name="click point x" type="I" value="143"/>
+					<Prp name="object bottom" type="I" value="132"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="211"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="121"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnImportProfiles"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635756019"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="27"/>
+			<Prp name="line no" type="I" value="27"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnImportProfiles&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Import Profiles&quot;, 4))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2186_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134764699"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2186.png"/>
+					<Prp name="object top" type="I" value="579"/>
+					<Prp name="click point x" type="I" value="501"/>
+					<Prp name="object bottom" type="I" value="799"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="607"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ListView"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7135300926"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi420452656106121.png"/>
+					<Prp name="object top" type="I" value="579"/>
+					<Prp name="click point x" type="I" value="308"/>
+					<Prp name="object bottom" type="I" value="799"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="605"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ListView"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634782407"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.ListView&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;SysListView32&quot;, &quot;&quot;, 2))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The list view item (0, 'Slip-On Plastic Cap, CPVC') was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 16">
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635158333"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="16"/>
+			<Prp name="line no" type="I" value="16"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{1EEB6E83-8C94-4E8F-B046-FFECC2CD7F72}&quot;&gt; Click here to show or modify data of the checkpoint &quot;Delete_PartsProfile_Check&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value="Picture744.png;Picture745.png;Picture746.png"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;Delete_PartsProfile_Check&quot; passed."/>
+		</Node>
+		<Node name="message 31">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="31"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2209_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136156019"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="31"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2209.png"/>
+					<Prp name="object top" type="I" value="83"/>
+					<Prp name="click point x" type="I" value="104"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="179"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="91"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportProfilesAs.radio"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7020949074"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="31"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi419463593106128.png"/>
+					<Prp name="object top" type="I" value="83"/>
+					<Prp name="click point x" type="I" value="40"/>
+					<Prp name="object bottom" type="I" value="99"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="179"/>
+					<Prp name="object left" type="I" value="29"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="90"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportProfilesAs.radio"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4636168171"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="31"/>
+			<Prp name="line no" type="I" value="31"/>
+			<Prp name="remarks" type="S" value="The control state has been changed to 'checked'.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgExportProfilesAs.radio&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Export Profiles As...&quot;, 1).Window(&quot;Button&quot;, &quot;Export the current profile.&quot;, 4))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The radio button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 46">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="46"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2222_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7137338889"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="46"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2222.png"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1173"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgImportPartsProfile"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45194.8126736111"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="46"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi25849995386565.png"/>
+					<Prp name="object top" type="I" value="182"/>
+					<Prp name="click point x" type="I" value="411"/>
+					<Prp name="object bottom" type="I" value="204"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="522"/>
+					<Prp name="object left" type="I" value="286"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="194"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgImportPartsProfile"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4637416551"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="46"/>
+			<Prp name="line no" type="I" value="46"/>
+			<Prp name="remarks" type="S" value="The file 'C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Settings\FAB Standards - Export Single Part Profile Settings.aspp' was opened as a 'AutoSPRINK Parts Profiles (*.aspp)' file.&#xA;&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgImportPartsProfile&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Import parts profile...&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The file 'FAB Standards - Export Single Part Profile Settings.aspp' was selected in the Open dialog."/>
+		</Node>
+		<Node name="message 21">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="21"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2200_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.713547662"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="21"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2200.png"/>
+					<Prp name="object top" type="I" value="918"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="941"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1160"/>
+					<Prp name="object left" type="I" value="133"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6937384259"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="21"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418742234554459.png"/>
+					<Prp name="object top" type="I" value="921"/>
+					<Prp name="click point x" type="I" value="-748"/>
+					<Prp name="object bottom" type="I" value="938"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="1140"/>
+					<Prp name="object left" type="I" value="136"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635494792"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="21"/>
+			<Prp name="line no" type="I" value="21"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgExportPartsProfile.DUIViewWndClassName.Explorer_Pane.FloatNotifySink.ComboBox&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Export parts profile...&quot;, 1).Window(&quot;DUIViewWndClassName&quot;, &quot;&quot;, 1).UIAObject(&quot;Explorer_Pane&quot;).Window(&quot;FloatNotifySink&quot;, &quot;&quot;, 1).Window(&quot;ComboBox&quot;, &quot;&quot;, 1))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The text 'FAB Standards - Export All Part Profile Settings' was entered in the combo box editor."/>
+		</Node>
+		<Node name="message 0">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134026042"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2181.png"/>
+					<Prp name="object top" type="I" value="46"/>
+					<Prp name="click point x" type="I" value="32"/>
+					<Prp name="object bottom" type="I" value="92"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="687"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="69"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx.Item"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634040278"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (23, 21) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.UI.Item&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - Drawing3 - [Drawing3]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 1).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;0&quot;, 16))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="Toolbar button 'New Drawing' was clicked."/>
+		</Node>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2188_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7134815856"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2188.png"/>
+					<Prp name="object top" type="I" value="836"/>
+					<Prp name="click point x" type="I" value="458"/>
+					<Prp name="object bottom" type="I" value="859"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="521"/>
+					<Prp name="object left" type="I" value="396"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="847"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnSaveChanges"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7136458333"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi420462609106125.png"/>
+					<Prp name="object top" type="I" value="836"/>
+					<Prp name="click point x" type="I" value="477"/>
+					<Prp name="object bottom" type="I" value="859"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="521"/>
+					<Prp name="object left" type="I" value="396"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="844"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnSaveChanges"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4634829051"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnSaveChanges&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Save Changes&quot;, 16))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 30">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2208_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7136126505"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2208.png"/>
+					<Prp name="object top" type="I" value="109"/>
+					<Prp name="click point x" type="I" value="317"/>
+					<Prp name="object bottom" type="I" value="132"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="409"/>
+					<Prp name="object left" type="I" value="226"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="120"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnExportProfiles"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7020486111"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi419460406106127.png"/>
+					<Prp name="object top" type="I" value="109"/>
+					<Prp name="click point x" type="I" value="295"/>
+					<Prp name="object bottom" type="I" value="132"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="409"/>
+					<Prp name="object left" type="I" value="226"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="120"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnExportProfiles"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.463613912"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="30"/>
+			<Prp name="line no" type="I" value="30"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnExportProfiles&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Export Profiles&quot;, 5))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 48">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="48"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2223_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7137461111"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="48"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2223.png"/>
+					<Prp name="object top" type="I" value="836"/>
+					<Prp name="click point x" type="I" value="568"/>
+					<Prp name="object bottom" type="I" value="859"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="528"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="847"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnClose"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.7149537037"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="48"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi4205754531061213.png"/>
+					<Prp name="object top" type="I" value="836"/>
+					<Prp name="click point x" type="I" value="565"/>
+					<Prp name="object bottom" type="I" value="859"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="608"/>
+					<Prp name="object left" type="I" value="528"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="845"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnClose"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.463747338"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="48"/>
+			<Prp name="line no" type="I" value="48"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnClose&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Close&quot;, 17))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 19">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="19"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2198_Dif.png"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="datetime" type="D" value="45219.7135291088"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="19"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="visImage2198.png"/>
+					<Prp name="object top" type="I" value="109"/>
+					<Prp name="click point x" type="I" value="317"/>
+					<Prp name="object bottom" type="I" value="132"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="409"/>
+					<Prp name="object left" type="I" value="226"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="120"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnExportProfiles"/>
+				</Node>
+				<Node name="original">
+					<Prp name="datetime" type="D" value="45187.6932986111"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="line #" type="I" value="19"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="image file name" type="S" value="tcvi418704125554426.png"/>
+					<Prp name="object top" type="I" value="109"/>
+					<Prp name="click point x" type="I" value="318"/>
+					<Prp name="object bottom" type="I" value="132"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object right" type="I" value="409"/>
+					<Prp name="object left" type="I" value="226"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point y" type="I" value="124"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnExportProfiles"/>
+				</Node>
+			</Node>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="date" type="D" value="45219.4635302894"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="id" type="I" value="19"/>
+			<Prp name="line no" type="I" value="19"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.dlgManagePartsProfiles.btnExportProfiles&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Manage Parts Profiles&quot;, 1).Window(&quot;Button&quot;, &quot;Export Profiles&quot;, 5))"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>

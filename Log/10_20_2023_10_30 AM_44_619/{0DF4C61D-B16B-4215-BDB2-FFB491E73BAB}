@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row4">
+				<Prp name="name" type="S" value="Step 5_Start Page Settings [KeywordTests - _5_StartPageSettings]"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="details" type="S" value="{F2FE8A58-8870-49CA-A6F4-579CEA872CD7}"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.4638948032"/>
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="end time" type="D" value="45219.4645342014"/>
+			</Node>
+			<Node name="row1">
+				<Prp name="name" type="S" value="Step 2_.aspg File Test (Pipe Group Settings) [KeywordTests - _2_PipeGroupSettings_aspgFile]"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="details" type="S" value="{F5E41B4E-613C-4929-BDFF-A0F85FD11F2F}"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.4625143634"/>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="end time" type="D" value="45219.4633996875"/>
+			</Node>
+			<Node name="row2">
+				<Prp name="name" type="S" value="Step 3_.aspp File Test (Part Profile Settings) [KeywordTests - _3_PartProfileSettings_asppFile]"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="details" type="S" value="{8BF3ADCB-D6C3-4C41-B8B7-567A256C3E47}"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.4633998148"/>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="end time" type="D" value="45219.4637505903"/>
+			</Node>
+			<Node name="row0">
+				<Prp name="name" type="S" value="Step 1_.ashp File Test (Hanger Assembly Settings) [KeywordTests - _1_HangerAssemblySettings_ashpFile]"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="details" type="S" value="{20310C5A-98DF-466D-9849-4EAF0290BB9A}"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.4622451389"/>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="end time" type="D" value="45219.462514213"/>
+			</Node>
+			<Node name="row3">
+				<Prp name="name" type="S" value="Step 4_.lys File Test (Layer State Settings) [KeywordTests - _4_LayerStateSettings_lysFile]"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="details" type="S" value="{5AB44CB0-EA15-40B5-AF44-09586B4E72F7}"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.4637507292"/>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="end time" type="D" value="45219.4638946644"/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

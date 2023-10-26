@@ -67,5 +67,8 @@
 		<child name="PlotPrint_SheetPDF_Check_Mask" key="{D1E0AB2F-851F-45A2-B421-D72FCFDB1E03}">
 			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PlotPrint_SheetPDF_Check_Mask" ID="{D1E0AB2F-851F-45A2-B421-D72FCFDB1E03}" FileName="Regions\PlotPrint_SheetPDF_Check_Mask.png" Update="False" />
 		</child>
+		<child name="Plot_PrintWindow_Check_Mask2" key="{3851BA08-4226-40DB-A658-B3166801B56F}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Plot_PrintWindow_Check_Mask2" ID="{3851BA08-4226-40DB-A658-B3166801B56F}" FileName="Regions\Plot_PrintWindow_Check_Mask2.png" Update="False" />
+		</child>
 	</children>
 </Root>

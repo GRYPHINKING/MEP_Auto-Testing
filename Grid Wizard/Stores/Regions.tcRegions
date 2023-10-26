@@ -184,5 +184,17 @@
 		<child name="LayerPaneWidth_Check_Mask" key="{3DD51CE1-3696-4DAC-9955-B51EC13D3EEC}">
 			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="LayerPaneWidth_Check_Mask" ID="{3DD51CE1-3696-4DAC-9955-B51EC13D3EEC}" FileName="Regions\LayerPaneWidth_Check_Mask.png" Update="False" />
 		</child>
+		<child name="Help_About" key="{64F34966-E0FB-4BD7-8BD6-FF25C2374AB9}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Help_About" ID="{64F34966-E0FB-4BD7-8BD6-FF25C2374AB9}" FileName="Regions\Help_About.png" Update="False" />
+		</child>
+		<child name="Help_About_Mask" key="{D4E6FCDA-BD18-4219-B5F1-4FD990136442}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Help_About_Mask" ID="{D4E6FCDA-BD18-4219-B5F1-4FD990136442}" FileName="Regions\Help_About_Mask.png" Update="False" />
+		</child>
+		<child name="Resources_StartScreen" key="{2B0FB090-AF7F-436E-8CB7-0038BDD27E08}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Resources_StartScreen" ID="{2B0FB090-AF7F-436E-8CB7-0038BDD27E08}" FileName="Regions\Resources_StartScreen.png" Update="False" />
+		</child>
+		<child name="Resources_StartScreen_Mask" key="{3860965B-EEEF-4E6A-A13C-72FF36C209B5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Resources_StartScreen_Mask" ID="{3860965B-EEEF-4E6A-A13C-72FF36C209B5}" FileName="Regions\Resources_StartScreen_Mask.png" Update="False" />
+		</child>
 	</children>
 </Root>

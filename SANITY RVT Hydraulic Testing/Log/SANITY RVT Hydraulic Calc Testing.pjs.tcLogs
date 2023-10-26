@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="folders"/>
+		<Node name="logs">
+			<Node name="log idx=0000">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45219.5407536111"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{48791D6A-E544-440C-AE0E-B00E13F20F05}"/>
+				<Prp name="nameofroot" type="S" value="SANITY RVT Hydraulic Calc Testing"/>
+				<Prp name="relpath" type="S" value="10_20_2023_12_58 PM_41_112\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0001">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45225.4874912731"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{9E92A7E5-74B3-4363-A391-232160BE6D9A}"/>
+				<Prp name="nameofroot" type="S" value="SANITY RVT Hydraulic Calc Testing"/>
+				<Prp name="relpath" type="S" value="10_26_2023_11_41 AM_59_246\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0002">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45225.5066028009"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{8F853CC5-DD05-4CC7-83C0-20D4F706932A}"/>
+				<Prp name="nameofroot" type="S" value="SANITY RVT Hydraulic Calc Testing"/>
+				<Prp name="relpath" type="S" value="10_26_2023_12_09 PM_30_483\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{6511DB44-2372-47B8-8349-ADA0DB4D9E14}"/>
+		<Prp name="version" type="S" value="11.0"/>
+	</Node>
+</Nodes>

@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{A3EE3DE0-A8B9-44DE-B987-4050960C8B29}"/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage2272_Dif.png"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1856"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="1328"/>
+					<Prp name="object left" type="I" value="769"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="visImage2272.png"/>
+					<Prp name="datetime" type="D" value="45219.7146341088"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1009"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1883"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="1248"/>
+					<Prp name="object left" type="I" value="699"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="tcvi491270387040.png"/>
+					<Prp name="datetime" type="D" value="45198.661875"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1003"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4646355093"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="Toolbar button 11 was clicked."/>
+			<Prp name="remarks" type="S" value="A click at point (550, 21) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - Drawing1 - [Drawing1]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 3).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;View Rotator&quot;, 4))"/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage2274_Dif.png"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1853"/>
+					<Prp name="object bottom" type="I" value="92"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="719"/>
+					<Prp name="object left" type="I" value="687"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="46"/>
+					<Prp name="image file name" type="S" value="visImage2274.png"/>
+					<Prp name="datetime" type="D" value="45219.7146388426"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx.Item2"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="69"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1804"/>
+					<Prp name="object bottom" type="I" value="92"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="632"/>
+					<Prp name="object left" type="I" value="594"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="46"/>
+					<Prp name="image file name" type="S" value="tcvi478843787045.png"/>
+					<Prp name="datetime" type="D" value="45198.6604282407"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx.Item2"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="64"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4646402431"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The toolbar button 'Cleanup Intersections' was checked."/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.Afx.Item4&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - C:\\Users\\B.Chambers\\Desktop\\AutomationTesting\\SmokeTesting\\SPRINK Smoke Testing Files\\Complete Grid Wizard.cad - [Complete Grid Wi]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 1).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;1&quot;, 17))"/>
+		</Node>
+		<Node name="message 9">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage2275_Dif.png"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1856"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="933"/>
+					<Prp name="object left" type="I" value="769"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="visImage2275.png"/>
+					<Prp name="datetime" type="D" value="45219.7146428588"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1009"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1883"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="869"/>
+					<Prp name="object left" type="I" value="699"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="tcvi479162587046.png"/>
+					<Prp name="datetime" type="D" value="45198.660474537"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1005"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.464644375"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="line no" type="I" value="10"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="Toolbar button 'Deselect All' was clicked."/>
+			<Prp name="remarks" type="S" value="A click at point (155, 21) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - Drawing1 - [Drawing1]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 3).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;View Rotator&quot;, 4))"/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage2267_Dif.png"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1173"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage2267.png"/>
+					<Prp name="datetime" type="D" value="45219.714553044"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgOpen"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="522"/>
+					<Prp name="object bottom" type="I" value="173"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="335"/>
+					<Prp name="object left" type="I" value="286"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="151"/>
+					<Prp name="image file name" type="S" value="tcvi457023487046.png"/>
+					<Prp name="datetime" type="D" value="45198.6579050926"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.dlgOpen"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="159"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4645644213"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The file 'Outlet Issues.cad' was selected in the Open dialog."/>
+			<Prp name="remarks" type="S" value="The file 'C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Files\Outlet Issues.cad' was opened as a 'CAD Drawings (*.cad)' file.&#xA;&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.dlgOpen&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;#32770&quot;, &quot;Open&quot;, 1))"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 10">
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4646532986"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="line no" type="I" value="11"/>
+			<Prp name="picture" type="S" value="Picture798.png;Picture799.png;Picture800.png"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The region checkpoint &quot;AutoOutlet_CleanUpInt_Check&quot; passed."/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;projectnode://{D243B734-B40E-4B80-B4EB-2C7FE8372BFE}&quot;&gt; Click here to show or modify data of the checkpoint &quot;AutoOutlet_CleanUpInt_Check&quot;. &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/body&gt;&lt;/html&gt;"/>
+		</Node>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage2271_Dif.png"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1856"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="1108"/>
+					<Prp name="object left" type="I" value="769"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="visImage2271.png"/>
+					<Prp name="datetime" type="D" value="45219.7146260417"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1009"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1883"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="1032"/>
+					<Prp name="object left" type="I" value="699"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="tcvi478348487043.png"/>
+					<Prp name="datetime" type="D" value="45198.6603703704"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1003"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4646331018"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="Toolbar button 6 was clicked."/>
+			<Prp name="remarks" type="S" value="A click at point (330, 21) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - Drawing1 - [Drawing1]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 3).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;View Rotator&quot;, 4))"/>
+		</Node>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage2273_Dif.png"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1856"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="889"/>
+					<Prp name="object left" type="I" value="769"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="visImage2273.png"/>
+					<Prp name="datetime" type="D" value="45219.7146364583"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1009"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1883"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="818"/>
+					<Prp name="object left" type="I" value="699"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="tcvi478620387044.png"/>
+					<Prp name="datetime" type="D" value="45198.6604050926"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1005"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4646379051"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="Toolbar button 'All' was clicked."/>
+			<Prp name="remarks" type="S" value="A click at point (111, 21) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - Drawing1 - [Drawing1]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 3).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;View Rotator&quot;, 4))"/>
+		</Node>
+		<Node name="message 0">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage2266_Dif.png"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="687"/>
+					<Prp name="object bottom" type="I" value="92"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="76"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="46"/>
+					<Prp name="image file name" type="S" value="visImage2266.png"/>
+					<Prp name="datetime" type="D" value="45219.7145368519"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx.Item"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="69"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="594"/>
+					<Prp name="object bottom" type="I" value="92"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="83"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="line #" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="46"/>
+					<Prp name="image file name" type="S" value="tcvi456409387041.png"/>
+					<Prp name="datetime" type="D" value="45198.6578356481"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx.Item"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="64"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4645383218"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="Toolbar button 'Open...' was clicked."/>
+			<Prp name="remarks" type="S" value="A click at point (67, 21) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.UI.Item&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - Drawing3 - [Drawing3]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 1).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;0&quot;, 16))"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage2268_Dif.png"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1856"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="1768"/>
+					<Prp name="object left" type="I" value="769"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="visImage2268.png"/>
+					<Prp name="datetime" type="D" value="45219.7146124421"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1009"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1883"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="1692"/>
+					<Prp name="object left" type="I" value="699"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="tcvi477912587040.png"/>
+					<Prp name="datetime" type="D" value="45198.6603240741"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1013"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4646139583"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="The toolbar button 21 was checked."/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - Drawing1 - [Drawing1]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 3).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;View Rotator&quot;, 4))"/>
+		</Node>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage2269_Dif.png"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1856"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="1108"/>
+					<Prp name="object left" type="I" value="769"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="visImage2269.png"/>
+					<Prp name="datetime" type="D" value="45219.7146151968"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1009"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1883"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="1032"/>
+					<Prp name="object left" type="I" value="699"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="tcvi478107887041.png"/>
+					<Prp name="datetime" type="D" value="45198.6603472222"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1003"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4646166551"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="Toolbar button 6 was clicked."/>
+			<Prp name="remarks" type="S" value="A click at point (330, 21) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - Drawing1 - [Drawing1]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 3).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;View Rotator&quot;, 4))"/>
+		</Node>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage2270_Dif.png"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1856"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="1108"/>
+					<Prp name="object left" type="I" value="769"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="visImage2270.png"/>
+					<Prp name="datetime" type="D" value="45219.7146176273"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1009"/>
+				</Node>
+				<Node name="original">
+					<Prp name="object right" type="I" value="1883"/>
+					<Prp name="object bottom" type="I" value="1032"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="click point x" type="I" value="1032"/>
+					<Prp name="object left" type="I" value="699"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object top" type="I" value="986"/>
+					<Prp name="image file name" type="S" value="tcvi478159387042.png"/>
+					<Prp name="datetime" type="D" value="45198.6603472222"/>
+					<Prp name="object name" type="S" value="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="1003"/>
+				</Node>
+			</Node>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="45219.4646252431"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="message" type="S" value="Toolbar button 6 was double-clicked."/>
+			<Prp name="remarks" type="S" value="A click at point (330, 21) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator&#xA;(Sys.Process(&quot;AutoSPRINKx64&quot;).Window(&quot;Afx:0000000000400000:8:0000000000010003:0000000000000000:00000000015A1F7F&quot;, &quot;AutoSPRINK® 2023 Platinum - Drawing1 - [Drawing1]&quot;, 1).Window(&quot;Afx:DockPane:400000:8:10003:10&quot;, &quot;&quot;, 3).Window(&quot;Afx:ToolBar:400000:8:10003:10&quot;, &quot;View Rotator&quot;, 4))"/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>

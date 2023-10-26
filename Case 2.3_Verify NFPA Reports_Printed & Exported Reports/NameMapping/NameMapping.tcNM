@@ -4818,7 +4818,6 @@
 																		<Children>
 																			<Child Name="toolbar" Key="{F3C21D1B-82BD-4400-A54A-5976EEB767F4}">
 																				<Image FileName="1434789612" Left="152" Top="41" Right="864" Bottom="75" />
-																				<TypeInfo Item0="{15D89926-1D50-42C5-A58B-25C9C2A6CDCC}" />
 																				<Properties>
 																					<Property Name="WndClass">
 																						<Value Value="ToolbarWindow32" />
@@ -4845,7 +4844,6 @@
 																				<Children>
 																					<Child Name="Edit" Key="{370BE0C3-7B27-4B4A-B70A-FE8AFABE0161}">
 																						<Image FileName="-353358721" Left="170" Top="51" Right="864" Bottom="66" />
-																						<TypeInfo Item0="{4F6AE4F3-2485-4B05-9E8D-E2B69CD22CC8}" />
 																						<Properties>
 																							<Property Name="WndClass">
 																								<Value Value="Edit" />
@@ -10341,9 +10339,6 @@
 							<Child Name="dlgSaveAs" Key="{C46ADCCE-5CA9-42AE-B4A9-E84FFD57F229}">
 								<Image FileName="113019463" Left="0" Top="0" Right="960" Bottom="540" />
 								<Properties>
-									<Property Name="WndClass">
-										<Value Value="#32770" />
-									</Property>
 									<Property Name="WndCaption">
 										<Value Value="Save As" />
 									</Property>
@@ -10404,7 +10399,6 @@
 																<Children>
 																	<Child Name="tvNamespaceTreeControl" Key="{EC482DD4-497B-4149-8C26-BE5A9D2F4C2B}">
 																		<Image FileName="113019463" Left="10" Top="117" Right="340" Bottom="415" />
-																		<TypeInfo Item0="{70CFA53A-BA2E-4EC2-B755-4A8FB14CB4A0}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="SysTreeView32" />
@@ -10442,7 +10436,6 @@
 																<Children>
 																	<Child Name="Edit" Key="{8903B53D-90B3-46A8-BEA1-DC91606E5B94}">
 																		<Image FileName="1563710317" Left="136" Top="429" Right="927" Bottom="446" />
-																		<TypeInfo Item0="{4F6AE4F3-2485-4B05-9E8D-E2B69CD22CC8}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="Edit" />
@@ -10472,7 +10465,6 @@
 														<Children>
 															<Child Name="Organize" Key="{D89067F5-4455-40F5-A333-516C421745C4}">
 																<Image FileName="-1982742014" Left="11" Top="88" Right="102" Bottom="114" />
-																<TypeInfo Item0="{2730D2D0-F641-456B-83DB-AE09553AF266}" />
 																<Properties>
 																	<Property Name="FrameworkId">
 																		<Value Value="DirectUI" />
@@ -10537,7 +10529,6 @@
 																		<Children>
 																			<Child Name="a_StockListing_Print_CoverSheet_pdf" Key="{2CA3B19D-406D-4006-AAD2-177B2EEF2735}">
 																				<Image FileName="-450297983" Left="358" Top="148" Right="956" Bottom="175" />
-																				<TypeInfo Item0="{2730D2D0-F641-456B-83DB-AE09553AF266}" />
 																				<Properties>
 																					<Property Name="FrameworkId">
 																						<Value Value="DirectUI" />
@@ -10572,7 +10563,6 @@
 																				<Children>
 																					<Child Name="Name" Key="{48910018-331B-4068-A4E9-93A1152F4ACF}">
 																						<Image FileName="-877914785" Left="344" Top="117" Right="616" Bottom="142" />
-																						<TypeInfo Item0="{2730D2D0-F641-456B-83DB-AE09553AF266}" />
 																						<Properties>
 																							<Property Name="FrameworkId">
 																								<Value Value="DirectUI" />
@@ -10642,7 +10632,6 @@
 																		<Children>
 																			<Child Name="toolbar" Key="{B141D340-C6D7-4955-BCCF-178056D15F79}">
 																				<Image FileName="-2141645621" Left="152" Top="41" Right="651" Bottom="75" />
-																				<TypeInfo Item0="{15D89926-1D50-42C5-A58B-25C9C2A6CDCC}" />
 																				<Properties>
 																					<Property Name="WndClass">
 																						<Value Value="ToolbarWindow32" />
@@ -10669,7 +10658,6 @@
 																				<Children>
 																					<Child Name="Edit" Key="{3C0F143D-7FB4-4964-B77E-70C48E2E66F5}">
 																						<Image FileName="1021315537" Left="170" Top="51" Right="651" Bottom="66" />
-																						<TypeInfo Item0="{4F6AE4F3-2485-4B05-9E8D-E2B69CD22CC8}" />
 																						<Properties>
 																							<Property Name="WndClass">
 																								<Value Value="Edit" />
@@ -10730,7 +10718,6 @@
 																				<Children>
 																					<Child Name="Search_Box" Key="{05AF01D0-610E-432A-A3D1-73BCEA689801}">
 																						<Image FileName="-1041124970" Left="744" Top="50" Right="902" Bottom="65" />
-																						<TypeInfo Item0="{2730D2D0-F641-456B-83DB-AE09553AF266}" />
 																						<Properties>
 																							<Property Name="FrameworkId">
 																								<Value Value="DirectUI" />
@@ -10757,6 +10744,18 @@
 												</Children>
 											</Child>
 										</Children>
+									</Child>
+									<Child Name="btnSave" Key="{4F48B8CD-A1DD-4144-9481-C3B42B6E0980}">
+										<Image FileName="1852481481" Left="747" Top="494" Right="835" Bottom="520" />
+										<TypeInfo Item0="{A88AB66D-B249-43C1-B7A6-A2D0E5188BA7}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Save" />
+											</Property>
+										</Properties>
 									</Child>
 								</Children>
 							</Child>
@@ -10785,7 +10784,6 @@
 								<Children>
 									<Child Name="Chrome_RenderWidgetHostHWND" Key="{049F339C-76FF-457B-8B79-7BCAA3FF57D0}">
 										<Image FileName="-691737286" Left="0" Top="0" Right="304" Bottom="247" />
-										<TypeInfo Item0="{E0EBAEBA-A7A0-41FD-9F8C-8C4595858BE6}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Chrome_RenderWidgetHostHWND" />
@@ -11920,6 +11918,7 @@
 						</Child>
 					</Child>
 				</Child>
+				<Child Name="btnSave" Owner="{4F48B8CD-A1DD-4144-9481-C3B42B6E0980}" />
 			</Child>
 		</Child>
 		<Child Name="Teams" Owner="{E22243A5-399F-4CAF-B292-E926CD12A94C}">

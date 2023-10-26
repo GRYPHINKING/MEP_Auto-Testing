@@ -784,14 +784,7 @@
 			</Operation>
 		</Children>
 	</TestData>
-	<Variables Version="4" Key="{091C6C13-4EDF-46FB-A813-D1987CBBA11E}">
-		<Items>
-			<Variable Name="JobName_Product_Year_BuildNumber" Type="String" Local="False">
-				<DefValue StrValue="AutoSPRINK 2023 v18.1.29" />
-			</Variable>
-		</Items>
-	</Variables>
 	<Parameters Key="{81169A81-CD76-462B-AE66-11EB3048F476}">
-		<Parameter0 Name="Job_Name" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="AutoSPRINK 2023 v18.1.29" Description="" />
+		<Parameter0 Name="Job_Name" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="AutoSPRINK 2024 v19.0.2" Description="" />
 	</Parameters>
 </Root>

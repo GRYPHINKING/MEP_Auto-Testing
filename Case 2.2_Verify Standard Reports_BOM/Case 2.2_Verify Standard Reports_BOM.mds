@@ -35,7 +35,7 @@
 	</testItems>
 	<variables key="{3F2A1132-227A-456B-BED0-404411C56E92}" />
 	<settings key="{61EE96FD-115C-4C42-AD68-ACD92D3DEC66}">
-		<settingsVersion value="15.55" />
+		<settingsVersion value="15.56" />
 		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />

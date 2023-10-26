@@ -3583,6 +3583,40 @@
 																					</Child>
 																				</Children>
 																			</Child>
+																			<Child Name="a_Stocklisting_Print_WeldedLabels_pdf" Key="{23E63CD8-3AF0-4DAE-A479-ECCF9F311E77}">
+																				<TypeInfo Item0="{FD918D4B-6CB6-41C7-9770-E9B777B3AA56}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="DirectUI" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="UIItem" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="list item" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="a_Stocklisting_Print_WeldedLabels_pdf" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="a_Standard_Print_Report_Hydraulic_Summary_SPRINK_SMOKE_pdf" Key="{5FE77D4E-5E75-4D7B-8E2C-3F89FB783AD5}">
+																				<TypeInfo Item0="{FD918D4B-6CB6-41C7-9770-E9B777B3AA56}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="DirectUI" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="UIItem" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="list item" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="a_Standard_Print_Report_Hydraulic_Summary_SPRINK_SMOKE_pdf" />
+																					</Property>
+																				</Properties>
+																			</Child>
 																		</Children>
 																	</Child>
 																</Children>
@@ -4818,7 +4852,6 @@
 																		<Children>
 																			<Child Name="toolbar" Key="{B0CC42BC-361B-487E-A856-2A7E5F9F0997}">
 																				<Image FileName="1375416383" Left="152" Top="41" Right="864" Bottom="75" />
-																				<TypeInfo Item0="{9089FA50-C404-4DF4-88C2-6FD36A690FFC}" />
 																				<Properties>
 																					<Property Name="WndClass">
 																						<Value Value="ToolbarWindow32" />
@@ -4845,7 +4878,6 @@
 																				<Children>
 																					<Child Name="Edit" Key="{4EC07F22-996A-40F0-8C7A-9D2DFB7C505B}">
 																						<Image FileName="-886990492" Left="170" Top="51" Right="864" Bottom="66" />
-																						<TypeInfo Item0="{9D5CF063-0C0F-46FF-A792-4567B6C3CF33}" />
 																						<Properties>
 																							<Property Name="WndClass">
 																								<Value Value="Edit" />
@@ -10339,7 +10371,6 @@
 						</Properties>
 						<Children>
 							<Child Name="wndChrome_WidgetWin_0" Key="{85677EFD-F66B-47C7-BC43-D2BB7A361FEB}">
-								<TypeInfo Item0="{B8A472DC-477A-4E6D-AEE7-17789EBE1E60}" />
 								<Properties>
 									<Property Name="WndClass">
 										<Value Value="Chrome_WidgetWin_0" />
@@ -10414,7 +10445,6 @@
 																		<Children>
 																			<Child Name="toolbar" Key="{48FB7621-C74E-4799-B160-60ED588FABF2}">
 																				<Image FileName="-2086360454" Left="152" Top="41" Right="651" Bottom="75" />
-																				<TypeInfo Item0="{9089FA50-C404-4DF4-88C2-6FD36A690FFC}" />
 																				<Properties>
 																					<Property Name="WndClass">
 																						<Value Value="ToolbarWindow32" />
@@ -10441,7 +10471,6 @@
 																				<Children>
 																					<Child Name="Edit" Key="{172473DC-C1B4-4DCE-AEF7-BF88632FCD5E}">
 																						<Image FileName="783903799" Left="170" Top="51" Right="651" Bottom="66" />
-																						<TypeInfo Item0="{9D5CF063-0C0F-46FF-A792-4567B6C3CF33}" />
 																						<Properties>
 																							<Property Name="WndClass">
 																								<Value Value="Edit" />
@@ -10512,7 +10541,6 @@
 																<Children>
 																	<Child Name="Edit" Key="{4D002238-B87C-4D55-960C-FE8EFA5E8DC1}">
 																		<Image FileName="-630726696" Left="136" Top="429" Right="927" Bottom="446" />
-																		<TypeInfo Item0="{9D5CF063-0C0F-46FF-A792-4567B6C3CF33}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="Edit" />
@@ -10526,6 +10554,18 @@
 												</Children>
 											</Child>
 										</Children>
+									</Child>
+									<Child Name="btnSave" Key="{B2BDB9E2-8247-43EF-B6D2-F23F2C27663B}">
+										<Image FileName="237468731" Left="747" Top="494" Right="835" Bottom="520" />
+										<TypeInfo Item0="{B038D57F-D6FF-43D2-82F0-175A64A1061A}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Save" />
+											</Property>
+										</Properties>
 									</Child>
 								</Children>
 							</Child>
@@ -10861,6 +10901,8 @@
 									<Child Name="b_StockListing_Export_OtherPipe_PDF" Owner="{B7627147-8F4C-47F7-BB98-958F1D57CD10}">
 										<Child Name="Name" Owner="{DB26F8C2-0F4F-4A4B-A60E-E708254F819A}" />
 									</Child>
+									<Child Name="a_Stocklisting_Print_WeldedLabels_pdf" Owner="{23E63CD8-3AF0-4DAE-A479-ECCF9F311E77}" />
+									<Child Name="a_Standard_Print_Report_Hydraulic_Summary_SPRINK_SMOKE_pdf" Owner="{5FE77D4E-5E75-4D7B-8E2C-3F89FB783AD5}" />
 								</Child>
 							</Child>
 						</Child>
@@ -11628,6 +11670,7 @@
 						</Child>
 					</Child>
 				</Child>
+				<Child Name="btnSave" Owner="{B2BDB9E2-8247-43EF-B6D2-F23F2C27663B}" />
 			</Child>
 		</Child>
 	</LogicalNodes>

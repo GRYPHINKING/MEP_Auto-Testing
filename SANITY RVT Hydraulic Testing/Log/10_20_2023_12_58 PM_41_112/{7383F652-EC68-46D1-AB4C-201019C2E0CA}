@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="log data">
+			<Node name="row6">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.5435154977"/>
+				<Prp name="name" type="S" value="Manual Input for Excel Values [KeywordTests - _7_ExcelInput]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="6"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{1FCDDB93-2815-4196-AB8B-3ED1F093E14C}"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45219.5435285648"/>
+			</Node>
+			<Node name="row4">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.5431190278"/>
+				<Prp name="name" type="S" value="Verify Simple Grid Calcs [KeywordTests - _5_Simple_Grid]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="4"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{D5E27416-36E5-4C3F-A1B0-A7897F7383DE}"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45219.5433191088"/>
+			</Node>
+			<Node name="row1">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.5412532292"/>
+				<Prp name="name" type="S" value="Verify Hazen Williams Calcs [KeywordTests - _2_Manual_HazenWilliams]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{3EA095E0-ECD6-471E-A99C-810D417A35DD}"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45219.5419383912"/>
+			</Node>
+			<Node name="row2">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.5419384838"/>
+				<Prp name="name" type="S" value="Verify Darcy Weisbach Calcs [KeywordTests - _3_Manual_DarcyWeisbach]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{52C70F8B-8B9E-4564-9CD1-30E2401FA3FC}"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45219.5424610764"/>
+			</Node>
+			<Node name="row0">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.540759375"/>
+				<Prp name="name" type="S" value="Open Revit [KeywordTests - _0_OpenRevit]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{0E308D3F-B09E-4A4A-80FB-788B9C728FC6}"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45219.5412531597"/>
+			</Node>
+			<Node name="row3">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.542461169"/>
+				<Prp name="name" type="S" value="Verify Simple Tree Calcs [KeywordTests - _4_Simple_Tree]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{5E3F471A-0141-4002-AD5F-C46ED075730F}"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45219.5431189468"/>
+			</Node>
+			<Node name="row5">
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="start time" type="D" value="45219.5433191782"/>
+				<Prp name="name" type="S" value="Verify Simple Dry Calcs [KeywordTests - _6_Simple_Dry]"/>
+				<Prp name="extended message" type="S" value=""/>
+				<Prp name="index" type="I" value="5"/>
+				<Prp name="testdata item" type="B" value="0"/>
+				<Prp name="details" type="S" value="{5BA2D7C1-35BB-4173-A8B3-682B2A3F0E70}"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="end time" type="D" value="45219.5435154282"/>
+			</Node>
+		</Node>
+	</Node>
+</Nodes>

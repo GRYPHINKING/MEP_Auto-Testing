@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{62402E6C-6E6D-4AA5-9AFF-5A20AD691C44}" version="15.0">
+	<LLP>
+		<LLEvent Type="KeyDown" VK="91" Delay="0" />
+		<LLEvent Type="KeyDown" VK="69" Delay="344" />
+		<LLEvent Type="KeyUp" VK="69" Delay="94" />
+		<LLEvent Type="KeyUp" VK="91" Delay="171" />
+		<LLEvent Type="KeyDown" VK="162" Delay="2110" />
+		<LLEvent Type="KeyUp" VK="162" Delay="312" />
+		<LLEvent Type="KeyDown" VK="9" Delay="766" />
+		<LLEvent Type="KeyUp" VK="9" Delay="94" />
+		<LLEvent Type="KeyDown" VK="9" Delay="297" />
+		<LLEvent Type="KeyUp" VK="9" Delay="78" />
+		<LLEvent Type="KeyDown" VK="9" Delay="328" />
+		<LLEvent Type="KeyUp" VK="9" Delay="94" />
+		<LLEvent Type="KeyDown" VK="9" Delay="281" />
+		<LLEvent Type="KeyUp" VK="9" Delay="94" />
+		<LLEvent Type="KeyDown" VK="9" Delay="234" />
+		<LLEvent Type="KeyUp" VK="9" Delay="109" />
+		<LLEvent Type="KeyDown" VK="162" Delay="1000" />
+		<LLEvent Type="KeyDown" VK="86" Delay="453" />
+		<LLEvent Type="KeyUp" VK="162" Delay="79" />
+		<LLEvent Type="KeyUp" VK="86" Delay="31" />
+		<LLEvent Type="KeyDown" VK="13" Delay="765" />
+		<LLEvent Type="KeyUp" VK="13" Delay="79" />
+		<LLEvent Type="MouseMove" X="1883" Y="664" Delay="2968" />
+		<LLEvent Type="MouseMove" X="1853" Y="654" Delay="0" />
+		<LLEvent Type="MouseMove" X="1819" Y="637" Delay="16" />
+		<LLEvent Type="MouseMove" X="1798" Y="629" Delay="16" />
+		<LLEvent Type="MouseMove" X="1762" Y="614" Delay="0" />
+		<LLEvent Type="MouseMove" X="1729" Y="602" Delay="15" />
+		<LLEvent Type="MouseMove" X="1712" Y="596" Delay="0" />
+		<LLEvent Type="MouseMove" X="1681" Y="582" Delay="16" />
+		<LLEvent Type="MouseMove" X="1656" Y="574" Delay="0" />
+		<LLEvent Type="MouseMove" X="1633" Y="563" Delay="15" />
+		<LLEvent Type="MouseMove" X="1609" Y="551" Delay="0" />
+		<LLEvent Type="MouseMove" X="1589" Y="540" Delay="16" />
+		<LLEvent Type="MouseMove" X="1546" Y="517" Delay="16" />
+		<LLEvent Type="MouseMove" X="1535" Y="511" Delay="0" />
+		<LLEvent Type="MouseMove" X="1531" Y="509" Delay="15" />
+		<LLEvent Type="MouseMove" X="1519" Y="504" Delay="0" />
+		<LLEvent Type="MouseMove" X="1513" Y="501" Delay="16" />
+		<LLEvent Type="MouseMove" X="1507" Y="497" Delay="0" />
+		<LLEvent Type="MouseMove" X="1503" Y="496" Delay="16" />
+		<LLEvent Type="MouseMove" X="1499" Y="494" Delay="0" />
+		<LLEvent Type="MouseMove" X="1496" Y="491" Delay="15" />
+		<LLEvent Type="MouseMove" X="1492" Y="489" Delay="16" />
+		<LLEvent Type="MouseMove" X="1489" Y="487" Delay="0" />
+		<LLEvent Type="MouseMove" X="1487" Y="486" Delay="15" />
+		<LLEvent Type="MouseMove" X="1483" Y="483" Delay="0" />
+		<LLEvent Type="MouseMove" X="1480" Y="481" Delay="16" />
+		<LLEvent Type="MouseMove" X="1478" Y="479" Delay="0" />
+		<LLEvent Type="MouseMove" X="1476" Y="478" Delay="16" />
+		<LLEvent Type="MouseMove" X="1472" Y="474" Delay="15" />
+		<LLEvent Type="MouseMove" X="1468" Y="470" Delay="0" />
+		<LLEvent Type="MouseMove" X="1465" Y="467" Delay="16" />
+		<LLEvent Type="MouseMove" X="1461" Y="463" Delay="0" />
+		<LLEvent Type="MouseMove" X="1457" Y="460" Delay="16" />
+		<LLEvent Type="MouseMove" X="1449" Y="450" Delay="0" />
+		<LLEvent Type="MouseMove" X="1445" Y="444" Delay="15" />
+		<LLEvent Type="MouseMove" X="1434" Y="421" Delay="0" />
+		<LLEvent Type="MouseMove" X="1430" Y="413" Delay="16" />
+		<LLEvent Type="MouseMove" X="1426" Y="403" Delay="15" />
+		<LLEvent Type="MouseMove" X="1419" Y="381" Delay="0" />
+		<LLEvent Type="MouseMove" X="1415" Y="363" Delay="16" />
+		<LLEvent Type="MouseMove" X="1413" Y="345" Delay="0" />
+		<LLEvent Type="MouseMove" X="1408" Y="331" Delay="16" />
+		<LLEvent Type="MouseMove" X="1406" Y="321" Delay="0" />
+		<LLEvent Type="MouseMove" X="1402" Y="311" Delay="15" />
+		<LLEvent Type="MouseMove" X="1397" Y="294" Delay="0" />
+		<LLEvent Type="MouseMove" X="1394" Y="283" Delay="16" />
+		<LLEvent Type="MouseMove" X="1392" Y="272" Delay="16" />
+		<LLEvent Type="MouseMove" X="1385" Y="241" Delay="0" />
+		<LLEvent Type="MouseMove" X="1383" Y="232" Delay="15" />
+	</LLP>
+</Root>

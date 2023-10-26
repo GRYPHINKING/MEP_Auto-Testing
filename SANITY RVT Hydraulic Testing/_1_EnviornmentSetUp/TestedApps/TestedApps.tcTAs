@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{62FFF98E-EE61-4ED7-9FCA-1DBBF89EBDDA}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{71C5F42B-32BF-42E9-9CFE-3A8950AA1B97}">
+			<config nodeName="Revit" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="/language ENU" workFolder="C:\Program Files\Autodesk\Revit 2023\" userName="" password="" domain="" />
+					<param name="Profile" parameters="/language ENU" workFolder="C:\Program Files\Autodesk\Revit 2023\" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="/language ENU" workFolder="C:\Program Files\Autodesk\Revit 2023\" />
+					<param name="Simple" fileName="Revit.exe" filePath="C:\Program Files\Autodesk\Revit 2023\" parameters="/language ENU" workFolder="C:\Program Files\Autodesk\Revit 2023\" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{BAA1E1E9-13AB-4883-80D7-BC70F1374C9E}">
+			<config nodeName="msedge" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="--profile-directory=Default" workFolder="C:\Program Files (x86)\Microsoft\Edge\Application" userName="" password="" domain="" />
+					<param name="Profile" parameters="--profile-directory=Default" workFolder="C:\Program Files (x86)\Microsoft\Edge\Application" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="--profile-directory=Default" workFolder="C:\Program Files (x86)\Microsoft\Edge\Application" />
+					<param name="Simple" fileName="msedge.exe" filePath="C:\Program Files (x86)\Microsoft\Edge\Application\" parameters="--profile-directory=Default" workFolder="C:\Program Files (x86)\Microsoft\Edge\Application" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>
