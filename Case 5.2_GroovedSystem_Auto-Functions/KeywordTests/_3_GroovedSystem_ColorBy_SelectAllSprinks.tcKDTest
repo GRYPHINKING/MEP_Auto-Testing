@@ -14,55 +14,6 @@
 		</Data>
 		<Children>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Sets the %p1 item of the &apos;%n&apos; toolbar to the %p2 state." Action="CheckItem">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Lock On Target" />
-						<Parameter Name="Checked" DefVarType="11" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.toolbarViewRotator" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Sets the %p1 item of the &apos;%n&apos; toolbar to the %p2 state." Action="CheckItem">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Show Leaks..." />
-						<Parameter Name="Checked" DefVarType="11" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx.Item" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgShowLeaks.btnShowNone" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Color Pipes By..." />
-						<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
-							<Values IsEnum="True">
-								<Value Type="1" Value="0" Text="skNoShift" />
-								<Value Type="1" Value="8192" Text="skShift" />
-								<Value Type="1" Value="32768" Text="skAlt" />
-								<Value Type="1" Value="16384" Text="skCtrl" />
-							</Values>
-						</Parameter>
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx.Item" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgColorPipesBy.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="All" />
@@ -187,7 +138,7 @@
 			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
 				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="ColorPipes1_Grooved_Check">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 699, 178, 898, 812, False)" />
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx.MDIClient.wndAfx3.AfxFrameOrView140u.Afx.Afx, 279, 49, 984, 683, False)" />
 						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="35000" />
@@ -333,7 +284,7 @@
 			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
 				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="Flow_Grooved_Check">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 670, 165, 937, 821, False)" />
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx.MDIClient.wndAfx3.AfxFrameOrView140u.Afx.Afx, 280, 56, 980, 675, False)" />
 						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="35000" />
@@ -406,7 +357,7 @@
 			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
 				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="Pressure_Grooved_Check">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 678, 183, 918, 818, False)" />
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx.MDIClient.wndAfx3.AfxFrameOrView140u.Afx.Afx, 279, 52, 988, 680, False)" />
 						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="35000" />
@@ -479,7 +430,7 @@
 			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
 				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="PressureLostByUnitLength_Grooved_Check">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 719, 172, 874, 807, False)" />
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx.MDIClient.wndAfx3.AfxFrameOrView140u.Afx.Afx, 278, 51, 987, 684, False)" />
 						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="35000" />
@@ -552,7 +503,7 @@
 			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
 				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="HydroDistFromSuppy_Grooved_Check">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 692, 180, 902, 803, False)" />
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx.MDIClient.wndAfx3.AfxFrameOrView140u.Afx.Afx, 279, 50, 984, 683, False)" />
 						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="35000" />
@@ -625,7 +576,7 @@
 			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
 				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="LinearDistFromSupply_Grooved_Check">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 690, 170, 912, 803, False)" />
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx.MDIClient.wndAfx3.AfxFrameOrView140u.Afx.Afx, 280, 52, 984, 680, False)" />
 						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="35000" />
@@ -698,7 +649,7 @@
 			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
 				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="AbilityToFlowFromSupply_Grooved_Check">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 716, 186, 878, 778, False)" />
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx.MDIClient.wndAfx3.AfxFrameOrView140u.Afx.Afx, 280, 56, 986, 678, False)" />
 						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="35000" />
@@ -771,7 +722,7 @@
 			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
 				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="Diameter_Grooved_Check">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 699, 172, 899, 788, False)" />
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx.MDIClient.wndAfx3.AfxFrameOrView140u.Afx.Afx, 279, 52, 987, 681, False)" />
 						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="35000" />
@@ -844,7 +795,7 @@
 			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
 				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="DefaultElement_Grooved_Check">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 682, 164, 943, 849, False)" />
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx.MDIClient.wndAfx3.AfxFrameOrView140u.Afx.Afx, 279, 51, 985, 679, False)" />
 						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="35000" />

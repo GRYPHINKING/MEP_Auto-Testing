@@ -35,10 +35,44 @@
 			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
 				<Data Description="Delays the test execution for the specified time period.">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="1000" />
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="2000" />
 						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
 					</Parameters>
 				</Data>
+			</Operation>
+			<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+				<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+					<CommonData WaitTimeout="4000" />
+					<Root Type="0" Operator="1">
+						<Expression Type="1" Operator="0">
+							<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.AutoSPRINKx64.dlg.WndCaption" />
+							<Right DefVarType="0" VarType="8" ValueType="6" ValueValue="Tip of the Day" />
+						</Expression>
+						<Expression Type="1" Operator="0">
+							<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.AutoSPRINKx64.dlg.btnClose.Visible" />
+							<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="True" />
+						</Expression>
+					</Root>
+				</Data>
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="50" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="10" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg.TipoftheDay_btnClose" />
+						</Data>
+					</Operation>
+				</Children>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
@@ -57,10 +91,18 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.UI.Item" />
 				</Data>
 			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Opens the %p1 file via the &apos;%n&apos; dialog." Action="OpenFile">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Settings\SPRINK - Smoke Testing Toolbar.xml" />
+						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Settings\SPRINK - Smoke Testing Toolbar - NEW.xml" />
 						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="8" ValueType="6" ValueValue="Toolbar State File (*.xml)" />
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg" />
@@ -69,7 +111,7 @@
 			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
 				<Data Description="Delays the test execution for the specified time period.">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="6000" />
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="2000" />
 						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
 					</Parameters>
 				</Data>
@@ -101,45 +143,23 @@
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
+				<Data Description="Sets the %p1 item of the &apos;%n&apos; toolbar to the %p2 state." Action="CheckItem">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Show/Hide All Panes" />
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Select" />
+						<Parameter Name="Checked" DefVarType="11" VarType="11" ValueType="7" ValueValue="True" />
 						<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
-							<Values IsEnum="True">
-								<Value Type="1" Value="0" Text="skNoShift" />
-								<Value Type="1" Value="8192" Text="skShift" />
-								<Value Type="1" Value="32768" Text="skAlt" />
-								<Value Type="1" Value="16384" Text="skCtrl" />
-							</Values>
-						</Parameter>
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
+				<Data Description="Sets the %p1 item of the &apos;%n&apos; toolbar to the %p2 state." Action="CheckItem">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Show/Hide All Panes" />
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Select" />
+						<Parameter Name="Checked" DefVarType="11" VarType="11" ValueType="7" ValueValue="True" />
 						<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
-							<Values IsEnum="True">
-								<Value Type="1" Value="0" Text="skNoShift" />
-								<Value Type="1" Value="8192" Text="skShift" />
-								<Value Type="1" Value="32768" Text="skAlt" />
-								<Value Type="1" Value="16384" Text="skCtrl" />
-							</Values>
-						</Parameter>
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
-				</Data>
-			</Operation>
-			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
-				<Data Description="Delays the test execution for the specified time period.">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="500" />
-						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
-					</Parameters>
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -156,26 +176,6 @@
 				<Data Description="Sets the %p1 item of the &apos;%n&apos; toolbar to the %p2 state." Action="CheckItem">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Layers" />
-						<Parameter Name="Checked" DefVarType="11" VarType="11" ValueType="7" ValueValue="True" />
-						<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Sets the %p1 item of the &apos;%n&apos; toolbar to the %p2 state." Action="CheckItem">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Select" />
-						<Parameter Name="Checked" DefVarType="11" VarType="11" ValueType="7" ValueValue="True" />
-						<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Sets the %p1 item of the &apos;%n&apos; toolbar to the %p2 state." Action="CheckItem">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Select" />
 						<Parameter Name="Checked" DefVarType="11" VarType="11" ValueType="7" ValueValue="True" />
 						<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
 					</Parameters>

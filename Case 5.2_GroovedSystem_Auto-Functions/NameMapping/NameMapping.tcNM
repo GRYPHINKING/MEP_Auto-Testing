@@ -170,7 +170,6 @@
 																<Children>
 																	<Child Name="Afx" Key="{96C0D394-015C-4E3F-88C9-D1B512563BB7}">
 																		<Image FileName="2111012082" Left="1081" Top="210" Right="1865" Bottom="942" />
-																		<TypeInfo Item0="{5B168D6D-DB2E-4CCE-AD00-741B8351C7DD}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="Afx:0000000000400000:2b*" />
@@ -361,6 +360,18 @@
 													</Property>
 													<Property Name="WndCaption">
 														<Value Value="Auto Draw" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Render" Key="{5301FB01-B680-47A4-B16B-1F3D43841C3A}">
+												<Image FileName="-1912158057" Left="1894" Top="380" Right="1920" Bottom="570" />
+												<TypeInfo Item0="{96A652D7-632F-459A-9FCD-E5B844FD70D0}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:ToolBar:400000*" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Render" />
 													</Property>
 												</Properties>
 											</Child>
@@ -1158,7 +1169,6 @@
 							</Child>
 							<Child Name="dlgAutoSizingErrors" Key="{27BBC433-F3C5-4262-B78F-209D7C7F1ED8}">
 								<Image FileName="-1195110554" Left="0" Top="0" Right="360" Bottom="296" />
-								<TypeInfo Item0="{9F754AFC-A023-4ECA-8528-4AFE34F70C53}" />
 								<Properties>
 									<Property Name="WndClass">
 										<Value Value="#32770" />
@@ -1170,7 +1180,6 @@
 								<Children>
 									<Child Name="btnOK" Key="{738FB074-D1F1-408D-978F-7E6727675BF0}">
 										<Image FileName="818557191" Left="142" Top="254" Right="217" Bottom="277" />
-										<TypeInfo Item0="{643B1794-35EE-4AC7-8B88-87679502DC73}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1184,7 +1193,6 @@
 							</Child>
 							<Child Name="dlg3" Key="{24AE091A-DB11-4ACB-A1E8-96F8D0E6492C}">
 								<Image FileName="1819717968" Left="0" Top="0" Right="629" Bottom="547" />
-								<TypeInfo Item0="{E91F7714-B186-4DEE-BF5D-3B8A4CA856AA}" />
 								<Properties>
 									<Property Name="WndClass">
 										<Value Value="#32770" />
@@ -1193,6 +1201,76 @@
 										<Value Value="AutoSPRINK Hydraulic Analysis - Simple Grooved System.cad" />
 									</Property>
 								</Properties>
+							</Child>
+							<Child Name="dlgCameraPosition" Key="{BBD771F9-3F48-4486-B4C1-C0DAC085B378}">
+								<Image FileName="-1007490369" Left="0" Top="0" Right="408" Bottom="245" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Camera Position" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Edit" Key="{2B4457A6-4880-4A52-B87A-AE3F6D0E6BE5}">
+										<Image FileName="-1007490369" Left="53" Top="38" Right="199" Bottom="61" />
+										<TypeInfo Item0="{DC8980C3-45B8-482F-B9AC-DBC428FB30C3}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Edit" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Edit2" Key="{68D7B056-82EA-4B7F-9475-E9184F5ED496}">
+										<Image FileName="915260227" Left="53" Top="64" Right="199" Bottom="87" />
+										<TypeInfo Item0="{DC8980C3-45B8-482F-B9AC-DBC428FB30C3}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Edit" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="2" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Edit3" Key="{2051392C-7004-45A5-B03D-0D0FF9D9FDF9}">
+										<Image FileName="-100526353" Left="23" Top="174" Right="83" Bottom="197" />
+										<TypeInfo Item0="{DC8980C3-45B8-482F-B9AC-DBC428FB30C3}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Edit" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="4" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnOK" Key="{AEF73C22-37A8-4987-BBAD-5BA754C9A298}">
+										<Image FileName="1177132597" Left="127" Top="210" Right="202" Bottom="233" />
+										<TypeInfo Item0="{60DB1BEE-E85C-44F4-A836-D2C6A1424B23}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="OK" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
 							</Child>
 						</Children>
 					</Child>
@@ -1227,7 +1305,6 @@
 										<Children>
 											<Child Name="FolderView" Key="{405BE549-81A7-4300-930B-F5B902340C9A}">
 												<Image FileName="1826266452" Left="0" Top="0" Right="1920" Bottom="1080" />
-												<TypeInfo Item0="{A4315B43-CBBC-49E2-B353-BBBE5C11D65B}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="SysListView32" />
@@ -1249,7 +1326,6 @@
 								</Properties>
 								<Children>
 									<Child Name="DesktopWindowXamlSource" Key="{4F2634AA-91B7-49AF-B5F1-A0FBDC5BB441}">
-										<TypeInfo Item0="{5B168D6D-DB2E-4CCE-AD00-741B8351C7DD}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Windows.UI.Composition.DesktopWindowContentBridge" />
@@ -1315,6 +1391,7 @@
 				</Child>
 				<Child Name="Afx3" Owner="{B7A25803-E49B-479B-9FBD-B31B667BB965}">
 					<Child Name="toolbarAutoDraw" Owner="{A35A8975-3409-44DB-9834-26562278167D}" />
+					<Child Name="Render" Owner="{5301FB01-B680-47A4-B16B-1F3D43841C3A}" />
 				</Child>
 				<Child Name="Item" Owner="{BEFB4E00-2443-4B5F-828C-DCE14D70244E}" />
 				<Child Name="Layers" Owner="{8E8508DF-03C4-4158-88FA-38861FAD6AE1}" />
@@ -1406,6 +1483,12 @@
 				<Child Name="btnOK" Owner="{738FB074-D1F1-408D-978F-7E6727675BF0}" />
 			</Child>
 			<Child Name="dlg3" Owner="{24AE091A-DB11-4ACB-A1E8-96F8D0E6492C}" />
+			<Child Name="dlgCameraPosition" Owner="{BBD771F9-3F48-4486-B4C1-C0DAC085B378}">
+				<Child Name="Edit" Owner="{2B4457A6-4880-4A52-B87A-AE3F6D0E6BE5}" />
+				<Child Name="Edit2" Owner="{68D7B056-82EA-4B7F-9475-E9184F5ED496}" />
+				<Child Name="Edit3" Owner="{2051392C-7004-45A5-B03D-0D0FF9D9FDF9}" />
+				<Child Name="btnOK" Owner="{AEF73C22-37A8-4987-BBAD-5BA754C9A298}" />
+			</Child>
 		</Child>
 		<Child Name="explorer" Owner="{E33F7786-5696-44E6-8D53-C6BACB1D456E}">
 			<Child Name="wndWorkerW" Owner="{A3080C96-F228-4A4C-B5A7-72DCE855850D}">

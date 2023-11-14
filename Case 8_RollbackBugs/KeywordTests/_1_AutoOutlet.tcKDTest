@@ -170,7 +170,7 @@
 			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
 				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="AutoOutlet_CleanUpInt_Check">
 					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx.MDIClient.wndAfx.AfxFrameOrView140u.Afx.Afx, 474, 12, 563, 408, False)" />
+						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx.MDIClient.wndAfx.AfxFrameOrView140u.Afx.Afx, 497, 30, 579, 417, False)" />
 						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
 						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />

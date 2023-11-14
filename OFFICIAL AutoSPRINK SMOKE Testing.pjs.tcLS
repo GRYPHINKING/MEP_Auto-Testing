@@ -100,9 +100,21 @@
 				<Node name="datav4">
 					<Node name="var0">
 						<Node name="value">
-							<Prp name="strvalue" type="H" value="3200300032003300"/>
+							<Prp name="strvalue" type="H" value="3200300032003400"/>
 						</Node>
 						<Prp name="name" type="S" value="SPRINK_YEAR"/>
+					</Node>
+					<Node name="var1">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="4100750074006F0053005000520049004E004B002000320030003200340020002D00200053004D004F004B00450020005400450053005400"/>
+						</Node>
+						<Prp name="name" type="S" value="Job_Name"/>
+					</Node>
+					<Node name="var2">
+						<Node name="value">
+							<Prp name="strvalue" type="H" value="7600310039002E0030002E003200"/>
+						</Node>
+						<Prp name="name" type="S" value="Sprink_Version"/>
 					</Node>
 				</Node>
 				<Prp name="version" type="I" value="4"/>

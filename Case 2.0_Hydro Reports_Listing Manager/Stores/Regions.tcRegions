@@ -1090,5 +1090,62 @@
 		<child name="dlgListingManager_Add_Copy_NewListAreas_Mask1" key="{FDD07381-390D-426E-B9E2-3B32A6FF23B8}">
 			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="dlgListingManager_Add_Copy_NewListAreas_Mask1" ID="{FDD07381-390D-426E-B9E2-3B32A6FF23B8}" FileName="Regions\dlgListingManager_Add_Copy_NewListAreas_Mask1.png" Update="False" />
 		</child>
+		<child name="AfxListManager_DeselectElements_Check_Mask1" key="{0E20CA0B-60DD-4250-A3AC-4DEB27DC3C2B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="AfxListManager_DeselectElements_Check_Mask1" ID="{0E20CA0B-60DD-4250-A3AC-4DEB27DC3C2B}" FileName="Regions\AfxListManager_DeselectElements_Check_Mask1.png" Update="False" />
+		</child>
+		<child name="JobAlreadyExists_2024_Check" key="{01A026E0-D699-4544-B292-55CB0524BD72}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="JobAlreadyExists_2024_Check" ID="{01A026E0-D699-4544-B292-55CB0524BD72}" FileName="Regions\JobAlreadyExists_2024_Check.png" Update="False" />
+		</child>
+		<child name="JobAlreadyExists_2024_Check_Mask" key="{D0523272-94B5-4847-B57B-6592828D90A5}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="JobAlreadyExists_2024_Check_Mask" ID="{D0523272-94B5-4847-B57B-6592828D90A5}" FileName="Regions\JobAlreadyExists_2024_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DeleteJobWarning_2024_Check" key="{E4F29D53-CF0C-4F74-A446-C121CC0B2D02}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteJobWarning_2024_Check" ID="{E4F29D53-CF0C-4F74-A446-C121CC0B2D02}" FileName="Regions\DeleteJobWarning_2024_Check.png" Update="False" />
+		</child>
+		<child name="DeleteJobWarning_2024_Check_Mask" key="{7C7314E4-A9F7-4BD6-B099-BFA2D2FE9146}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteJobWarning_2024_Check_Mask" ID="{7C7314E4-A9F7-4BD6-B099-BFA2D2FE9146}" FileName="Regions\DeleteJobWarning_2024_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DesignerExists_2024_Check" key="{770B4463-C6C4-40DA-8595-6AA876AA9EF8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DesignerExists_2024_Check" ID="{770B4463-C6C4-40DA-8595-6AA876AA9EF8}" FileName="Regions\DesignerExists_2024_Check.png" Update="False" />
+		</child>
+		<child name="DesignerExists_2024_Check_Mask" key="{A828CC36-77A7-45BF-8F99-7B380FC33E82}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DesignerExists_2024_Check_Mask" ID="{A828CC36-77A7-45BF-8F99-7B380FC33E82}" FileName="Regions\DesignerExists_2024_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DeleteDesigner_2024_Check" key="{4FD1E10C-65D5-40AE-8648-1C103E5F23C8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteDesigner_2024_Check" ID="{4FD1E10C-65D5-40AE-8648-1C103E5F23C8}" FileName="Regions\DeleteDesigner_2024_Check.png" Update="False" />
+		</child>
+		<child name="DeleteDesigner_2024_Check_Mask" key="{ED7F9961-0746-47CB-B58B-4B316CB2763E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteDesigner_2024_Check_Mask" ID="{ED7F9961-0746-47CB-B58B-4B316CB2763E}" FileName="Regions\DeleteDesigner_2024_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DeleteContractor_2024_Check" key="{9AB90C11-5A33-4AFF-AA2E-4126275D6D0C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteContractor_2024_Check" ID="{9AB90C11-5A33-4AFF-AA2E-4126275D6D0C}" FileName="Regions\DeleteContractor_2024_Check.png" Update="False" />
+		</child>
+		<child name="DeleteContractor_2024_Check_Mask" key="{68BE2D7F-7B96-48DE-B0FF-BE1F0FEBEECB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteContractor_2024_Check_Mask" ID="{68BE2D7F-7B96-48DE-B0FF-BE1F0FEBEECB}" FileName="Regions\DeleteContractor_2024_Check_Mask.png" Update="False" />
+		</child>
+		<child name="SaveChangestoPartsBook_2024_Check" key="{D7F1F08B-6464-44D8-B06F-94B33C25E079}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SaveChangestoPartsBook_2024_Check" ID="{D7F1F08B-6464-44D8-B06F-94B33C25E079}" FileName="Regions\SaveChangestoPartsBook_2024_Check.png" Update="False" />
+		</child>
+		<child name="SaveChangestoPartsBook_2024_Check_Mask" key="{0EA33A09-0ADC-496C-8195-45595D60218C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SaveChangestoPartsBook_2024_Check_Mask" ID="{0EA33A09-0ADC-496C-8195-45595D60218C}" FileName="Regions\SaveChangestoPartsBook_2024_Check_Mask.png" Update="False" />
+		</child>
+		<child name="DeleteContractor_2024__Check" key="{CB653BE5-EE11-4390-AD9E-5C20F8F968D3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteContractor_2024__Check" ID="{CB653BE5-EE11-4390-AD9E-5C20F8F968D3}" FileName="Regions\DeleteContractor_2024__Check.png" Update="False" />
+		</child>
+		<child name="DeleteContractor_2024__Check_Mask" key="{AEF6D044-AC6B-4584-BF1D-666BE7254128}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteContractor_2024__Check_Mask" ID="{AEF6D044-AC6B-4584-BF1D-666BE7254128}" FileName="Regions\DeleteContractor_2024__Check_Mask.png" Update="False" />
+		</child>
+		<child name="Afx_SelectListAreaDrawingElements_Check_Mask1" key="{35137997-C3E6-4EAE-806F-5C251604ACD3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_SelectListAreaDrawingElements_Check_Mask1" ID="{35137997-C3E6-4EAE-806F-5C251604ACD3}" FileName="Regions\Afx_SelectListAreaDrawingElements_Check_Mask1.png" Update="False" />
+		</child>
+		<child name="DeleteCustomer_2024_Check" key="{8E8E4215-8FA8-4B54-9919-504EAC00D170}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteCustomer_2024_Check" ID="{8E8E4215-8FA8-4B54-9919-504EAC00D170}" FileName="Regions\DeleteCustomer_2024_Check.png" Update="False" />
+		</child>
+		<child name="DeleteContractor_2024_Check_Mask1" key="{5FC956BF-EF00-49BB-8727-A5EADF33C2E6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="DeleteContractor_2024_Check_Mask1" ID="{5FC956BF-EF00-49BB-8727-A5EADF33C2E6}" FileName="Regions\DeleteContractor_2024_Check_Mask1.png" Update="False" />
+		</child>
+		<child name="SaveChangestoPartsBook_2024_Check_Mask1" key="{0C186796-4B17-4BC2-A6E4-7C718BA7CB6E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="SaveChangestoPartsBook_2024_Check_Mask1" ID="{0C186796-4B17-4BC2-A6E4-7C718BA7CB6E}" FileName="Regions\SaveChangestoPartsBook_2024_Check_Mask1.png" Update="False" />
+		</child>
 	</children>
 </Root>

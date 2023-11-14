@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{62402E6C-6E6D-4AA5-9AFF-5A20AD691C44}" version="15.0">
+	<LLP>
+		<LLEvent Type="MouseMove" X="970" Y="278" Delay="0" />
+		<LLEvent Type="MouseMove" X="975" Y="271" Delay="0" />
+		<LLEvent Type="MouseMove" X="975" Y="271" Delay="16" />
+		<LLEvent Type="MouseMove" X="977" Y="270" Delay="0" />
+		<LLEvent Type="MouseMove" X="977" Y="270" Delay="15" />
+		<LLEvent Type="MouseMove" X="977" Y="269" Delay="0" />
+		<LLEvent Type="MouseMove" X="978" Y="269" Delay="16" />
+		<LLEvent Type="MouseMove" X="978" Y="269" Delay="0" />
+		<LLEvent Type="MouseMove" X="979" Y="268" Delay="16" />
+		<LLEvent Type="MouseMove" X="979" Y="267" Delay="15" />
+		<LLEvent Type="MouseMove" X="980" Y="267" Delay="0" />
+		<LLEvent Type="MouseMove" X="981" Y="267" Delay="16" />
+		<LLEvent Type="MouseMove" X="981" Y="267" Delay="0" />
+		<LLEvent Type="MouseMove" X="982" Y="267" Delay="15" />
+		<LLEvent Type="MouseMove" X="984" Y="267" Delay="0" />
+		<LLEvent Type="MouseMove" X="985" Y="267" Delay="16" />
+		<LLEvent Type="MouseMove" X="987" Y="267" Delay="16" />
+		<LLEvent Type="MouseMove" X="988" Y="267" Delay="0" />
+		<LLEvent Type="MouseMove" X="993" Y="270" Delay="15" />
+		<LLEvent Type="MouseMove" X="994" Y="271" Delay="0" />
+		<LLEvent Type="MouseMove" X="996" Y="272" Delay="16" />
+		<LLEvent Type="MouseMove" X="999" Y="275" Delay="0" />
+		<LLEvent Type="MouseMove" X="1000" Y="277" Delay="16" />
+		<LLEvent Type="MouseMove" X="1002" Y="279" Delay="0" />
+		<LLEvent Type="MouseMove" X="1004" Y="282" Delay="15" />
+		<LLEvent Type="MouseMove" X="1004" Y="285" Delay="16" />
+		<LLEvent Type="MouseMove" X="1005" Y="288" Delay="0" />
+		<LLEvent Type="MouseMove" X="1007" Y="292" Delay="15" />
+		<LLEvent Type="MouseMove" X="1007" Y="298" Delay="0" />
+		<LLEvent Type="MouseMove" X="1007" Y="301" Delay="16" />
+		<LLEvent Type="MouseMove" X="1007" Y="305" Delay="0" />
+		<LLEvent Type="MouseMove" X="1007" Y="308" Delay="16" />
+		<LLEvent Type="MouseMove" X="1007" Y="311" Delay="0" />
+		<LLEvent Type="MouseMove" X="1003" Y="321" Delay="15" />
+		<LLEvent Type="MouseMove" X="1000" Y="325" Delay="16" />
+		<LLEvent Type="MouseMove" X="998" Y="327" Delay="0" />
+		<LLEvent Type="MouseMove" X="996" Y="328" Delay="16" />
+		<LLEvent Type="MouseMove" X="993" Y="330" Delay="0" />
+		<LLEvent Type="MouseMove" X="989" Y="331" Delay="15" />
+		<LLEvent Type="MouseMove" X="987" Y="331" Delay="0" />
+		<LLEvent Type="MouseMove" X="984" Y="332" Delay="16" />
+		<LLEvent Type="MouseMove" X="977" Y="332" Delay="15" />
+		<LLEvent Type="MouseMove" X="974" Y="332" Delay="0" />
+		<LLEvent Type="MouseMove" X="969" Y="332" Delay="16" />
+		<LLEvent Type="MouseMove" X="961" Y="326" Delay="0" />
+		<LLEvent Type="MouseMove" X="958" Y="325" Delay="16" />
+		<LLEvent Type="MouseMove" X="954" Y="321" Delay="0" />
+		<LLEvent Type="MouseMove" X="950" Y="315" Delay="15" />
+		<LLEvent Type="MouseMove" X="948" Y="313" Delay="0" />
+		<LLEvent Type="MouseMove" X="946" Y="309" Delay="16" />
+		<LLEvent Type="MouseMove" X="946" Y="306" Delay="0" />
+		<LLEvent Type="MouseMove" X="946" Y="303" Delay="16" />
+		<LLEvent Type="MouseMove" X="946" Y="300" Delay="15" />
+		<LLEvent Type="MouseMove" X="946" Y="298" Delay="0" />
+		<LLEvent Type="MouseMove" X="946" Y="296" Delay="16" />
+		<LLEvent Type="MouseMove" X="947" Y="293" Delay="0" />
+		<LLEvent Type="MouseMove" X="950" Y="290" Delay="15" />
+		<LLEvent Type="MouseMove" X="951" Y="289" Delay="0" />
+		<LLEvent Type="MouseMove" X="952" Y="288" Delay="16" />
+		<LLEvent Type="MouseMove" X="952" Y="288" Delay="16" />
+		<LLEvent Type="MouseMove" X="953" Y="287" Delay="0" />
+		<LLEvent Type="MouseMove" X="953" Y="286" Delay="15" />
+		<LLEvent Type="MouseMove" X="954" Y="286" Delay="32" />
+		<LLEvent Type="MouseMove" X="955" Y="286" Delay="15" />
+		<LLEvent Type="MouseMove" X="956" Y="286" Delay="16" />
+		<LLEvent Type="MouseMove" X="957" Y="286" Delay="0" />
+		<LLEvent Type="MouseMove" X="958" Y="287" Delay="15" />
+		<LLEvent Type="MouseMove" X="960" Y="288" Delay="0" />
+		<LLEvent Type="MouseMove" X="962" Y="289" Delay="16" />
+		<LLEvent Type="MouseMove" X="963" Y="290" Delay="0" />
+		<LLEvent Type="MouseMove" X="966" Y="294" Delay="16" />
+		<LLEvent Type="MouseMove" X="967" Y="295" Delay="15" />
+		<LLEvent Type="MouseMove" X="969" Y="297" Delay="0" />
+		<LLEvent Type="MouseMove" X="970" Y="299" Delay="16" />
+		<LLEvent Type="MouseMove" X="971" Y="301" Delay="0" />
+		<LLEvent Type="MouseMove" X="972" Y="303" Delay="16" />
+		<LLEvent Type="MouseMove" X="972" Y="304" Delay="0" />
+		<LLEvent Type="MouseMove" X="972" Y="306" Delay="15" />
+		<LLEvent Type="MouseMove" X="972" Y="307" Delay="0" />
+		<LLEvent Type="MouseMove" X="972" Y="308" Delay="16" />
+		<LLEvent Type="MouseMove" X="972" Y="310" Delay="15" />
+		<LLEvent Type="MouseMove" X="972" Y="312" Delay="0" />
+		<LLEvent Type="MouseMove" X="972" Y="314" Delay="16" />
+		<LLEvent Type="MouseMove" X="972" Y="315" Delay="0" />
+		<LLEvent Type="MouseMove" X="971" Y="317" Delay="16" />
+		<LLEvent Type="MouseMove" X="971" Y="319" Delay="0" />
+		<LLEvent Type="MouseMove" X="968" Y="321" Delay="15" />
+		<LLEvent Type="MouseMove" X="961" Y="325" Delay="16" />
+		<LLEvent Type="MouseMove" X="958" Y="327" Delay="0" />
+		<LLEvent Type="MouseMove" X="951" Y="330" Delay="16" />
+		<LLEvent Type="MouseMove" X="945" Y="332" Delay="0" />
+		<LLEvent Type="MouseMove" X="937" Y="334" Delay="15" />
+		<LLEvent Type="MouseMove" X="928" Y="335" Delay="0" />
+		<LLEvent Type="MouseMove" X="919" Y="336" Delay="16" />
+		<LLEvent Type="MouseMove" X="912" Y="337" Delay="0" />
+		<LLEvent Type="MouseMove" X="904" Y="337" Delay="15" />
+		<LLEvent Type="MouseMove" X="891" Y="337" Delay="16" />
+		<LLEvent Type="MouseMove" X="880" Y="337" Delay="0" />
+		<LLEvent Type="MouseMove" X="856" Y="337" Delay="16" />
+		<LLEvent Type="MouseMove" X="852" Y="337" Delay="0" />
+		<LLEvent Type="MouseMove" X="844" Y="337" Delay="15" />
+		<LLEvent Type="MouseMove" X="838" Y="337" Delay="0" />
+		<LLEvent Type="MouseMove" X="830" Y="337" Delay="16" />
+		<LLEvent Type="MouseMove" X="827" Y="337" Delay="0" />
+		<LLEvent Type="MouseMove" X="336" Y="335" Delay="391" />
+		<LLEvent Type="MouseMove" X="328" Y="335" Delay="0" />
+		<LLEvent Type="MouseMove" X="317" Y="334" Delay="15" />
+		<LLEvent Type="MouseMove" X="308" Y="334" Delay="0" />
+		<LLEvent Type="MouseMove" X="300" Y="334" Delay="16" />
+		<LLEvent Type="MouseMove" X="288" Y="334" Delay="0" />
+		<LLEvent Type="MouseMove" X="283" Y="334" Delay="15" />
+		<LLEvent Type="MouseMove" X="271" Y="334" Delay="0" />
+		<LLEvent Type="MouseMove" X="261" Y="334" Delay="16" />
+		<LLEvent Type="MouseMove" X="253" Y="334" Delay="16" />
+		<LLEvent Type="MouseMove" X="227" Y="334" Delay="0" />
+		<LLEvent Type="MouseMove" X="219" Y="334" Delay="15" />
+		<LLEvent Type="MouseMove" X="213" Y="334" Delay="0" />
+		<LLEvent Type="MouseMove" X="206" Y="334" Delay="16" />
+		<LLEvent Type="MouseMove" X="198" Y="334" Delay="0" />
+		<LLEvent Type="MouseMove" X="192" Y="334" Delay="16" />
+		<LLEvent Type="MouseMove" X="184" Y="334" Delay="15" />
+		<LLEvent Type="MouseMove" X="179" Y="334" Delay="0" />
+		<LLEvent Type="MouseMove" X="168" Y="334" Delay="16" />
+		<LLEvent Type="MouseMove" X="160" Y="335" Delay="0" />
+		<LLEvent Type="MouseMove" X="156" Y="335" Delay="15" />
+		<LLEvent Type="MouseMove" X="149" Y="336" Delay="0" />
+		<LLEvent Type="MouseMove" X="132" Y="338" Delay="16" />
+		<LLEvent Type="MouseMove" X="127" Y="339" Delay="0" />
+		<LLEvent Type="MouseMove" X="120" Y="340" Delay="16" />
+		<LLEvent Type="MouseMove" X="114" Y="340" Delay="15" />
+		<LLEvent Type="MouseMove" X="107" Y="342" Delay="0" />
+		<LLEvent Type="MouseMove" X="105" Y="342" Delay="16" />
+		<LLEvent Type="MouseMove" X="100" Y="343" Delay="0" />
+		<LLEvent Type="MouseMove" X="97" Y="344" Delay="16" />
+		<LLEvent Type="MouseMove" X="94" Y="345" Delay="0" />
+		<LLEvent Type="MouseMove" X="91" Y="346" Delay="15" />
+		<LLEvent Type="MouseMove" X="86" Y="347" Delay="0" />
+		<LLEvent Type="MouseMove" X="84" Y="349" Delay="16" />
+		<LLEvent Type="MouseMove" X="79" Y="351" Delay="15" />
+		<LLEvent Type="MouseMove" X="78" Y="353" Delay="0" />
+		<LLEvent Type="MouseMove" X="77" Y="353" Delay="16" />
+		<LLEvent Type="MouseMove" X="76" Y="354" Delay="0" />
+		<LLEvent Type="MouseMove" X="76" Y="355" Delay="16" />
+		<LLEvent Type="MouseMove" X="76" Y="356" Delay="0" />
+		<LLEvent Type="MouseMove" X="75" Y="356" Delay="15" />
+		<LLEvent Type="MouseMove" X="74" Y="357" Delay="0" />
+		<LLEvent Type="MouseMove" X="74" Y="358" Delay="16" />
+		<LLEvent Type="MouseMove" X="74" Y="358" Delay="16" />
+		<LLEvent Type="MouseMove" X="73" Y="358" Delay="0" />
+		<LLEvent Type="MouseMove" X="73" Y="359" Delay="15" />
+		<LLEvent Type="MouseMove" X="73" Y="360" Delay="0" />
+		<LLEvent Type="MouseMove" X="73" Y="361" Delay="16" />
+		<LLEvent Type="MouseMove" X="73" Y="361" Delay="0" />
+		<LLEvent Type="MouseMove" X="73" Y="362" Delay="15" />
+		<LLEvent Type="MouseMove" X="73" Y="362" Delay="16" />
+		<LLEvent Type="MouseMove" X="73" Y="363" Delay="16" />
+		<LLEvent Type="MouseMove" X="73" Y="363" Delay="15" />
+		<LLEvent Type="MouseMove" X="73" Y="364" Delay="16" />
+		<LLEvent Type="MouseMove" X="73" Y="365" Delay="16" />
+		<LLEvent Type="MouseMove" X="73" Y="365" Delay="15" />
+		<LLEvent Type="MouseMove" X="73" Y="366" Delay="16" />
+		<LLEvent Type="MouseMove" X="73" Y="367" Delay="0" />
+		<LLEvent Type="MouseMove" X="73" Y="368" Delay="15" />
+		<LLEvent Type="MouseMove" X="73" Y="369" Delay="0" />
+		<LLEvent Type="MouseMove" X="73" Y="369" Delay="16" />
+		<LLEvent Type="MouseMove" X="73" Y="370" Delay="16" />
+		<LLEvent Type="MouseMove" X="73" Y="370" Delay="15" />
+		<LLEvent Type="MouseMove" X="73" Y="371" Delay="0" />
+		<LLEvent Type="MouseMove" X="73" Y="371" Delay="16" />
+		<LLEvent Type="MouseMove" X="74" Y="372" Delay="16" />
+		<LLEvent Type="MouseMove" X="74" Y="373" Delay="15" />
+		<LLEvent Type="MouseMove" X="75" Y="374" Delay="16" />
+		<LLEvent Type="MouseMove" X="75" Y="375" Delay="15" />
+		<LLEvent Type="MouseMove" X="75" Y="375" Delay="16" />
+		<LLEvent Type="MouseMove" X="75" Y="376" Delay="16" />
+		<LLEvent Type="MouseMove" X="75" Y="376" Delay="47" />
+		<LLEvent Type="MouseDown" Button="Left" X="75" Y="376" Delay="625" />
+		<LLEvent Type="MouseUp" Button="Left" X="75" Y="376" Delay="93" />
+		<LLEvent Type="KeyDown" VK="160" Delay="2047" />
+		<LLEvent Type="KeyDown" VK="68" Delay="422" />
+		<LLEvent Type="KeyUp" VK="68" Delay="94" />
+		<LLEvent Type="KeyDown" VK="87" Delay="265" />
+		<LLEvent Type="KeyUp" VK="87" Delay="125" />
+		<LLEvent Type="KeyDown" VK="71" Delay="454" />
+		<LLEvent Type="KeyUp" VK="71" Delay="109" />
+		<LLEvent Type="KeyUp" VK="160" Delay="62" />
+		<LLEvent Type="KeyDown" VK="32" Delay="329" />
+		<LLEvent Type="KeyUp" VK="32" Delay="93" />
+		<LLEvent Type="KeyDown" VK="160" Delay="63" />
+		<LLEvent Type="KeyDown" VK="69" Delay="187" />
+		<LLEvent Type="KeyUp" VK="69" Delay="78" />
+		<LLEvent Type="KeyUp" VK="160" Delay="219" />
+		<LLEvent Type="KeyDown" VK="88" Delay="297" />
+		<LLEvent Type="KeyUp" VK="88" Delay="94" />
+		<LLEvent Type="KeyDown" VK="80" Delay="219" />
+		<LLEvent Type="KeyUp" VK="80" Delay="62" />
+		<LLEvent Type="KeyDown" VK="79" Delay="109" />
+		<LLEvent Type="KeyUp" VK="79" Delay="94" />
+		<LLEvent Type="KeyDown" VK="82" Delay="63" />
+		<LLEvent Type="KeyUp" VK="82" Delay="78" />
+		<LLEvent Type="KeyDown" VK="84" Delay="125" />
+		<LLEvent Type="KeyUp" VK="84" Delay="62" />
+		<LLEvent Type="KeyDown" VK="32" Delay="188" />
+		<LLEvent Type="KeyUp" VK="32" Delay="62" />
+		<LLEvent Type="KeyDown" VK="189" Delay="422" />
+		<LLEvent Type="KeyUp" VK="189" Delay="78" />
+		<LLEvent Type="KeyDown" VK="32" Delay="63" />
+		<LLEvent Type="KeyUp" VK="32" Delay="78" />
+		<LLEvent Type="KeyDown" VK="160" Delay="62" />
+		<LLEvent Type="KeyDown" VK="83" Delay="157" />
+		<LLEvent Type="KeyUp" VK="160" Delay="93" />
+		<LLEvent Type="KeyUp" VK="83" Delay="16" />
+		<LLEvent Type="KeyDown" VK="77" Delay="94" />
+		<LLEvent Type="KeyUp" VK="77" Delay="62" />
+		<LLEvent Type="KeyDown" VK="79" Delay="63" />
+		<LLEvent Type="KeyUp" VK="79" Delay="94" />
+		<LLEvent Type="KeyDown" VK="75" Delay="78" />
+		<LLEvent Type="KeyUp" VK="75" Delay="78" />
+		<LLEvent Type="KeyDown" VK="69" Delay="78" />
+		<LLEvent Type="KeyUp" VK="69" Delay="78" />
+		<LLEvent Type="KeyDown" VK="32" Delay="78" />
+		<LLEvent Type="KeyUp" VK="32" Delay="78" />
+		<LLEvent Type="KeyDown" VK="160" Delay="16" />
+		<LLEvent Type="KeyDown" VK="84" Delay="187" />
+		<LLEvent Type="KeyUp" VK="160" Delay="32" />
+		<LLEvent Type="KeyUp" VK="84" Delay="47" />
+		<LLEvent Type="KeyDown" VK="69" Delay="93" />
+		<LLEvent Type="KeyUp" VK="69" Delay="47" />
+		<LLEvent Type="KeyDown" VK="83" Delay="313" />
+		<LLEvent Type="KeyUp" VK="83" Delay="93" />
+		<LLEvent Type="KeyDown" VK="84" Delay="157" />
+		<LLEvent Type="KeyUp" VK="84" Delay="62" />
+		<LLEvent Type="KeyDown" VK="190" Delay="360" />
+		<LLEvent Type="KeyUp" VK="190" Delay="78" />
+		<LLEvent Type="KeyDown" VK="160" Delay="62" />
+		<LLEvent Type="KeyDown" VK="68" Delay="172" />
+		<LLEvent Type="KeyUp" VK="68" Delay="78" />
+		<LLEvent Type="KeyDown" VK="87" Delay="156" />
+		<LLEvent Type="KeyUp" VK="87" Delay="110" />
+		<LLEvent Type="KeyDown" VK="71" Delay="234" />
+		<LLEvent Type="KeyUp" VK="160" Delay="78" />
+		<LLEvent Type="KeyUp" VK="71" Delay="16" />
+		<LLEvent Type="KeyDown" VK="13" Delay="469" />
+		<LLEvent Type="KeyUp" VK="13" Delay="78" />
+	</LLP>
+</Root>

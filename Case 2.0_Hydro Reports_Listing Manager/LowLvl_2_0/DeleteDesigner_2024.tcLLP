@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{62402E6C-6E6D-4AA5-9AFF-5A20AD691C44}" version="15.0">
+	<LLP>
+		<LLEvent Type="MouseDown" Button="Left" X="1081" Y="565" Delay="1546" />
+		<LLEvent Type="MouseUp" Button="Left" X="1081" Y="565" Delay="63" />
+		<LLEvent Type="MouseDown" Button="Left" X="1028" Y="553" Delay="1375" />
+		<LLEvent Type="MouseUp" Button="Left" X="1028" Y="553" Delay="31" />
+	</LLP>
+</Root>

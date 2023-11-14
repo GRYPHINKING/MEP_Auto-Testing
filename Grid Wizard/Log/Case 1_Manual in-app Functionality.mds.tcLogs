@@ -20,53 +20,7 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="folders"/>
-		<Node name="logs">
-			<Node name="log idx=0000">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45225.6196837153"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{FD19CA94-7255-4175-855C-6E672E48FE93}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [_0_Start_App_Update_Parts]"/>
-				<Prp name="relpath" type="S" value="10_26_2023_2_52 PM_20_673\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log idx=0001">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45225.6214556134"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{3EAD61DF-E3BA-40B7-AFAE-99CE8EB1E53C}"/>
-				<Prp name="nameofroot" type="S" value="Case 1_Manual in-app Functionality"/>
-				<Prp name="relpath" type="S" value="10_26_2023_2_54 PM_53_765\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log idx=0002">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45225.6221126968"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{5D911A35-2211-4270-826F-45B0B5A58B7A}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [_0_Start_App_Update_Parts]"/>
-				<Prp name="relpath" type="S" value="10_26_2023_2_55 PM_50_538\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log idx=0003">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45225.623016956"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{33ACFD9D-3CDA-4E56-AA9E-4AE6015F2B6D}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [_0_Start_App_Update_Parts]"/>
-				<Prp name="relpath" type="S" value="10_26_2023_2_57 PM_08_665\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-			<Node name="log idx=0004">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="45225.6238524306"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{6E4892F4-4B72-49B6-9EF2-6C6324BEDB78}"/>
-				<Prp name="nameofroot" type="S" value="Case 1_Manual in-app Functionality"/>
-				<Prp name="relpath" type="S" value="10_26_2023_2_58 PM_20_850\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
-			</Node>
-		</Node>
+		<Node name="logs"/>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
 		<Prp name="version" type="S" value="11.0"/>
 	</Node>

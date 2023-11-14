@@ -23,26 +23,27 @@
 			</Extenders>
 		</Data>
 		<Children>
-			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
-				<Data VariableType="1" VariableName="SPRINK_YEAR">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="NewValue" DefVarType="0" ParamType="{91E40FC5-34AB-4B37-B86A-789030413699}" Parameter="AS_2023Para" />
-					</Parameters>
-				</Data>
-			</Operation>
 			<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
 				<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
 					<CommonData WaitTimeout="2000" />
 					<Root Type="1" Operator="0">
 						<Left DefVarType="0" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="1" VariableName="SPRINK_YEAR" />
-						<Right DefVarType="0" ParamType="{91E40FC5-34AB-4B37-B86A-789030413699}" Parameter="AS_2024Para" />
+						<Right DefVarType="0" VarType="3" ValueType="1" ValueValue="2024" />
 					</Root>
 				</Data>
 				<Children>
 					<Operation Type="{CAAA7522-FB54-4521-BF2F-29D327FC9341}">
 						<Data Description="Deletes the specified file. " Action="Delete">
 							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-								<Parameter Name="PathToFile" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\ProgramData\AutoSPRINK 2024 ALPHA\*.mdf&quot;" />
+								<Parameter Name="PathToFile" DefVarType="8" VarType="8" ValueType="6" ValueValue="C:\ProgramData\AutoSPRINK 2024 ALPHA\*.mdf" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="aqFile" />
+						</Data>
+					</Operation>
+					<Operation Type="{CAAA7522-FB54-4521-BF2F-29D327FC9341}">
+						<Data Description="Deletes the specified file. " Action="Delete">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="PathToFile" DefVarType="8" VarType="8" ValueType="6" ValueValue="C:\ProgramData\AutoSPRINK 2024 ALPHA\*.ldf" />
 							</Parameters>
 							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="aqFile" />
 						</Data>
@@ -56,6 +57,180 @@
 							</Parameters>
 						</Data>
 					</Operation>
+					<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+						<Data Description="Delays the test execution for the specified time period.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="17500" />
+								<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+						<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="UpdateParts2024_Check">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.AutoSPRINKx64.dlg" />
+								<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="UpdateParts2024_Check_Mask" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg.btnYes" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg.btnOK" />
+						</Data>
+					</Operation>
+					<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
+						<Data>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg" />
+						</Data>
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg.btn" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Reset Panes" />
+										<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+										<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+											<Values IsEnum="True">
+												<Value Type="1" Value="0" Text="skNoShift" />
+												<Value Type="1" Value="8192" Text="skShift" />
+												<Value Type="1" Value="32768" Text="skAlt" />
+												<Value Type="1" Value="16384" Text="skCtrl" />
+											</Values>
+										</Parameter>
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
+								</Data>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+						<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+							<Root Type="1" Operator="0">
+								<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.AutoSPRINKx64.wndAfx.Afx6.Left" />
+								<Right DefVarType="0" VarType="3" ValueType="1" ValueValue="388" />
+							</Root>
+						</Data>
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Drags the &apos;%n&apos; object." Action="Drag">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="ClientX" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+										<Parameter Name="ClientY" DefVarType="3" VarType="3" ValueType="1" ValueValue="47" />
+										<Parameter Name="toX" DefVarType="3" VarType="3" ValueType="1" ValueValue="-59" />
+										<Parameter Name="toY" DefVarType="3" VarType="3" ValueType="1" ValueValue="3" />
+										<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="skNoShift">
+											<Values IsEnum="True">
+												<Value Type="1" Value="0" Text="skNoShift" />
+												<Value Type="1" Value="8192" Text="skShift" />
+												<Value Type="1" Value="32768" Text="skAlt" />
+												<Value Type="1" Value="16384" Text="skCtrl" />
+											</Values>
+										</Parameter>
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx6" />
+								</Data>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Show/Hide All Panes" />
+								<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Show/Hide All Panes" />
+								<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
+						</Data>
+					</Operation>
+					<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+						<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="LayerPaneWidth_Check">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 8, 189, 697, 788, False)" />
+								<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="LayerPaneWidth_Check_Mask" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{CAAA7522-FB54-4521-BF2F-29D327FC9341}">
+						<Data Description="Executes the low-level procedure." Action="Execute">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Window" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="LLR_Case1.HelpMenu_VersionNum" />
+						</Data>
+					</Operation>
+					<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+						<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="Help_About">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.AutoSPRINKx64.dlg" />
+								<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="Help_About_Mask" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg" />
+						</Data>
+					</Operation>
+					<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+						<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="Resources_StartScreen">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 1486, 169, 421, 447, False)" />
+								<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="Resources_StartScreen_Mask" />
+							</Parameters>
+						</Data>
+					</Operation>
 				</Children>
 			</Operation>
 			<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
@@ -63,7 +238,7 @@
 					<CommonData WaitTimeout="2000" />
 					<Root Type="1" Operator="0">
 						<Left DefVarType="0" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="1" VariableName="SPRINK_YEAR" />
-						<Right DefVarType="0" ParamType="{91E40FC5-34AB-4B37-B86A-789030413699}" Parameter="AS_2023Para" />
+						<Right DefVarType="0" VarType="3" ValueType="1" ValueValue="2023" />
 					</Root>
 				</Data>
 				<Children>
@@ -84,55 +259,75 @@
 							</Parameters>
 						</Data>
 					</Operation>
-				</Children>
-			</Operation>
-			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
-				<Data Description="Delays the test execution for the specified time period.">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="11000" />
-						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
-					</Parameters>
-				</Data>
-			</Operation>
-			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
-				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="UpdateParts_dlgAutoSPRINK2023_Check_Start">
-					<CommonData WaitTimeout="25000" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023" />
-						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="309" />
-						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="8" />
-						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="UpdateParts_dlgAutoSPRINK2023_Check_Start_Mask" />
-					</Parameters>
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg.btnYes" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
-				<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-					<Root Type="1" Operator="0">
-						<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.AutoSPRINKx64.wndAfx.Afx6.Left" />
-						<Right DefVarType="0" VarType="3" ValueType="1" ValueValue="388" />
-					</Root>
-				</Data>
-				<Children>
-					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-						<Data Description="Drags the &apos;%n&apos; object." Action="Drag">
+					<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+						<Data Description="Delays the test execution for the specified time period.">
 							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-								<Parameter Name="ClientX" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
-								<Parameter Name="ClientY" DefVarType="3" VarType="3" ValueType="1" ValueValue="47" />
-								<Parameter Name="toX" DefVarType="3" VarType="3" ValueType="1" ValueValue="-59" />
-								<Parameter Name="toY" DefVarType="3" VarType="3" ValueType="1" ValueValue="3" />
-								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="skNoShift">
+								<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="14000" />
+								<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
+						<Data>
+							<CommonData WaitTimeout="4000" />
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023" />
+						</Data>
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnOK" />
+								</Data>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
+						<Data>
+							<CommonData WaitTimeout="3500" />
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023" />
+						</Data>
+						<Children>
+							<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+								<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="UpdateParts_dlgAutoSPRINK2023_Check_Start">
+									<CommonData WaitTimeout="25000" />
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023" />
+										<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+										<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+										<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="309" />
+										<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="8" />
+										<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="UpdateParts_dlgAutoSPRINK2023_Check_Start_Mask" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+									<CommonData WaitTimeout="3000" />
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg.btnYes" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+									<CommonData WaitTimeout="3000" />
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgAutoSPRINK2023.btnOK" />
+								</Data>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+						<Data Description="Delays the test execution for the specified time period.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="900" />
+								<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
+							<CommonData WaitTimeout="3000" />
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Reset Panes" />
+								<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
 									<Values IsEnum="True">
 										<Value Type="1" Value="0" Text="skNoShift" />
 										<Value Type="1" Value="8192" Text="skShift" />
@@ -141,108 +336,127 @@
 									</Values>
 								</Parameter>
 							</Parameters>
-							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx6" />
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Show/Hide All Panes" />
+								<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Show/Hide All Panes" />
+								<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
+						</Data>
+					</Operation>
+					<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+						<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+							<Root Type="1" Operator="0">
+								<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.AutoSPRINKx64.wndAfx.Afx6.Left" />
+								<Right DefVarType="0" VarType="3" ValueType="1" ValueValue="388" />
+							</Root>
+						</Data>
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Drags the &apos;%n&apos; object." Action="Drag">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="ClientX" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+										<Parameter Name="ClientY" DefVarType="3" VarType="3" ValueType="1" ValueValue="47" />
+										<Parameter Name="toX" DefVarType="3" VarType="3" ValueType="1" ValueValue="-59" />
+										<Parameter Name="toY" DefVarType="3" VarType="3" ValueType="1" ValueValue="3" />
+										<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="skNoShift">
+											<Values IsEnum="True">
+												<Value Type="1" Value="0" Text="skNoShift" />
+												<Value Type="1" Value="8192" Text="skShift" />
+												<Value Type="1" Value="32768" Text="skAlt" />
+												<Value Type="1" Value="16384" Text="skCtrl" />
+											</Values>
+										</Parameter>
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx6" />
+								</Data>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+						<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="LayerPaneWidth_Check">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 8, 189, 697, 788, False)" />
+								<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="LayerPaneWidth_Check_Mask" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{CAAA7522-FB54-4521-BF2F-29D327FC9341}">
+						<Data Description="Executes the low-level procedure." Action="Execute">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Window" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="LLR_Case1.HelpMenu_VersionNum" />
+						</Data>
+					</Operation>
+					<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+						<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="Help_About">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.AutoSPRINKx64.dlg" />
+								<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="260" />
+								<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="Help_About_Mask" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg" />
+						</Data>
+					</Operation>
+					<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
+						<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="Resources_StartScreen">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 1486, 169, 421, 447, False)" />
+								<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="18009" />
+								<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="Resources_StartScreen_Mask" />
+							</Parameters>
 						</Data>
 					</Operation>
 				</Children>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Show/Hide All Panes" />
-						<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
-							<Values IsEnum="True">
-								<Value Type="1" Value="0" Text="skNoShift" />
-								<Value Type="1" Value="8192" Text="skShift" />
-								<Value Type="1" Value="32768" Text="skAlt" />
-								<Value Type="1" Value="16384" Text="skCtrl" />
-							</Values>
-						</Parameter>
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Show/Hide All Panes" />
-						<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
-							<Values IsEnum="True">
-								<Value Type="1" Value="0" Text="skNoShift" />
-								<Value Type="1" Value="8192" Text="skShift" />
-								<Value Type="1" Value="32768" Text="skAlt" />
-								<Value Type="1" Value="16384" Text="skCtrl" />
-							</Values>
-						</Parameter>
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.wndAfx.Afx2.Snaps" />
-				</Data>
-			</Operation>
-			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
-				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="LayerPaneWidth_Check">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 8, 189, 697, 788, False)" />
-						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
-						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
-						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="LayerPaneWidth_Check_Mask" />
-					</Parameters>
-				</Data>
-			</Operation>
-			<Operation Type="{CAAA7522-FB54-4521-BF2F-29D327FC9341}">
-				<Data Description="Executes the low-level procedure." Action="Execute">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Window" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="LLR_Case1.HelpMenu_VersionNum" />
-				</Data>
-			</Operation>
-			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
-				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="Help_About">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.AutoSPRINKx64.dlg" />
-						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
-						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
-						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="Help_About_Mask" />
-					</Parameters>
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlg" />
-				</Data>
-			</Operation>
-			<Operation Type="{5006C6DA-7702-45C5-B4BB-DCBD0DC7B03E}">
-				<Data Description="Compares the %n Stores item with the image of the %p1 object." Checkpoint="Resources_StartScreen">
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Picture" DefVarType="12" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Regions.CreateRegionInfo(Aliases.AutoSPRINKx64.wndAfx, 1486, 169, 421, 447, False)" />
-						<Parameter Name="Transparent" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="Mouse" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
-						<Parameter Name="PixelTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
-						<Parameter Name="ColorTolerance" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
-						<Parameter Name="Mask" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="8" ValueType="6" ValueValue="Resources_StartScreen_Mask" />
-					</Parameters>
-				</Data>
-			</Operation>
 		</Children>
 	</TestData>
-	<Variables Version="4" Key="{91346307-7452-41F3-BA59-3FFC7B373773}">
-		<Items>
-			<Variable Name="DeleteBackupParts" Type="Object" Local="False" Descr="Parts.mdb">
-				<DefValue />
-			</Variable>
-		</Items>
-	</Variables>
-	<Parameters Key="{0643A60B-69EA-4E7C-8E0F-DC5FE832EB69}">
-		<Parameter0 Name="AS_2023Para" VarType="3" IsOptional="True" DefValueType="1" DefValueValue="2023" Description="" />
-		<Parameter1 Name="AS_2024Para" VarType="3" IsOptional="True" DefValueType="1" DefValueValue="2024" Description="" />
-	</Parameters>
+	<Parameters Key="{0643A60B-69EA-4E7C-8E0F-DC5FE832EB69}" />
 </Root>

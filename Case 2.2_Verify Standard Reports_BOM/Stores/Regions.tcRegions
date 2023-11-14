@@ -1087,5 +1087,8 @@
 		<child name="Afx_BOMat_Check_Mask" key="{E70A095F-F3F5-4AE7-951D-20B03C7563D3}">
 			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_BOMat_Check_Mask" ID="{E70A095F-F3F5-4AE7-951D-20B03C7563D3}" FileName="Regions\Afx_BOMat_Check_Mask.png" Update="False" />
 		</child>
+		<child name="Afx_PipeLine_Check_Mask1" key="{2D8D8DF5-D480-4408-96FA-70D7B53692C0}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Afx_PipeLine_Check_Mask1" ID="{2D8D8DF5-D480-4408-96FA-70D7B53692C0}" FileName="Regions\Afx_PipeLine_Check_Mask1.png" Update="False" />
+		</child>
 	</children>
 </Root>

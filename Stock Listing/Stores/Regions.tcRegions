@@ -31,5 +31,8 @@
 		<child name="P2S5_Check_Mask" key="{86EA8882-A003-4FB9-B03B-19F5FDD44D5C}">
 			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S5_Check_Mask" ID="{86EA8882-A003-4FB9-B03B-19F5FDD44D5C}" FileName="Regions\P2S5_Check_Mask.png" Update="False" />
 		</child>
+		<child name="P2S4_Check_Mask1" key="{F0B18451-41DD-44EC-81C2-BE9A0DDD5E32}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="P2S4_Check_Mask1" ID="{F0B18451-41DD-44EC-81C2-BE9A0DDD5E32}" FileName="Regions\P2S4_Check_Mask1.png" Update="False" />
+		</child>
 	</children>
 </Root>

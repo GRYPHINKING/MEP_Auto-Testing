@@ -4948,6 +4948,18 @@
 											</Child>
 										</Children>
 									</Child>
+									<Child Name="Static2" Key="{59F6829D-B000-482B-B79E-1D7565C67586}">
+										<Image FileName="1533045150" Left="70" Top="64" Right="223" Bottom="79" />
+										<TypeInfo Item0="{F005EC5E-A7C4-44CA-A277-4529B93A3975}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="No error message is available." />
+											</Property>
+										</Properties>
+									</Child>
 								</Children>
 							</Child>
 						</Children>
@@ -11490,6 +11502,7 @@
 						</Child>
 					</Child>
 				</Child>
+				<Child Name="Static2" Owner="{59F6829D-B000-482B-B79E-1D7565C67586}" />
 			</Child>
 		</Child>
 		<Child Name="MEPCRViewer" Owner="{D97F8614-0973-4031-839B-3E69CAC47F19}">

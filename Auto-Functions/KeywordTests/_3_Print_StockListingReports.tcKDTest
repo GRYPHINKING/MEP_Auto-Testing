@@ -95,41 +95,6 @@
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the %p1 item of the &apos;%n&apos; tree." Action="ClickItem">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="|Desktop|SPRINK Reports - Test Results_Export_Print" />
-						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
-							<Values IsEnum="True">
-								<Value Type="1" Value="0" Text="skNoShift" />
-								<Value Type="1" Value="8192" Text="skShift" />
-								<Value Type="1" Value="32768" Text="skAlt" />
-								<Value Type="1" Value="16384" Text="skCtrl" />
-							</Values>
-						</Parameter>
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs.DUIViewWndClassName.Explorer_Pane.CtrlNotifySink.NamespaceTreeControl.tvNamespaceTreeControl" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Double-clicks the &apos;%n&apos; object." Action="DblClick">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="86" />
-						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="2" />
-						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
-							<Values IsEnum="True">
-								<Value Type="1" Value="0" Text="skNoShift" />
-								<Value Type="1" Value="8192" Text="skShift" />
-								<Value Type="1" Value="32768" Text="skAlt" />
-								<Value Type="1" Value="16384" Text="skCtrl" />
-							</Values>
-						</Parameter>
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs.DUIViewWndClassName.Explorer_Pane.CtrlNotifySink2.ShellView.Items_View.a_StockListing_Print_CoverSheet_pdf.Name" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnSelectAll" />
 				</Data>
@@ -205,28 +170,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.1b StockListing_Export_CoverSheet.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -283,28 +226,6 @@
 						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.2b StockListing_Export_MaterialSummary.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
 				</Data>
 			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
@@ -365,28 +286,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.3b StockListing_Export_ThreadedMaterialSummary.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -445,28 +344,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.4b StockListing_Export_WeldedMaterialSummary.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -523,28 +400,6 @@
 						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.5b StockListing_Export_HangerMaterial.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
 				</Data>
 			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
@@ -613,28 +468,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.6b StockListing_Export_HangerDetail.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -691,28 +524,6 @@
 						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.7b StockListing_Export_DetailList.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
 				</Data>
 			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
@@ -773,28 +584,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.8b StockListing_Export_SprinklerSummary.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -851,28 +640,6 @@
 						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.9b StockListing_Export_LooseMaterial.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
 				</Data>
 			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
@@ -942,28 +709,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.10b StockListing_Export_NonGraphicalWeldedMains.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -1020,28 +765,6 @@
 						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.11b Stocklisting_Export_NonGraphicalWeldedBranchlines.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
 				</Data>
 			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
@@ -1111,28 +834,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.12b StockListing_Export_WeldedMains.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -1191,28 +892,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.13b Stocklisting_Export_WeldedBranchlines.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -1269,28 +948,6 @@
 						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.14b Stocklisting_Export_ThreadedFabReport.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
 				</Data>
 			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
@@ -1360,28 +1017,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.15b Stocklisting_Export_ThreadedFabBySize.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -1440,28 +1075,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.16b Stocklisting_Export_ThreadedBranchlineReport.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -1518,28 +1131,6 @@
 						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.17b StockListing_Export_Pipelines.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
 				</Data>
 			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
@@ -1608,28 +1199,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.18b StockListing_Export_ThreadedPipelines.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -1696,28 +1265,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.19b StockListing_Export_WeldedPipelines.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -1774,28 +1321,6 @@
 						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.20b StockListing_Export_OtherPipelines.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
 				</Data>
 			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
@@ -1864,28 +1389,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.21b Stocklisting_Export_ThreadedCutPipe.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -1950,28 +1453,6 @@
 						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.22b Stocklisting_Export_WeldedCutPipe.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
 				</Data>
 			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
@@ -2040,28 +1521,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.23b StockListing_Export_ThreadedLabels.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -2128,28 +1587,6 @@
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
 				</Data>
 			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.24b Stocklisting_Export_WeldedLabels.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
-				</Data>
-			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
 				<Data>
 					<CommonData Disabled="True" />
@@ -2214,28 +1651,6 @@
 						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.gui.dlgSaveAs" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgStockListingReports.btnExportReports" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<CommonData Disabled="True" />
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgExportReport.btnOK" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Saves the file with the fully-qualified name." Action="SaveFile">
-					<CommonData Disabled="True" />
-					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-						<Parameter Name="FileName" DefVarType="8" VarType="8" ValueType="6" ValueValue="&quot;C:\Users\B.Chambers\Desktop\AutomationTesting\SmokeTesting\SPRINK Smoke Testing Documentation\SPRINK Reports - Test Results_Export_Print\0.25b StockListing_Export_OtherPipe.PDF&quot;" />
-						<Parameter Name="FileType" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
-					<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.AutoSPRINKx64.dlgSaveAs" />
 				</Data>
 			</Operation>
 			<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">

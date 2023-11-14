@@ -43,7 +43,6 @@
 										<Children>
 											<Child Name="Item" Key="{1613908E-798E-4E0F-A729-521FFA7B451C}">
 												<Image FileName="886247853" Left="0" Top="46" Right="594" Bottom="92" />
-												<TypeInfo Item0="{A9CCE8E5-E3F3-4EA6-A634-69B5749A1E28}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Afx:ToolBar:400000*" />
@@ -55,7 +54,6 @@
 											</Child>
 											<Child Name="Item2" Key="{B198A180-9D77-4753-A3A4-8AE77604B8D3}">
 												<Image FileName="262557182" Left="0" Top="92" Right="1871" Bottom="138" />
-												<TypeInfo Item0="{A9CCE8E5-E3F3-4EA6-A634-69B5749A1E28}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Afx:ToolBar:400000*" />
@@ -67,7 +65,6 @@
 											</Child>
 											<Child Name="toolbarMenuBar" Key="{1BEF28A8-833D-450E-A2B7-258A771D8E44}">
 												<Image FileName="1265462280" Left="0" Top="23" Right="1920" Bottom="46" />
-												<TypeInfo Item0="{A9CCE8E5-E3F3-4EA6-A634-69B5749A1E28}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Afx:ToolBar:400000*" />
@@ -116,7 +113,6 @@
 																<Children>
 																	<Child Name="Afx" Key="{42221819-97B2-4970-B6CE-8EBE64A6CA92}">
 																		<Image FileName="1564545820" Left="1081" Top="210" Right="1865" Bottom="942" />
-																		<TypeInfo Item0="{750DF7D8-4F68-4E10-8B5B-4D8D29A59F15}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="Afx:0000000000400000:2b*" />
@@ -134,7 +130,6 @@
 											</Child>
 											<Child Name="wndAfx" Key="{0C6D396F-2DF6-4AB9-B8AD-1161B5BE95AD}">
 												<Image FileName="-2004847696" Left="1079" Top="185" Right="1883" Bottom="978" />
-												<TypeInfo Item0="{DD322E9E-156B-4C52-8979-61B71DF0580A}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Afx:0000000000400000:b*" />
@@ -146,7 +141,6 @@
 												<Children>
 													<Child Name="AfxFrameOrView140u" Key="{F0D04214-3D20-41F3-BD3D-911173657642}">
 														<Image FileName="-2004847696" Left="1087" Top="216" Right="1875" Bottom="970" />
-														<TypeInfo Item0="{20A30A25-DE4E-4B1A-95C8-54D8C923A273}" />
 														<Properties>
 															<Property Name="WndClass">
 																<Value Value="AfxFrameOrView140u" />
@@ -155,7 +149,6 @@
 														<Children>
 															<Child Name="Afx" Key="{51505BAF-B5D5-444F-A50B-F0085BA17831}">
 																<Image FileName="-2004847696" Left="1088" Top="217" Right="1873" Bottom="970" />
-																<TypeInfo Item0="{20A30A25-DE4E-4B1A-95C8-54D8C923A273}" />
 																<Properties>
 																	<Property Name="WndClass">
 																		<Value Value="Afx:TabWnd:400000*" />
@@ -164,7 +157,6 @@
 																<Children>
 																	<Child Name="Afx" Key="{1D283232-CE2A-4019-A6BC-60585E8AD518}">
 																		<Image FileName="-2004847696" Left="1089" Top="218" Right="1873" Bottom="950" />
-																		<TypeInfo Item0="{20A30A25-DE4E-4B1A-95C8-54D8C923A273}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="Afx:0000000000400000:2b*" />
@@ -176,7 +168,6 @@
 																	</Child>
 																	<Child Name="Model" Key="{E2A1A022-A4C4-4652-AFA2-DC2EBB8AC4FC}">
 																		<Image FileName="652932668" Left="1081" Top="210" Right="1865" Bottom="942" />
-																		<TypeInfo Item0="{750DF7D8-4F68-4E10-8B5B-4D8D29A59F15}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="Afx:0000000000400000:2b*" />
@@ -229,7 +220,6 @@
 																		<Children>
 																			<Child Name="InternetExplorerServer" Key="{619FDFD4-D022-4DE7-B96C-68AB3A9BA25C}">
 																				<Image FileName="519228297" Left="1079" Top="208" Right="1867" Bottom="962" />
-																				<TypeInfo Item0="{750DF7D8-4F68-4E10-8B5B-4D8D29A59F15}" />
 																				<Properties>
 																					<Property Name="WndClass">
 																						<Value Value="Internet Explorer_Server" />
@@ -246,7 +236,6 @@
 											</Child>
 											<Child Name="wndDrawing2" Key="{AB527756-11C7-4C08-89FE-5DEAA708AC39}">
 												<Image FileName="1486567964" Left="1079" Top="185" Right="1883" Bottom="978" />
-												<TypeInfo Item0="{DD322E9E-156B-4C52-8979-61B71DF0580A}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Afx:0000000000400000:b*" />
@@ -258,7 +247,6 @@
 												<Children>
 													<Child Name="AfxFrameOrView140u" Key="{E6C700AC-F0AB-4292-ADC4-3F430F2E7608}">
 														<Image FileName="1486567964" Left="1087" Top="216" Right="1875" Bottom="970" />
-														<TypeInfo Item0="{20A30A25-DE4E-4B1A-95C8-54D8C923A273}" />
 														<Properties>
 															<Property Name="WndClass">
 																<Value Value="AfxFrameOrView140u" />
@@ -267,7 +255,6 @@
 														<Children>
 															<Child Name="Afx" Key="{29E6C9F1-AFE4-4B20-841E-41B518766DAA}">
 																<Image FileName="1486567964" Left="1088" Top="217" Right="1873" Bottom="970" />
-																<TypeInfo Item0="{20A30A25-DE4E-4B1A-95C8-54D8C923A273}" />
 																<Properties>
 																	<Property Name="WndClass">
 																		<Value Value="Afx:TabWnd:400000*" />
@@ -276,7 +263,6 @@
 																<Children>
 																	<Child Name="Model" Key="{F6EA39C3-8672-424D-BD5D-42294B943E04}">
 																		<Image FileName="1486567964" Left="1089" Top="218" Right="1873" Bottom="950" />
-																		<TypeInfo Item0="{20A30A25-DE4E-4B1A-95C8-54D8C923A273}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="Afx:0000000000400000:2b*" />
@@ -310,7 +296,6 @@
 										<Children>
 											<Child Name="toolbarViewRotator" Key="{287B34C1-05FF-4069-8C2E-38403430ADE6}">
 												<Image FileName="477167431" Left="699" Top="986" Right="1883" Bottom="1032" />
-												<TypeInfo Item0="{A9CCE8E5-E3F3-4EA6-A634-69B5749A1E28}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Afx:ToolBar:400000*" />
@@ -322,7 +307,6 @@
 											</Child>
 											<Child Name="Snaps" Key="{EBC53A2C-91E6-4CBD-B288-27338925AE0E}">
 												<Image FileName="1600507433" Left="0" Top="986" Right="557" Bottom="1032" />
-												<TypeInfo Item0="{A9CCE8E5-E3F3-4EA6-A634-69B5749A1E28}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Afx:ToolBar:400000*" />
@@ -366,7 +350,6 @@
 														<Children>
 															<Child Name="ListView" Key="{38D9D810-943B-4CC3-BA2A-88D6DB261BCB}">
 																<Image FileName="56736236" Left="3" Top="251" Right="218" Bottom="942" />
-																<TypeInfo Item0="{BE467DEA-019C-48D8-A26E-D37791183A59}" />
 																<Properties>
 																	<Property Name="WndClass">
 																		<Value Value="SysListView32" />
@@ -375,7 +358,6 @@
 																<Children>
 																	<Child Name="Header" Key="{45491538-F711-4BFC-A8C1-3294ABD99B95}">
 																		<Image FileName="-1536886345" Left="3" Top="251" Right="218" Bottom="270" />
-																		<TypeInfo Item0="{BE467DEA-019C-48D8-A26E-D37791183A59}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="SysHeader32" />
@@ -386,7 +368,6 @@
 															</Child>
 															<Child Name="Item" Key="{F8750593-6D02-4618-B00F-9D2C90FD6906}">
 																<Image FileName="-577238788" Left="3" Top="207" Right="218" Bottom="251" />
-																<TypeInfo Item0="{A9CCE8E5-E3F3-4EA6-A634-69B5749A1E28}" />
 																<Properties>
 																	<Property Name="WndClass">
 																		<Value Value="Afx:ToolBar:400000*" />
@@ -412,7 +393,6 @@
 										<Children>
 											<Child Name="ListView" Key="{CE908558-6297-438C-8336-138321831767}">
 												<Image FileName="-575694480" Left="225" Top="248" Right="367" Bottom="823" />
-												<TypeInfo Item0="{BE467DEA-019C-48D8-A26E-D37791183A59}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="SysListView32" />
@@ -423,7 +403,6 @@
 									</Child>
 									<Child Name="Afx3" Key="{6F0B07E7-21B2-4B5C-8228-60D672A6F887}">
 										<Image FileName="-239876035" Left="221" Top="184" Right="225" Bottom="967" />
-										<TypeInfo Item0="{750DF7D8-4F68-4E10-8B5B-4D8D29A59F15}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Afx:Slider:400000*" />
@@ -438,7 +417,6 @@
 									</Child>
 									<Child Name="Afx4" Key="{45FE4DFD-CAF5-4D84-AD46-2B0C5E28C14A}">
 										<Image FileName="670862193" Left="1074" Top="184" Right="1872" Bottom="967" />
-										<TypeInfo Item0="{884E195D-BE32-499A-ABFD-D84D9A2A51D2}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Afx:TabWnd:400000*" />
@@ -460,7 +438,6 @@
 								<Children>
 									<Child Name="tbcFabricationStandards" Key="{EEFE6B6F-B843-4711-9FEB-510D8A736DD8}">
 										<Image FileName="-25009409" Left="14" Top="38" Right="582" Bottom="831" />
-										<TypeInfo Item0="{884E195D-BE32-499A-ABFD-D84D9A2A51D2}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="SysTabControl32" />
@@ -480,7 +457,6 @@
 										<Children>
 											<Child Name="btnAddProfile" Key="{F285065B-D4A8-4DA5-8697-9B92E669E772}">
 												<Image FileName="-418479026" Left="202" Top="138" Right="275" Bottom="161" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -492,7 +468,6 @@
 											</Child>
 											<Child Name="btnAddHanger" Key="{A03DD68A-F8A1-4401-8123-3941979083BF}">
 												<Image FileName="1171643771" Left="102" Top="460" Right="199" Bottom="483" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -504,7 +479,6 @@
 											</Child>
 											<Child Name="btnEditProfile" Key="{83376D6E-30BA-4D06-9953-1B35FDEFDF0C}">
 												<Image FileName="-1595670776" Left="278" Top="138" Right="352" Bottom="161" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -516,7 +490,6 @@
 											</Child>
 											<Child Name="btnExportProfile" Key="{B6D25F68-5C27-40DE-A026-75DB2284512F}">
 												<Image FileName="-1595670776" Left="306" Top="172" Right="416" Bottom="195" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -528,7 +501,6 @@
 											</Child>
 											<Child Name="btnDeleteProfile" Key="{55040A14-A7CD-42CB-A59E-A6A106AC6223}">
 												<Image FileName="160172066" Left="477" Top="138" Right="569" Bottom="161" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -540,7 +512,6 @@
 											</Child>
 											<Child Name="btnImportProfile" Key="{7DCEB505-4B3C-47E9-8063-4D5373FC405F}">
 												<Image FileName="1171954263" Left="189" Top="172" Right="298" Bottom="195" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -552,7 +523,6 @@
 											</Child>
 											<Child Name="ComboBox" Key="{96EB9174-C5AB-46C9-B5CF-D423985F6969}">
 												<Image FileName="1112498313" Left="72" Top="140" Right="196" Bottom="161" />
-												<TypeInfo Item0="{05932AFF-61C3-48B3-84E6-6CFCBFC720D6}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="ComboBox" />
@@ -561,7 +531,6 @@
 											</Child>
 											<Child Name="btnRemoveAll" Key="{E79B3C93-6E1D-498F-8A6A-4BAC03EC460A}">
 												<Image FileName="-317538212" Left="360" Top="460" Right="494" Bottom="483" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -573,7 +542,6 @@
 											</Child>
 											<Child Name="btnResetDefaultProfile" Key="{9325EDB2-0725-493B-A37F-64857CBF3FF9}">
 												<Image FileName="-861078847" Left="355" Top="138" Right="474" Bottom="161" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -587,7 +555,6 @@
 									</Child>
 									<Child Name="btnOK" Key="{3687ADC4-C3A7-464A-9D99-93F9C6BA8344}">
 										<Image FileName="-721898524" Left="345" Top="837" Right="420" Bottom="860" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -610,7 +577,6 @@
 										<Children>
 											<Child Name="btnAddGroup" Key="{F6056385-DDA1-41D7-86A0-662C19687C80}">
 												<Image FileName="1706472576" Left="459" Top="120" Right="552" Bottom="143" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -622,7 +588,6 @@
 											</Child>
 											<Child Name="btnCopyGroup" Key="{6F089B99-8040-4292-B807-B4EADBA5ADB1}">
 												<Image FileName="450754815" Left="358" Top="120" Right="450" Bottom="143" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -634,7 +599,6 @@
 											</Child>
 											<Child Name="btnDeleteGroup" Key="{7EA0BAC4-5806-4F57-92B1-268369264C4E}">
 												<Image FileName="1610277725" Left="256" Top="120" Right="348" Bottom="143" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -646,7 +610,6 @@
 											</Child>
 											<Child Name="cbxPipeGroup" Key="{C04FBDC8-9C6C-41EA-8031-99296FA47DB2}">
 												<Image FileName="1534269544" Left="123" Top="122" Right="245" Bottom="143" />
-												<TypeInfo Item0="{05932AFF-61C3-48B3-84E6-6CFCBFC720D6}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="ComboBox" />
@@ -661,7 +624,6 @@
 											</Child>
 											<Child Name="btn" Key="{181F89AE-DEF1-45D0-8699-F9C1A5291325}">
 												<Image FileName="63589799" Left="26" Top="727" Right="285" Bottom="750" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -673,7 +635,6 @@
 											</Child>
 											<Child Name="btn2" Key="{FF65CA11-F011-4F51-9A64-3591C074CB18}">
 												<Image FileName="-1584309152" Left="295" Top="727" Right="563" Bottom="750" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -685,7 +646,6 @@
 											</Child>
 											<Child Name="btnRestoreProgramDefaults" Key="{4D029714-3BE8-473D-B17E-4E61B213FDCF}">
 												<Image FileName="2076519163" Left="295" Top="758" Right="563" Bottom="781" />
-												<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -712,7 +672,6 @@
 								<Children>
 									<Child Name="Edit" Key="{F04FBECF-3E54-44E2-A640-620DC8716A3A}">
 										<Image FileName="-227299005" Left="26" Top="44" Right="191" Bottom="64" />
-										<TypeInfo Item0="{3C6DB2A3-6240-40CE-8000-D3EDA77BDE6E}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Edit" />
@@ -721,7 +680,6 @@
 									</Child>
 									<Child Name="btnOK" Key="{37F421B9-A4B2-4DDE-9B2D-928278312DCE}">
 										<Image FileName="968890315" Left="25" Top="77" Right="100" Bottom="103" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -746,7 +704,6 @@
 								<Children>
 									<Child Name="editHangerCode" Key="{A608682C-40CB-40F6-98B1-539914374AF7}">
 										<Image FileName="-512632718" Left="127" Top="114" Right="210" Bottom="137" />
-										<TypeInfo Item0="{3C6DB2A3-6240-40CE-8000-D3EDA77BDE6E}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Edit" />
@@ -761,7 +718,6 @@
 									</Child>
 									<Child Name="ListBox" Key="{AF55368D-5F04-4F0C-B54A-D135419C7E91}">
 										<Image FileName="1541583104" Left="25" Top="202" Right="288" Bottom="290" />
-										<TypeInfo Item0="{FCE1DF39-1E19-4861-80E2-527FC0547742}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="ListBox" />
@@ -776,7 +732,6 @@
 									</Child>
 									<Child Name="ListBox2" Key="{665E51E7-7717-450B-B888-49427F824E3C}">
 										<Image FileName="-62851323" Left="326" Top="367" Right="469" Bottom="554" />
-										<TypeInfo Item0="{FCE1DF39-1E19-4861-80E2-527FC0547742}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="ListBox" />
@@ -791,7 +746,6 @@
 									</Child>
 									<Child Name="ListBox3" Key="{4EAC7B72-C8A1-4748-97A1-B09504A904B8}">
 										<Image FileName="-1213241090" Left="22" Top="460" Right="285" Bottom="561" />
-										<TypeInfo Item0="{FCE1DF39-1E19-4861-80E2-527FC0547742}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="ListBox" />
@@ -806,7 +760,6 @@
 									</Child>
 									<Child Name="btnOK" Key="{C2B43C92-4D7A-4A85-8426-D03844E98CBF}">
 										<Image FileName="-1555384910" Left="317" Top="619" Right="392" Bottom="642" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -831,7 +784,6 @@
 								<Children>
 									<Child Name="List1" Key="{E28F6898-2F6A-47B1-8099-A410483B1F25}">
 										<Image FileName="-1085353415" Left="25" Top="522" Right="456" Bottom="641" />
-										<TypeInfo Item0="{BE467DEA-019C-48D8-A26E-D37791183A59}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="SysListView32" />
@@ -843,7 +795,6 @@
 									</Child>
 									<Child Name="List2" Key="{B0A991CA-39B2-4904-9C42-6B626ADA668B}">
 										<Image FileName="250281061" Left="25" Top="184" Right="456" Bottom="319" />
-										<TypeInfo Item0="{BE467DEA-019C-48D8-A26E-D37791183A59}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="SysListView32" />
@@ -855,7 +806,6 @@
 									</Child>
 									<Child Name="btnAddToList" Key="{84953E19-0CE6-4AB6-ACF1-909C41A85750}">
 										<Image FileName="-165477718" Left="311" Top="649" Right="455" Bottom="672" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -867,7 +817,6 @@
 									</Child>
 									<Child Name="btnOK" Key="{4252DBA3-C0FC-4120-B38D-927840E86D58}">
 										<Image FileName="1816271862" Left="308" Top="691" Right="383" Bottom="714" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -892,7 +841,6 @@
 								<Children>
 									<Child Name="btnOK" Key="{7891DC9F-2D4B-49FD-82D6-E3B8DFA43F8B}">
 										<Image FileName="-361662225" Left="257" Top="119" Right="332" Bottom="142" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -904,7 +852,6 @@
 									</Child>
 									<Child Name="btnYes" Key="{1244A81E-8DF9-41F7-B291-6BB0AC866369}">
 										<Image FileName="-1961886073" Left="163" Top="119" Right="238" Bottom="142" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -982,7 +929,6 @@
 																<Children>
 																	<Child Name="tvNamespaceTreeControl" Key="{EF25A322-8AE5-413A-B1E0-62EB20F80D94}">
 																		<Image FileName="-1238383449" Left="10" Top="117" Right="340" Bottom="907" />
-																		<TypeInfo Item0="{FD5512C9-683A-4AE3-B40E-A9C4636E1354}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="SysTreeView32" />
@@ -1020,7 +966,6 @@
 																<Children>
 																	<Child Name="Edit" Key="{D1C63B7C-D865-4A85-B430-8FE81C988CB0}">
 																		<Image FileName="1299243342" Left="136" Top="921" Right="1140" Bottom="938" />
-																		<TypeInfo Item0="{3C6DB2A3-6240-40CE-8000-D3EDA77BDE6E}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="Edit" />
@@ -1037,7 +982,6 @@
 									</Child>
 									<Child Name="btnSave" Key="{49815A38-DE63-40C0-8AE8-A78854FF0168}">
 										<Image FileName="-1216027266" Left="960" Top="986" Right="1048" Bottom="1012" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1107,7 +1051,6 @@
 												<Children>
 													<Child Name="btnYes" Key="{6226E0B9-0028-48F1-97B4-916DAAABE4BE}">
 														<Image FileName="1230282800" Left="256" Top="100" Right="324" Bottom="123" />
-														<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 														<Properties>
 															<Property Name="WndClass">
 																<Value Value="Button" />
@@ -1189,7 +1132,6 @@
 																<Children>
 																	<Child Name="tvNamespaceTreeControl" Key="{1F6054F8-FB7C-4C04-B9A3-F61CAD14B77F}">
 																		<Image FileName="248664239" Left="10" Top="117" Right="340" Bottom="907" />
-																		<TypeInfo Item0="{FD5512C9-683A-4AE3-B40E-A9C4636E1354}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="SysTreeView32" />
@@ -1227,12 +1169,99 @@
 																<Children>
 																	<Child Name="Edit" Key="{11B7FCCB-6704-4576-9414-2ABFCC748328}">
 																		<Image FileName="-587791302" Left="136" Top="921" Right="1140" Bottom="938" />
-																		<TypeInfo Item0="{3C6DB2A3-6240-40CE-8000-D3EDA77BDE6E}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="Edit" />
 																			</Property>
 																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="WorkerW" Key="{4F500432-1E9A-4701-B9E2-05CD30737EF6}">
+										<Image FileName="-590074129" Left="8" Top="31" Right="1165" Bottom="86" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="WorkerW" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="ReBarWindow32" Key="{C6B511EC-13AD-4320-AF5D-5850737F421E}">
+												<Image FileName="-590074129" Left="8" Top="31" Right="1165" Bottom="86" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="ReBarWindow32" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="AddressBandRoot" Key="{F3FA1516-8161-41A3-B935-4307719EB3D4}">
+														<Image FileName="-590074129" Left="144" Top="31" Right="940" Bottom="83" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="Address Band Root" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="progress" Key="{678A945C-FC5E-497B-953B-66E4A271D7BE}">
+																<Image FileName="-590074129" Left="146" Top="41" Right="938" Bottom="75" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="msctls_progress32" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="BreadcrumbParent" Key="{3AB1C673-BAEF-4332-82DE-D3A9AF21275E}">
+																		<Image FileName="-590074129" Left="146" Top="41" Right="864" Bottom="75" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="Breadcrumb Parent" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="toolbar" Key="{1D7C37FB-7853-4E74-AA81-0FDF455186BA}">
+																				<Image FileName="-590074129" Left="152" Top="41" Right="864" Bottom="75" />
+																				<TypeInfo Item0="{19422E19-84C4-49BE-AD82-B5B34352F3DF}" />
+																				<Properties>
+																					<Property Name="WndClass">
+																						<Value Value="ToolbarWindow32" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="comboBox" Key="{31736A7F-0E71-445B-8C31-60F35C3F2A81}">
+																		<Image FileName="-988309956" Left="146" Top="41" Right="901" Bottom="75" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="ComboBoxEx32" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ComboBox" Key="{BAB801B9-88BC-436D-A09B-02F0CA04FADB}">
+																				<Image FileName="-988309956" Left="146" Top="41" Right="901" Bottom="75" />
+																				<Properties>
+																					<Property Name="WndClass">
+																						<Value Value="ComboBox" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Edit" Key="{B90ABFD9-61AF-4012-B343-A3C62A4BC88E}">
+																						<Image FileName="-988309956" Left="170" Top="51" Right="864" Bottom="66" />
+																						<TypeInfo Item0="{B10CE631-9DA1-4CBE-92C8-C1D50D77643C}" />
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="Edit" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
 																	</Child>
 																</Children>
 															</Child>
@@ -1310,7 +1339,6 @@
 																<Children>
 																	<Child Name="tvNamespaceTreeControl" Key="{12680EE1-6167-4F1B-8445-EC13C4F6AAB3}">
 																		<Image FileName="-1754009361" Left="10" Top="117" Right="246" Bottom="948" />
-																		<TypeInfo Item0="{FD5512C9-683A-4AE3-B40E-A9C4636E1354}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="SysTreeView32" />
@@ -1346,7 +1374,6 @@
 												<Children>
 													<Child Name="Edit" Key="{B2CEF438-10DC-48E0-AD80-1DBD280B9ABF}">
 														<Image FileName="-1010770407" Left="201" Top="962" Right="928" Bottom="977" />
-														<TypeInfo Item0="{3C6DB2A3-6240-40CE-8000-D3EDA77BDE6E}" />
 														<Properties>
 															<Property Name="WndClass">
 																<Value Value="Edit" />
@@ -1359,7 +1386,6 @@
 									</Child>
 									<Child Name="btnCancel" Key="{3FB4A374-FD23-4B16-830D-C1E7ED1412EF}">
 										<Image FileName="2105841560" Left="1060" Top="986" Right="1148" Bottom="1012" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1411,7 +1437,6 @@
 																		<Children>
 																			<Child Name="toolbar" Key="{7EB912AE-4BD1-41DD-B865-FCDEE05FAD53}">
 																				<Image FileName="-822119887" Left="152" Top="41" Right="864" Bottom="75" />
-																				<TypeInfo Item0="{A9CCE8E5-E3F3-4EA6-A634-69B5749A1E28}" />
 																				<Properties>
 																					<Property Name="WndClass">
 																						<Value Value="ToolbarWindow32" />
@@ -1438,7 +1463,6 @@
 																				<Children>
 																					<Child Name="Edit" Key="{F8241E02-E134-4044-A5C5-9CEA66C10221}">
 																						<Image FileName="1462239817" Left="170" Top="51" Right="864" Bottom="66" />
-																						<TypeInfo Item0="{3C6DB2A3-6240-40CE-8000-D3EDA77BDE6E}" />
 																						<Properties>
 																							<Property Name="WndClass">
 																								<Value Value="Edit" />
@@ -1472,7 +1496,6 @@
 								<Children>
 									<Child Name="btnNewProfile" Key="{569BC687-556A-455E-A004-2E3C9037EF6F}">
 										<Image FileName="1657433193" Left="29" Top="80" Right="211" Bottom="103" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1484,7 +1507,6 @@
 									</Child>
 									<Child Name="btnSaveProfileAs" Key="{55CA3845-6709-4F76-B4C3-B0D1FF46697E}">
 										<Image FileName="-1037081265" Left="226" Top="80" Right="409" Bottom="103" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1496,7 +1518,6 @@
 									</Child>
 									<Child Name="btnDeleteSelected" Key="{02C86C7E-699F-4E4A-A7C6-0E9321A6398B}">
 										<Image FileName="-886898712" Left="424" Top="80" Right="609" Bottom="103" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1508,7 +1529,6 @@
 									</Child>
 									<Child Name="ComboBox" Key="{6B0307EE-97F6-4AA7-A93A-D7C639F89A45}">
 										<Image FileName="-284397865" Left="133" Top="54" Right="608" Bottom="75" />
-										<TypeInfo Item0="{05932AFF-61C3-48B3-84E6-6CFCBFC720D6}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="ComboBox" />
@@ -1523,7 +1543,6 @@
 									</Child>
 									<Child Name="btnExportProfiles" Key="{09EB1C3D-A4A3-4D1A-874E-F8BFD5F5C260}">
 										<Image FileName="-1605297014" Left="226" Top="109" Right="409" Bottom="132" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1535,7 +1554,6 @@
 									</Child>
 									<Child Name="btnImportProfiles" Key="{BC4E21D1-440F-4854-9291-CCC3FF92BB02}">
 										<Image FileName="1575401806" Left="29" Top="109" Right="211" Bottom="132" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1547,7 +1565,6 @@
 									</Child>
 									<Child Name="btnClose" Key="{90179469-C528-4AEA-A33A-B04DD73CC535}">
 										<Image FileName="-1666099423" Left="528" Top="836" Right="608" Bottom="859" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1559,7 +1576,6 @@
 									</Child>
 									<Child Name="btnMergeProfiles" Key="{E91C940C-000C-4E46-9584-17CA2A46B7A3}">
 										<Image FileName="-983820493" Left="424" Top="109" Right="609" Bottom="132" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1571,7 +1587,6 @@
 									</Child>
 									<Child Name="ListView" Key="{3ED25872-4E02-4FAB-8258-5E6A3A6EE8DD}">
 										<Image FileName="339373971" Left="29" Top="579" Right="608" Bottom="799" />
-										<TypeInfo Item0="{BE467DEA-019C-48D8-A26E-D37791183A59}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="SysListView32" />
@@ -1586,7 +1601,6 @@
 									</Child>
 									<Child Name="btnAdd" Key="{3D52D276-775C-468C-A5AF-D9D0CFFF59F7}">
 										<Image FileName="-990734266" Left="28" Top="801" Right="315" Bottom="824" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1598,7 +1612,6 @@
 									</Child>
 									<Child Name="btnSaveChanges" Key="{6853F75C-BE7D-48BF-A0A9-C584D6A72D1C}">
 										<Image FileName="2022410990" Left="396" Top="836" Right="521" Bottom="859" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1610,7 +1623,6 @@
 									</Child>
 									<Child Name="ListView2" Key="{07F88EE4-C85C-4CBF-B061-AB2AC5993EDD}">
 										<Image FileName="322321579" Left="29" Top="166" Right="608" Bottom="388" />
-										<TypeInfo Item0="{BE467DEA-019C-48D8-A26E-D37791183A59}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="SysListView32" />
@@ -1638,7 +1650,6 @@
 								<Children>
 									<Child Name="Edit" Key="{C26F2374-E6F0-4E46-8942-A393CDC318CC}">
 										<Image FileName="-226209114" Left="19" Top="60" Right="381" Bottom="83" />
-										<TypeInfo Item0="{3C6DB2A3-6240-40CE-8000-D3EDA77BDE6E}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Edit" />
@@ -1660,7 +1671,6 @@
 								<Children>
 									<Child Name="radio" Key="{506BBB6C-EA2C-49BE-8CCC-6FC2F54A92CA}">
 										<Image FileName="654288148" Left="29" Top="83" Right="179" Bottom="99" />
-										<TypeInfo Item0="{83692DC3-D5FC-403E-9B19-53FBA53F231B}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1672,7 +1682,6 @@
 									</Child>
 									<Child Name="btnOK" Key="{DF2FA290-89E1-4D74-AC6B-3794C1123DF8}">
 										<Image FileName="1342619850" Left="94" Top="181" Right="169" Bottom="204" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1747,7 +1756,6 @@
 																<Children>
 																	<Child Name="Edit" Key="{E6BA1456-059C-4640-9F3C-DD4BB35DED11}">
 																		<Image FileName="-772312146" Left="136" Top="921" Right="1140" Bottom="938" />
-																		<TypeInfo Item0="{3C6DB2A3-6240-40CE-8000-D3EDA77BDE6E}" />
 																		<Properties>
 																			<Property Name="WndClass">
 																				<Value Value="Edit" />
@@ -1788,7 +1796,6 @@
 								<Children>
 									<Child Name="Edit" Key="{488174DA-A6A7-49D8-B9F1-9C8B92AA640A}">
 										<Image FileName="1469624624" Left="53" Top="44" Right="188" Bottom="64" />
-										<TypeInfo Item0="{3C6DB2A3-6240-40CE-8000-D3EDA77BDE6E}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Edit" />
@@ -1803,7 +1810,6 @@
 									</Child>
 									<Child Name="check" Key="{AD2BF07F-05B2-477B-A777-BCFD03271448}">
 										<Image FileName="1884007489" Left="35" Top="103" Right="449" Bottom="121" />
-										<TypeInfo Item0="{1842B28D-DCE7-49FA-A133-22DBE6E182E7}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1815,7 +1821,6 @@
 									</Child>
 									<Child Name="check2" Key="{49E7F464-645F-4FD3-9675-060DBD282001}">
 										<Image FileName="1584578079" Left="35" Top="127" Right="449" Bottom="145" />
-										<TypeInfo Item0="{1842B28D-DCE7-49FA-A133-22DBE6E182E7}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1827,7 +1832,6 @@
 									</Child>
 									<Child Name="btn000000000" Key="{0AAD2859-FB5E-43A0-897C-B3406E5F6B08}">
 										<Image FileName="-98738485" Left="35" Top="327" Right="89" Bottom="350" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1839,7 +1843,6 @@
 									</Child>
 									<Child Name="btnOK" Key="{01D7960A-5E1E-447B-9F5F-7514F17BB2B7}">
 										<Image FileName="241947985" Left="122" Top="382" Right="197" Bottom="405" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1883,7 +1886,6 @@
 												<Children>
 													<Child Name="btnHex" Key="{CB91B2FB-0F19-4A73-97CC-33D7996120AA}">
 														<Image FileName="1862315466" Left="21" Top="88" Right="282" Bottom="262" />
-														<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 														<Properties>
 															<Property Name="WndClass">
 																<Value Value="Button" />
@@ -1899,7 +1901,6 @@
 									</Child>
 									<Child Name="btnOK" Key="{87450E86-ED22-4E90-970E-866E1BBA0131}">
 										<Image FileName="820280921" Left="299" Top="57" Right="379" Bottom="80" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -1913,7 +1914,6 @@
 							</Child>
 							<Child Name="wndItemTipWnd" Key="{5CAD2966-4EB3-4D8C-A551-81DFFE7A3830}">
 								<Image FileName="-651734409" Left="0" Top="0" Right="107" Bottom="17" />
-								<TypeInfo Item0="{50586A05-7F85-455A-AA6D-4C9ABD482DA9}" />
 								<Properties>
 									<Property Name="WndClass">
 										<Value Value="ItemTipWnd" />
@@ -1939,7 +1939,6 @@
 								<Children>
 									<Child Name="TreeView" Key="{8A73BE3F-DD63-4AF4-BA50-112A948E8340}">
 										<Image FileName="1911846159" Left="19" Top="99" Right="315" Bottom="281" />
-										<TypeInfo Item0="{FD5512C9-683A-4AE3-B40E-A9C4636E1354}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="SysTreeView32" />
@@ -1948,7 +1947,6 @@
 									</Child>
 									<Child Name="btnOK" Key="{EBAE40D1-A3BB-411E-AF3E-2F0B1C451038}">
 										<Image FileName="-689958567" Left="158" Top="301" Right="233" Bottom="324" />
-										<TypeInfo Item0="{E9C93274-3B86-42DE-848A-9FB0632D2D89}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
@@ -2108,6 +2106,22 @@
 						<Child Name="FloatNotifySink" Owner="{5191FA70-2977-4CDF-AEF6-B8F0DFD4B66C}">
 							<Child Name="ComboBox" Owner="{8CEEE6B1-D641-4B8A-9507-8647F72DC630}">
 								<Child Name="Edit" Owner="{11B7FCCB-6704-4576-9414-2ABFCC748328}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="WorkerW" Owner="{4F500432-1E9A-4701-B9E2-05CD30737EF6}">
+					<Child Name="ReBarWindow32" Owner="{C6B511EC-13AD-4320-AF5D-5850737F421E}">
+						<Child Name="AddressBandRoot" Owner="{F3FA1516-8161-41A3-B935-4307719EB3D4}">
+							<Child Name="progress" Owner="{678A945C-FC5E-497B-953B-66E4A271D7BE}">
+								<Child Name="BreadcrumbParent" Owner="{3AB1C673-BAEF-4332-82DE-D3A9AF21275E}">
+									<Child Name="toolbar" Owner="{1D7C37FB-7853-4E74-AA81-0FDF455186BA}" />
+								</Child>
+								<Child Name="comboBox" Owner="{31736A7F-0E71-445B-8C31-60F35C3F2A81}">
+									<Child Name="ComboBox" Owner="{BAB801B9-88BC-436D-A09B-02F0CA04FADB}">
+										<Child Name="Edit" Owner="{B90ABFD9-61AF-4012-B343-A3C62A4BC88E}" />
+									</Child>
+								</Child>
 							</Child>
 						</Child>
 					</Child>

@@ -312,6 +312,18 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="Item" Key="{443C096F-B38D-4C32-85D4-06AF65A8F49E}">
+												<Image FileName="868703281" Left="1894" Top="570" Right="1920" Bottom="1007" />
+												<TypeInfo Item0="{0D722BA9-F1F6-45C2-9460-71A899E27BDF}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:ToolBar:400000*" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="6" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 								</Children>
@@ -10614,6 +10626,7 @@
 				</Child>
 				<Child Name="Afx3" Owner="{D8E1972D-C780-4E9C-88F9-4BC99D34A7F0}">
 					<Child Name="Render" Owner="{776294C8-94FE-4725-AB73-1E5AC1DCB8F4}" />
+					<Child Name="Item" Owner="{443C096F-B38D-4C32-85D4-06AF65A8F49E}" />
 				</Child>
 			</Child>
 			<Child Name="dlgOpen" Owner="{4EFA68C0-1E40-402B-8377-02D22585AC5C}">

@@ -810,6 +810,18 @@
 																			</Property>
 																		</Properties>
 																	</Child>
+																	<Child Name="Model" Key="{8E1D3677-8CF4-4B6B-B310-7CC1FA57D8AD}">
+																		<Image FileName="-1006743822" Left="330" Top="210" Right="1865" Bottom="942" />
+																		<TypeInfo Item0="{4BE0727C-76E1-4F24-B41B-755E3CC164B3}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="Afx:0000000000400000:2b*" />
+																			</Property>
+																			<Property Name="WndCaption">
+																				<Value Value="Model" />
+																			</Property>
+																		</Properties>
+																	</Child>
 																</Children>
 															</Child>
 														</Children>
@@ -1502,6 +1514,27 @@
 											</Property>
 										</Properties>
 									</Child>
+									<Child Name="pageGroup" Key="{3F28B64A-FC17-4B9D-A983-81D5EC1740E3}">
+										<Image FileName="209064918" Left="18" Top="60" Right="455" Bottom="622" />
+										<TypeInfo Item0="{E080B2EF-DC48-4C69-88FB-D9557509CDF4}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="#32770" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Group" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="tbcProperties" Key="{0F94DAF5-24C2-4F64-A0B3-04CF5110298D}">
+										<Image FileName="679964056" Left="14" Top="38" Right="459" Bottom="630" />
+										<TypeInfo Item0="{712F5514-CAE2-4A0D-8D4B-7BE7560E855E}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="SysTabControl32" />
+											</Property>
+										</Properties>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="dlgAutoSPRINK2023" Key="{CCD11D32-F352-49B7-A247-28467735A123}">
@@ -1717,6 +1750,18 @@
 											</Property>
 											<Property Name="WndCaption">
 												<Value Value="Close" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Button" Key="{99E39AFB-B5D9-45D3-AB8E-315AA9620D54}">
+										<Image FileName="1381656007" Left="19" Top="146" Right="426" Bottom="349" />
+										<TypeInfo Item0="{6496C122-640A-490A-AFA7-D3B14209DA94}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Active Parts" />
 											</Property>
 										</Properties>
 									</Child>
@@ -2095,6 +2140,53 @@
 											</Property>
 										</Properties>
 									</Child>
+									<Child Name="btn" Key="{CBFB7B61-80B8-431C-89C0-1D8B09451FF8}">
+										<Image FileName="-213705247" Left="11" Top="194" Right="389" Bottom="217" />
+										<TypeInfo Item0="{DA874F04-CBC5-4673-8900-AF1D4C79F6E8}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="I understand that I am using this software at my own risk." />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnNo" Key="{8641652B-C49A-4A89-BB07-469FD86E4998}">
+										<Image FileName="1180451053" Left="313" Top="125" Right="388" Bottom="148" />
+										<TypeInfo Item0="{DA874F04-CBC5-4673-8900-AF1D4C79F6E8}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;No" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnClose" Key="{76AE5C98-44C9-4776-A4F8-6F5F27BF3D6C}">
+										<Image FileName="1078098112" Left="323" Top="242" Right="398" Bottom="265" />
+										<TypeInfo Item0="{DA874F04-CBC5-4673-8900-AF1D4C79F6E8}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Close" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnNextTip" Key="{93D756E7-2CE8-43B9-98C1-366A1812BC0B}">
+										<TypeInfo Item0="{DA874F04-CBC5-4673-8900-AF1D4C79F6E8}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Next Tip" />
+											</Property>
+										</Properties>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="wndItemTipWnd" Key="{D56E6219-EDBB-4A8B-BE9D-9ED6DB93735F}">
@@ -2108,6 +2200,18 @@
 									</Property>
 									<Property Name="Index">
 										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="wndView" Key="{1920A3A8-B71B-4604-9005-2906763162CE}">
+								<Image FileName="-1176966932" Left="0" Top="0" Right="141" Bottom="167" />
+								<TypeInfo Item0="{757CD49E-640E-41E6-8B06-F871CE0D5EC0}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Afx:MiniFrame:400000*" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="View" />
 									</Property>
 								</Properties>
 							</Child>
@@ -2996,6 +3100,7 @@
 						<Child Name="AfxFrameOrView140u" Owner="{3BA31724-1B29-45F7-BC9C-27313C1D066D}">
 							<Child Name="Afx" Owner="{09CB58E2-D9A3-422F-AD34-71B25EB90FBD}">
 								<Child Name="Afx" Owner="{29545B4D-F8DA-4C61-AB0B-DB2C8CDB1B1B}" />
+								<Child Name="Model" Owner="{8E1D3677-8CF4-4B6B-B310-7CC1FA57D8AD}" />
 							</Child>
 						</Child>
 					</Child>
@@ -3102,6 +3207,8 @@
 					<Child Name="cbxSize" Owner="{C13C1F22-F6B9-4BB7-99A3-2715535F083E}" />
 				</Child>
 				<Child Name="btnOK" Owner="{70C130C3-6B34-477A-8AAB-4E5BA3C983B2}" />
+				<Child Name="pageGroup" Owner="{3F28B64A-FC17-4B9D-A983-81D5EC1740E3}" />
+				<Child Name="tbcProperties" Owner="{0F94DAF5-24C2-4F64-A0B3-04CF5110298D}" />
 			</Child>
 			<Child Name="dlgAutoSPRINK2023" Owner="{CCD11D32-F352-49B7-A247-28467735A123}">
 				<Child Name="btnNo" Owner="{56016F6C-F139-4F5B-B018-FE48642EA141}" />
@@ -3127,6 +3234,7 @@
 				<Child Name="ListView" Owner="{3BA2D86F-DA50-4691-AC5B-BA8125418C5C}" />
 				<Child Name="ComboBox" Owner="{82292C76-668F-423B-8DF2-131A2E3B1DAB}" />
 				<Child Name="btnClose" Owner="{F5F5AEB6-435E-473F-BBAD-7C773C01222D}" />
+				<Child Name="Button" Owner="{99E39AFB-B5D9-45D3-AB8E-315AA9620D54}" />
 			</Child>
 			<Child Name="dlg" Owner="{FE27B505-8E6C-4292-9CF0-0FBFE8BB5798}">
 				<Child Name="btnB" Owner="{1A05030B-F7D6-47C3-8A87-5C4CFCA0A207}" />
@@ -3173,8 +3281,13 @@
 					</Child>
 				</Child>
 				<Child Name="Edit2" Owner="{4A48FAE5-FBF5-4EFA-8DA0-B8BBEBDFDBF5}" />
+				<Child Name="btn" Owner="{CBFB7B61-80B8-431C-89C0-1D8B09451FF8}" />
+				<Child Name="btnNo" Owner="{8641652B-C49A-4A89-BB07-469FD86E4998}" />
+				<Child Name="TipoftheDay_btnClose" Owner="{76AE5C98-44C9-4776-A4F8-6F5F27BF3D6C}" />
+				<Child Name="btnNextTip" Owner="{93D756E7-2CE8-43B9-98C1-366A1812BC0B}" />
 			</Child>
 			<Child Name="wndItemTipWnd" Owner="{D56E6219-EDBB-4A8B-BE9D-9ED6DB93735F}" />
+			<Child Name="wndView" Owner="{1920A3A8-B71B-4604-9005-2906763162CE}" />
 		</Child>
 		<Child Name="explorer" Owner="{1F914F4C-5CD3-4C38-B796-14352DDD7C39}">
 			<Child Name="wndShell_TrayWnd" Owner="{651EE957-8E7E-410D-8E17-D2DD4670B1DD}">

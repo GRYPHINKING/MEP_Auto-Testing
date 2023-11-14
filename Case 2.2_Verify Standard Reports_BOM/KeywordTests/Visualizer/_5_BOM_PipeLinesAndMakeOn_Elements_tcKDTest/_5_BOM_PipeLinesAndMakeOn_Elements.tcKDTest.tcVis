@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
 	<data key="{A59EE733-5396-4112-B60F-71277C49190A}">
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45216.0176273148" objectName="Aliases.AutoSPRINKx64.wndAfx.Afx2.Input.Edit" objectLeft="684" objectTop="1001" objectRight="744" objectBottom="1016" clickPointX="710" clickPointY="1006" imageFileName="tcvi230482811800.png" storageFileName="" needUpdate="False" rectColor="255" />
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="45216.017650463" objectName="Aliases.AutoSPRINKx64.wndAfx.Afx2.Input.Edit" objectLeft="684" objectTop="1001" objectRight="744" objectBottom="1016" clickPointX="-1" clickPointY="-1" imageFileName="tcvi230712511801.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45237.8878935185" objectName="Aliases.AutoSPRINKx64.wndAfx.Afx3.Item" objectLeft="1894" objectTop="570" objectRight="1920" objectBottom="1007" clickPointX="1905" clickPointY="749" imageFileName="tcvi871367484141001.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45216.0176273148" objectName="Aliases.AutoSPRINKx64.wndAfx.Afx2.Input.Edit" objectLeft="684" objectTop="1001" objectRight="744" objectBottom="1016" clickPointX="710" clickPointY="1006" imageFileName="tcvi230482811800.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45216.017650463" objectName="Aliases.AutoSPRINKx64.wndAfx.Afx2.Input.Edit" objectLeft="684" objectTop="1001" objectRight="744" objectBottom="1016" clickPointX="-1" clickPointY="-1" imageFileName="tcvi230712511801.png" storageFileName="" needUpdate="False" rectColor="255" />
 	</data>
 </Root>

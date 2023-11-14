@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{2D89293F-6B07-4679-9906-EFAE4B1A433C}" version="15.0">
 	<children>
-		<child name="Proceedure_InterferenceCheck_AlertsPane" key="{929BC4EC-10A3-40CE-BFE7-E51414D4ED22}" path="Proceedure_InterferenceCheck_AlertsPane.tcLLP" />
 		<child name="Load_Cas" key="{0451B365-F54F-42D5-9A02-5752FC87DA6A}" path="Load_Cas.tcLLP" />
-		<child name="DLPart" key="{D85B7F26-2CF3-426F-929E-E5C4724531AF}" path="DLPart.tcLLP" />
 		<child name="HelpMenu_VersionNum" key="{C6E90CF2-FC59-4714-B613-9BC8EB2200B8}" path="HelpMenu_VersionNum.tcLLP" />
+		<child name="InterferenceCheck_AlertPane" key="{B2D8F860-098A-4E8F-9E88-53E767F2E710}" path="InterferenceCheck_AlertPane.tcLLP" />
 	</children>
 </Root>

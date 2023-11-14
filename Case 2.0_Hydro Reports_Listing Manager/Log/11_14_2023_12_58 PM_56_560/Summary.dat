@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="projects">
+			<Node name="project0">
+				<Node name="tests">
+					<Node name="test0">
+						<Node name="warnings"/>
+						<Node name="errors">
+							<Node name="error1">
+								<Prp name="msg" type="S" value="The region checkpoint &quot;SaveChangestoPartsBook_2024_Check&quot; failed. See Details for additional information."/>
+							</Node>
+							<Node name="error0">
+								<Prp name="msg" type="S" value="The region checkpoint &quot;DeleteContractor_2024_Check&quot; failed. See Details for additional information."/>
+							</Node>
+						</Node>
+						<Prp name="name" type="S" value="Step 1_ Enter Project Info - Hydro Report Options and Listing Manager Settings"/>
+						<Prp name="starttime" type="D" value="45244.5409401042"/>
+						<Prp name="status" type="I" value="2"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewBCAEMANwBFADUAMwA4ADgALQBDAEEAMwBEAC0ANABBADMAQgAtAEIAQwBEADMALQAxADEAMgAyADUANQBBADcAQwBDAEIAOAB9AC8AewAwADAAMAAwADAAMAAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtADAAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADAAMAB9AC8AZQBtAHAAdAB5AC8AZQBtAHAAdAB5AA=="/>
+						<Prp name="durationwithoutchildren" type="I" value="72197"/>
+						<Prp name="duration" type="I" value="72197"/>
+					</Node>
+				</Node>
+				<Prp name="name" type="S" value="Case 2.0_Hydro Reports_Listing Manager"/>
+				<Prp name="failedtests" type="I" value="1"/>
+				<Prp name="warningtests" type="I" value="0"/>
+				<Prp name="incompletedtests" type="I" value="0"/>
+				<Prp name="starttime" type="D" value="45244.5409401042"/>
+				<Prp name="duration" type="I" value="72197"/>
+			</Node>
+		</Node>
+		<Prp name="starttime" type="D" value="45244.5409324884"/>
+		<Prp name="user" type="S" value="B.Chambers"/>
+		<Prp name="stop" type="D" value="45244.541776875"/>
+		<Prp name="tests" type="I" value="1"/>
+		<Prp name="key" type="S" value="{87542B21-8072-49EF-95B1-8DBC1BC022F9}"/>
+		<Prp name="warningtestwithretries" type="I" value="0"/>
+		<Prp name="host" type="S" value="CORVUS"/>
+		<Prp name="executionstatus" type="I" value="2"/>
+		<Prp name="incompletedtests" type="I" value="0"/>
+		<Prp name="name" type="S" value="OFFICIAL AutoSPRINK SMOKE Testing"/>
+		<Prp name="successtestwithretries" type="I" value="0"/>
+		<Prp name="warningtests" type="I" value="0"/>
+		<Prp name="testname" type="S" value="Case 2.0_Hydro Reports_Listing Manager"/>
+		<Prp name="failedtests" type="I" value="1"/>
+	</Node>
+</Nodes>

@@ -35,8 +35,14 @@
 	<variables key="{7B70AF4E-9AF2-4928-BBB8-F532C5D97E68}">
 		<data Version="4">
 			<Items>
-				<Variable Name="SPRINK_YEAR" Type="String" Local="True">
-					<DefValue />
+				<Variable Name="SPRINK_YEAR" Type="String" Local="True" Descr="Determines which application will be tested">
+					<DefValue StrValue="202X" />
+				</Variable>
+				<Variable Name="Job_Name" Type="String" Local="True" Descr="Fills Job Name on Reports">
+					<DefValue StrValue="AutoSPRINK 202X - SMOKE TEST" />
+				</Variable>
+				<Variable Name="Sprink_Version" Type="String" Local="True" Descr="Fills Version Number on Reports">
+					<DefValue StrValue="Version Number" />
 				</Variable>
 			</Items>
 		</data>

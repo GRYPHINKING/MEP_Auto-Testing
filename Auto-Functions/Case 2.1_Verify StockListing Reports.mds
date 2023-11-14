@@ -12,9 +12,7 @@
 	<testItems key="{2E7377F5-E822-45A4-B4AA-3ED267593231}" version="14">
 		<children>
 			<testItem name="Step 2_ Preview (Verify)&gt; All Stock Listing Reports" key="{5B83E721-A600-4306-A1D9-DDAF39B2D1BC}" group="False" parallel="False" enabled="True" testMoniker="KDT\{E1FBAD3E-CCB1-49ED-AF43-CA397D98248C}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
-				<testParameters>
-					<param0 name="Job_Name" type="1" localVarName="" value="AutoSPRINK 2023 v18.1.29" />
-				</testParameters>
+				<testParameters />
 				<environments activeCloud="SWT" />
 				<children />
 			</testItem>
@@ -37,7 +35,7 @@
 	</testItems>
 	<variables key="{CD690CA8-22D9-4A7D-BA25-157560D75561}" />
 	<settings key="{805A1FDF-FAD3-4D07-B140-6A837613BC94}">
-		<settingsVersion value="15.56" />
+		<settingsVersion value="15.57" />
 		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />

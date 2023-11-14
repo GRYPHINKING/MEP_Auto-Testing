@@ -76,7 +76,6 @@
 											</Child>
 											<Child Name="Item4" Key="{4829C40D-6A30-4743-B18F-A99C81463BA5}">
 												<Image FileName="-1672421865" Left="594" Top="46" Right="1804" Bottom="92" />
-												<TypeInfo Item0="{54493ACD-A677-4725-AE78-3145C551F9F1}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Afx:ToolBar:400000*" />
@@ -321,6 +320,18 @@
 													</Property>
 													<Property Name="WndCaption">
 														<Value Value="Render" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="Item" Key="{AEC7C03B-F47E-486E-9A63-FB391DCFE4C7}">
+												<Image FileName="1074491856" Left="1894" Top="570" Right="1920" Bottom="1007" />
+												<TypeInfo Item0="{326C195B-4827-48EF-919E-B7E00A6004A0}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="Afx:ToolBar:400000*" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="6" />
 													</Property>
 												</Properties>
 											</Child>
@@ -1060,7 +1071,6 @@
 											</Child>
 											<Child Name="btn" Key="{A8B24F28-6D15-4E39-8CED-DF1CE09F7D40}">
 												<Image FileName="497887844" Left="388" Top="325" Right="415" Bottom="345" />
-												<TypeInfo Item0="{FBDC1A38-E2C5-41DE-AD88-39F066D0947F}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Button" />
@@ -1166,7 +1176,6 @@
 									</Child>
 									<Child Name="Static" Key="{813E5B5D-09E5-4EC3-9A26-20DBD8E91882}">
 										<Image FileName="1579857154" Left="70" Top="64" Right="286" Bottom="79" />
-										<TypeInfo Item0="{693E8DFC-C1BB-4FC7-B48F-553C7BCBC9A2}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Static" />
@@ -4828,7 +4837,6 @@
 										<Children>
 											<Child Name="editName" Key="{8F6210BF-A51C-402F-B053-27F802C1837E}">
 												<Image FileName="-1857136627" Left="92" Top="252" Right="295" Bottom="272" />
-												<TypeInfo Item0="{184B8A13-EC0C-4CDF-8DDC-D0724E04AB93}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="Edit" />
@@ -4843,7 +4851,6 @@
 											</Child>
 											<Child Name="cbxContractor" Key="{E428F3FE-2831-464A-8C2E-2D079386914C}">
 												<Image FileName="-253924178" Left="80" Top="133" Right="410" Bottom="154" />
-												<TypeInfo Item0="{EE22EF34-7D41-4838-99BD-C60B9A49359F}" />
 												<Properties>
 													<Property Name="WndClass">
 														<Value Value="ComboBox" />
@@ -4852,7 +4859,6 @@
 												<Children>
 													<Child Name="Edit" Key="{F9B212E8-CE94-4571-9562-B125F183A454}">
 														<Image FileName="-253924178" Left="83" Top="136" Right="390" Bottom="151" />
-														<TypeInfo Item0="{902B96CA-09BD-4D91-ADED-767C56B2DEC9}" />
 														<Properties>
 															<Property Name="WndClass">
 																<Value Value="Edit" />
@@ -4865,13 +4871,48 @@
 									</Child>
 									<Child Name="btnShowNone" Key="{B9AA8CB8-FA13-4B0D-83BE-0014D2654613}">
 										<Image FileName="399072979" Left="215" Top="203" Right="305" Bottom="226" />
-										<TypeInfo Item0="{FBDC1A38-E2C5-41DE-AD88-39F066D0947F}" />
 										<Properties>
 											<Property Name="WndClass">
 												<Value Value="Button" />
 											</Property>
 											<Property Name="WndCaption">
 												<Value Value="Show &amp;None" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static2" Key="{13A00BF2-A331-428B-8ECE-F98577925135}">
+										<Image FileName="-801299929" Left="29" Top="54" Right="61" Bottom="86" />
+										<TypeInfo Item0="{2684B4CD-6A0D-41EE-B3A2-4F525E042D65}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="Index">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static3" Key="{89782D75-87E9-4355-B14C-88D9297A8FF9}">
+										<Image FileName="-1361585040" Left="70" Top="57" Right="391" Bottom="85" />
+										<TypeInfo Item0="{2684B4CD-6A0D-41EE-B3A2-4F525E042D65}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="An entry is about to be deleted from the database. This action is irreversible. Are you sure you want to continue?" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static4" Key="{4764F4A9-0DDB-434E-9190-1865EE2F704E}">
+										<Image FileName="1298887943" Left="70" Top="64" Right="286" Bottom="79" />
+										<TypeInfo Item0="{2684B4CD-6A0D-41EE-B3A2-4F525E042D65}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="This Designer already exists in Parts Book." />
 											</Property>
 										</Properties>
 									</Child>
@@ -10386,6 +10427,7 @@
 				</Child>
 				<Child Name="Afx3" Owner="{D8E1972D-C780-4E9C-88F9-4BC99D34A7F0}">
 					<Child Name="Render" Owner="{776294C8-94FE-4725-AB73-1E5AC1DCB8F4}" />
+					<Child Name="Item" Owner="{AEC7C03B-F47E-486E-9A63-FB391DCFE4C7}" />
 				</Child>
 			</Child>
 			<Child Name="dlgOpen" Owner="{4EFA68C0-1E40-402B-8377-02D22585AC5C}">
@@ -10805,6 +10847,9 @@
 					</Child>
 				</Child>
 				<Child Name="btnShowNone" Owner="{B9AA8CB8-FA13-4B0D-83BE-0014D2654613}" />
+				<Child Name="Static2" Owner="{13A00BF2-A331-428B-8ECE-F98577925135}" />
+				<Child Name="Static3" Owner="{89782D75-87E9-4355-B14C-88D9297A8FF9}" />
+				<Child Name="Static4" Owner="{4764F4A9-0DDB-434E-9190-1865EE2F704E}" />
 			</Child>
 		</Child>
 		<Child Name="MEPCRViewer" Owner="{D97F8614-0973-4031-839B-3E69CAC47F19}">

@@ -196,5 +196,44 @@
 		<child name="Resources_StartScreen_Mask" key="{3860965B-EEEF-4E6A-A13C-72FF36C209B5}">
 			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Resources_StartScreen_Mask" ID="{3860965B-EEEF-4E6A-A13C-72FF36C209B5}" FileName="Regions\Resources_StartScreen_Mask.png" Update="False" />
 		</child>
+		<child name="UpdateParts2024_Check" key="{05F423C4-D8F9-477C-9C45-5378849F0BD6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="UpdateParts2024_Check" ID="{05F423C4-D8F9-477C-9C45-5378849F0BD6}" FileName="Regions\UpdateParts2024_Check.png" Update="False" />
+		</child>
+		<child name="UpdateParts2024_Check_Mask" key="{90AA52FB-76AA-4AD2-8000-6777122ADAD8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="UpdateParts2024_Check_Mask" ID="{90AA52FB-76AA-4AD2-8000-6777122ADAD8}" FileName="Regions\UpdateParts2024_Check_Mask.png" Update="False" />
+		</child>
+		<child name="CreateDetail2024_Check" key="{D091E34A-5F74-4E6F-9F32-D3E748524B87}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CreateDetail2024_Check" ID="{D091E34A-5F74-4E6F-9F32-D3E748524B87}" FileName="Regions\CreateDetail2024_Check.png" Update="False" />
+		</child>
+		<child name="CreateDetail2024_Check_Mask" key="{C34E6370-5F9C-4370-9931-C28DA549F520}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="CreateDetail2024_Check_Mask" ID="{C34E6370-5F9C-4370-9931-C28DA549F520}" FileName="Regions\CreateDetail2024_Check_Mask.png" Update="False" />
+		</child>
+		<child name="Interference2024_Check" key="{F84F0690-5CDF-414D-99E0-007D4E33C4B6}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Interference2024_Check" ID="{F84F0690-5CDF-414D-99E0-007D4E33C4B6}" FileName="Regions\Interference2024_Check.png" Update="False" />
+		</child>
+		<child name="Interference2024_Check_Mask" key="{ED9BBDDF-CF4F-42F8-AEAC-877C3E726F80}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="Interference2024_Check_Mask" ID="{ED9BBDDF-CF4F-42F8-AEAC-877C3E726F80}" FileName="Regions\Interference2024_Check_Mask.png" Update="False" />
+		</child>
+		<child name="PartsProfile2024_Check" key="{7BCE3D37-FE66-49FC-8E2C-87EEFE4661D7}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PartsProfile2024_Check" ID="{7BCE3D37-FE66-49FC-8E2C-87EEFE4661D7}" FileName="Regions\PartsProfile2024_Check.png" Update="False" />
+		</child>
+		<child name="PartsProfile2024_Check_Mask" key="{C7355E6A-FE77-47E7-84FA-48BBA0E91EDD}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PartsProfile2024_Check_Mask" ID="{C7355E6A-FE77-47E7-84FA-48BBA0E91EDD}" FileName="Regions\PartsProfile2024_Check_Mask.png" Update="False" />
+		</child>
+		<child name="PartsProfile_Check_DLNewPart_Mask" key="{EA910135-51C3-4E9B-8DAE-C25F30D1D149}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PartsProfile_Check_DLNewPart_Mask" ID="{EA910135-51C3-4E9B-8DAE-C25F30D1D149}" FileName="Regions\PartsProfile_Check_DLNewPart_Mask.png" Update="False" />
+		</child>
+		<child name="PartPicker_DLDialog_Check" key="{55072093-A6E5-4750-85B9-540A2D2FDCAB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PartPicker_DLDialog_Check" ID="{55072093-A6E5-4750-85B9-540A2D2FDCAB}" FileName="Regions\PartPicker_DLDialog_Check.png" Update="False" />
+		</child>
+		<child name="PartPicker_DLDialog_Check_Mask" key="{C79DFAC1-A31E-4CCC-965C-4D5CC2059D92}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="PartPicker_DLDialog_Check_Mask" ID="{C79DFAC1-A31E-4CCC-965C-4D5CC2059D92}" FileName="Regions\PartPicker_DLDialog_Check_Mask.png" Update="False" />
+		</child>
+		<child name="IterferenceProperties_Check" key="{AF64B48A-70D7-4CF8-A177-2B98176919B3}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="IterferenceProperties_Check" ID="{AF64B48A-70D7-4CF8-A177-2B98176919B3}" FileName="Regions\IterferenceProperties_Check.png" Update="False" />
+		</child>
+		<child name="IterferenceProperties_Check_Mask" key="{5DF6A64A-A254-454D-989B-F4EBDCE5EAE8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="IterferenceProperties_Check_Mask" ID="{5DF6A64A-A254-454D-989B-F4EBDCE5EAE8}" FileName="Regions\IterferenceProperties_Check_Mask.png" Update="False" />
+		</child>
 	</children>
 </Root>

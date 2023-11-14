@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{2D89293F-6B07-4679-9906-EFAE4B1A433C}" version="15.0">
+	<children>
+		<child name="JobNumberExistsDialog_2024" key="{132071AB-4F49-4889-9ED4-C9639CB08EBB}" path="JobNumberExistsDialog_2024.tcLLP" />
+		<child name="DeleteJobWarning_2024" key="{8F27304C-9F86-4AC2-AA0F-F89F8D2877EA}" path="DeleteJobWarning_2024.tcLLP" />
+		<child name="DeleteDesigner_2024" key="{BF9A1524-D443-4E1E-B07A-4FC7DE448F69}" path="DeleteDesigner_2024.tcLLP" />
+	</children>
+</Root>
